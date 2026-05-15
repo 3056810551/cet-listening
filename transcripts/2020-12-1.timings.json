@@ -1,22 +1,22 @@
 {
   "version": 2,
-  "audio": "2020年12月六级听力第1套.mp3",
+  "audio": "2022.12六级真题第1套听力.mp3",
   "markdown": "2020-12-1.md",
-  "duration": 1540.507,
+  "duration": 1635.631,
   "source": {
     "markdown": {
       "name": "2020-12-1.md",
-      "size": 15506,
-      "mtimeNs": 1778850817506552700
+      "size": 15486,
+      "mtimeNs": 1778853744245278400
     },
     "audio": {
-      "name": "2020年12月六级听力第1套.mp3",
-      "size": 12324716,
-      "mtimeNs": 1778850589832294400
+      "name": "2022.12六级真题第1套听力.mp3",
+      "size": 19911175,
+      "mtimeNs": 1778847302144878500
     }
   },
-  "generatedAt": 1778851290,
-  "elapsedSeconds": 250.69,
+  "generatedAt": 1778853985,
+  "elapsedSeconds": 234.24,
   "mode": "faster-whisper",
   "model": "small.en",
   "device": "cpu",
@@ -25,9 +25,9 @@
   "transcription": {
     "language": "en",
     "languageProbability": 1.0,
-    "duration": 1540.507,
-    "segmentCount": 213,
-    "wordCount": 2944
+    "duration": 1635.637,
+    "segmentCount": 258,
+    "wordCount": 2979
   },
   "cached": false,
   "sections": [
@@ -72,265 +72,265 @@
       "id": "line-0",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
-      "text": "Paul: Good morning, Safehouse Insurance.",
-      "type": "narration",
-      "words": 5,
-      "start": 40.28,
-      "end": 42.78,
-      "matchedWords": 3
+      "speaker": "M:",
+      "text": "Good morning, Safehouse Insurance.",
+      "type": "dialogue",
+      "words": 4,
+      "start": 0.0,
+      "end": 0.132,
+      "matchedWords": 0
     },
     {
       "id": "line-1",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
+      "speaker": "M:",
       "text": "My name is Paul.",
-      "type": "narration",
+      "type": "dialogue",
       "words": 4,
-      "start": 42.78,
-      "end": 43.98,
-      "matchedWords": 4
+      "start": 0.132,
+      "end": 0.264,
+      "matchedWords": 0
     },
     {
       "id": "line-2",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
+      "speaker": "M:",
       "text": "How can I help you today?",
-      "type": "narration",
+      "type": "dialogue",
       "words": 6,
-      "start": 43.98,
-      "end": 45.26,
-      "matchedWords": 6
+      "start": 0.264,
+      "end": 0.462,
+      "matchedWords": 0
     },
     {
       "id": "line-3",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
-      "text": "May: Morning.",
-      "type": "narration",
-      "words": 2,
-      "start": 45.26,
-      "end": 46.84,
-      "matchedWords": 1
+      "speaker": "W:",
+      "text": "Morning.",
+      "type": "dialogue",
+      "words": 1,
+      "start": 0.462,
+      "end": 0.593,
+      "matchedWords": 0
     },
     {
       "id": "line-4",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
+      "speaker": "W:",
       "text": "I wouldn’t say that it’s good from where I’m standing.",
-      "type": "narration",
+      "type": "dialogue",
       "words": 13,
-      "start": 46.84,
-      "end": 50.42,
-      "matchedWords": 8
+      "start": 0.593,
+      "end": 1.022,
+      "matchedWords": 0
     },
     {
       "id": "line-5",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
+      "speaker": "W:",
       "text": "This is Miss Wilson and this is the third time I’ve called this week since receiving your letter about our insurance claim.",
-      "type": "narration",
+      "type": "dialogue",
       "words": 23,
-      "start": 50.42,
-      "end": 58.38,
-      "matchedWords": 21
+      "start": 1.022,
+      "end": 1.78,
+      "matchedWords": 0
     },
     {
       "id": "line-6",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
+      "speaker": "W:",
       "text": "I’m getting a little fed up with my calls about my claim being completely disregarded.",
-      "type": "narration",
+      "type": "dialogue",
       "words": 16,
-      "start": 58.38,
-      "end": 64.14,
-      "matchedWords": 14
+      "start": 1.78,
+      "end": 2.308,
+      "matchedWords": 0
     },
     {
       "id": "line-7",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
-      "text": "Paul: Miss Wilson, thank you for calling back.",
-      "type": "narration",
-      "words": 8,
-      "start": 64.14,
-      "end": 66.88,
-      "matchedWords": 7
+      "speaker": "M:",
+      "text": "Miss Wilson, thank you for calling back.",
+      "type": "dialogue",
+      "words": 7,
+      "start": 2.308,
+      "end": 2.538,
+      "matchedWords": 0
     },
     {
       "id": "line-8",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
+      "speaker": "M:",
       "text": "Can I take some details to help me look at your claim?",
-      "type": "narration",
+      "type": "dialogue",
       "words": 12,
-      "start": 66.88,
-      "end": 70.84,
-      "matchedWords": 12
+      "start": 2.538,
+      "end": 2.934,
+      "matchedWords": 0
     },
     {
       "id": "line-9",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
-      "text": "May: It’s Miss May Wilson of 15 South Sea Road in Cornwall.",
-      "type": "narration",
-      "words": 13,
-      "start": 70.84,
-      "end": 75.66,
-      "matchedWords": 8
+      "speaker": "W:",
+      "text": "It’s Miss May Wilson of 15 South Sea Road in Cornwall.",
+      "type": "dialogue",
+      "words": 12,
+      "start": 2.934,
+      "end": 3.33,
+      "matchedWords": 0
     },
     {
       "id": "line-10",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
+      "speaker": "W:",
       "text": "And the details are that our village was extensively flooded 2 months ago.",
-      "type": "narration",
+      "type": "dialogue",
       "words": 13,
-      "start": 75.66,
-      "end": 80.46,
-      "matchedWords": 12
+      "start": 3.33,
+      "end": 3.758,
+      "matchedWords": 0
     },
     {
       "id": "line-11",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
+      "speaker": "W:",
       "text": "The entire ground floor of our cottage was submerged in water and five of us have been living in a caravan ever since.",
-      "type": "narration",
+      "type": "dialogue",
       "words": 23,
-      "start": 80.46,
-      "end": 88.8,
-      "matchedWords": 23
+      "start": 3.758,
+      "end": 4.516,
+      "matchedWords": 0
     },
     {
       "id": "line-12",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
+      "speaker": "W:",
       "text": "You people are still withholding the money we are entitled to over a bizarre technical detail.",
-      "type": "narration",
+      "type": "dialogue",
       "words": 16,
-      "start": 88.8,
-      "end": 94.58,
-      "matchedWords": 16
+      "start": 4.516,
+      "end": 5.044,
+      "matchedWords": 0
     },
     {
       "id": "line-13",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
+      "speaker": "W:",
       "text": "And it’s not acceptable, Paul!",
-      "type": "narration",
+      "type": "dialogue",
       "words": 6,
-      "start": 94.58,
-      "end": 96.18,
-      "matchedWords": 3
+      "start": 5.044,
+      "end": 5.242,
+      "matchedWords": 0
     },
     {
       "id": "line-14",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
-      "text": "Paul: Miss Wilson, according to the notes on your account, the bizarre technical detail that you mentioned refers to the fact that you hadn’t paid house insurance the month before the incident.",
-      "type": "narration",
-      "words": 33,
-      "start": 96.18,
-      "end": 110.18,
-      "matchedWords": 31
+      "speaker": "M:",
+      "text": "Miss Wilson, according to the notes on your account, the bizarre technical detail that you mentioned refers to the fact that you hadn’t paid house insurance the month before the incident.",
+      "type": "dialogue",
+      "words": 32,
+      "start": 5.242,
+      "end": 6.296,
+      "matchedWords": 0
     },
     {
       "id": "line-15",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
-      "text": "May: That money left our account, and now that you should be paying now, you’re suddenly saying that you didn’t receive it on time.",
-      "type": "narration",
-      "words": 26,
-      "start": 110.18,
-      "end": 118.18,
-      "matchedWords": 21
+      "speaker": "W:",
+      "text": "That money left our account, and now that you should be paying now, you’re suddenly saying that you didn’t receive it on time.",
+      "type": "dialogue",
+      "words": 25,
+      "start": 6.296,
+      "end": 7.121,
+      "matchedWords": 0
     },
     {
       "id": "line-16",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
+      "speaker": "W:",
       "text": "I’m really skeptical about this claim.",
-      "type": "narration",
+      "type": "dialogue",
       "words": 7,
-      "start": 118.18,
-      "end": 120.18,
-      "matchedWords": 4
+      "start": 7.121,
+      "end": 7.351,
+      "matchedWords": 0
     },
     {
       "id": "line-17",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
-      "text": "Paul: The contract does say that any missed payment in a year will affect the terms and conditions of the insurance contract and may affect claims.",
-      "type": "narration",
-      "words": 26,
-      "start": 120.18,
-      "end": 130.64,
-      "matchedWords": 25
+      "speaker": "M:",
+      "text": "The contract does say that any missed payment in a year will affect the terms and conditions of the insurance contract and may affect claims.",
+      "type": "dialogue",
+      "words": 25,
+      "start": 7.351,
+      "end": 8.175,
+      "matchedWords": 0
     },
     {
       "id": "line-18",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
+      "speaker": "M:",
       "text": "Of course, I can pass you on to my manager to talk to you more about this.",
-      "type": "narration",
+      "type": "dialogue",
       "words": 17,
-      "start": 130.64,
-      "end": 136.08,
-      "matchedWords": 17
+      "start": 8.175,
+      "end": 8.736,
+      "matchedWords": 0
     },
     {
       "id": "line-19",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
-      "text": "May: I’ve already spoken to him and you can tell him I’m furious now and that your company has a lawsuit on its hands.",
-      "type": "narration",
-      "words": 26,
-      "start": 136.08,
-      "end": 143.3,
-      "matchedWords": 21
+      "speaker": "W:",
+      "text": "I’ve already spoken to him and you can tell him I’m furious now and that your company has a lawsuit on its hands.",
+      "type": "dialogue",
+      "words": 25,
+      "start": 8.736,
+      "end": 9.56,
+      "matchedWords": 0
     },
     {
       "id": "line-20",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
+      "speaker": "W:",
       "text": "You will be hearing from my lawyer.",
-      "type": "narration",
+      "type": "dialogue",
       "words": 7,
-      "start": 143.3,
-      "end": 145.46,
-      "matchedWords": 7
+      "start": 9.56,
+      "end": 9.819,
+      "matchedWords": 2
     },
     {
       "id": "line-21",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "",
+      "speaker": "W:",
       "text": "Goodbye.",
-      "type": "narration",
+      "type": "dialogue",
       "words": 1,
-      "start": 145.46,
-      "end": 153.82,
-      "matchedWords": 1
+      "start": 9.819,
+      "end": 9.967,
+      "matchedWords": 0
     },
     {
       "id": "line-22",
@@ -340,9 +340,9 @@
       "text": "What is the woman complaining about?",
       "type": "question",
       "words": 6,
-      "start": 153.82,
-      "end": 170.62,
-      "matchedWords": 6
+      "start": 9.967,
+      "end": 10.521,
+      "matchedWords": 0
     },
     {
       "id": "line-23",
@@ -352,9 +352,9 @@
       "text": "What is the problem the woman’s family encountered?",
       "type": "question",
       "words": 9,
-      "start": 170.62,
-      "end": 188.88,
-      "matchedWords": 7
+      "start": 10.521,
+      "end": 11.187,
+      "matchedWords": 0
     },
     {
       "id": "line-24",
@@ -364,9 +364,9 @@
       "text": "What has caused the so-called “bizarre technical detail” according to the man?",
       "type": "question",
       "words": 13,
-      "start": 188.88,
-      "end": 209.34,
-      "matchedWords": 12
+      "start": 11.187,
+      "end": 12.0,
+      "matchedWords": 0
     },
     {
       "id": "line-25",
@@ -376,9 +376,9 @@
       "text": "What did the woman say she would do at the end of the conversation?",
       "type": "question",
       "words": 14,
-      "start": 209.34,
-      "end": 228.62,
-      "matchedWords": 12
+      "start": 12.0,
+      "end": 316.6,
+      "matchedWords": 6
     },
     {
       "id": "line-26",
@@ -388,9 +388,9 @@
       "text": "How do you feel about the future of artificial intelligence?",
       "type": "dialogue",
       "words": 10,
-      "start": 228.62,
-      "end": 231.44,
-      "matchedWords": 10
+      "start": 316.6,
+      "end": 343.295,
+      "matchedWords": 6
     },
     {
       "id": "line-27",
@@ -400,9 +400,9 @@
       "text": "Personally, I feel quite optimistic about it.",
       "type": "dialogue",
       "words": 7,
-      "start": 231.44,
-      "end": 235.38,
-      "matchedWords": 7
+      "start": 343.295,
+      "end": 361.981,
+      "matchedWords": 0
     },
     {
       "id": "line-28",
@@ -412,9 +412,9 @@
       "text": "AI?",
       "type": "dialogue",
       "words": 1,
-      "start": 235.38,
-      "end": 236.92,
-      "matchedWords": 1
+      "start": 361.981,
+      "end": 372.659,
+      "matchedWords": 0
     },
     {
       "id": "line-29",
@@ -424,9 +424,9 @@
       "text": "I’m not so optimistic, actually.",
       "type": "dialogue",
       "words": 6,
-      "start": 236.92,
-      "end": 239.08,
-      "matchedWords": 4
+      "start": 372.659,
+      "end": 388.676,
+      "matchedWords": 0
     },
     {
       "id": "line-30",
@@ -436,9 +436,9 @@
       "text": "In fact, it’s something we should be concerned about.",
       "type": "dialogue",
       "words": 10,
-      "start": 239.08,
-      "end": 242.68,
-      "matchedWords": 8
+      "start": 388.676,
+      "end": 415.371,
+      "matchedWords": 0
     },
     {
       "id": "line-31",
@@ -448,9 +448,9 @@
       "text": "Well, it will help us humans understand ourselves better.",
       "type": "dialogue",
       "words": 9,
-      "start": 242.68,
-      "end": 246.48,
-      "matchedWords": 9
+      "start": 415.371,
+      "end": 439.396,
+      "matchedWords": 0
     },
     {
       "id": "line-32",
@@ -460,9 +460,9 @@
       "text": "And, when we have a better understanding of ourselves, we can improve the world.",
       "type": "dialogue",
       "words": 14,
-      "start": 246.48,
-      "end": 251.32,
-      "matchedWords": 14
+      "start": 439.396,
+      "end": 476.768,
+      "matchedWords": 0
     },
     {
       "id": "line-33",
@@ -472,9 +472,9 @@
       "text": "Well, one thing is for sure: Technology is evolving faster than our ability to understand it.",
       "type": "dialogue",
       "words": 16,
-      "start": 251.32,
-      "end": 257.2,
-      "matchedWords": 16
+      "start": 476.768,
+      "end": 519.48,
+      "matchedWords": 0
     },
     {
       "id": "line-34",
@@ -484,9 +484,9 @@
       "text": "And in the future, AI will make jobs kind of pointless.",
       "type": "dialogue",
       "words": 11,
-      "start": 257.2,
-      "end": 260.28,
-      "matchedWords": 11
+      "start": 519.48,
+      "end": 605.18,
+      "matchedWords": 5
     },
     {
       "id": "line-35",
@@ -496,9 +496,9 @@
       "text": "I think artificial intelligence will actually help create new kinds of jobs which would require less of our time and allow us to be centered on creative tasks.",
       "type": "dialogue",
       "words": 28,
-      "start": 260.28,
-      "end": 271.02,
-      "matchedWords": 28
+      "start": 605.18,
+      "end": 823.325,
+      "matchedWords": 0
     },
     {
       "id": "line-36",
@@ -508,9 +508,9 @@
       "text": "I doubt that very much.",
       "type": "dialogue",
       "words": 5,
-      "start": 271.02,
-      "end": 272.92,
-      "matchedWords": 5
+      "start": 823.325,
+      "end": 862.28,
+      "matchedWords": 0
     },
     {
       "id": "line-37",
@@ -520,9 +520,9 @@
       "text": "Probably the last job that will remain will be writing AI software.",
       "type": "dialogue",
       "words": 12,
-      "start": 272.92,
-      "end": 276.9,
-      "matchedWords": 12
+      "start": 862.28,
+      "end": 872.18,
+      "matchedWords": 3
     },
     {
       "id": "line-38",
@@ -532,9 +532,9 @@
       "text": "And then eventually, AI will just write its own software.",
       "type": "dialogue",
       "words": 10,
-      "start": 276.9,
-      "end": 280.62,
-      "matchedWords": 10
+      "start": 872.18,
+      "end": 1008.24,
+      "matchedWords": 3
     },
     {
       "id": "line-39",
@@ -544,9 +544,9 @@
       "text": "At that time, we’re going to have a lot of jobs which nobody would want to do, so we’ll need artificial intelligence for the robots to take care of the old guys like us.",
       "type": "dialogue",
       "words": 36,
-      "start": 280.62,
-      "end": 291.44,
-      "matchedWords": 32
+      "start": 1008.24,
+      "end": 1139.406,
+      "matchedWords": 10
     },
     {
       "id": "line-40",
@@ -556,9 +556,9 @@
       "text": "I don’t know.",
       "type": "dialogue",
       "words": 4,
-      "start": 291.44,
-      "end": 292.58,
-      "matchedWords": 2
+      "start": 1139.406,
+      "end": 1153.98,
+      "matchedWords": 0
     },
     {
       "id": "line-41",
@@ -568,9 +568,9 @@
       "text": "There’s a risk that human civilization could be replaced by a superior type of digital life.",
       "type": "dialogue",
       "words": 17,
-      "start": 292.58,
-      "end": 298.28,
-      "matchedWords": 15
+      "start": 1153.98,
+      "end": 1215.92,
+      "matchedWords": 0
     },
     {
       "id": "line-42",
@@ -580,9 +580,9 @@
       "text": "AI will be able to completely simulate a person in every way possible.",
       "type": "dialogue",
       "words": 13,
-      "start": 298.28,
-      "end": 303.1,
-      "matchedWords": 13
+      "start": 1215.92,
+      "end": 1247.927,
+      "matchedWords": 5
     },
     {
       "id": "line-43",
@@ -592,9 +592,9 @@
       "text": "In fact, some people think we’re in the simulation, right now.",
       "type": "dialogue",
       "words": 12,
-      "start": 303.1,
-      "end": 307.24,
-      "matchedWords": 9
+      "start": 1247.927,
+      "end": 1277.472,
+      "matchedWords": 0
     },
     {
       "id": "line-44",
@@ -604,9 +604,9 @@
       "text": "That’s impossible.",
       "type": "dialogue",
       "words": 3,
-      "start": 307.24,
-      "end": 308.46,
-      "matchedWords": 1
+      "start": 1277.472,
+      "end": 1287.32,
+      "matchedWords": 0
     },
     {
       "id": "line-45",
@@ -616,9 +616,9 @@
       "text": "Humans can’t even make a mosquito.",
       "type": "dialogue",
       "words": 7,
-      "start": 308.46,
-      "end": 311.24,
-      "matchedWords": 5
+      "start": 1287.32,
+      "end": 1306.7,
+      "matchedWords": 2
     },
     {
       "id": "line-46",
@@ -628,9 +628,9 @@
       "text": "Computers only have chips.",
       "type": "dialogue",
       "words": 4,
-      "start": 311.24,
-      "end": 313.32,
-      "matchedWords": 4
+      "start": 1306.7,
+      "end": 1312.325,
+      "matchedWords": 1
     },
     {
       "id": "line-47",
@@ -640,9 +640,9 @@
       "text": "People have brains and that’s where the wisdom comes from.",
       "type": "dialogue",
       "words": 11,
-      "start": 313.32,
-      "end": 317.2,
-      "matchedWords": 9
+      "start": 1312.325,
+      "end": 1327.795,
+      "matchedWords": 0
     },
     {
       "id": "line-48",
@@ -652,9 +652,9 @@
       "text": "Once it’s fully developed, AI will become tired of trying to communicate with humans.",
       "type": "dialogue",
       "words": 15,
-      "start": 317.2,
-      "end": 321.9,
-      "matchedWords": 13
+      "start": 1327.795,
+      "end": 1348.891,
+      "matchedWords": 0
     },
     {
       "id": "line-49",
@@ -664,9 +664,9 @@
       "text": "As we would be much slower thinkers in comparison.",
       "type": "dialogue",
       "words": 9,
-      "start": 321.9,
-      "end": 325.9,
-      "matchedWords": 9
+      "start": 1348.891,
+      "end": 1361.548,
+      "matchedWords": 0
     },
     {
       "id": "line-50",
@@ -676,9 +676,9 @@
       "text": "I’m not so sure.",
       "type": "dialogue",
       "words": 5,
-      "start": 325.9,
-      "end": 327.12,
-      "matchedWords": 3
+      "start": 1361.548,
+      "end": 1368.58,
+      "matchedWords": 0
     },
     {
       "id": "line-51",
@@ -688,9 +688,9 @@
       "text": "A computer is a computer and a computer is just a toy.",
       "type": "dialogue",
       "words": 12,
-      "start": 327.12,
-      "end": 331.48,
-      "matchedWords": 12
+      "start": 1368.58,
+      "end": 1417.639,
+      "matchedWords": 7
     },
     {
       "id": "line-52",
@@ -700,9 +700,9 @@
       "text": "Computers can easily communicate incredibly fast, so the computer will just get impatient talking to humans.",
       "type": "dialogue",
       "words": 16,
-      "start": 331.48,
-      "end": 339.06,
-      "matchedWords": 16
+      "start": 1417.639,
+      "end": 1483.05,
+      "matchedWords": 0
     },
     {
       "id": "line-53",
@@ -712,9 +712,9 @@
       "text": "It will be barely getting any information out.",
       "type": "dialogue",
       "words": 8,
-      "start": 339.06,
-      "end": 342.1,
-      "matchedWords": 6
+      "start": 1483.05,
+      "end": 1515.756,
+      "matchedWords": 0
     },
     {
       "id": "line-54",
@@ -724,9 +724,9 @@
       "text": "Well, I believe there’s a benevolent future with AI.",
       "type": "dialogue",
       "words": 10,
-      "start": 342.1,
-      "end": 345.7,
-      "matchedWords": 8
+      "start": 1515.756,
+      "end": 1556.638,
+      "matchedWords": 0
     },
     {
       "id": "line-55",
@@ -736,9 +736,9 @@
       "text": "I also think you watch too many science fiction films.",
       "type": "dialogue",
       "words": 10,
-      "start": 345.7,
-      "end": 356.22,
-      "matchedWords": 10
+      "start": 1556.638,
+      "end": 1597.52,
+      "matchedWords": 0
     },
     {
       "id": "line-56",
@@ -748,9 +748,9 @@
       "text": "What do we learn about the speakers from the conversation?",
       "type": "question",
       "words": 10,
-      "start": 356.22,
-      "end": 374.42,
-      "matchedWords": 10
+      "start": 1597.52,
+      "end": 1598.03,
+      "matchedWords": 7
     },
     {
       "id": "line-57",
@@ -760,9 +760,9 @@
       "text": "What will new kinds of jobs be like, according to the woman?",
       "type": "question",
       "words": 12,
-      "start": 374.42,
-      "end": 392.94,
-      "matchedWords": 12
+      "start": 1598.03,
+      "end": 1598.593,
+      "matchedWords": 0
     },
     {
       "id": "line-58",
@@ -772,9 +772,9 @@
       "text": "What is the risk the man anticipates?",
       "type": "question",
       "words": 7,
-      "start": 392.94,
-      "end": 410.52,
-      "matchedWords": 7
+      "start": 1598.593,
+      "end": 1599.022,
+      "matchedWords": 0
     },
     {
       "id": "line-59",
@@ -784,9 +784,9 @@
       "text": "What is the man’s concern about AI technology?",
       "type": "question",
       "words": 9,
-      "start": 410.52,
-      "end": 457.24,
-      "matchedWords": 7
+      "start": 1599.022,
+      "end": 1599.505,
+      "matchedWords": 0
     },
     {
       "id": "line-60",
@@ -796,9 +796,9 @@
       "text": "To achieve financial security, how much you save is always more important than the amount you earn or how shrewdly you invest.",
       "type": "narration",
       "words": 22,
-      "start": 457.24,
-      "end": 466.16,
-      "matchedWords": 22
+      "start": 1599.505,
+      "end": 1600.096,
+      "matchedWords": 0
     },
     {
       "id": "line-61",
@@ -808,9 +808,9 @@
       "text": "If you are under 30 years old, your goal should be to save 20% of your monthly income after tax deductions.",
       "type": "narration",
       "words": 21,
-      "start": 466.16,
-      "end": 473.3,
-      "matchedWords": 19
+      "start": 1600.096,
+      "end": 1600.659,
+      "matchedWords": 0
     },
     {
       "id": "line-62",
@@ -820,9 +820,9 @@
       "text": "This is irrespective of how much you earn.",
       "type": "narration",
       "words": 8,
-      "start": 473.3,
-      "end": 478.78,
-      "matchedWords": 8
+      "start": 1600.659,
+      "end": 1600.874,
+      "matchedWords": 0
     },
     {
       "id": "line-63",
@@ -832,9 +832,9 @@
       "text": "Approximately 50% should be reserved for the essentials like food and accommodation.",
       "type": "narration",
       "words": 12,
-      "start": 478.78,
-      "end": 483.98,
-      "matchedWords": 11
+      "start": 1600.874,
+      "end": 1601.196,
+      "matchedWords": 0
     },
     {
       "id": "line-64",
@@ -844,9 +844,9 @@
       "text": "The remaining 30% is for recreation and entertainment.",
       "type": "narration",
       "words": 8,
-      "start": 483.98,
-      "end": 488.78,
-      "matchedWords": 8
+      "start": 1601.196,
+      "end": 1601.41,
+      "matchedWords": 0
     },
     {
       "id": "line-65",
@@ -856,9 +856,9 @@
       "text": "But for many young people, it’ll be difficult to designate such a large proportion of their income for savings.",
       "type": "narration",
       "words": 20,
-      "start": 488.78,
-      "end": 496.0,
-      "matchedWords": 19
+      "start": 1601.41,
+      "end": 1601.947,
+      "matchedWords": 0
     },
     {
       "id": "line-66",
@@ -868,9 +868,9 @@
       "text": "If you find it hard to save any money at all, start by cutting all unnecessary spending, allocate a tiny amount of 1 or 2 percent for savings, and gradually increase that amount.",
       "type": "narration",
       "words": 33,
-      "start": 496.0,
-      "end": 510.66,
-      "matchedWords": 32
+      "start": 1601.947,
+      "end": 1602.832,
+      "matchedWords": 0
     },
     {
       "id": "line-67",
@@ -880,9 +880,9 @@
       "text": "Always keep that 20% goal in mind to prevent yourself from becoming complacent.",
       "type": "narration",
       "words": 13,
-      "start": 510.66,
-      "end": 516.7,
-      "matchedWords": 13
+      "start": 1602.832,
+      "end": 1603.181,
+      "matchedWords": 0
     },
     {
       "id": "line-68",
@@ -892,9 +892,9 @@
       "text": "It can be challenging to stick to such a strict plan.",
       "type": "narration",
       "words": 11,
-      "start": 516.7,
-      "end": 520.44,
-      "matchedWords": 11
+      "start": 1603.181,
+      "end": 1603.476,
+      "matchedWords": 0
     },
     {
       "id": "line-69",
@@ -904,9 +904,9 @@
       "text": "But if you adopt the right mindset, you should be able to make it work for you.",
       "type": "narration",
       "words": 17,
-      "start": 520.44,
-      "end": 525.44,
-      "matchedWords": 17
+      "start": 1603.476,
+      "end": 1603.932,
+      "matchedWords": 0
     },
     {
       "id": "line-70",
@@ -916,9 +916,9 @@
       "text": "So, what should you be doing with the money that you’re saving?",
       "type": "narration",
       "words": 13,
-      "start": 525.44,
-      "end": 528.42,
-      "matchedWords": 12
+      "start": 1603.932,
+      "end": 1604.281,
+      "matchedWords": 0
     },
     {
       "id": "line-71",
@@ -928,9 +928,9 @@
       "text": "Some must be kept easily accessible in case you need some cash in an emergency.",
       "type": "narration",
       "words": 15,
-      "start": 528.42,
-      "end": 534.54,
-      "matchedWords": 15
+      "start": 1604.281,
+      "end": 1604.683,
+      "matchedWords": 0
     },
     {
       "id": "line-72",
@@ -940,9 +940,9 @@
       "text": "The largest proportion should be invested in retirement plans, either through your employer or privately.",
       "type": "narration",
       "words": 15,
-      "start": 534.54,
-      "end": 541.28,
-      "matchedWords": 15
+      "start": 1604.683,
+      "end": 1605.086,
+      "matchedWords": 0
     },
     {
       "id": "line-73",
@@ -952,9 +952,9 @@
       "text": "And you can keep some money for high-risk but potentially lucrative investments.",
       "type": "narration",
       "words": 13,
-      "start": 541.28,
-      "end": 547.08,
-      "matchedWords": 13
+      "start": 1605.086,
+      "end": 1605.434,
+      "matchedWords": 0
     },
     {
       "id": "line-74",
@@ -964,9 +964,9 @@
       "text": "Dividends can be reinvested or used to purchase something you like.",
       "type": "narration",
       "words": 11,
-      "start": 547.08,
-      "end": 551.74,
-      "matchedWords": 11
+      "start": 1605.434,
+      "end": 1605.73,
+      "matchedWords": 0
     },
     {
       "id": "line-75",
@@ -976,9 +976,9 @@
       "text": "By following this plan, you should hopefully be able to enjoy your life now, and still be financially secure in the future.",
       "type": "narration",
       "words": 22,
-      "start": 551.74,
-      "end": 565.62,
-      "matchedWords": 22
+      "start": 1605.73,
+      "end": 1606.32,
+      "matchedWords": 0
     },
     {
       "id": "line-76",
@@ -988,9 +988,9 @@
       "text": "What are people under 30 advised to do to achieve financial security?",
       "type": "question",
       "words": 12,
-      "start": 565.62,
-      "end": 586.28,
-      "matchedWords": 12
+      "start": 1606.32,
+      "end": 1606.883,
+      "matchedWords": 0
     },
     {
       "id": "line-77",
@@ -1000,9 +1000,9 @@
       "text": "What should people do if they find it difficult to follow the speaker’s advice on their financial plan?",
       "type": "question",
       "words": 19,
-      "start": 586.28,
-      "end": 606.84,
-      "matchedWords": 17
+      "start": 1606.883,
+      "end": 1607.634,
+      "matchedWords": 0
     },
     {
       "id": "line-78",
@@ -1012,9 +1012,9 @@
       "text": "What does the speaker think is important for achieving financial security?",
       "type": "question",
       "words": 11,
-      "start": 606.84,
-      "end": 623.92,
-      "matchedWords": 11
+      "start": 1607.634,
+      "end": 1608.171,
+      "matchedWords": 0
     },
     {
       "id": "line-79",
@@ -1024,9 +1024,9 @@
       "text": "I work in advertising and I like to keep up with current trends, mainly because I’m aware that we live in an image-obsessed world.",
       "type": "narration",
       "words": 26,
-      "start": 623.92,
-      "end": 635.02,
-      "matchedWords": 24
+      "start": 1608.171,
+      "end": 1608.868,
+      "matchedWords": 0
     },
     {
       "id": "line-80",
@@ -1036,9 +1036,9 @@
       "text": "However, when I first started my job, occasionally I’d catch a glimpse of myself in the lifts, and find myself thinking that I looked a total mess.",
       "type": "narration",
       "words": 28,
-      "start": 635.02,
-      "end": 644.56,
-      "matchedWords": 26
+      "start": 1608.868,
+      "end": 1609.62,
+      "matchedWords": 0
     },
     {
       "id": "line-81",
@@ -1048,9 +1048,9 @@
       "text": "Was I being held back by my choice of clothing?",
       "type": "narration",
       "words": 10,
-      "start": 644.56,
-      "end": 647.96,
-      "matchedWords": 10
+      "start": 1609.62,
+      "end": 1609.888,
+      "matchedWords": 0
     },
     {
       "id": "line-82",
@@ -1060,9 +1060,9 @@
       "text": "The short answer is yes, especially when clients are quick to judge you on your style rather than your work.",
       "type": "narration",
       "words": 20,
-      "start": 647.96,
-      "end": 654.76,
-      "matchedWords": 20
+      "start": 1609.888,
+      "end": 1610.425,
+      "matchedWords": 0
     },
     {
       "id": "line-83",
@@ -1072,9 +1072,9 @@
       "text": "But no one can be unique with their outfit every day.",
       "type": "narration",
       "words": 11,
-      "start": 654.76,
-      "end": 658.04,
-      "matchedWords": 11
+      "start": 1610.425,
+      "end": 1610.72,
+      "matchedWords": 0
     },
     {
       "id": "line-84",
@@ -1084,9 +1084,9 @@
       "text": "I mean that’s why uniforms were invented.",
       "type": "narration",
       "words": 8,
-      "start": 658.04,
-      "end": 661.24,
-      "matchedWords": 6
+      "start": 1610.72,
+      "end": 1610.934,
+      "matchedWords": 0
     },
     {
       "id": "line-85",
@@ -1096,9 +1096,9 @@
       "text": "So, here’s what I did.",
       "type": "narration",
       "words": 6,
-      "start": 661.24,
-      "end": 663.34,
-      "matchedWords": 4
+      "start": 1610.934,
+      "end": 1611.095,
+      "matchedWords": 0
     },
     {
       "id": "line-86",
@@ -1108,9 +1108,9 @@
       "text": "I created my own uniform.",
       "type": "narration",
       "words": 5,
-      "start": 663.34,
-      "end": 666.26,
-      "matchedWords": 5
+      "start": 1611.095,
+      "end": 1611.229,
+      "matchedWords": 0
     },
     {
       "id": "line-87",
@@ -1120,9 +1120,9 @@
       "text": "To do this, I chose an appropriate outfit.",
       "type": "narration",
       "words": 8,
-      "start": 666.26,
-      "end": 668.7,
-      "matchedWords": 8
+      "start": 1611.229,
+      "end": 1611.444,
+      "matchedWords": 0
     },
     {
       "id": "line-88",
@@ -1132,9 +1132,9 @@
       "text": "Then I bought multiple items of the same style in different shades.",
       "type": "narration",
       "words": 12,
-      "start": 668.7,
-      "end": 674.0,
-      "matchedWords": 12
+      "start": 1611.444,
+      "end": 1611.766,
+      "matchedWords": 0
     },
     {
       "id": "line-89",
@@ -1144,9 +1144,9 @@
       "text": "Now, I never worry about what I’m wearing in the morning even if I do get a bit tired of just wearing the same classic pieces.",
       "type": "narration",
       "words": 27,
-      "start": 674.0,
-      "end": 681.98,
-      "matchedWords": 25
+      "start": 1611.766,
+      "end": 1612.49,
+      "matchedWords": 0
     },
     {
       "id": "line-90",
@@ -1156,9 +1156,9 @@
       "text": "Overall, when it comes to work, you have to ask yourself: will looking smarter enhance my ability to do my job?",
       "type": "narration",
       "words": 21,
-      "start": 681.98,
-      "end": 689.28,
-      "matchedWords": 20
+      "start": 1612.49,
+      "end": 1613.054,
+      "matchedWords": 0
     },
     {
       "id": "line-91",
@@ -1168,9 +1168,9 @@
       "text": "For some, this question may not be an issue at all.",
       "type": "narration",
       "words": 11,
-      "start": 689.28,
-      "end": 692.62,
-      "matchedWords": 11
+      "start": 1613.054,
+      "end": 1613.349,
+      "matchedWords": 0
     },
     {
       "id": "line-92",
@@ -1180,9 +1180,9 @@
       "text": "Especially if you work remotely and rarely see your colleagues or clients face to face.",
       "type": "narration",
       "words": 15,
-      "start": 692.62,
-      "end": 697.98,
-      "matchedWords": 15
+      "start": 1613.349,
+      "end": 1613.751,
+      "matchedWords": 0
     },
     {
       "id": "line-93",
@@ -1192,9 +1192,9 @@
       "text": "But if your job involves interacting with other people, the answer to this is often yes.",
       "type": "narration",
       "words": 16,
-      "start": 697.98,
-      "end": 705.12,
-      "matchedWords": 16
+      "start": 1613.751,
+      "end": 1614.181,
+      "matchedWords": 0
     },
     {
       "id": "line-94",
@@ -1204,9 +1204,9 @@
       "text": "So rather than fighting the system, I think we should just do whatever helps us to achieve our goals at work.",
       "type": "narration",
       "words": 21,
-      "start": 705.12,
-      "end": 711.52,
-      "matchedWords": 21
+      "start": 1614.181,
+      "end": 1614.744,
+      "matchedWords": 0
     },
     {
       "id": "line-95",
@@ -1216,9 +1216,9 @@
       "text": "If that means playing it safe with your image, then let’s face it.",
       "type": "narration",
       "words": 14,
-      "start": 711.52,
-      "end": 715.48,
-      "matchedWords": 12
+      "start": 1614.744,
+      "end": 1615.12,
+      "matchedWords": 0
     },
     {
       "id": "line-96",
@@ -1228,9 +1228,9 @@
       "text": "It’s probably worth it.",
       "type": "narration",
       "words": 5,
-      "start": 715.48,
-      "end": 724.24,
-      "matchedWords": 3
+      "start": 1615.12,
+      "end": 1615.254,
+      "matchedWords": 0
     },
     {
       "id": "line-97",
@@ -1240,9 +1240,9 @@
       "text": "What do we learn about the speaker when she first started her job?",
       "type": "question",
       "words": 13,
-      "start": 724.24,
-      "end": 742.9,
-      "matchedWords": 13
+      "start": 1615.254,
+      "end": 1615.844,
+      "matchedWords": 0
     },
     {
       "id": "line-98",
@@ -1252,9 +1252,9 @@
       "text": "Why were uniforms invented according to the speaker?",
       "type": "question",
       "words": 8,
-      "start": 742.9,
-      "end": 761.12,
-      "matchedWords": 8
+      "start": 1615.844,
+      "end": 1616.3,
+      "matchedWords": 0
     },
     {
       "id": "line-99",
@@ -1264,9 +1264,9 @@
       "text": "What does the speaker say about looking smarter?",
       "type": "question",
       "words": 8,
-      "start": 761.12,
-      "end": 779.12,
-      "matchedWords": 8
+      "start": 1616.3,
+      "end": 1616.523,
+      "matchedWords": 6
     },
     {
       "id": "line-100",
@@ -1276,9 +1276,9 @@
       "text": "What does the speaker advise people to do in an image-obsessed world?",
       "type": "question",
       "words": 13,
-      "start": 779.12,
-      "end": 824.16,
-      "matchedWords": 13
+      "start": 1616.523,
+      "end": 1616.811,
+      "matchedWords": 0
     },
     {
       "id": "line-101",
@@ -1288,9 +1288,9 @@
       "text": "Did you know that Americans have approximately three times the amount of space we had 50 years ago?",
       "type": "narration",
       "words": 18,
-      "start": 824.16,
-      "end": 831.24,
-      "matchedWords": 17
+      "start": 1616.811,
+      "end": 1617.047,
+      "matchedWords": 0
     },
     {
       "id": "line-102",
@@ -1300,9 +1300,9 @@
       "text": "Therefore, you'd think we'd have sufficient room for all of our possessions.",
       "type": "narration",
       "words": 12,
-      "start": 831.24,
-      "end": 836.18,
-      "matchedWords": 12
+      "start": 1617.047,
+      "end": 1617.204,
+      "matchedWords": 0
     },
     {
       "id": "line-103",
@@ -1312,9 +1312,9 @@
       "text": "On the contrary, the personal storage business is now a growing industry.",
       "type": "narration",
       "words": 12,
-      "start": 836.18,
-      "end": 841.18,
-      "matchedWords": 12
+      "start": 1617.204,
+      "end": 1617.361,
+      "matchedWords": 0
     },
     {
       "id": "line-104",
@@ -1324,9 +1324,9 @@
       "text": "We've got triple the space, but we've become such enthusiastic consumers that we require even more.",
       "type": "narration",
       "words": 16,
-      "start": 841.18,
-      "end": 849.06,
-      "matchedWords": 16
+      "start": 1617.361,
+      "end": 1617.57,
+      "matchedWords": 0
     },
     {
       "id": "line-105",
@@ -1336,9 +1336,9 @@
       "text": "This phenomenon has resulted in significant credit card debt, enormous environmental footprints, and perhaps not coincidentally, our happiness levels have failed to increase over the same half century.",
       "type": "narration",
       "words": 28,
-      "start": 849.06,
-      "end": 862.9,
-      "matchedWords": 28
+      "start": 1617.57,
+      "end": 1617.937,
+      "matchedWords": 0
     },
     {
       "id": "line-106",
@@ -1348,9 +1348,9 @@
       "text": "I'm here to suggest an alternative – that having less might actually be a preferable decision.",
       "type": "narration",
       "words": 15,
-      "start": 862.9,
-      "end": 869.48,
-      "matchedWords": 15
+      "start": 1617.937,
+      "end": 1618.134,
+      "matchedWords": 0
     },
     {
       "id": "line-107",
@@ -1360,9 +1360,9 @@
       "text": "Many of us have experienced, at some stage, the pleasure of possessing less.",
       "type": "narration",
       "words": 13,
-      "start": 869.48,
-      "end": 873.96,
-      "matchedWords": 13
+      "start": 1618.134,
+      "end": 1618.304,
+      "matchedWords": 0
     },
     {
       "id": "line-108",
@@ -1372,9 +1372,9 @@
       "text": "I propose that less stuff and less space can not only help you economize, but also simplify your life.",
       "type": "narration",
       "words": 19,
-      "start": 873.96,
-      "end": 883.16,
-      "matchedWords": 19
+      "start": 1618.304,
+      "end": 1618.553,
+      "matchedWords": 0
     },
     {
       "id": "line-109",
@@ -1384,9 +1384,9 @@
       "text": "I recently started an innovative project to discover some creative solutions that offered me everything I required.",
       "type": "narration",
       "words": 17,
-      "start": 883.16,
-      "end": 890.94,
-      "matchedWords": 17
+      "start": 1618.553,
+      "end": 1618.775,
+      "matchedWords": 0
     },
     {
       "id": "line-110",
@@ -1396,9 +1396,9 @@
       "text": "By purchasing an apartment that was 40 square meters instead of 60, I admittedly saved $200,000.",
       "type": "narration",
       "words": 17,
-      "start": 890.94,
-      "end": 899.24,
-      "matchedWords": 16
+      "start": 1618.775,
+      "end": 1618.998,
+      "matchedWords": 0
     },
     {
       "id": "line-111",
@@ -1408,9 +1408,9 @@
       "text": "Smaller space leads to reduced utility bills, and also a smaller carbon footprint.",
       "type": "narration",
       "words": 13,
-      "start": 899.24,
-      "end": 906.3,
-      "matchedWords": 13
+      "start": 1618.998,
+      "end": 1619.168,
+      "matchedWords": 0
     },
     {
       "id": "line-112",
@@ -1420,9 +1420,9 @@
       "text": "Because it is designed around an edited collection of possessions, limited to my favorite stuff, I'm really excited to live there.",
       "type": "narration",
       "words": 21,
-      "start": 906.3,
-      "end": 915.0,
-      "matchedWords": 18
+      "start": 1619.168,
+      "end": 1619.443,
+      "matchedWords": 0
     },
     {
       "id": "line-113",
@@ -1432,9 +1432,9 @@
       "text": "How can we live more basically?",
       "type": "narration",
       "words": 6,
-      "start": 915.0,
-      "end": 917.36,
-      "matchedWords": 6
+      "start": 1619.443,
+      "end": 1619.522,
+      "matchedWords": 0
     },
     {
       "id": "line-114",
@@ -1444,9 +1444,9 @@
       "text": "Firstly, we must ruthlessly cut the unnecessary objects out of our lives.",
       "type": "narration",
       "words": 12,
-      "start": 917.36,
-      "end": 922.54,
-      "matchedWords": 12
+      "start": 1619.522,
+      "end": 1619.679,
+      "matchedWords": 0
     },
     {
       "id": "line-115",
@@ -1456,9 +1456,9 @@
       "text": "To stem consumption, we should think before we buy, and ask ourselves: \"Will it truly make me happier?\"",
       "type": "narration",
       "words": 18,
-      "start": 922.54,
-      "end": 930.64,
-      "matchedWords": 18
+      "start": 1619.679,
+      "end": 1619.915,
+      "matchedWords": 0
     },
     {
       "id": "line-116",
@@ -1468,9 +1468,9 @@
       "text": "Obviously, we should possess some great stuff, but we want belongings that we're going to love for years.",
       "type": "narration",
       "words": 18,
-      "start": 930.64,
-      "end": 937.96,
-      "matchedWords": 18
+      "start": 1619.915,
+      "end": 1620.15,
+      "matchedWords": 0
     },
     {
       "id": "line-117",
@@ -1480,9 +1480,9 @@
       "text": "Secondly, we require space efficiency.",
       "type": "narration",
       "words": 5,
-      "start": 937.96,
-      "end": 941.56,
-      "matchedWords": 5
+      "start": 1620.15,
+      "end": 1620.216,
+      "matchedWords": 0
     },
     {
       "id": "line-118",
@@ -1492,9 +1492,9 @@
       "text": "We want appliances that are designed for use most of the time, not for occasional use.",
       "type": "narration",
       "words": 16,
-      "start": 941.56,
-      "end": 946.98,
-      "matchedWords": 16
+      "start": 1620.216,
+      "end": 1620.426,
+      "matchedWords": 0
     },
     {
       "id": "line-119",
@@ -1504,9 +1504,9 @@
       "text": "Why own a six-burner stove when you rarely use even three burners?",
       "type": "narration",
       "words": 13,
-      "start": 946.98,
-      "end": 953.84,
-      "matchedWords": 11
+      "start": 1620.426,
+      "end": 1620.596,
+      "matchedWords": 0
     },
     {
       "id": "line-120",
@@ -1516,9 +1516,9 @@
       "text": "Finally, we need multifunctional spaces and housewares.",
       "type": "narration",
       "words": 7,
-      "start": 953.84,
-      "end": 958.1,
-      "matchedWords": 7
+      "start": 1620.596,
+      "end": 1620.687,
+      "matchedWords": 0
     },
     {
       "id": "line-121",
@@ -1528,9 +1528,9 @@
       "text": "I combined a movable wall with transforming furniture to get more out of my limited space.",
       "type": "narration",
       "words": 16,
-      "start": 958.1,
-      "end": 964.32,
-      "matchedWords": 16
+      "start": 1620.687,
+      "end": 1620.897,
+      "matchedWords": 0
     },
     {
       "id": "line-122",
@@ -1540,9 +1540,9 @@
       "text": "Consider my coffee table.",
       "type": "narration",
       "words": 4,
-      "start": 964.32,
-      "end": 966.04,
-      "matchedWords": 4
+      "start": 1620.897,
+      "end": 1620.949,
+      "matchedWords": 0
     },
     {
       "id": "line-123",
@@ -1552,9 +1552,9 @@
       "text": "It increases in size to accommodate ten.",
       "type": "narration",
       "words": 7,
-      "start": 966.04,
-      "end": 969.3,
-      "matchedWords": 6
+      "start": 1620.949,
+      "end": 1621.041,
+      "matchedWords": 0
     },
     {
       "id": "line-124",
@@ -1564,9 +1564,9 @@
       "text": "My office is tucked away, easily hidden.",
       "type": "narration",
       "words": 7,
-      "start": 969.3,
-      "end": 972.94,
-      "matchedWords": 7
+      "start": 1621.041,
+      "end": 1621.133,
+      "matchedWords": 0
     },
     {
       "id": "line-125",
@@ -1576,9 +1576,9 @@
       "text": "My bed simply pops out of the wall.",
       "type": "narration",
       "words": 8,
-      "start": 972.94,
-      "end": 975.3,
-      "matchedWords": 8
+      "start": 1621.133,
+      "end": 1621.238,
+      "matchedWords": 0
     },
     {
       "id": "line-126",
@@ -1588,9 +1588,9 @@
       "text": "For guests, I can relocate the movable wall and utilize the foldable guest beds I installed.",
       "type": "narration",
       "words": 16,
-      "start": 975.3,
-      "end": 983.32,
-      "matchedWords": 16
+      "start": 1621.238,
+      "end": 1621.447,
+      "matchedWords": 0
     },
     {
       "id": "line-127",
@@ -1600,9 +1600,9 @@
       "text": "I'm not saying that we should all live in tinier apartments, but consider the benefits of an edited life.",
       "type": "narration",
       "words": 19,
-      "start": 983.32,
-      "end": 990.44,
-      "matchedWords": 17
+      "start": 1621.447,
+      "end": 1621.696,
+      "matchedWords": 0
     },
     {
       "id": "line-128",
@@ -1612,9 +1612,9 @@
       "text": "When you return home and walk through your front door, take a moment to ask yourselves: \"Could I do with a little life editing?",
       "type": "narration",
       "words": 24,
-      "start": 990.44,
-      "end": 999.02,
-      "matchedWords": 24
+      "start": 1621.696,
+      "end": 1622.01,
+      "matchedWords": 0
     },
     {
       "id": "line-129",
@@ -1624,9 +1624,9 @@
       "text": "Will that give me more freedom and more time?\"",
       "type": "narration",
       "words": 9,
-      "start": 999.02,
-      "end": 1009.4,
-      "matchedWords": 8
+      "start": 1622.01,
+      "end": 1622.128,
+      "matchedWords": 0
     },
     {
       "id": "line-130",
@@ -1636,9 +1636,9 @@
       "text": "What has prevented Americans' happiness levels from increasing?",
       "type": "question",
       "words": 8,
-      "start": 1009.4,
-      "end": 1028.38,
-      "matchedWords": 8
+      "start": 1622.128,
+      "end": 1622.351,
+      "matchedWords": 0
     },
     {
       "id": "line-131",
@@ -1648,9 +1648,9 @@
       "text": "What things should we possess according to the speaker?",
       "type": "question",
       "words": 9,
-      "start": 1028.38,
-      "end": 1046.48,
-      "matchedWords": 9
+      "start": 1622.351,
+      "end": 1622.587,
+      "matchedWords": 0
     },
     {
       "id": "line-132",
@@ -1660,9 +1660,9 @@
       "text": "What do we learn about the items in the speaker's home?",
       "type": "question",
       "words": 11,
-      "start": 1046.48,
-      "end": 1064.94,
-      "matchedWords": 11
+      "start": 1622.587,
+      "end": 1622.848,
+      "matchedWords": 0
     },
     {
       "id": "line-133",
@@ -1672,9 +1672,9 @@
       "text": "Now, believe it or not, people sometimes lie in order to maintain a good, honest reputation – even if it hurts them to do so.",
       "type": "narration",
       "words": 24,
-      "start": 1064.94,
-      "end": 1074.24,
-      "matchedWords": 24
+      "start": 1622.848,
+      "end": 1623.163,
+      "matchedWords": 0
     },
     {
       "id": "line-134",
@@ -1684,9 +1684,9 @@
       "text": "At least, this is what a team of scientists is suggesting, with evidence to prove it.",
       "type": "narration",
       "words": 16,
-      "start": 1074.24,
-      "end": 1080.62,
-      "matchedWords": 16
+      "start": 1623.163,
+      "end": 1623.372,
+      "matchedWords": 0
     },
     {
       "id": "line-135",
@@ -1696,9 +1696,9 @@
       "text": "Picture this scenario: You often drive for work and can be compensated for up to 400 miles per month.",
       "type": "narration",
       "words": 19,
-      "start": 1080.62,
-      "end": 1087.92,
-      "matchedWords": 19
+      "start": 1623.372,
+      "end": 1623.621,
+      "matchedWords": 0
     },
     {
       "id": "line-136",
@@ -1708,9 +1708,9 @@
       "text": "Most people at your company drive about 300 miles each month.",
       "type": "narration",
       "words": 11,
-      "start": 1087.92,
-      "end": 1092.18,
-      "matchedWords": 11
+      "start": 1623.621,
+      "end": 1623.765,
+      "matchedWords": 0
     },
     {
       "id": "line-137",
@@ -1720,9 +1720,9 @@
       "text": "But this month, you drove 400 miles.",
       "type": "narration",
       "words": 7,
-      "start": 1092.18,
-      "end": 1095.9,
-      "matchedWords": 7
+      "start": 1623.765,
+      "end": 1623.857,
+      "matchedWords": 0
     },
     {
       "id": "line-138",
@@ -1732,9 +1732,9 @@
       "text": "How many miles do you think you'd claim in your expense report?",
       "type": "narration",
       "words": 12,
-      "start": 1095.9,
-      "end": 1099.92,
-      "matchedWords": 12
+      "start": 1623.857,
+      "end": 1624.014,
+      "matchedWords": 0
     },
     {
       "id": "line-139",
@@ -1744,9 +1744,9 @@
       "text": "The scientists asked this exact question as part of the study we’re discussing today.",
       "type": "narration",
       "words": 15,
-      "start": 1099.92,
-      "end": 1104.88,
-      "matchedWords": 13
+      "start": 1624.014,
+      "end": 1624.211,
+      "matchedWords": 0
     },
     {
       "id": "line-140",
@@ -1756,9 +1756,9 @@
       "text": "With surprising results, they found that 12% of respondents reported the distance they drove as less than the actual figure, giving an average answer of 384 miles.",
       "type": "narration",
       "words": 27,
-      "start": 1104.88,
-      "end": 1118.32,
-      "matchedWords": 25
+      "start": 1624.211,
+      "end": 1624.564,
+      "matchedWords": 0
     },
     {
       "id": "line-141",
@@ -1768,9 +1768,9 @@
       "text": "In other words, they lied about the number of miles, even though they would forfeit money they were owed.",
       "type": "narration",
       "words": 19,
-      "start": 1118.32,
-      "end": 1124.76,
-      "matchedWords": 19
+      "start": 1624.564,
+      "end": 1624.813,
+      "matchedWords": 0
     },
     {
       "id": "line-142",
@@ -1780,9 +1780,9 @@
       "text": "The researchers believe this was to seem honest, with the assumption being that others would be suspicious of a high expense claim.",
       "type": "narration",
       "words": 22,
-      "start": 1124.76,
-      "end": 1133.74,
-      "matchedWords": 22
+      "start": 1624.813,
+      "end": 1625.101,
+      "matchedWords": 0
     },
     {
       "id": "line-143",
@@ -1792,9 +1792,9 @@
       "text": "But why would people fabricate numbers to their own detriment?",
       "type": "narration",
       "words": 10,
-      "start": 1133.74,
-      "end": 1137.86,
-      "matchedWords": 10
+      "start": 1625.101,
+      "end": 1625.232,
+      "matchedWords": 0
     },
     {
       "id": "line-144",
@@ -1804,9 +1804,9 @@
       "text": "The researchers explained that many people care a great deal about their reputation and how they’ll be judged by others.",
       "type": "narration",
       "words": 21,
-      "start": 1137.86,
-      "end": 1145.44,
-      "matchedWords": 18
+      "start": 1625.232,
+      "end": 1625.507,
+      "matchedWords": 0
     },
     {
       "id": "line-145",
@@ -1816,9 +1816,9 @@
       "text": "If they care enough, their concern about appearing honest and not losing the respect of others may be greater than their desire to actually be honest.",
       "type": "narration",
       "words": 26,
-      "start": 1145.44,
-      "end": 1154.72,
-      "matchedWords": 26
+      "start": 1625.507,
+      "end": 1625.848,
+      "matchedWords": 0
     },
     {
       "id": "line-146",
@@ -1828,9 +1828,9 @@
       "text": "The researchers assert that their findings suggest that when people obtain very favorable outcomes, they anticipate other people's suspicious reactions and prefer lying and appearing honest to telling the truth and appearing as selfish liars.",
       "type": "narration",
       "words": 35,
-      "start": 1154.72,
-      "end": 1170.88,
-      "matchedWords": 34
+      "start": 1625.848,
+      "end": 1626.306,
+      "matchedWords": 0
     },
     {
       "id": "line-147",
@@ -1840,9 +1840,9 @@
       "text": "So why is this research important?",
       "type": "narration",
       "words": 6,
-      "start": 1170.88,
-      "end": 1173.62,
-      "matchedWords": 6
+      "start": 1626.306,
+      "end": 1626.385,
+      "matchedWords": 0
     },
     {
       "id": "line-148",
@@ -1852,9 +1852,9 @@
       "text": "Well, experts generally agree there are two main types of lie: selfish lies and lies that are meant to benefit others.",
       "type": "narration",
       "words": 21,
-      "start": 1173.62,
-      "end": 1181.96,
-      "matchedWords": 21
+      "start": 1626.385,
+      "end": 1626.66,
+      "matchedWords": 0
     },
     {
       "id": "line-149",
@@ -1864,9 +1864,9 @@
       "text": "The first, as you may predict, is for selfish gain, such as submitting a fraudulent claim to an insurance company, while the second involves lying to help others or not offend others, for example, telling a friend whose outfit you don’t like that they look great.",
       "type": "narration",
       "words": 47,
-      "start": 1181.96,
-      "end": 1199.42,
-      "matchedWords": 45
+      "start": 1626.66,
+      "end": 1627.275,
+      "matchedWords": 0
     },
     {
       "id": "line-150",
@@ -1876,9 +1876,9 @@
       "text": "But the researchers are suggesting a third type of lying: lying to maintain a good reputation.",
       "type": "narration",
       "words": 16,
-      "start": 1199.42,
-      "end": 1205.86,
-      "matchedWords": 16
+      "start": 1627.275,
+      "end": 1627.485,
+      "matchedWords": 0
     },
     {
       "id": "line-151",
@@ -1888,9 +1888,9 @@
       "text": "Now this hypothesis is new and some skeptics argue that this isn’t a whole new category of lie.",
       "type": "narration",
       "words": 19,
-      "start": 1205.86,
-      "end": 1212.1,
-      "matchedWords": 17
+      "start": 1627.485,
+      "end": 1627.734,
+      "matchedWords": 0
     },
     {
       "id": "line-152",
@@ -1900,9 +1900,9 @@
       "text": "The findings seem intuitive to me.",
       "type": "narration",
       "words": 6,
-      "start": 1212.1,
-      "end": 1215.12,
-      "matchedWords": 6
+      "start": 1627.734,
+      "end": 1627.812,
+      "matchedWords": 0
     },
     {
       "id": "line-153",
@@ -1912,9 +1912,9 @@
       "text": "After all, one of the main motivations for lying is to increase our worth in the eyes of others, so it seems highly likely that people will lie to seem honest.",
       "type": "narration",
       "words": 31,
-      "start": 1215.12,
-      "end": 1237.217,
-      "matchedWords": 31
+      "start": 1627.812,
+      "end": 1628.218,
+      "matchedWords": 0
     },
     {
       "id": "line-154",
@@ -1924,8 +1924,8 @@
       "text": "What did the team of scientists find in their study?",
       "type": "question",
       "words": 10,
-      "start": 1237.217,
-      "end": 1250.76,
+      "start": 1628.218,
+      "end": 1628.467,
       "matchedWords": 0
     },
     {
@@ -1936,9 +1936,9 @@
       "text": "Why would people fabricate numbers to their own detriment according to the researchers?",
       "type": "question",
       "words": 13,
-      "start": 1250.76,
-      "end": 1270.18,
-      "matchedWords": 13
+      "start": 1628.467,
+      "end": 1628.755,
+      "matchedWords": 0
     },
     {
       "id": "line-156",
@@ -1948,9 +1948,9 @@
       "text": "What does the speaker think of the researchers’ findings?",
       "type": "question",
       "words": 9,
-      "start": 1270.18,
-      "end": 1288.14,
-      "matchedWords": 9
+      "start": 1628.755,
+      "end": 1628.991,
+      "matchedWords": 0
     },
     {
       "id": "line-157",
@@ -1960,9 +1960,9 @@
       "text": "Why do old people dislike new music?",
       "type": "narration",
       "words": 7,
-      "start": 1288.14,
-      "end": 1291.62,
-      "matchedWords": 7
+      "start": 1628.991,
+      "end": 1629.083,
+      "matchedWords": 0
     },
     {
       "id": "line-158",
@@ -1972,9 +1972,9 @@
       "text": "As I’ve grown older, I often hear people my age say things like \"they just don’t make good music like they used to.\"",
       "type": "narration",
       "words": 25,
-      "start": 1291.62,
-      "end": 1300.5,
-      "matchedWords": 21
+      "start": 1629.083,
+      "end": 1629.41,
+      "matchedWords": 0
     },
     {
       "id": "line-159",
@@ -1984,9 +1984,9 @@
       "text": "Why does this happen?",
       "type": "narration",
       "words": 4,
-      "start": 1300.5,
-      "end": 1302.5,
-      "matchedWords": 4
+      "start": 1629.41,
+      "end": 1629.462,
+      "matchedWords": 0
     },
     {
       "id": "line-160",
@@ -1996,9 +1996,9 @@
       "text": "Luckily, psychology can give us some insights into this puzzle.",
       "type": "narration",
       "words": 10,
-      "start": 1302.5,
-      "end": 1307.1,
-      "matchedWords": 10
+      "start": 1629.462,
+      "end": 1629.593,
+      "matchedWords": 0
     },
     {
       "id": "line-161",
@@ -2008,9 +2008,9 @@
       "text": "Musical tastes begin to crystallize as early as age 13 or 14.",
       "type": "narration",
       "words": 12,
-      "start": 1307.1,
-      "end": 1311.6,
-      "matchedWords": 12
+      "start": 1629.593,
+      "end": 1629.75,
+      "matchedWords": 0
     },
     {
       "id": "line-162",
@@ -2020,9 +2020,9 @@
       "text": "By the time we’re in our early 20s, these tastes get locked into place pretty firmly.",
       "type": "narration",
       "words": 17,
-      "start": 1311.6,
-      "end": 1318.62,
-      "matchedWords": 14
+      "start": 1629.75,
+      "end": 1629.973,
+      "matchedWords": 0
     },
     {
       "id": "line-163",
@@ -2032,9 +2032,9 @@
       "text": "In fact, studies have found that by the time we turn 33, most of us have stopped listening to new music.",
       "type": "narration",
       "words": 21,
-      "start": 1318.62,
-      "end": 1326.06,
-      "matchedWords": 21
+      "start": 1629.973,
+      "end": 1630.248,
+      "matchedWords": 0
     },
     {
       "id": "line-164",
@@ -2044,9 +2044,9 @@
       "text": "Meanwhile, popular songs released when you’re in your early teens are likely to remain quite popular among your age group for the rest of your life.",
       "type": "narration",
       "words": 27,
-      "start": 1326.06,
-      "end": 1334.44,
-      "matchedWords": 25
+      "start": 1630.248,
+      "end": 1630.602,
+      "matchedWords": 0
     },
     {
       "id": "line-165",
@@ -2056,9 +2056,9 @@
       "text": "There could be a biological explanation for this, as there’s evidence that the brain’s ability to make subtle distinctions between different chords, rhythms, and melodies deteriorates with age.",
       "type": "narration",
       "words": 30,
-      "start": 1334.44,
-      "end": 1347.78,
-      "matchedWords": 26
+      "start": 1630.602,
+      "end": 1630.995,
+      "matchedWords": 0
     },
     {
       "id": "line-166",
@@ -2068,9 +2068,9 @@
       "text": "So to older people, newer, less familiar songs might all “sound the same.",
       "type": "narration",
       "words": 13,
-      "start": 1347.78,
-      "end": 1352.429,
-      "matchedWords": 13
+      "start": 1630.995,
+      "end": 1631.165,
+      "matchedWords": 0
     },
     {
       "id": "line-167",
@@ -2080,8 +2080,8 @@
       "text": "”",
       "type": "narration",
       "words": 1,
-      "start": 1352.429,
-      "end": 1353.86,
+      "start": 1631.165,
+      "end": 1631.217,
       "matchedWords": 0
     },
     {
@@ -2092,9 +2092,9 @@
       "text": "But there are maybe some simpler reasons for older people’s aversion to newer music.",
       "type": "narration",
       "words": 15,
-      "start": 1353.86,
-      "end": 1358.54,
-      "matchedWords": 11
+      "start": 1631.217,
+      "end": 1631.414,
+      "matchedWords": 0
     },
     {
       "id": "line-169",
@@ -2104,9 +2104,9 @@
       "text": "One of the most researched laws of social psychology is something called the “mere exposure effect,” which in essence means that the more we’re exposed to something, the more we tend to like it.",
       "type": "narration",
       "words": 35,
-      "start": 1358.54,
-      "end": 1370.94,
-      "matchedWords": 33
+      "start": 1631.414,
+      "end": 1631.872,
+      "matchedWords": 0
     },
     {
       "id": "line-170",
@@ -2116,9 +2116,9 @@
       "text": "This happens with people we know, the advertisements we see, and the songs we listen to.",
       "type": "narration",
       "words": 16,
-      "start": 1370.94,
-      "end": 1376.52,
-      "matchedWords": 16
+      "start": 1631.872,
+      "end": 1632.082,
+      "matchedWords": 0
     },
     {
       "id": "line-171",
@@ -2128,9 +2128,9 @@
       "text": "When you’re in your early teens, you probably spend a fair amount of time listening to music or watching music videos.",
       "type": "narration",
       "words": 22,
-      "start": 1376.52,
-      "end": 1383.7,
-      "matchedWords": 20
+      "start": 1632.082,
+      "end": 1632.37,
+      "matchedWords": 0
     },
     {
       "id": "line-172",
@@ -2140,9 +2140,9 @@
       "text": "Your favorite songs and artists become familiar, comforting parts of your routine.",
       "type": "narration",
       "words": 12,
-      "start": 1383.7,
-      "end": 1388.2,
-      "matchedWords": 11
+      "start": 1632.37,
+      "end": 1632.527,
+      "matchedWords": 0
     },
     {
       "id": "line-173",
@@ -2152,9 +2152,9 @@
       "text": "For many people over 30, job and family obligations increase, so there’s less time to spend discovering new music.",
       "type": "narration",
       "words": 20,
-      "start": 1388.2,
-      "end": 1398.04,
-      "matchedWords": 18
+      "start": 1632.527,
+      "end": 1632.789,
+      "matchedWords": 0
     },
     {
       "id": "line-174",
@@ -2164,9 +2164,9 @@
       "text": "Instead, many will simply listen to old, familiar favorites from that period of their lives when they had more free time.",
       "type": "narration",
       "words": 21,
-      "start": 1398.04,
-      "end": 1405.92,
-      "matchedWords": 21
+      "start": 1632.789,
+      "end": 1633.064,
+      "matchedWords": 0
     },
     {
       "id": "line-175",
@@ -2176,9 +2176,9 @@
       "text": "Of course, those teen years weren’t necessarily carefree.",
       "type": "narration",
       "words": 9,
-      "start": 1405.92,
-      "end": 1411.28,
-      "matchedWords": 7
+      "start": 1633.064,
+      "end": 1633.182,
+      "matchedWords": 0
     },
     {
       "id": "line-176",
@@ -2188,9 +2188,9 @@
       "text": "They’re famously confusing, which is why so many TV shows and movies revolve around high school turmoil.",
       "type": "narration",
       "words": 18,
-      "start": 1411.28,
-      "end": 1417.68,
-      "matchedWords": 16
+      "start": 1633.182,
+      "end": 1633.418,
+      "matchedWords": 0
     },
     {
       "id": "line-177",
@@ -2200,9 +2200,9 @@
       "text": "Psychology research has shown that the emotions that we experience as teens seem more intense than those that come later.",
       "type": "narration",
       "words": 20,
-      "start": 1417.68,
-      "end": 1426.6,
-      "matchedWords": 20
+      "start": 1633.418,
+      "end": 1633.68,
+      "matchedWords": 0
     },
     {
       "id": "line-178",
@@ -2212,9 +2212,9 @@
       "text": "And we also know that intense emotions are associated with stronger memories and preferences.",
       "type": "narration",
       "words": 14,
-      "start": 1426.6,
-      "end": 1434.02,
-      "matchedWords": 14
+      "start": 1633.68,
+      "end": 1633.863,
+      "matchedWords": 0
     },
     {
       "id": "line-179",
@@ -2224,9 +2224,9 @@
       "text": "Both of these might explain why the songs we listen to during this period become so memorable and beloved.",
       "type": "narration",
       "words": 19,
-      "start": 1434.02,
-      "end": 1441.42,
-      "matchedWords": 19
+      "start": 1633.863,
+      "end": 1634.112,
+      "matchedWords": 0
     },
     {
       "id": "line-180",
@@ -2236,9 +2236,9 @@
       "text": "So there’s nothing wrong with your parents because they don’t like your music.",
       "type": "narration",
       "words": 15,
-      "start": 1441.42,
-      "end": 1445.86,
-      "matchedWords": 11
+      "start": 1634.112,
+      "end": 1634.308,
+      "matchedWords": 0
     },
     {
       "id": "line-181",
@@ -2248,9 +2248,9 @@
       "text": "Rather it’s all part of the natural order of things.",
       "type": "narration",
       "words": 11,
-      "start": 1445.86,
-      "end": 1458.36,
-      "matchedWords": 9
+      "start": 1634.308,
+      "end": 1634.452,
+      "matchedWords": 0
     },
     {
       "id": "line-182",
@@ -2260,9 +2260,9 @@
       "text": "What does the speaker mainly discuss in this talk?",
       "type": "question",
       "words": 9,
-      "start": 1458.36,
-      "end": 1476.88,
-      "matchedWords": 9
+      "start": 1634.452,
+      "end": 1634.688,
+      "matchedWords": 0
     },
     {
       "id": "line-183",
@@ -2272,9 +2272,9 @@
       "text": "What have studies found about most people by the time they turn 33?",
       "type": "question",
       "words": 13,
-      "start": 1476.88,
-      "end": 1497.22,
-      "matchedWords": 13
+      "start": 1634.688,
+      "end": 1634.976,
+      "matchedWords": 0
     },
     {
       "id": "line-184",
@@ -2284,9 +2284,9 @@
       "text": "What do we learn from one of the most researched laws of social psychology?",
       "type": "question",
       "words": 14,
-      "start": 1497.22,
-      "end": 1517.38,
-      "matchedWords": 14
+      "start": 1634.976,
+      "end": 1635.277,
+      "matchedWords": 0
     },
     {
       "id": "line-185",
@@ -2296,9 +2296,9 @@
       "text": "What might explain the fact that songs people listen to in their teen years are memorable and beloved?",
       "type": "question",
       "words": 18,
-      "start": 1517.38,
-      "end": 1517.43,
-      "matchedWords": 18
+      "start": 1635.277,
+      "end": 1635.327,
+      "matchedWords": 0
     },
     {
       "id": "line-186",
@@ -2308,8 +2308,8 @@
       "text": "---",
       "type": "narration",
       "words": 1,
-      "start": 1517.43,
-      "end": 1540.507,
+      "start": 1635.327,
+      "end": 1635.631,
       "matchedWords": 0
     }
   ]
