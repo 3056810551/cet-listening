@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import copy
 import json
 import math
 import os
@@ -15,13 +16,16 @@ from pathlib import Path
 os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
 
 CACHE_VERSION = 2
+TRANSCRIPT_VERSION = 1
 MODEL_CACHE = {}
 
 
 def build_track(markdown_path, audio_path, force=False):
     markdown_path = Path(markdown_path)
     audio_path = Path(audio_path)
-    sections, lines = parse_markdown(markdown_path.read_text(encoding="utf-8-sig"))
+    transcript = build_transcript(markdown_path, force=force)
+    sections = copy.deepcopy(transcript["sections"])
+    lines = copy.deepcopy(transcript["lines"])
     cache_path = markdown_path.with_name(f"{markdown_path.stem}.timings.json")
     source = source_metadata(markdown_path, audio_path)
     model_name = os.environ.get("WHISPER_MODEL", "small.en")
@@ -38,6 +42,41 @@ def build_track(markdown_path, audio_path, force=False):
     return payload
 
 
+def build_transcript(markdown_path, force=False):
+    markdown_path = Path(markdown_path)
+    output_path = transcript_path_for(markdown_path)
+    source = {"markdown": file_metadata(markdown_path)}
+
+    if not force and output_path.exists():
+        cached = read_transcript_file(output_path)
+        if (
+            cached
+            and cached.get("version") == TRANSCRIPT_VERSION
+            and source_matches(
+                cached.get("source", {}).get("markdown"),
+                source["markdown"],
+            )
+        ):
+            return cached
+
+    sections, lines = parse_markdown(markdown_path.read_text(encoding="utf-8-sig"))
+    payload = {
+        "version": TRANSCRIPT_VERSION,
+        "markdown": markdown_path.name,
+        "source": source,
+        "generatedAt": int(time.time()),
+        "sections": sections,
+        "lines": lines,
+    }
+    output_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    return payload
+
+
+def transcript_path_for(markdown_path):
+    markdown_path = Path(markdown_path)
+    return markdown_path.with_name(f"{markdown_path.stem}.transcript.json")
+
+
 def read_timings_file(cache_path):
     try:
         data = json.loads(Path(cache_path).read_text(encoding="utf-8"))
@@ -47,6 +86,29 @@ def read_timings_file(cache_path):
     if not isinstance(data.get("lines"), list):
         return None
     return data
+
+
+def read_transcript_file(cache_path):
+    try:
+        data = json.loads(Path(cache_path).read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return None
+
+    if not isinstance(data.get("sections"), list) or not isinstance(
+        data.get("lines"),
+        list,
+    ):
+        return None
+    return data
+
+
+def source_matches(cached, current):
+    if not isinstance(cached, dict):
+        return False
+    return (
+        cached.get("size") == current.get("size")
+        and cached.get("mtimeNs") == current.get("mtimeNs")
+    )
 
 
 def with_current_transcript(data, sections, lines, cached):
@@ -434,11 +496,25 @@ def normalize_token(token):
 
 
 def main(argv=None):
-    parser = argparse.ArgumentParser(description="Generate a CET-6 .timings.json file for one transcript/audio pair.")
+    parser = argparse.ArgumentParser(description="Generate CET-6 transcript/timings JSON files.")
     parser.add_argument("markdown", help="Markdown transcript path, for example transcripts/2025-12-2.md")
-    parser.add_argument("audio", help="Audio path, for example audio/2025...mp3")
+    parser.add_argument("audio", nargs="?", help="Audio path, for example audio/2025...mp3")
+    parser.add_argument(
+        "--transcript-only",
+        action="store_true",
+        help="Only generate the standardized transcript JSON.",
+    )
     parser.add_argument("--force", action="store_true", help="Regenerate even if the .timings.json file already exists.")
     args = parser.parse_args(argv)
+
+    if args.transcript_only:
+        payload = build_transcript(Path(args.markdown), force=args.force)
+        line_count = len(payload.get("lines", []))
+        print(f"Generated {transcript_path_for(args.markdown)} ({line_count} lines).")
+        return
+
+    if not args.audio:
+        parser.error("audio is required unless --transcript-only is used")
 
     payload = build_track(Path(args.markdown), Path(args.audio), force=args.force)
     mode = payload.get("mode", "cached")

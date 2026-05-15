@@ -142,7 +142,36 @@ async function fetchText(path) {
   return response.text();
 }
 
+async function fetchJson(path) {
+  const response = await fetch(encodeURI(path), { cache: "no-store" });
+  if (!response.ok) {
+    throw new Error(`Failed to load ${path}: ${response.status}`);
+  }
+  return response.json();
+}
+
 async function loadTrack(track) {
+  if (track.transcript) {
+    try {
+      const transcript = await fetchJson(track.transcript);
+      if (
+        Array.isArray(transcript.sections) &&
+        Array.isArray(transcript.lines)
+      ) {
+        return {
+          sections: transcript.sections,
+          lines: transcript.lines,
+          status: `${transcript.lines.length} 行原文 · 标准 transcript JSON`,
+        };
+      }
+    } catch (error) {
+      console.info(
+        "Transcript JSON unavailable, falling back to Markdown.",
+        error,
+      );
+    }
+  }
+
   const markdown = await fetchText(track.markdown);
   const parsed = parseMarkdown(markdown);
   return {

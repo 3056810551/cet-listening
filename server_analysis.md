@@ -3,9 +3,9 @@
 ## 当前结构
 
 - `server.py` 只负责本地静态文件服务和音频媒体流。
-- `timings.py` 负责 Markdown 文本解析、Whisper 单词时间戳识别、文本与音频对齐，以及 `.timings.json` 写入。
+- `timings.py` 负责 Markdown 文本解析、标准 `.transcript.json` 生成、Whisper 单词时间戳识别、文本与音频对齐，以及 `.timings.json` 写入。
 - `scan.py` 负责扫描 `transcripts/` 和 `audio/`，生成 `tracks.json`；加上 `--gen` 时会调用 `timings.py` 补齐缺失的时间轴文件。
-- 前端从 `tracks.json` 读取 Markdown、音频和 timings 路径，不再请求 `/api/track`。
+- 前端从 `tracks.json` 读取标准 transcript JSON、音频和 timings 路径，不再请求 `/api/track`。
 
 ## 本地生成命令
 
@@ -13,6 +13,12 @@
 
 ```powershell
 python scan.py --gen
+```
+
+只扫描并生成标准 transcript JSON 与 `tracks.json`：
+
+```powershell
+python scan.py
 ```
 
 强制重新生成已有 timings：
@@ -33,6 +39,12 @@ python timings.py transcripts/2025-12-2.md "audio/2025年12月六级听力音频
 python timings.py transcripts/2025-12-2.md "audio/2025年12月六级听力音频第2套.mp3" --force
 ```
 
+只生成单个标准 transcript JSON：
+
+```powershell
+python timings.py transcripts/2025-12-2.md --transcript-only
+```
+
 ## server.py
 
 `server.py` 基于 `SimpleHTTPRequestHandler`，保留两类职责：
@@ -46,7 +58,7 @@ python timings.py transcripts/2025-12-2.md "audio/2025年12月六级听力音频
 
 核心流程：
 
-1. `parse_markdown()` 将 Markdown 拆成 sections 和 lines。
+1. `build_transcript()` 将 Markdown 拆成 sections 和 lines，并写入同目录 `.transcript.json`。
 2. `ffprobe_duration()` 读取音频总时长。
 3. `transcribe_words()` 使用 `faster-whisper` 生成单词级时间戳。
 4. `apply_aligned_timings()` 用 `SequenceMatcher` 对齐文本单词和音频单词。

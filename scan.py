@@ -42,6 +42,13 @@ def scan(generate=False, force=False):
             
         timings_name = md_path.with_suffix(".timings.json").name
         timings_path = TRANSCRIPT_DIR / timings_name
+        transcript_name = timings.transcript_path_for(md_path).name
+        transcript_path = TRANSCRIPT_DIR / transcript_name
+
+        try:
+            timings.build_transcript(md_path, force=force)
+        except Exception as e:
+            print(f"Failed to generate transcript JSON for {md_path.name}: {e}")
         
         if generate and (force or not timings_path.exists()):
             print(f"Generating timings for {md_path.name}...")
@@ -54,9 +61,10 @@ def scan(generate=False, force=False):
             "id": f"{year}-{month}-{set_num}",
             "title": get_track_title(year, month, set_num),
             "markdown": f"transcripts/{md_path.name}",
+            "transcript": f"transcripts/{transcript_name}",
             "audio": audio_path,
             "timings": f"transcripts/{timings_name}",
-            "available": timings_path.exists()
+            "available": transcript_path.exists() and timings_path.exists()
         })
     
     output_path = ROOT / "tracks.json"
