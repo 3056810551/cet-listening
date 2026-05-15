@@ -1,8 +1,12 @@
 from __future__ import annotations
 
+import os
+
+# Suppress HuggingFace/Whisper warnings on Windows (Must be before other imports)
+os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
+
 import json
 import math
-import os
 import re
 import subprocess
 import time
@@ -13,8 +17,8 @@ from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 
 ROOT = Path(__file__).resolve().parent
-DEFAULT_MARKDOWN = "2025-12-1.md"
-DEFAULT_AUDIO = "2025年12月六级听力音频第1套.mp3"
+DEFAULT_MARKDOWN = "transcripts/2025-12-1.md"
+DEFAULT_AUDIO = "audio/2025年12月六级听力音频第1套.mp3"
 CACHE_VERSION = 2
 MEDIA_SUFFIXES = {".mp3", ".m4a", ".wav", ".ogg", ".flac", ".aac"}
 
@@ -595,6 +599,7 @@ def run():
     print(f"CET-6 listening player: http://127.0.0.1:{port}/")
     print("Backend endpoint: /api/track")
     print("Whisper model can be changed with WHISPER_MODEL, for example: tiny.en, base.en, small.en")
+    print("\n[IMPORTANT] If the page looks broken, please press Ctrl + F5 to force refresh your browser cache.")
     server.serve_forever()
 
 
