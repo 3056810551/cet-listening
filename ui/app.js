@@ -73,6 +73,7 @@ async function switchTrack(trackId, pushState = true) {
   if (!track) return;
 
   state.currentTrack = track;
+  resetPlaybackState();
   els.trackName.textContent = track.title;
   els.audio.src = encodeURI(track.audio);
   els.audio.load();
@@ -100,6 +101,22 @@ async function switchTrack(trackId, pushState = true) {
     console.error(error);
     els.transcript.innerHTML = `<div class="empty-state">没有读到 Markdown 原文，请确认 ${track.markdown} 和网页在同一目录。</div>`;
   }
+}
+
+function resetPlaybackState() {
+  els.audio.pause();
+  els.audio.removeAttribute("src");
+  els.audio.load();
+  els.progress.value = "0";
+  els.currentTime.textContent = "00:00";
+  els.duration.textContent = "00:00";
+  els.playBtn.textContent = "Play";
+  state.activeIndex = -1;
+  state.timingsReady = false;
+  document.querySelector(".line.active")?.classList.remove("active");
+  document
+    .querySelectorAll(".line.passed")
+    .forEach((line) => line.classList.remove("passed"));
 }
 
 function renderTrackList() {
