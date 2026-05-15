@@ -38,6 +38,8 @@ const els = {
   trackName: document.querySelector("#trackName"),
   trackMeta: document.querySelector("#trackMeta"),
   autoScroll: document.querySelector("#autoScroll"),
+  workspace: document.querySelector(".workspace"),
+  transcriptVisible: document.querySelector("#transcriptVisible"),
   hideLeftSidebar: document.querySelector("#hideLeftSidebar"),
   hideRightSidebar: document.querySelector("#hideRightSidebar"),
   showLeftSidebar: document.querySelector("#showLeftSidebar"),
@@ -176,6 +178,9 @@ function bindEvents() {
 
   els.backBtn.addEventListener("click", () => seekBy(-5));
   els.forwardBtn.addEventListener("click", () => seekBy(5));
+  els.transcriptVisible?.addEventListener("change", () => {
+    els.workspace.hidden = !els.transcriptVisible.checked;
+  });
 
   els.progress.addEventListener("pointerdown", () => {
     state.userSeeking = true;
