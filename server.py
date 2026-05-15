@@ -168,7 +168,7 @@ def build_track(markdown_path, audio_path, force=False):
     sections, lines = parse_markdown(markdown_path.read_text(encoding="utf-8-sig"))
     cache_path = markdown_path.with_name(f"{markdown_path.stem}.timings.json")
     source = source_metadata(markdown_path, audio_path)
-    model_name = os.environ.get("WHISPER_MODEL", "base.en")
+    model_name = os.environ.get("WHISPER_MODEL", "small.en")
     device = os.environ.get("WHISPER_DEVICE", "cpu")
     compute_type = os.environ.get("WHISPER_COMPUTE_TYPE", "int8")
 
