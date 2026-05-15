@@ -109,14 +109,12 @@ def split_sets(text):
         line = clean_line(raw_line)
         stripped = line.strip()
 
-        set_match = re.match(r"^##\s*第([一二三四五六七八九十\d]+)套", stripped)
-        if set_match:
+        set_num = detect_set_number(stripped)
+        if set_num is not None:
             saw_explicit_set = True
             if current_set is not None:
                 tracks.append((current_set, trim_blank_edges(current_lines)))
-            current_set = SET_NUMBERS.get(set_match.group(1))
-            if current_set is None:
-                raise SystemExit(f"Unsupported set number: {set_match.group(1)}")
+            current_set = set_num
             current_lines = []
             current_heading = None
             continue
@@ -153,7 +151,7 @@ def split_sets(text):
             continue
 
         if current_heading:
-            current_lines.append(stripped)
+            current_lines.append(normalize_speaker(stripped))
 
     if current_set is not None:
         tracks.append((current_set, trim_blank_edges(current_lines)))
@@ -161,6 +159,31 @@ def split_sets(text):
     if saw_explicit_set:
         return tracks
     return tracks
+
+
+def detect_set_number(line):
+    dedicated = re.match(r"^#{1,2}\s*第?\s*([一二三四五六七八九十\d]+)\s*套\s*$", line)
+    if dedicated:
+        return set_number(dedicated.group(1))
+
+    if "两套" in line or "二套" in line and "、" in line:
+        return None
+
+    if "唯一" in line and "套" in line:
+        return 1
+
+    title = re.match(r"^#\s+.*?（第?\s*([一二三四五六七八九十\d]+)\s*套）\s*$", line)
+    if title:
+        return set_number(title.group(1))
+
+    return None
+
+
+def set_number(value):
+    number = SET_NUMBERS.get(value)
+    if number is None:
+        raise SystemExit(f"Unsupported set number: {value}")
+    return number
 
 
 def normalize_item_heading(line):
@@ -191,16 +214,22 @@ def extract_questions(line):
     text = line
     if re.match(r"^\*\*Questions", text, re.I):
         text = re.sub(r"^\*\*Questions.*?\*\*\s*", "", text, flags=re.I)
-    elif not re.match(r"^\d{1,2}\.\s+", text):
+    elif not re.match(r"^(?:Q)?\d{1,2}[.:]\s+", text):
         return []
 
     questions = []
     for number, question in re.findall(
-        r"(?:^|\s)(\d{1,2})\.\s+(.+?)(?=\s+\d{1,2}\.\s+|$)",
+        r"(?:^|\s)(?:Q)?(\d{1,2})[.:]\s+(.+?)(?=\s+(?:Q)?\d{1,2}[.:]\s+|$)",
         text,
     ):
         questions.append(f"Q{number}. {question.strip()}")
     return questions
+
+
+def normalize_speaker(line):
+    line = re.sub(r"^Man:\s*", "M: ", line)
+    line = re.sub(r"^Woman:\s*", "W: ", line)
+    return line
 
 
 def clean_line(line):
