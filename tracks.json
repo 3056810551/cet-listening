@@ -16,5 +16,23 @@
     "audio": "audio/2025年12月六级听力音频第2套.mp3",
     "timings": "transcripts/2025-12-2.timings.json",
     "available": true
+  },
+  {
+    "id": "2025-6-1",
+    "title": "2025 年 6 月 第 1 套",
+    "markdown": "transcripts/2025-6-1.md",
+    "transcript": "transcripts/2025-6-1.transcript.json",
+    "audio": "audio/2025年6月六级听力音频第1套.mp3",
+    "timings": "transcripts/2025-6-1.timings.json",
+    "available": true
+  },
+  {
+    "id": "2025-6-2",
+    "title": "2025 年 6 月 第 2 套",
+    "markdown": "transcripts/2025-6-2.md",
+    "transcript": "transcripts/2025-6-2.transcript.json",
+    "audio": "audio/2025年6月六级听力音频第2套.mp3",
+    "timings": "transcripts/2025-6-2.timings.json",
+    "available": true
   }
 ]
