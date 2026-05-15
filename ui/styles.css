@@ -87,7 +87,10 @@ button:active {
 }
 
 .catalog {
+  display: flex;
+  flex-direction: column;
   grid-column: 1;
+  overflow: hidden;
   border-right: 1px solid var(--line);
 }
 
@@ -118,6 +121,7 @@ button:active {
 }
 
 .side-header {
+  flex: 0 0 auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -126,6 +130,24 @@ button:active {
   margin-bottom: 14px;
   color: var(--accent-strong);
   font-weight: 800;
+}
+
+.side-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.side-order-toggle {
+  min-width: 54px;
+  height: 30px;
+  padding: 0 10px;
+  border-radius: 8px;
+  color: var(--accent-strong);
+  font-size: 13px;
+  font-weight: 800;
+  line-height: 1;
+  white-space: nowrap;
 }
 
 .side-toggle,
@@ -208,7 +230,11 @@ body.resizing {
 
 .track-list {
   display: grid;
+  flex: 1 1 auto;
+  align-content: start;
+  min-height: 0;
   margin: 0 -18px -22px;
+  overflow: auto;
 }
 
 .track-list-item {

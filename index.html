@@ -13,7 +13,10 @@
       <aside class="catalog" aria-label="听力列表">
         <div class="side-header">
           <span>听力列表</span>
-          <button id="hideLeftSidebar" class="side-toggle" type="button" title="隐藏左侧栏" aria-label="隐藏左侧栏">‹</button>
+          <div class="side-actions">
+            <button id="sortTrackList" class="side-order-toggle" type="button" title="切换为逆序显示" aria-label="当前为顺序显示，切换为逆序显示">顺序</button>
+            <button id="hideLeftSidebar" class="side-toggle" type="button" title="隐藏左侧栏" aria-label="隐藏左侧栏">‹</button>
+          </div>
         </div>
         <nav class="track-list" id="trackList" aria-label="听力年份列表"></nav>
       </aside>

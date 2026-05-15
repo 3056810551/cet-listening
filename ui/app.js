@@ -1,5 +1,6 @@
 const PLAYER_PINNED_KEY = "cet6-player-pinned";
 const PLAYER_POSITION_KEY = "cet6-player-position";
+const TRACK_SORT_KEY = "cet6-track-sort-direction";
 
 const state = {
   catalog: [],
@@ -10,6 +11,8 @@ const state = {
   timingsReady: false,
   userSeeking: false,
   playerPinned: false,
+  trackSortDirection:
+    localStorage.getItem(TRACK_SORT_KEY) === "desc" ? "desc" : "asc",
 };
 
 const els = {
@@ -24,6 +27,7 @@ const els = {
   currentTime: document.querySelector("#currentTime"),
   duration: document.querySelector("#duration"),
   trackList: document.querySelector("#trackList"),
+  sortTrackList: document.querySelector("#sortTrackList"),
   sectionNav: document.querySelector("#sectionNav"),
   transcript: document.querySelector("#transcript"),
   trackName: document.querySelector("#trackName"),
@@ -54,10 +58,11 @@ async function init() {
 
     const params = new URLSearchParams(window.location.search);
     const trackId = params.get("track");
+    const orderedCatalog = getOrderedCatalog();
     const track =
       state.catalog.find((t) => t.id === trackId) ||
-      state.catalog.find((t) => t.available) ||
-      state.catalog[0];
+      orderedCatalog.find((t) => t.available) ||
+      orderedCatalog[0];
 
     if (track) {
       await switchTrack(track.id, false);
@@ -123,7 +128,8 @@ function renderTrackList() {
   if (!els.trackList) return;
 
   const fragment = document.createDocumentFragment();
-  state.catalog.forEach((track) => {
+  updateTrackSortButton();
+  getOrderedCatalog().forEach((track) => {
     const button = document.createElement("button");
     button.type = "button";
     button.textContent = track.title;
@@ -149,6 +155,45 @@ function renderTrackList() {
   });
 
   els.trackList.replaceChildren(fragment);
+}
+
+function getOrderedCatalog() {
+  const direction = state.trackSortDirection === "desc" ? -1 : 1;
+  return [...state.catalog].sort(
+    (a, b) => compareTrackIds(a.id, b.id) * direction,
+  );
+}
+
+function compareTrackIds(a, b) {
+  const left = parseTrackId(a);
+  const right = parseTrackId(b);
+  for (let index = 0; index < left.length; index += 1) {
+    if (left[index] !== right[index]) return left[index] - right[index];
+  }
+  return String(a).localeCompare(String(b));
+}
+
+function parseTrackId(id) {
+  const match = String(id).match(/^(\d{4})-(\d{1,2})-(\d{1,2})$/);
+  return match ? match.slice(1).map(Number) : [9999, 99, 99];
+}
+
+function toggleTrackSortDirection() {
+  state.trackSortDirection =
+    state.trackSortDirection === "asc" ? "desc" : "asc";
+  localStorage.setItem(TRACK_SORT_KEY, state.trackSortDirection);
+  renderTrackList();
+}
+
+function updateTrackSortButton() {
+  if (!els.sortTrackList) return;
+  const isDesc = state.trackSortDirection === "desc";
+  els.sortTrackList.textContent = isDesc ? "逆序" : "顺序";
+  els.sortTrackList.title = isDesc ? "切换为顺序显示" : "切换为逆序显示";
+  els.sortTrackList.setAttribute(
+    "aria-label",
+    isDesc ? "当前为逆序显示，切换为顺序显示" : "当前为顺序显示，切换为逆序显示",
+  );
 }
 
 async function fetchText(path) {
@@ -238,6 +283,7 @@ function bindEvents() {
 
   els.backBtn.addEventListener("click", () => seekBy(-5));
   els.forwardBtn.addEventListener("click", () => seekBy(5));
+  els.sortTrackList?.addEventListener("click", toggleTrackSortDirection);
   els.transcriptVisible?.addEventListener("change", () => {
     els.workspace.hidden = !els.transcriptVisible.checked;
   });
