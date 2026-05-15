@@ -1,11 +1,9 @@
 import json
-import os
 import re
 import sys
 from pathlib import Path
 
-# Add support for calling server functions
-import server
+import timings
 
 ROOT = Path(__file__).resolve().parent
 AUDIO_DIR = ROOT / "audio"
@@ -26,7 +24,7 @@ def find_audio(year, month, set_num):
             return f"audio/{name}"
     return None
 
-def scan(generate=False):
+def scan(generate=False, force=False):
     tracks = []
     md_files = sorted(TRANSCRIPT_DIR.glob("*.md"))
     
@@ -45,10 +43,10 @@ def scan(generate=False):
         timings_name = md_path.with_suffix(".timings.json").name
         timings_path = TRANSCRIPT_DIR / timings_name
         
-        if generate and not timings_path.exists():
+        if generate and (force or not timings_path.exists()):
             print(f"Generating timings for {md_path.name}...")
             try:
-                server.build_track(md_path, ROOT / audio_path, force=False)
+                timings.build_track(md_path, ROOT / audio_path, force=force)
             except Exception as e:
                 print(f"Failed to generate timings for {md_path.name}: {e}")
         
@@ -69,4 +67,5 @@ def scan(generate=False):
 
 if __name__ == "__main__":
     should_gen = "--gen" in sys.argv
-    scan(generate=should_gen)
+    should_force = "--force" in sys.argv
+    scan(generate=should_gen, force=should_force)

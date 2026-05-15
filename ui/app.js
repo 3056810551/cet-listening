@@ -10,7 +10,6 @@ const state = {
   timingsReady: false,
   userSeeking: false,
   playerPinned: false,
-  backendTrack: null,
 };
 
 const els = {
@@ -90,10 +89,10 @@ async function switchTrack(trackId, pushState = true) {
 
   try {
     const data = await loadTrack(track);
-    state.backendTrack = data.backend ? data : null;
     state.sections = data.sections;
     state.lines = data.lines;
     state.activeIndex = -1;
+    state.timingsReady = false;
     renderSections();
     renderTranscript();
     els.trackMeta.textContent = data.status;
@@ -144,35 +143,9 @@ async function fetchText(path) {
 }
 
 async function loadTrack(track) {
-  try {
-    const response = await fetch(
-      `/api/track?markdown=${encodeURIComponent(track.markdown)}&audio=${encodeURIComponent(track.audio)}`,
-      {
-        cache: "no-store",
-      },
-    );
-
-    if (response.ok) {
-      const data = await response.json();
-      if (data.error) throw new Error(data.error);
-      return {
-        backend: true,
-        sections: data.sections,
-        lines: data.lines,
-        status: describeBackendStatus(data),
-      };
-    }
-  } catch (error) {
-    console.info(
-      "Backend timing unavailable, falling back to browser estimate.",
-      error,
-    );
-  }
-
   const markdown = await fetchText(track.markdown);
   const parsed = parseMarkdown(markdown);
   return {
-    backend: false,
     sections: parsed.sections,
     lines: parsed.lines,
     status: `${parsed.lines.length} 行原文 · 浏览器估算时间轴`,
@@ -607,13 +580,6 @@ async function applyTimings() {
   )
     return;
 
-  if (state.backendTrack) {
-    state.timingsReady = true;
-    normalizeLineEnds(els.audio.duration);
-    renderTranscript();
-    return;
-  }
-
   let externalTimings = null;
   try {
     const response = await fetch(encodeURI(state.currentTrack.timings), {
@@ -862,13 +828,6 @@ function seekBy(seconds) {
     els.audio.duration || 0,
   );
   updateProgress();
-}
-
-function describeBackendStatus(data) {
-  const source = data.cached ? "已载入后端缓存" : "后端自动打点完成";
-  const mode =
-    data.mode === "faster-whisper" ? `Whisper ${data.model}` : "估算备用";
-  return `${data.lines.length} 行原文 · ${source} · ${mode}`;
 }
 
 function formatTime(value) {

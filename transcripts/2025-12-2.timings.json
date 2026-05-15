@@ -15,8 +15,8 @@
       "mtimeNs": 1778822159219423800
     }
   },
-  "generatedAt": 1778834733,
-  "elapsedSeconds": 306.58,
+  "generatedAt": 1778834925,
+  "elapsedSeconds": 419.67,
   "mode": "faster-whisper",
   "model": "small.en",
   "device": "cpu",
