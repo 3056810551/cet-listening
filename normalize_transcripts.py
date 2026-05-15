@@ -31,6 +31,19 @@ SET_NUMBERS = {
     "10": 10,
 }
 
+WORD_NUMBERS = {
+    "one": 1,
+    "two": 2,
+    "three": 3,
+    "four": 4,
+    "five": 5,
+    "six": 6,
+    "seven": 7,
+    "eight": 8,
+    "nine": 9,
+    "ten": 10,
+}
+
 
 def main(argv=None):
     parser = argparse.ArgumentParser(
@@ -124,7 +137,14 @@ def split_sets(text):
             current_heading = heading
             continue
 
-        if stripped.lower() in {"**questions:**", "questions:"}:
+        questions = extract_questions(stripped)
+        if questions:
+            if not current_lines or not current_lines[-1].startswith("Q"):
+                append_blank(current_lines)
+            current_lines.extend(questions)
+            continue
+
+        if is_questions_prompt(stripped):
             append_blank(current_lines)
             continue
 
@@ -138,24 +158,49 @@ def split_sets(text):
 
 
 def normalize_item_heading(line):
-    match = re.match(r"^####\s*(Conversation|Passage|Recording)\s+(\d+)\s*$", line, re.I)
+    text = line.strip("*").strip()
+    match = re.match(r"^(?:####\s*)?(Conversation|Passage|Recording)\s+([A-Za-z]+|\d+)\s*$", text, re.I)
     if not match:
         return None
-    return f"{match.group(1).upper()} {match.group(2)}"
+    number = normalize_number(match.group(2))
+    if number is None:
+        return None
+    return f"{match.group(1).upper()} {number}"
+
+
+def normalize_number(value):
+    if value.isdigit():
+        return int(value)
+    return WORD_NUMBERS.get(value.lower())
+
+
+def is_questions_prompt(line):
+    return bool(re.match(r"^\*\*Questions(?:\s+\d+\s+to\s+\d+.*)?\*\*\s*$", line, re.I)) or line.lower() in {
+        "**questions:**",
+        "questions:",
+    }
+
+
+def extract_questions(line):
+    text = line
+    if re.match(r"^\*\*Questions", text, re.I):
+        text = re.sub(r"^\*\*Questions.*?\*\*\s*", "", text, flags=re.I)
+    elif not re.match(r"^\d{1,2}\.\s+", text):
+        return []
+
+    questions = []
+    for number, question in re.findall(
+        r"(?:^|\s)(\d{1,2})\.\s+(.+?)(?=\s+\d{1,2}\.\s+|$)",
+        text,
+    ):
+        questions.append(f"Q{number}. {question.strip()}")
+    return questions
 
 
 def clean_line(line):
     return (
         line.replace("\ufeff", "")
-        .replace("鈥攖", "-t")
-        .replace("鈥攚", "-w")
-        .replace("鈥?", "-")
-        .replace("鈥檚", "'s")
-        .replace("鈥檛", "'t")
-        .replace("鈥檙", "'r")
-        .replace("鈥渢", '"t')
-        .replace("鈥", "'")
-        .replace("掳C", "°C")
+        .replace("\u00a0", " ")
         .rstrip()
     )
 
