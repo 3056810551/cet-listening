@@ -498,7 +498,7 @@ def normalize_token(token):
 def main(argv=None):
     parser = argparse.ArgumentParser(description="Generate CET-6 transcript/timings JSON files.")
     parser.add_argument("markdown", help="Markdown transcript path, for example transcripts/2025-12-2.md")
-    parser.add_argument("audio", nargs="?", help="Audio path, for example audio/2025...mp3")
+    parser.add_argument("audio", nargs="?", help="Audio path, for example audio/2025-12-2.mp3")
     parser.add_argument(
         "--transcript-only",
         action="store_true",

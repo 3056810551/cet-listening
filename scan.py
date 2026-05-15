@@ -14,6 +14,10 @@ def get_track_title(year, month, set_num):
     return f"{year} 年 {month} 月 第 {set_num} 套"
 
 def find_audio(year, month, set_num):
+    canonical = AUDIO_DIR / f"{year}-{month}-{set_num}.mp3"
+    if canonical.exists():
+        return f"audio/{canonical.name}"
+
     # Try to find an mp3 that contains the same year, month and set number
     for f in AUDIO_DIR.glob("*.mp3"):
         name = f.name

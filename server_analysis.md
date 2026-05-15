@@ -30,13 +30,13 @@ python scan.py --gen --force
 只生成单个文件：
 
 ```powershell
-python timings.py transcripts/2025-12-2.md "audio/2025年12月六级听力音频第2套.mp3"
+python timings.py transcripts/2025-12-2.md "audio/2025-12-2.mp3"
 ```
 
 强制重跑单个文件：
 
 ```powershell
-python timings.py transcripts/2025-12-2.md "audio/2025年12月六级听力音频第2套.mp3" --force
+python timings.py transcripts/2025-12-2.md "audio/2025-12-2.mp3" --force
 ```
 
 只生成单个标准 transcript JSON：
