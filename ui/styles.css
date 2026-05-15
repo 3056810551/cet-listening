@@ -554,12 +554,36 @@ body.resizing {
 }
 
 .workspace {
+  --sb-track-color: #dde5e8;
+  --sb-thumb-color: #6baf8d;
+  --sb-size: 9px;
   grid-row: 1;
   min-width: 0;
   min-height: 0;
   padding: 0px 28px 220px;
   overflow-y: auto;
   overscroll-behavior: contain;
+}
+
+.workspace::-webkit-scrollbar {
+  width: var(--sb-size);
+}
+
+.workspace::-webkit-scrollbar-track {
+  background: var(--sb-track-color);
+  border-radius: 7px;
+}
+
+.workspace::-webkit-scrollbar-thumb {
+  background: var(--sb-thumb-color);
+  border-radius: 7px;
+}
+
+@supports not selector(::-webkit-scrollbar) {
+  .workspace {
+    scrollbar-color: var(--sb-thumb-color) var(--sb-track-color);
+    scrollbar-width: thin;
+  }
 }
 
 .transcript {
@@ -652,7 +676,31 @@ body.resizing {
 
 @media (max-width: 860px) {
   body {
+    --sb-track-color: #dde5e8;
+    --sb-thumb-color: #6baf8d;
+    --sb-size: 9px;
     overflow: auto;
+  }
+
+  body::-webkit-scrollbar {
+    width: var(--sb-size);
+  }
+
+  body::-webkit-scrollbar-track {
+    background: var(--sb-track-color);
+    border-radius: 7px;
+  }
+
+  body::-webkit-scrollbar-thumb {
+    background: var(--sb-thumb-color);
+    border-radius: 7px;
+  }
+
+  @supports not selector(::-webkit-scrollbar) {
+    body {
+      scrollbar-color: var(--sb-thumb-color) var(--sb-track-color);
+      scrollbar-width: thin;
+    }
   }
 
   .shell {
