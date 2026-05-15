@@ -129,7 +129,7 @@ def run():
         raise RuntimeError("No available local port found.")
 
     print(f"CET-6 listening player: http://127.0.0.1:{port}/")
-    print("Static server only. Generate timings locally with: python scan.py --gen")
+    print("Static server only. Generate timings locally with: python data_tools/scan.py --gen")
     print("\n[IMPORTANT] If the page looks broken, please press Ctrl + F5 to force refresh your browser cache.")
     server.serve_forever()
 

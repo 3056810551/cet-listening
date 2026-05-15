@@ -3,9 +3,12 @@ import re
 import sys
 from pathlib import Path
 
-import timings
+try:
+    from . import timings
+except ImportError:
+    import timings
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parents[1]
 AUDIO_DIR = ROOT / "audio"
 TRANSCRIPT_DIR = ROOT / "transcripts"
 MD_PATTERN = re.compile(r"(\d{4})-(\d{1,2})-(\d{1,2})\.md")

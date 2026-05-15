@@ -4,8 +4,9 @@ import argparse
 import re
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent
-DEFAULT_INPUT = ROOT / "0.md"
+ROOT = Path(__file__).resolve().parents[1]
+TOOL_DIR = Path(__file__).resolve().parent
+DEFAULT_INPUT = TOOL_DIR / "0.md"
 DEFAULT_OUTPUT_DIR = ROOT / "transcripts"
 
 SET_NUMBERS = {
@@ -54,7 +55,7 @@ def main(argv=None):
         nargs="?",
         default=DEFAULT_INPUT,
         type=Path,
-        help="Combined Markdown transcript. Defaults to 0.md.",
+        help="Combined Markdown transcript. Defaults to data_tools/0.md.",
     )
     parser.add_argument(
         "--output-dir",

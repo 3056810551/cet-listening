@@ -229,8 +229,8 @@ body.resizing {
 }
 
 .track-list {
-  --sb-track-color: #eef4f5;
-  --sb-thumb-color: #9fcbbb;
+  --sb-track-color: #dde5e8;
+  --sb-thumb-color: #6baf8d;
   --sb-size: 9px;
   display: grid;
   flex: 1 1 auto;
