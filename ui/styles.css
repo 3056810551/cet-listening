@@ -597,18 +597,29 @@ body.resizing {
   position: sticky;
   top: 0;
   z-index: 2;
-  padding: 6px 4px 8px;
-  background: linear-gradient(#f4f6f8 72%, rgba(244, 246, 248, 0));
+  padding: 6px 4px 12px;
+  background: #f4f6f8;
   color: var(--accent-strong);
-  font-size: 13px;
+  font-size: 18px;
   font-weight: 900;
   letter-spacing: 0;
   text-transform: uppercase;
 }
 
+.section-heading::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: -16px;
+  left: 0;
+  height: 16px;
+  pointer-events: none;
+  background: linear-gradient(#f4f6f8, rgba(244, 246, 248, 0));
+}
+
 .line {
   display: grid;
-  grid-template-columns: 74px minmax(0, 1fr);
+  grid-template-columns: 74px minmax(0, 1fr) 36px;
   gap: 14px;
   align-items: start;
   min-height: 52px;
@@ -651,6 +662,49 @@ body.resizing {
 
 .line.active .line-text {
   font-weight: 800;
+}
+
+.line-play {
+  display: inline-grid;
+  place-items: center;
+  width: 32px;
+  height: 32px;
+  min-height: 32px;
+  padding: 0;
+  border-color: #b9c8ce;
+  border-radius: 999px;
+  background: var(--panel);
+  color: var(--accent-strong);
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(-2px) scale(0.94);
+  transition:
+    opacity 140ms ease,
+    transform 140ms ease,
+    background 140ms ease,
+    border-color 140ms ease;
+}
+
+.line:hover .line-play,
+.line:focus-within .line-play {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(-2px) scale(1);
+}
+
+.line-play:hover {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: #fff;
+}
+
+.line-play-icon {
+  width: 0;
+  height: 0;
+  margin-left: 2px;
+  border-top: 6px solid transparent;
+  border-bottom: 6px solid transparent;
+  border-left: 9px solid currentColor;
 }
 
 .speaker {
@@ -773,7 +827,7 @@ body.resizing {
   }
 
   .line {
-    grid-template-columns: 52px minmax(0, 1fr);
+    grid-template-columns: 52px minmax(0, 1fr) 34px;
     gap: 10px;
     padding: 12px;
   }

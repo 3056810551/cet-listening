@@ -363,10 +363,10 @@ function setPlayerPosition(
   rect = els.nowPlaying.getBoundingClientRect(),
 ) {
   const maxLeft = Math.max(12, window.innerWidth - rect.width - 12);
-  const maxTop = Math.max(12, window.innerHeight - rect.height - 12);
+  const maxTop = Math.max(0, window.innerHeight - rect.height);
 
   els.nowPlaying.style.left = `${clamp(left, 12, maxLeft)}px`;
-  els.nowPlaying.style.top = `${clamp(top, 12, maxTop)}px`;
+  els.nowPlaying.style.top = `${clamp(top, 0, maxTop)}px`;
   els.nowPlaying.style.right = "auto";
   els.nowPlaying.style.bottom = "auto";
   els.nowPlaying.style.transform = "none";
@@ -727,12 +727,10 @@ function renderTranscript() {
       fragment.appendChild(heading);
     }
 
-    const button = document.createElement("button");
-    button.type = "button";
-    button.id = line.id;
-    button.className = `line ${line.type}`;
-    button.dataset.index = String(state.lines.indexOf(line));
-    button.addEventListener("click", () => seekToLine(line));
+    const row = document.createElement("div");
+    row.id = line.id;
+    row.className = `line ${line.type}`;
+    row.dataset.index = String(state.lines.indexOf(line));
 
     const time = document.createElement("span");
     time.className = "line-time";
@@ -748,9 +746,31 @@ function renderTranscript() {
       text.appendChild(speaker);
     }
 
+    const playButton = document.createElement("button");
+    playButton.type = "button";
+    playButton.className = "line-play";
+    playButton.title = "播放这一句";
+    playButton.setAttribute("aria-label", `播放：${line.text}`);
+
+    const playIcon = document.createElement("span");
+    playIcon.className = "line-play-icon";
+    playIcon.setAttribute("aria-hidden", "true");
+    playButton.appendChild(playIcon);
+    let pointerActivated = false;
+    playButton.addEventListener("pointerdown", () => {
+      pointerActivated = true;
+    });
+    playButton.addEventListener("click", () => {
+      seekToLine(line);
+      if (pointerActivated) {
+        playButton.blur();
+        pointerActivated = false;
+      }
+    });
+
     text.append(document.createTextNode(line.text));
-    button.append(time, text);
-    fragment.appendChild(button);
+    row.append(time, text, playButton);
+    fragment.appendChild(row);
   });
 
   els.transcript.replaceChildren(fragment);
