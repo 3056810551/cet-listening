@@ -106,6 +106,13 @@ def split_sets(text, selected_set=None):
     current_heading = None
     saw_explicit_set = False
 
+    def is_active_set():
+        return current_set is not None and (selected_set is None or current_set == selected_set)
+
+    def flush_current_set():
+        if is_active_set():
+            tracks.append((current_set, trim_blank_edges(current_lines)))
+
     for raw_line in text.splitlines():
         line = clean_line(raw_line)
         stripped = line.strip()
@@ -113,14 +120,15 @@ def split_sets(text, selected_set=None):
         set_num = detect_set_number(stripped)
         if set_num is not None:
             saw_explicit_set = True
-            if current_set is not None:
-                tracks.append((current_set, trim_blank_edges(current_lines)))
-            current_set = set_num if selected_set is None or set_num == selected_set else None
+            flush_current_set()
+            current_set = set_num
             current_lines = []
             current_heading = None
             continue
 
         if not stripped:
+            if not is_active_set():
+                continue
             if current_heading and current_heading.startswith("CONVERSATION"):
                 continue
             append_blank(current_lines)
@@ -136,13 +144,16 @@ def split_sets(text, selected_set=None):
         if heading:
             if current_set is None:
                 current_set = selected_set or 1
+            if not is_active_set():
+                current_heading = None
+                continue
             append_blank(current_lines)
             current_lines.append(f"## {heading}")
             append_blank(current_lines)
             current_heading = heading
             continue
 
-        if current_set is None:
+        if not is_active_set():
             continue
 
         questions = extract_questions(stripped)
@@ -159,8 +170,7 @@ def split_sets(text, selected_set=None):
         if current_heading:
             current_lines.append(normalize_speaker(stripped))
 
-    if current_set is not None and (selected_set is None or current_set == selected_set):
-        tracks.append((current_set, trim_blank_edges(current_lines)))
+    flush_current_set()
 
     if saw_explicit_set:
         return tracks
