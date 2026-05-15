@@ -31,9 +31,23 @@
           </div>
 
           <div class="controls" aria-label="播放控制">
-            <button id="backBtn" class="icon-btn" type="button" title="后退 5 秒" aria-label="后退 5 秒">-5</button>
+            <button id="backBtn" class="icon-btn seek-btn seek-back" type="button" title="后退 5 秒" aria-label="后退 5 秒">
+              <span class="seek-icon" aria-hidden="true">
+                <svg viewBox="0 0 32 32" focusable="false">
+                  <path d="M11 7 5 12l6 5v-4h6a8 8 0 1 1-7.1 4.3" />
+                  <text x="16" y="22">5</text>
+                </svg>
+              </span>
+            </button>
             <button id="playBtn" class="play-btn" type="button" title="播放或暂停" aria-label="播放或暂停">Play</button>
-            <button id="forwardBtn" class="icon-btn" type="button" title="前进 5 秒" aria-label="前进 5 秒">+5</button>
+            <button id="forwardBtn" class="icon-btn seek-btn seek-forward" type="button" title="前进 5 秒" aria-label="前进 5 秒">
+              <span class="seek-icon" aria-hidden="true">
+                <svg viewBox="0 0 32 32" focusable="false">
+                  <path d="M21 7l6 5-6 5v-4h-6a8 8 0 1 0 7.1 4.3" />
+                  <text x="16" y="22">5</text>
+                </svg>
+              </span>
+            </button>
 
             <div class="segmented" aria-label="播放速度">
               <button class="speed active" type="button" data-speed="1">1x</button>
