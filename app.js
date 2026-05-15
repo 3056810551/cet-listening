@@ -6,19 +6,12 @@ const SOURCE = {
 };
 
 const TRACK_CATALOG = [
-  { label: "2025年12月CET6听力第1套", markdown: SOURCE.markdown, audio: SOURCE.audio, available: true },
-  { label: "2025年06月CET6真题听力", available: false },
-  { label: "2024年12月CET6真题听力", available: false },
-  { label: "2024年06月CET6真题听力", available: false },
-  { label: "2023年12月CET6真题听力", available: false },
-  { label: "2023年06月CET6真题听力", available: false },
-  { label: "2023年03月CET6真题听力", available: false },
-  { label: "2022年12月CET6真题听力", available: false },
-  { label: "2022年09月CET6真题听力", available: false },
-  { label: "2022年06月CET6真题听力", available: false },
-  { label: "2021年12月CET6真题听力", available: false },
-  { label: "2021年06月CET6真题听力", available: false },
-  { label: "1990年-2020年真题听力", available: false },
+  {
+    label: "2025年12月CET6听力第1套",
+    markdown: SOURCE.markdown,
+    audio: SOURCE.audio,
+    available: true,
+  },
 ];
 
 const state = {
@@ -85,7 +78,10 @@ function renderTrackList() {
     button.type = "button";
     button.textContent = track.label;
     button.className = "track-list-item";
-    button.classList.toggle("active", track.markdown === SOURCE.markdown && track.audio === SOURCE.audio);
+    button.classList.toggle(
+      "active",
+      track.markdown === SOURCE.markdown && track.audio === SOURCE.audio,
+    );
     button.classList.toggle("unavailable", !track.available);
     button.disabled = !track.available;
     if (!track.available) {
@@ -107,9 +103,12 @@ async function fetchText(path) {
 
 async function loadTrack() {
   try {
-    const response = await fetch(`/api/track?markdown=${encodeURIComponent(SOURCE.markdown)}&audio=${encodeURIComponent(SOURCE.audio)}`, {
-      cache: "no-store",
-    });
+    const response = await fetch(
+      `/api/track?markdown=${encodeURIComponent(SOURCE.markdown)}&audio=${encodeURIComponent(SOURCE.audio)}`,
+      {
+        cache: "no-store",
+      },
+    );
 
     if (response.ok) {
       const data = await response.json();
@@ -122,7 +121,10 @@ async function loadTrack() {
       };
     }
   } catch (error) {
-    console.info("Backend timing unavailable, falling back to browser estimate.", error);
+    console.info(
+      "Backend timing unavailable, falling back to browser estimate.",
+      error,
+    );
   }
 
   const markdown = await fetchText(SOURCE.markdown);
@@ -203,7 +205,9 @@ function bindEvents() {
     button.addEventListener("click", () => {
       const speed = Number(button.dataset.speed);
       els.audio.playbackRate = speed;
-      document.querySelectorAll(".speed").forEach((item) => item.classList.toggle("active", item === button));
+      document
+        .querySelectorAll(".speed")
+        .forEach((item) => item.classList.toggle("active", item === button));
     });
   });
 
@@ -221,10 +225,18 @@ function bindEvents() {
 }
 
 function bindLayoutEvents() {
-  els.hideLeftSidebar?.addEventListener("click", () => setSidebarCollapsed("left", true));
-  els.showLeftSidebar?.addEventListener("click", () => setSidebarCollapsed("left", false));
-  els.hideRightSidebar?.addEventListener("click", () => setSidebarCollapsed("right", true));
-  els.showRightSidebar?.addEventListener("click", () => setSidebarCollapsed("right", false));
+  els.hideLeftSidebar?.addEventListener("click", () =>
+    setSidebarCollapsed("left", true),
+  );
+  els.showLeftSidebar?.addEventListener("click", () =>
+    setSidebarCollapsed("left", false),
+  );
+  els.hideRightSidebar?.addEventListener("click", () =>
+    setSidebarCollapsed("right", true),
+  );
+  els.showRightSidebar?.addEventListener("click", () =>
+    setSidebarCollapsed("right", false),
+  );
 
   bindSidebarResizer(els.leftResizer, "left");
   bindSidebarResizer(els.rightResizer, "right");
@@ -233,8 +245,10 @@ function bindLayoutEvents() {
 function restoreLayoutState() {
   const leftWidth = Number(localStorage.getItem("cet6-left-sidebar-width"));
   const rightWidth = Number(localStorage.getItem("cet6-right-sidebar-width"));
-  const leftCollapsed = localStorage.getItem("cet6-left-sidebar-collapsed") === "true";
-  const rightCollapsed = localStorage.getItem("cet6-right-sidebar-collapsed") === "true";
+  const leftCollapsed =
+    localStorage.getItem("cet6-left-sidebar-collapsed") === "true";
+  const rightCollapsed =
+    localStorage.getItem("cet6-right-sidebar-collapsed") === "true";
 
   if (Number.isFinite(leftWidth) && leftWidth > 0) {
     setSidebarWidth("left", leftWidth);
@@ -250,8 +264,10 @@ function bindSidebarResizer(handle, side) {
   if (!handle || !els.shell) return;
 
   handle.addEventListener("pointerdown", (event) => {
-    if (side === "left" && els.shell.classList.contains("left-collapsed")) return;
-    if (side === "right" && els.shell.classList.contains("right-collapsed")) return;
+    if (side === "left" && els.shell.classList.contains("left-collapsed"))
+      return;
+    if (side === "right" && els.shell.classList.contains("right-collapsed"))
+      return;
 
     event.preventDefault();
     handle.setPointerCapture(event.pointerId);
@@ -290,8 +306,11 @@ function setSidebarCollapsed(side, collapsed, persist = true) {
 }
 
 function getSidebarWidth(side) {
-  const variable = side === "left" ? "--left-sidebar-width" : "--right-sidebar-width";
-  const value = getComputedStyle(document.documentElement).getPropertyValue(variable);
+  const variable =
+    side === "left" ? "--left-sidebar-width" : "--right-sidebar-width";
+  const value = getComputedStyle(document.documentElement).getPropertyValue(
+    variable,
+  );
   return Number.parseFloat(value) || (side === "left" ? 280 : 300);
 }
 
@@ -299,7 +318,8 @@ function setSidebarWidth(side, width, persist = false) {
   const min = side === "left" ? 180 : 220;
   const max = side === "left" ? 420 : 460;
   const nextWidth = clamp(Math.round(width), min, max);
-  const variable = side === "left" ? "--left-sidebar-width" : "--right-sidebar-width";
+  const variable =
+    side === "left" ? "--left-sidebar-width" : "--right-sidebar-width";
 
   document.documentElement.style.setProperty(variable, `${nextWidth}px`);
   if (persist) {
@@ -362,11 +382,13 @@ function parseMarkdown(markdown) {
 function splitTranscriptLine(line) {
   const question = line.match(/^(Q\d+\.)\s*(.+)$/);
   if (question) {
-    return [{
-      speaker: question[1],
-      text: question[2],
-      type: "question",
-    }];
+    return [
+      {
+        speaker: question[1],
+        text: question[2],
+        type: "question",
+      },
+    ];
   }
 
   const speaker = line.match(/^([A-Z]):\s*(.+)$/);
@@ -412,7 +434,12 @@ function countWords(text) {
 }
 
 async function applyTimings() {
-  if (!Number.isFinite(els.audio.duration) || els.audio.duration <= 0 || !state.lines.length) return;
+  if (
+    !Number.isFinite(els.audio.duration) ||
+    els.audio.duration <= 0 ||
+    !state.lines.length
+  )
+    return;
 
   if (state.backendTrack) {
     state.timingsReady = true;
@@ -423,7 +450,9 @@ async function applyTimings() {
 
   let externalTimings = null;
   try {
-    const response = await fetch(encodeURI(SOURCE.timings), { cache: "no-store" });
+    const response = await fetch(encodeURI(SOURCE.timings), {
+      cache: "no-store",
+    });
     if (response.ok) {
       externalTimings = await response.json();
     }
@@ -447,7 +476,9 @@ function normalizeLineEnds(duration) {
   state.lines.forEach((line, index) => {
     line.start = Number(line.start) || 0;
     const next = state.lines[index + 1];
-    line.end = Number(line.end) || (next ? Number(next.start) || line.start + 1 : duration);
+    line.end =
+      Number(line.end) ||
+      (next ? Number(next.start) || line.start + 1 : duration);
   });
 }
 
@@ -459,9 +490,10 @@ function mergeExternalTimings(data) {
   }
 
   rows.forEach((row, index) => {
-    const line = typeof row.id === "string"
-      ? state.lines.find((item) => item.id === row.id)
-      : state.lines[index];
+    const line =
+      typeof row.id === "string"
+        ? state.lines.find((item) => item.id === row.id)
+        : state.lines[index];
 
     if (!line) return;
     line.start = Number(row.start) || 0;
@@ -470,7 +502,9 @@ function mergeExternalTimings(data) {
 }
 
 function buildAutoTimings(duration) {
-  const sectionGaps = new Set(state.sections.map((section) => section.firstLineId).filter(Boolean));
+  const sectionGaps = new Set(
+    state.sections.map((section) => section.firstLineId).filter(Boolean),
+  );
   const weights = state.lines.map((line) => timingWeight(line, sectionGaps));
   const totalWeight = weights.reduce((sum, weight) => sum + weight, 0);
   let cursor = 0;
@@ -478,13 +512,18 @@ function buildAutoTimings(duration) {
   state.lines.forEach((line, index) => {
     const lineDuration = duration * (weights[index] / totalWeight);
     line.start = cursor;
-    line.end = index === state.lines.length - 1 ? duration : cursor + lineDuration;
+    line.end =
+      index === state.lines.length - 1 ? duration : cursor + lineDuration;
     cursor = line.end;
   });
 }
 
 function timingWeight(line, sectionGaps = null) {
-  const sectionStart = sectionGaps || new Set(state.sections.map((section) => section.firstLineId).filter(Boolean));
+  const sectionStart =
+    sectionGaps ||
+    new Set(
+      state.sections.map((section) => section.firstLineId).filter(Boolean),
+    );
   const base = Math.max(4, line.words);
   const questionWeight = line.type === "question" ? 9 : 0;
   const sectionWeight = sectionStart.has(line.id) ? 10 : 0;
@@ -499,10 +538,14 @@ function renderSections() {
     button.textContent = titleCase(section.title);
     button.dataset.sectionId = section.id;
     button.addEventListener("click", () => {
-      const firstLine = state.lines.find((line) => line.sectionId === section.id);
+      const firstLine = state.lines.find(
+        (line) => line.sectionId === section.id,
+      );
       if (!firstLine) return;
       seekToLine(firstLine);
-      document.getElementById(firstLine.id)?.scrollIntoView({ behavior: "smooth", block: "center" });
+      document
+        .getElementById(firstLine.id)
+        ?.scrollIntoView({ behavior: "smooth", block: "center" });
     });
     els.sectionNav.appendChild(button);
   });
@@ -555,7 +598,9 @@ function renderTranscript() {
 
 function updateProgress() {
   if (!Number.isFinite(els.audio.duration) || els.audio.duration <= 0) return;
-  els.progress.value = String((els.audio.currentTime / els.audio.duration) * 1000);
+  els.progress.value = String(
+    (els.audio.currentTime / els.audio.duration) * 1000,
+  );
   els.currentTime.textContent = formatTime(els.audio.currentTime);
 }
 
@@ -574,7 +619,9 @@ function seekToProgress() {
 function updateFromTime(timeOverride = null) {
   if (!state.timingsReady || !state.lines.length) return;
 
-  const sourceTime = Number.isFinite(timeOverride) ? timeOverride : els.audio.currentTime;
+  const sourceTime = Number.isFinite(timeOverride)
+    ? timeOverride
+    : els.audio.currentTime;
   const transcriptTime = clamp(sourceTime, 0, els.audio.duration || 0);
   const index = findActiveLineIndex(transcriptTime);
   if (index === state.activeIndex) return;
@@ -582,7 +629,9 @@ function updateFromTime(timeOverride = null) {
   const previous = document.querySelector(".line.active");
   previous?.classList.remove("active");
 
-  document.querySelectorAll(".line.passed").forEach((line) => line.classList.remove("passed"));
+  document
+    .querySelectorAll(".line.passed")
+    .forEach((line) => line.classList.remove("passed"));
 
   state.activeIndex = index;
   const activeLine = state.lines[index];
@@ -591,10 +640,17 @@ function updateFromTime(timeOverride = null) {
   const activeEl = document.getElementById(activeLine.id);
   activeEl?.classList.add("active");
 
-  state.lines.slice(0, index).forEach((line) => document.getElementById(line.id)?.classList.add("passed"));
+  state.lines
+    .slice(0, index)
+    .forEach((line) =>
+      document.getElementById(line.id)?.classList.add("passed"),
+    );
 
   document.querySelectorAll(".section-nav button").forEach((button) => {
-    button.classList.toggle("active", button.dataset.sectionId === activeLine.sectionId);
+    button.classList.toggle(
+      "active",
+      button.dataset.sectionId === activeLine.sectionId,
+    );
   });
 
   if (els.autoScroll.checked && activeEl) {
@@ -634,13 +690,18 @@ function seekToLine(line) {
 }
 
 function seekBy(seconds) {
-  els.audio.currentTime = clamp(els.audio.currentTime + seconds, 0, els.audio.duration || 0);
+  els.audio.currentTime = clamp(
+    els.audio.currentTime + seconds,
+    0,
+    els.audio.duration || 0,
+  );
   updateProgress();
 }
 
 function describeBackendStatus(data) {
   const source = data.cached ? "已载入后端缓存" : "后端自动打点完成";
-  const mode = data.mode === "faster-whisper" ? `Whisper ${data.model}` : "估算备用";
+  const mode =
+    data.mode === "faster-whisper" ? `Whisper ${data.model}` : "估算备用";
   return `${data.lines.length} 行原文 · ${source} · ${mode}`;
 }
 
@@ -658,7 +719,10 @@ function titleCase(text) {
 }
 
 function slugify(text) {
-  return text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+  return text
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
 }
 
 function clamp(value, min, max) {
