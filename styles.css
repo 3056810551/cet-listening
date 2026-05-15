@@ -153,11 +153,11 @@ button:active {
 }
 
 .restore-left {
-  left: 18px;
+  left: 24px;
 }
 
 .restore-right {
-  right: 18px;
+  right: 24px;
 }
 
 .shell.left-collapsed .restore-left,
