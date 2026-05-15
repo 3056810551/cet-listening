@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>六级听力播放器</title>
+    <link rel="stylesheet" href="./styles.css">
+    <script defer src="./app.js"></script>
+  </head>
+  <body>
+    <div class="shell" id="shell">
+      <aside class="catalog" aria-label="听力列表">
+        <div class="side-header">
+          <span>听力列表</span>
+          <button id="hideLeftSidebar" class="side-toggle" type="button" title="隐藏左侧栏" aria-label="隐藏左侧栏">‹</button>
+        </div>
+        <nav class="track-list" id="trackList" aria-label="听力年份列表"></nav>
+      </aside>
+
+      <div id="leftResizer" class="resizer left-resizer" role="separator" aria-orientation="vertical" aria-label="调整左侧栏宽度"></div>
+
+      <main class="player">
+        <section class="now-playing" aria-label="播放器">
+          <div class="progress-row">
+            <span id="currentTime">00:00</span>
+            <input id="progress" class="progress" type="range" min="0" max="1000" value="0" aria-label="播放进度">
+            <span id="duration">00:00</span>
+          </div>
+
+          <div class="controls" aria-label="播放控制">
+            <button id="backBtn" class="icon-btn" type="button" title="后退 5 秒" aria-label="后退 5 秒">-5</button>
+            <button id="playBtn" class="play-btn" type="button" title="播放或暂停" aria-label="播放或暂停">Play</button>
+            <button id="forwardBtn" class="icon-btn" type="button" title="前进 5 秒" aria-label="前进 5 秒">+5</button>
+
+            <div class="segmented" aria-label="播放速度">
+              <button class="speed active" type="button" data-speed="1">1x</button>
+              <button class="speed" type="button" data-speed="1.25">1.25x</button>
+              <button class="speed" type="button" data-speed="1.5">1.5x</button>
+            </div>
+
+            <label class="toggle">
+              <input id="autoScroll" type="checkbox" checked>
+              <span>自动滚动</span>
+            </label>
+          </div>
+
+          <audio id="audio" preload="metadata"></audio>
+        </section>
+
+        <section class="workspace" aria-label="听力原文">
+          <div id="transcript" class="transcript" aria-live="polite"></div>
+        </section>
+      </main>
+
+      <div id="rightResizer" class="resizer right-resizer" role="separator" aria-orientation="vertical" aria-label="调整右侧栏宽度"></div>
+
+      <aside class="details" aria-label="当前听力">
+        <div class="side-header">
+          <span>当前听力</span>
+          <button id="hideRightSidebar" class="side-toggle" type="button" title="隐藏右侧栏" aria-label="隐藏右侧栏">›</button>
+        </div>
+
+        <div class="track-card">
+          <span class="track-label">当前音频</span>
+          <strong id="trackName">2025 年 12 月 第 1 套</strong>
+          <span id="trackMeta">正在载入...</span>
+        </div>
+
+        <nav class="section-nav" id="sectionNav" aria-label="段落导航"></nav>
+      </aside>
+
+      <button id="showLeftSidebar" class="restore-sidebar restore-left" type="button" title="显示左侧栏" aria-label="显示左侧栏">›</button>
+      <button id="showRightSidebar" class="restore-sidebar restore-right" type="button" title="显示右侧栏" aria-label="显示右侧栏">‹</button>
+    </div>
+  </body>
+</html>
