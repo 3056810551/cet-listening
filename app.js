@@ -14,18 +14,24 @@ const TRACK_CATALOG = [
   },
 ];
 
+const PLAYER_PINNED_KEY = "cet6-player-pinned";
+const PLAYER_POSITION_KEY = "cet6-player-position";
+
 const state = {
   sections: [],
   lines: [],
   activeIndex: -1,
   timingsReady: false,
   userSeeking: false,
+  playerPinned: false,
   backendTrack: null,
 };
 
 const els = {
   shell: document.querySelector("#shell"),
   audio: document.querySelector("#audio"),
+  nowPlaying: document.querySelector(".now-playing"),
+  pinPlayer: document.querySelector("#pinPlayer"),
   playBtn: document.querySelector("#playBtn"),
   backBtn: document.querySelector("#backBtn"),
   forwardBtn: document.querySelector("#forwardBtn"),
@@ -52,6 +58,8 @@ init();
 
 async function init() {
   restoreLayoutState();
+  restorePlayerPinned();
+  restorePlayerPosition();
   els.trackName.textContent = SOURCE.title;
   els.audio.src = encodeURI(SOURCE.audio);
   renderTrackList();
@@ -141,6 +149,7 @@ async function loadTrack() {
 
 function bindEvents() {
   bindLayoutEvents();
+  bindFloatingPlayer();
 
   els.audio.addEventListener("loadedmetadata", async () => {
     els.duration.textContent = formatTime(els.audio.duration);
@@ -227,6 +236,126 @@ function bindEvents() {
     if (event.key === "ArrowLeft") seekBy(-5);
     if (event.key === "ArrowRight") seekBy(5);
   });
+}
+
+function bindFloatingPlayer() {
+  if (!els.nowPlaying) return;
+
+  els.pinPlayer?.addEventListener("click", () => {
+    setPlayerPinned(!state.playerPinned);
+  });
+
+  let startX = 0;
+  let startY = 0;
+  let startLeft = 0;
+  let startTop = 0;
+
+  els.nowPlaying.addEventListener("pointerdown", (event) => {
+    if (
+      state.playerPinned ||
+      event.button !== 0 ||
+      event.target.closest("button, input, label")
+    ) {
+      return;
+    }
+
+    event.preventDefault();
+    els.nowPlaying.setPointerCapture(event.pointerId);
+    els.nowPlaying.classList.add("dragging");
+
+    const rect = els.nowPlaying.getBoundingClientRect();
+    startX = event.clientX;
+    startY = event.clientY;
+    startLeft = rect.left;
+    startTop = rect.top;
+
+    const movePlayer = (moveEvent) => {
+      setPlayerPosition(
+        startLeft + moveEvent.clientX - startX,
+        startTop + moveEvent.clientY - startY,
+        rect,
+      );
+    };
+
+    const stopDrag = () => {
+      els.nowPlaying.classList.remove("dragging");
+      savePlayerPosition();
+      els.nowPlaying.removeEventListener("pointermove", movePlayer);
+      els.nowPlaying.removeEventListener("pointerup", stopDrag);
+      els.nowPlaying.removeEventListener("pointercancel", stopDrag);
+    };
+
+    els.nowPlaying.addEventListener("pointermove", movePlayer);
+    els.nowPlaying.addEventListener("pointerup", stopDrag);
+    els.nowPlaying.addEventListener("pointercancel", stopDrag);
+  });
+}
+
+function restorePlayerPosition() {
+  if (!els.nowPlaying) return;
+
+  const savedPosition = localStorage.getItem(PLAYER_POSITION_KEY);
+  if (!savedPosition) return;
+
+  try {
+    const position = JSON.parse(savedPosition);
+    if (!Number.isFinite(position.left) || !Number.isFinite(position.top)) {
+      return;
+    }
+
+    const rect = els.nowPlaying.getBoundingClientRect();
+    setPlayerPosition(position.left, position.top, rect);
+  } catch (error) {
+    localStorage.removeItem(PLAYER_POSITION_KEY);
+  }
+}
+
+function savePlayerPosition() {
+  if (!els.nowPlaying) return;
+
+  const rect = els.nowPlaying.getBoundingClientRect();
+  localStorage.setItem(
+    PLAYER_POSITION_KEY,
+    JSON.stringify({
+      left: Math.round(rect.left),
+      top: Math.round(rect.top),
+    }),
+  );
+}
+
+function setPlayerPosition(
+  left,
+  top,
+  rect = els.nowPlaying.getBoundingClientRect(),
+) {
+  const maxLeft = Math.max(12, window.innerWidth - rect.width - 12);
+  const maxTop = Math.max(12, window.innerHeight - rect.height - 12);
+
+  els.nowPlaying.style.left = `${clamp(left, 12, maxLeft)}px`;
+  els.nowPlaying.style.top = `${clamp(top, 12, maxTop)}px`;
+  els.nowPlaying.style.right = "auto";
+  els.nowPlaying.style.bottom = "auto";
+  els.nowPlaying.style.transform = "none";
+}
+
+function restorePlayerPinned() {
+  setPlayerPinned(localStorage.getItem(PLAYER_PINNED_KEY) === "true", false);
+}
+
+function setPlayerPinned(pinned, persist = true) {
+  state.playerPinned = pinned;
+  els.nowPlaying?.classList.toggle("pinned", pinned);
+  if (persist) {
+    localStorage.setItem(PLAYER_PINNED_KEY, String(pinned));
+  }
+  if (!els.pinPlayer) return;
+
+  els.pinPlayer.setAttribute("aria-pressed", String(pinned));
+  els.pinPlayer.setAttribute(
+    "aria-label",
+    pinned ? "取消固定播放器" : "固定播放器",
+  );
+  els.pinPlayer.title = pinned ? "取消固定播放器" : "固定播放器";
 }
 
 function bindLayoutEvents() {

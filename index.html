@@ -21,6 +21,9 @@
 
       <main class="player">
         <section class="now-playing" aria-label="播放器">
+          <button id="pinPlayer" class="pin-player" type="button" title="固定播放器" aria-label="固定播放器" aria-pressed="false">
+            <span class="pin-icon" aria-hidden="true"></span>
+          </button>
           <div class="progress-row">
             <span id="currentTime">00:00</span>
             <input id="progress" class="progress" type="range" min="0" max="1000" value="0" aria-label="播放进度">

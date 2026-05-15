@@ -110,7 +110,7 @@ button:active {
 
 .player {
   display: grid;
-  grid-template-rows: auto minmax(0, 1fr);
+  grid-template-rows: minmax(0, 1fr);
   grid-column: 3;
   height: 100vh;
   min-width: 0;
@@ -290,13 +290,89 @@ body.resizing {
 }
 
 .now-playing {
-  z-index: 5;
+  position: fixed;
+  left: 50%;
+  bottom: 88px;
+  z-index: 15;
   display: grid;
   gap: 16px;
-  padding: 18px 80px;
-  border-bottom: 1px solid var(--line);
+  width: min(78vw, 1560px);
+  padding: 26px 56px 18px 24px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
   background: rgba(255, 255, 255, 0.94);
+  box-shadow: 0 22px 70px rgba(19, 35, 46, 0.16);
   backdrop-filter: blur(12px);
+  cursor: move;
+  transform: translateX(-50%);
+}
+
+.now-playing.pinned {
+  cursor: default;
+}
+
+.now-playing.dragging {
+  cursor: grabbing;
+}
+
+.now-playing button,
+.now-playing input,
+.now-playing label {
+  cursor: pointer;
+}
+
+.pin-player {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: inline-grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--muted);
+}
+
+.pin-player:hover {
+  border-color: #aab8c2;
+  background: #f8fafb;
+}
+
+.now-playing.pinned .pin-player {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: #fff;
+}
+
+.pin-icon {
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+
+.pin-icon::before {
+  content: "";
+  position: absolute;
+  left: 3px;
+  top: 1px;
+  width: 8px;
+  height: 8px;
+  border: 2px solid currentColor;
+  border-radius: 2px;
+  transform: rotate(45deg);
+}
+
+.pin-icon::after {
+  content: "";
+  position: absolute;
+  left: 6px;
+  top: 8px;
+  width: 2px;
+  height: 7px;
+  border-radius: 999px;
+  background: currentColor;
 }
 
 .progress-row {
@@ -444,9 +520,10 @@ body.resizing {
 }
 
 .workspace {
+  grid-row: 1;
   min-width: 0;
   min-height: 0;
-  padding: 0px 28px 44px;
+  padding: 0px 28px 220px;
   overflow-y: auto;
   overscroll-behavior: contain;
 }
@@ -576,6 +653,15 @@ body.resizing {
     overflow: visible;
   }
 
+  .now-playing {
+    left: 12px;
+    right: 12px;
+    bottom: 12px;
+    width: auto;
+    padding: 34px 12px 12px;
+    transform: none;
+  }
+
   .workspace {
     overflow: visible;
   }
@@ -601,7 +687,7 @@ body.resizing {
   }
 
   .workspace {
-    padding: 16px 12px 36px;
+    padding: 16px 12px 210px;
   }
 
   .line {
