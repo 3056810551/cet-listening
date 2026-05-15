@@ -103,6 +103,7 @@ def split_sets(text):
     current_set = None
     current_lines = []
     current_heading = None
+    saw_explicit_set = False
 
     for raw_line in text.splitlines():
         line = clean_line(raw_line)
@@ -110,6 +111,7 @@ def split_sets(text):
 
         set_match = re.match(r"^##\s*第([一二三四五六七八九十\d]+)套", stripped)
         if set_match:
+            saw_explicit_set = True
             if current_set is not None:
                 tracks.append((current_set, trim_blank_edges(current_lines)))
             current_set = SET_NUMBERS.get(set_match.group(1))
@@ -119,22 +121,24 @@ def split_sets(text):
             current_heading = None
             continue
 
-        if current_set is None:
-            continue
-
         if not stripped:
             append_blank(current_lines)
             continue
 
-        if stripped.startswith("### "):
+        if re.match(r"^#{1,3}\s+", stripped) and not normalize_item_heading(stripped):
             continue
 
         heading = normalize_item_heading(stripped)
         if heading:
+            if current_set is None:
+                current_set = 1
             append_blank(current_lines)
             current_lines.append(f"## {heading}")
             append_blank(current_lines)
             current_heading = heading
+            continue
+
+        if current_set is None:
             continue
 
         questions = extract_questions(stripped)
@@ -154,12 +158,14 @@ def split_sets(text):
     if current_set is not None:
         tracks.append((current_set, trim_blank_edges(current_lines)))
 
+    if saw_explicit_set:
+        return tracks
     return tracks
 
 
 def normalize_item_heading(line):
     text = line.strip("*").strip()
-    match = re.match(r"^(?:####\s*)?(Conversation|Passage|Recording)\s+([A-Za-z]+|\d+)\s*$", text, re.I)
+    match = re.match(r"^(?:#{2,4}\s*)?(Conversation|Passage|Recording)\s+([A-Za-z]+|\d+)\s*$", text, re.I)
     if not match:
         return None
     number = normalize_number(match.group(2))
