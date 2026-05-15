@@ -15,10 +15,10 @@
       "mtimeNs": 1778764825741763600
     }
   },
-  "generatedAt": 1778827982,
-  "elapsedSeconds": 69.22,
+  "generatedAt": 1778835974,
+  "elapsedSeconds": 210.81,
   "mode": "faster-whisper",
-  "model": "base.en",
+  "model": "small.en",
   "device": "cpu",
   "computeType": "int8",
   "warning": null,
@@ -26,8 +26,8 @@
     "language": "en",
     "languageProbability": 1.0,
     "duration": 1546.24,
-    "segmentCount": 252,
-    "wordCount": 3070
+    "segmentCount": 217,
+    "wordCount": 3062
   },
   "cached": false,
   "sections": [
@@ -76,8 +76,8 @@
       "text": "Today's special guest is Lord Blackwell, one of our country's most experienced and distinguished career diplomats.",
       "type": "dialogue",
       "words": 16,
-      "start": 37.18,
-      "end": 44.6,
+      "start": 36.64,
+      "end": 44.62,
       "matchedWords": 16
     },
     {
@@ -88,8 +88,8 @@
       "text": "Welcome!",
       "type": "dialogue",
       "words": 1,
-      "start": 44.6,
-      "end": 45.7,
+      "start": 44.62,
+      "end": 45.64,
       "matchedWords": 1
     },
     {
@@ -100,8 +100,8 @@
       "text": "It's my pleasure.",
       "type": "dialogue",
       "words": 3,
-      "start": 45.7,
-      "end": 47.24,
+      "start": 45.64,
+      "end": 47.3,
       "matchedWords": 3
     },
     {
@@ -112,8 +112,8 @@
       "text": "Our audience will be most interested in learning about a career in the foreign service.",
       "type": "dialogue",
       "words": 15,
-      "start": 47.24,
-      "end": 52.48,
+      "start": 47.3,
+      "end": 52.56,
       "matchedWords": 15
     },
     {
@@ -124,8 +124,8 @@
       "text": "However, before we talk about that, I'd like to ask you about the current developments hitting the news today regarding the Republic of Winopia.",
       "type": "dialogue",
       "words": 24,
-      "start": 52.48,
-      "end": 61.74,
+      "start": 52.56,
+      "end": 61.8,
       "matchedWords": 24
     },
     {
@@ -136,8 +136,8 @@
       "text": "What can you tell us?",
       "type": "dialogue",
       "words": 5,
-      "start": 61.74,
-      "end": 63.44,
+      "start": 61.8,
+      "end": 63.4,
       "matchedWords": 5
     },
     {
@@ -148,8 +148,8 @@
       "text": "I'm afraid I don't know much beyond what we've all seen on the news.",
       "type": "dialogue",
       "words": 14,
-      "start": 63.44,
-      "end": 67.52,
+      "start": 63.4,
+      "end": 67.46,
       "matchedWords": 14
     },
     {
@@ -160,9 +160,9 @@
       "text": "It looks like the government of Winopia seems to be undergoing some sort of crisis of legitimacy, and an interim administration has been transitionally established until a head of state is agreed on.",
       "type": "dialogue",
       "words": 33,
-      "start": 67.52,
-      "end": 79.74,
-      "matchedWords": 30
+      "start": 67.46,
+      "end": 79.68,
+      "matchedWords": 33
     },
     {
       "id": "line-8",
@@ -172,9 +172,9 @@
       "text": "But my career work has mostly focused around the continental spheres of Europe and the Americas, and thus I've never been involved with Winopian relations.",
       "type": "dialogue",
       "words": 25,
-      "start": 79.74,
-      "end": 90.12,
-      "matchedWords": 21
+      "start": 79.68,
+      "end": 90.08,
+      "matchedWords": 25
     },
     {
       "id": "line-9",
@@ -184,8 +184,8 @@
       "text": "It's for this reason that I don't know anything on this matter beyond what we can all read in the newspapers.",
       "type": "dialogue",
       "words": 21,
-      "start": 90.12,
-      "end": 96.18,
+      "start": 90.08,
+      "end": 96.14,
       "matchedWords": 21
     },
     {
@@ -196,8 +196,8 @@
       "text": "Oh, I see.",
       "type": "dialogue",
       "words": 3,
-      "start": 96.18,
-      "end": 97.44,
+      "start": 96.14,
+      "end": 97.62,
       "matchedWords": 3
     },
     {
@@ -208,8 +208,8 @@
       "text": "Nevertheless, be rest assured that our expert envoys at our consulate there will be closely monitoring the situation, and I expect our bilateral relations with that country will not be affected.",
       "type": "dialogue",
       "words": 31,
-      "start": 97.44,
-      "end": 110.12,
+      "start": 97.62,
+      "end": 110.32,
       "matchedWords": 30
     },
     {
@@ -220,8 +220,8 @@
       "text": "So how does one get a career in foreign relations?",
       "type": "dialogue",
       "words": 10,
-      "start": 110.12,
-      "end": 113.36,
+      "start": 110.32,
+      "end": 113.54,
       "matchedWords": 10
     },
     {
@@ -232,8 +232,8 @@
       "text": "There are many different paths one can take.",
       "type": "dialogue",
       "words": 8,
-      "start": 113.36,
-      "end": 117.06,
+      "start": 113.54,
+      "end": 117.08,
       "matchedWords": 8
     },
     {
@@ -244,8 +244,8 @@
       "text": "All diplomats have their own story.",
       "type": "dialogue",
       "words": 6,
-      "start": 117.06,
-      "end": 119.18,
+      "start": 117.08,
+      "end": 119.16,
       "matchedWords": 6
     },
     {
@@ -256,8 +256,8 @@
       "text": "But in my case, I got a degree in electrical engineering followed by six years' service in the air force.",
       "type": "dialogue",
       "words": 20,
-      "start": 119.18,
-      "end": 126.24,
+      "start": 119.16,
+      "end": 126.18,
       "matchedWords": 20
     },
     {
@@ -268,8 +268,8 @@
       "text": "Then I went to law school, and upon obtaining a degree in international law, I joined the diplomatic corps where I have been for 22 years.",
       "type": "dialogue",
       "words": 26,
-      "start": 126.24,
-      "end": 134.42,
+      "start": 126.18,
+      "end": 134.58,
       "matchedWords": 24
     },
     {
@@ -280,8 +280,8 @@
       "text": "What would you say are the key skills one needs for the job?",
       "type": "dialogue",
       "words": 13,
-      "start": 134.42,
-      "end": 138.22,
+      "start": 134.58,
+      "end": 138.32,
       "matchedWords": 13
     },
     {
@@ -292,8 +292,8 @@
       "text": "There are so many.",
       "type": "dialogue",
       "words": 4,
-      "start": 138.22,
-      "end": 140.52,
+      "start": 138.32,
+      "end": 140.62,
       "matchedWords": 4
     },
     {
@@ -304,9 +304,9 @@
       "text": "Being a hard worker and a good student is important.",
       "type": "dialogue",
       "words": 10,
-      "start": 140.52,
-      "end": 143.5,
-      "matchedWords": 8
+      "start": 140.62,
+      "end": 143.56,
+      "matchedWords": 9
     },
     {
       "id": "line-20",
@@ -316,8 +316,8 @@
       "text": "You never stop learning.",
       "type": "dialogue",
       "words": 4,
-      "start": 143.5,
-      "end": 145.08,
+      "start": 143.56,
+      "end": 145.06,
       "matchedWords": 4
     },
     {
@@ -328,8 +328,8 @@
       "text": "In addition, a diplomat needs to be very articulate in their discourse and rhetoric.",
       "type": "dialogue",
       "words": 14,
-      "start": 145.08,
-      "end": 150.0,
+      "start": 145.06,
+      "end": 150.02,
       "matchedWords": 14
     },
     {
@@ -340,9 +340,9 @@
       "text": "Whether it is defusing attention or enacting policy, people and communication skills are vital.",
       "type": "dialogue",
       "words": 14,
-      "start": 150.0,
-      "end": 162.32,
-      "matchedWords": 12
+      "start": 150.02,
+      "end": 162.5,
+      "matchedWords": 13
     },
     {
       "id": "line-23",
@@ -352,8 +352,8 @@
       "text": "What do we learn about the man from the conversation?",
       "type": "question",
       "words": 10,
-      "start": 162.32,
-      "end": 179.9,
+      "start": 162.5,
+      "end": 179.98,
       "matchedWords": 10
     },
     {
@@ -364,8 +364,8 @@
       "text": "What does the man say the government of Winopia is probably undergoing?",
       "type": "question",
       "words": 12,
-      "start": 179.9,
-      "end": 198.58,
+      "start": 179.98,
+      "end": 198.94,
       "matchedWords": 12
     },
     {
@@ -376,8 +376,8 @@
       "text": "According to the man, how does one get a career in foreign relations?",
       "type": "question",
       "words": 13,
-      "start": 198.58,
-      "end": 217.48,
+      "start": 198.94,
+      "end": 217.62,
       "matchedWords": 13
     },
     {
@@ -388,8 +388,8 @@
       "text": "What do the speakers mainly discuss by the end of the conversation?",
       "type": "question",
       "words": 12,
-      "start": 217.48,
-      "end": 236.84,
+      "start": 217.62,
+      "end": 237.2,
       "matchedWords": 12
     },
     {
@@ -400,8 +400,8 @@
       "text": "It's getting late and we're both displaying signs of weariness.",
       "type": "dialogue",
       "words": 10,
-      "start": 236.84,
-      "end": 241.18,
+      "start": 237.2,
+      "end": 241.28,
       "matchedWords": 10
     },
     {
@@ -412,8 +412,8 @@
       "text": "I think we should call it a day and meet again tomorrow morning.",
       "type": "dialogue",
       "words": 13,
-      "start": 241.18,
-      "end": 244.4,
+      "start": 241.28,
+      "end": 244.1,
       "matchedWords": 13
     },
     {
@@ -424,8 +424,8 @@
       "text": "Oh, come on, Jeff.",
       "type": "dialogue",
       "words": 4,
-      "start": 244.4,
-      "end": 245.62,
+      "start": 244.1,
+      "end": 245.48,
       "matchedWords": 4
     },
     {
@@ -436,8 +436,8 @@
       "text": "We are so close!",
       "type": "dialogue",
       "words": 4,
-      "start": 245.62,
-      "end": 246.98,
+      "start": 245.48,
+      "end": 247.0,
       "matchedWords": 4
     },
     {
@@ -448,8 +448,8 @@
       "text": "Don't you think we are almost done?",
       "type": "dialogue",
       "words": 7,
-      "start": 246.98,
-      "end": 248.9,
+      "start": 247.0,
+      "end": 248.94,
       "matchedWords": 7
     },
     {
@@ -460,8 +460,8 @@
       "text": "Let's do two more hours, please.",
       "type": "dialogue",
       "words": 6,
-      "start": 248.9,
-      "end": 251.52,
+      "start": 248.94,
+      "end": 251.9,
       "matchedWords": 6
     },
     {
@@ -472,7 +472,7 @@
       "text": "One hour, then I'm going home.",
       "type": "dialogue",
       "words": 6,
-      "start": 251.52,
+      "start": 251.9,
       "end": 254.4,
       "matchedWords": 6
     },
@@ -485,7 +485,7 @@
       "type": "dialogue",
       "words": 2,
       "start": 254.4,
-      "end": 255.1,
+      "end": 255.12,
       "matchedWords": 1
     },
     {
@@ -496,8 +496,8 @@
       "text": "I think we are making good progress, and that with a few more amendments, we will be all done.",
       "type": "dialogue",
       "words": 19,
-      "start": 255.1,
-      "end": 260.9,
+      "start": 255.12,
+      "end": 261.68,
       "matchedWords": 19
     },
     {
@@ -508,8 +508,8 @@
       "text": "I'm sure looking forward to it.",
       "type": "dialogue",
       "words": 6,
-      "start": 260.9,
-      "end": 263.58,
+      "start": 261.68,
+      "end": 263.64,
       "matchedWords": 6
     },
     {
@@ -520,8 +520,8 @@
       "text": "I'm so tired of this project.",
       "type": "dialogue",
       "words": 6,
-      "start": 263.58,
-      "end": 265.62,
+      "start": 263.64,
+      "end": 265.78,
       "matchedWords": 6
     },
     {
@@ -532,8 +532,8 @@
       "text": "Don't get me wrong.",
       "type": "dialogue",
       "words": 4,
-      "start": 265.62,
-      "end": 266.84,
+      "start": 265.78,
+      "end": 267.1,
       "matchedWords": 4
     },
     {
@@ -544,8 +544,8 @@
       "text": "It's a great professional opportunity for me and a milestone for the company, but it's just been so long.",
       "type": "dialogue",
       "words": 19,
-      "start": 266.84,
-      "end": 273.64,
+      "start": 267.1,
+      "end": 273.28,
       "matchedWords": 19
     },
     {
@@ -556,8 +556,8 @@
       "text": "Yeah.",
       "type": "dialogue",
       "words": 1,
-      "start": 273.64,
-      "end": 274.4,
+      "start": 273.28,
+      "end": 274.54,
       "matchedWords": 1
     },
     {
@@ -568,8 +568,8 @@
       "text": "Two months working on nothing but the same contract is a little tough.",
       "type": "dialogue",
       "words": 13,
-      "start": 274.4,
-      "end": 278.7,
+      "start": 274.54,
+      "end": 278.9,
       "matchedWords": 13
     },
     {
@@ -580,8 +580,8 @@
       "text": "Nevertheless, I think that with a bit of luck, we'll be done by next week.",
       "type": "dialogue",
       "words": 15,
-      "start": 278.7,
-      "end": 283.54,
+      "start": 278.9,
+      "end": 283.66,
       "matchedWords": 15
     },
     {
@@ -592,8 +592,8 @@
       "text": "Ha, you must be delusional.",
       "type": "dialogue",
       "words": 5,
-      "start": 283.54,
-      "end": 286.1,
+      "start": 283.66,
+      "end": 286.12,
       "matchedWords": 5
     },
     {
@@ -604,8 +604,8 @@
       "text": "You don't think so?",
       "type": "dialogue",
       "words": 4,
-      "start": 286.1,
-      "end": 287.34,
+      "start": 286.12,
+      "end": 287.48,
       "matchedWords": 4
     },
     {
@@ -616,8 +616,8 @@
       "text": "No chance.",
       "type": "dialogue",
       "words": 2,
-      "start": 287.34,
-      "end": 289.12,
+      "start": 287.48,
+      "end": 289.16,
       "matchedWords": 2
     },
     {
@@ -628,8 +628,8 @@
       "text": "Sections 4, 5, 8 and 9 still have to be aligned to the new framework.",
       "type": "dialogue",
       "words": 15,
-      "start": 289.12,
-      "end": 294.28,
+      "start": 289.16,
+      "end": 294.24,
       "matchedWords": 15
     },
     {
@@ -640,8 +640,8 @@
       "text": "Then we need to proofread the whole thing and make sure all selling points are watertight.",
       "type": "dialogue",
       "words": 16,
-      "start": 294.28,
-      "end": 299.68,
+      "start": 294.24,
+      "end": 299.76,
       "matchedWords": 16
     },
     {
@@ -652,8 +652,8 @@
       "text": "But that will all take no more than a couple of days.",
       "type": "dialogue",
       "words": 12,
-      "start": 299.68,
-      "end": 302.96,
+      "start": 299.76,
+      "end": 302.52,
       "matchedWords": 12
     },
     {
@@ -664,8 +664,8 @@
       "text": "I wasn't finished.",
       "type": "dialogue",
       "words": 3,
-      "start": 302.96,
-      "end": 304.56,
+      "start": 302.52,
+      "end": 304.52,
       "matchedWords": 3
     },
     {
@@ -676,8 +676,8 @@
       "text": "When we are done with it and send it upstairs, what do you think will happen?",
       "type": "dialogue",
       "words": 16,
-      "start": 304.56,
-      "end": 308.62,
+      "start": 304.52,
+      "end": 308.82,
       "matchedWords": 16
     },
     {
@@ -688,8 +688,8 @@
       "text": "What?",
       "type": "dialogue",
       "words": 1,
-      "start": 308.62,
-      "end": 309.46,
+      "start": 308.82,
+      "end": 309.44,
       "matchedWords": 1
     },
     {
@@ -700,8 +700,8 @@
       "text": "They'll argue about it for like a month.",
       "type": "dialogue",
       "words": 8,
-      "start": 309.46,
-      "end": 312.26,
+      "start": 309.44,
+      "end": 312.18,
       "matchedWords": 8
     },
     {
@@ -712,7 +712,7 @@
       "text": "There's always going to be the odd board member who intervenes and demands rectifications be made.",
       "type": "dialogue",
       "words": 16,
-      "start": 312.26,
+      "start": 312.18,
       "end": 317.52,
       "matchedWords": 16
     },
@@ -725,7 +725,7 @@
       "type": "dialogue",
       "words": 15,
       "start": 317.52,
-      "end": 322.7,
+      "end": 322.22,
       "matchedWords": 13
     },
     {
@@ -736,8 +736,8 @@
       "text": "Oh, Jeff, you're too preoccupied and cynical.",
       "type": "dialogue",
       "words": 7,
-      "start": 322.7,
-      "end": 326.28,
+      "start": 322.22,
+      "end": 326.32,
       "matchedWords": 7
     },
     {
@@ -748,7 +748,7 @@
       "text": "It won't be anywhere as bad as that.",
       "type": "dialogue",
       "words": 8,
-      "start": 326.28,
+      "start": 326.32,
       "end": 328.18,
       "matchedWords": 8
     },
@@ -761,7 +761,7 @@
       "type": "dialogue",
       "words": 26,
       "start": 328.18,
-      "end": 338.86,
+      "end": 338.98,
       "matchedWords": 26
     },
     {
@@ -772,8 +772,8 @@
       "text": "Go on then, let's stop there and meet up again same time tomorrow.",
       "type": "dialogue",
       "words": 13,
-      "start": 338.86,
-      "end": 349.98,
+      "start": 338.98,
+      "end": 350.42,
       "matchedWords": 13
     },
     {
@@ -784,8 +784,8 @@
       "text": "Why does the man suggest they call it a day?",
       "type": "question",
       "words": 10,
-      "start": 349.98,
-      "end": 367.16,
+      "start": 350.42,
+      "end": 367.3,
       "matchedWords": 10
     },
     {
@@ -796,8 +796,8 @@
       "text": "What does the woman say is a little tough?",
       "type": "question",
       "words": 9,
-      "start": 367.16,
-      "end": 383.74,
+      "start": 367.3,
+      "end": 383.98,
       "matchedWords": 9
     },
     {
@@ -808,8 +808,8 @@
       "text": "What does the man say the woman must be in thinking they'll finish by next week?",
       "type": "question",
       "words": 16,
-      "start": 383.74,
-      "end": 402.6,
+      "start": 383.98,
+      "end": 402.98,
       "matchedWords": 16
     },
     {
@@ -820,8 +820,8 @@
       "text": "What does the entire managerial hierarchy want to see according to the woman?",
       "type": "question",
       "words": 13,
-      "start": 402.6,
-      "end": 451.38,
+      "start": 402.98,
+      "end": 450.54,
       "matchedWords": 13
     },
     {
@@ -832,9 +832,9 @@
       "text": "One thing I've learned in a quarter-century of management is that there are ample gray areas in human behavior, and that there may not always be clear right-or-wrong solutions to employee disputes.",
       "type": "narration",
       "words": 35,
-      "start": 451.38,
-      "end": 464.14,
-      "matchedWords": 32
+      "start": 450.54,
+      "end": 463.6,
+      "matchedWords": 33
     },
     {
       "id": "line-64",
@@ -844,8 +844,8 @@
       "text": "When two people have different versions of the same event, it can be hard to know whom to believe.",
       "type": "narration",
       "words": 19,
-      "start": 464.14,
-      "end": 470.48,
+      "start": 463.6,
+      "end": 470.62,
       "matchedWords": 19
     },
     {
@@ -856,8 +856,8 @@
       "text": "One such circumstance always comes back to me.",
       "type": "narration",
       "words": 8,
-      "start": 470.48,
-      "end": 473.54,
+      "start": 470.62,
+      "end": 473.58,
       "matchedWords": 8
     },
     {
@@ -868,8 +868,8 @@
       "text": "It happened years ago, and it's a measure of the forgettable nature of the conflict that I no longer even recall what the dispute was about, but I definitely recall the resolution.",
       "type": "narration",
       "words": 32,
-      "start": 473.54,
-      "end": 484.92,
+      "start": 473.58,
+      "end": 484.8,
       "matchedWords": 32
     },
     {
@@ -880,8 +880,8 @@
       "text": "Two talented young executives, one of whom I was managing, had vastly different accounts of the same event, and it seemed likely we'd never get to the truth.",
       "type": "narration",
       "words": 28,
-      "start": 484.92,
-      "end": 495.12,
+      "start": 484.8,
+      "end": 495.1,
       "matchedWords": 28
     },
     {
@@ -892,9 +892,9 @@
       "text": "We reached the deadlock, and the manager of the other individual said, \"Here's something I learned from an excellent manager I once worked for.",
       "type": "narration",
       "words": 24,
-      "start": 495.12,
-      "end": 503.42,
-      "matchedWords": 23
+      "start": 495.1,
+      "end": 503.4,
+      "matchedWords": 22
     },
     {
       "id": "line-69",
@@ -904,8 +904,8 @@
       "text": "He used to say, 'When in doubt, assume positive intent.'",
       "type": "narration",
       "words": 10,
-      "start": 503.42,
-      "end": 508.06,
+      "start": 503.4,
+      "end": 508.26,
       "matchedWords": 10
     },
     {
@@ -916,8 +916,8 @@
       "text": "\" And just like that, we had a path forward.",
       "type": "narration",
       "words": 9,
-      "start": 508.06,
-      "end": 511.22,
+      "start": 508.26,
+      "end": 511.34,
       "matchedWords": 9
     },
     {
@@ -928,8 +928,8 @@
       "text": "My counterpart and I agreed we might never ascertain the actual facts of the matter; quite likely there were elements of truth in both employees' stories.",
       "type": "narration",
       "words": 26,
-      "start": 511.22,
-      "end": 521.74,
+      "start": 511.34,
+      "end": 522.0,
       "matchedWords": 26
     },
     {
@@ -940,8 +940,8 @@
       "text": "We agreed to monitor their actions and relationship going forward, but to intervene no further.",
       "type": "narration",
       "words": 15,
-      "start": 521.74,
-      "end": 527.86,
+      "start": 522.0,
+      "end": 527.88,
       "matchedWords": 15
     },
     {
@@ -952,8 +952,8 @@
       "text": "We assumed the best about both of them and moved on.",
       "type": "narration",
       "words": 11,
-      "start": 527.86,
-      "end": 531.3,
+      "start": 527.88,
+      "end": 531.2,
       "matchedWords": 11
     },
     {
@@ -964,8 +964,8 @@
       "text": "The result was that we were able to put the conflict behind us.",
       "type": "narration",
       "words": 13,
-      "start": 531.3,
-      "end": 534.94,
+      "start": 531.2,
+      "end": 534.9,
       "matchedWords": 13
     },
     {
@@ -976,8 +976,8 @@
       "text": "In fact, their problems didn't recur.",
       "type": "narration",
       "words": 6,
-      "start": 534.94,
-      "end": 537.5,
+      "start": 534.9,
+      "end": 537.14,
       "matchedWords": 6
     },
     {
@@ -988,8 +988,8 @@
       "text": "Over the years, this general approach has proved useful.",
       "type": "narration",
       "words": 9,
-      "start": 537.5,
-      "end": 541.28,
+      "start": 537.14,
+      "end": 541.42,
       "matchedWords": 9
     },
     {
@@ -1000,8 +1000,8 @@
       "text": "Whenever the truth is obscure, assuming positive intent and agreeing to move on can be a constructive decision.",
       "type": "narration",
       "words": 18,
-      "start": 541.28,
-      "end": 554.9,
+      "start": 541.42,
+      "end": 555.02,
       "matchedWords": 18
     },
     {
@@ -1012,8 +1012,8 @@
       "text": "When can it be hard to know whom to believe?",
       "type": "question",
       "words": 10,
-      "start": 554.9,
-      "end": 572.2,
+      "start": 555.02,
+      "end": 572.46,
       "matchedWords": 10
     },
     {
@@ -1024,8 +1024,8 @@
       "text": "What does the speaker definitely recall about the dispute mentioned as an example?",
       "type": "question",
       "words": 13,
-      "start": 572.2,
-      "end": 591.84,
+      "start": 572.46,
+      "end": 591.96,
       "matchedWords": 13
     },
     {
@@ -1036,8 +1036,8 @@
       "text": "What did the speaker and his counterpart do when the two employees gave different accounts of the same event?",
       "type": "question",
       "words": 19,
-      "start": 591.84,
-      "end": 612.66,
+      "start": 591.96,
+      "end": 612.7,
       "matchedWords": 19
     },
     {
@@ -1048,8 +1048,8 @@
       "text": "For some Americans, going out to dinner is a treat, planned and budgeted for.",
       "type": "narration",
       "words": 14,
-      "start": 612.66,
-      "end": 618.72,
+      "start": 612.7,
+      "end": 618.78,
       "matchedWords": 14
     },
     {
@@ -1060,8 +1060,8 @@
       "text": "For others, it's just a daily occurrence.",
       "type": "narration",
       "words": 7,
-      "start": 618.72,
-      "end": 622.02,
+      "start": 618.78,
+      "end": 622.0,
       "matchedWords": 7
     },
     {
@@ -1072,8 +1072,8 @@
       "text": "And that second group of people is becoming the majority as the number of Americans who enjoy cooking is declining.",
       "type": "narration",
       "words": 20,
-      "start": 622.02,
-      "end": 629.6,
+      "start": 622.0,
+      "end": 628.22,
       "matchedWords": 20
     },
     {
@@ -1084,9 +1084,9 @@
       "text": "In the early 2000s, researcher Eddie Yoon conducted a survey to ascertain Americans' attitudes to cooking.",
       "type": "narration",
       "words": 16,
-      "start": 629.6,
-      "end": 636.24,
-      "matchedWords": 13
+      "start": 628.22,
+      "end": 637.9,
+      "matchedWords": 16
     },
     {
       "id": "line-85",
@@ -1096,8 +1096,8 @@
       "text": "The survey found that 15% of Americans loved to cook, 50% said they hated to cook and 35% reported mixed feelings.",
       "type": "narration",
       "words": 21,
-      "start": 636.24,
-      "end": 649.0,
+      "start": 637.9,
+      "end": 649.36,
       "matchedWords": 21
     },
     {
@@ -1108,8 +1108,8 @@
       "text": "When Yoon conducted the same survey 15 years later, only 10% of respondents reported a love of cooking, 45% said they hated it and 45% had mixed feelings.",
       "type": "narration",
       "words": 28,
-      "start": 649.0,
-      "end": 664.24,
+      "start": 649.36,
+      "end": 664.16,
       "matchedWords": 28
     },
     {
@@ -1120,9 +1120,9 @@
       "text": "Yoon asserts cooking is akin to sewing.",
       "type": "narration",
       "words": 7,
-      "start": 664.24,
-      "end": 667.2,
-      "matchedWords": 5
+      "start": 664.16,
+      "end": 667.28,
+      "matchedWords": 7
     },
     {
       "id": "line-88",
@@ -1132,9 +1132,9 @@
       "text": "As recently as the early 20th century, many Americans sewed their own clothing.",
       "type": "narration",
       "words": 13,
-      "start": 667.2,
-      "end": 672.84,
-      "matchedWords": 12
+      "start": 667.28,
+      "end": 673.28,
+      "matchedWords": 13
     },
     {
       "id": "line-89",
@@ -1144,9 +1144,9 @@
       "text": "Today, the vast majority of Americans buy clothing; only a tiny minority still sew, and they do it mainly as a hobby.",
       "type": "narration",
       "words": 22,
-      "start": 672.84,
-      "end": 682.6,
-      "matchedWords": 21
+      "start": 673.28,
+      "end": 682.44,
+      "matchedWords": 22
     },
     {
       "id": "line-90",
@@ -1156,9 +1156,9 @@
       "text": "Yoon believes the number of home cooks will diminish in a similar fashion.",
       "type": "narration",
       "words": 13,
-      "start": 682.6,
-      "end": 687.8,
-      "matchedWords": 12
+      "start": 682.44,
+      "end": 687.92,
+      "matchedWords": 13
     },
     {
       "id": "line-91",
@@ -1168,8 +1168,8 @@
       "text": "Currently, the average American household spends over $3,000 per year on dining out.",
       "type": "narration",
       "words": 14,
-      "start": 687.8,
-      "end": 694.76,
+      "start": 687.92,
+      "end": 694.74,
       "matchedWords": 14
     },
     {
@@ -1180,8 +1180,8 @@
       "text": "However, what people save in convenience, they lose in cash.",
       "type": "narration",
       "words": 10,
-      "start": 694.76,
-      "end": 699.4,
+      "start": 694.74,
+      "end": 699.5,
       "matchedWords": 10
     },
     {
@@ -1192,9 +1192,9 @@
       "text": "Take buying lunch on workdays for example.",
       "type": "narration",
       "words": 7,
-      "start": 699.4,
-      "end": 702.94,
-      "matchedWords": 7
+      "start": 699.5,
+      "end": 703.0,
+      "matchedWords": 6
     },
     {
       "id": "line-94",
@@ -1204,8 +1204,8 @@
       "text": "People spend, on average, $10 per meal when they buy lunch.",
       "type": "narration",
       "words": 11,
-      "start": 702.94,
-      "end": 707.54,
+      "start": 703.0,
+      "end": 707.5,
       "matchedWords": 11
     },
     {
@@ -1216,8 +1216,8 @@
       "text": "Making your own lunch, meanwhile, will cost less.",
       "type": "narration",
       "words": 8,
-      "start": 707.54,
-      "end": 710.5,
+      "start": 707.5,
+      "end": 709.98,
       "matchedWords": 8
     },
     {
@@ -1228,8 +1228,8 @@
       "text": "One survey found people only spend on average $6.",
       "type": "narration",
       "words": 9,
-      "start": 710.5,
-      "end": 714.04,
+      "start": 709.98,
+      "end": 714.3,
       "matchedWords": 9
     },
     {
@@ -1240,8 +1240,8 @@
       "text": "30 when they bring lunch prepared at home.",
       "type": "narration",
       "words": 8,
-      "start": 714.04,
-      "end": 718.86,
+      "start": 714.3,
+      "end": 718.54,
       "matchedWords": 8
     },
     {
@@ -1252,9 +1252,9 @@
       "text": "Americans' growing aversion to spending time in the kitchen signifies a host of challenges for the grocery industry.",
       "type": "narration",
       "words": 18,
-      "start": 718.86,
-      "end": 725.98,
-      "matchedWords": 17
+      "start": 718.54,
+      "end": 725.94,
+      "matchedWords": 18
     },
     {
       "id": "line-99",
@@ -1264,8 +1264,8 @@
       "text": "It's likely to detrimentally impact family finances as well.",
       "type": "narration",
       "words": 9,
-      "start": 725.98,
-      "end": 736.8,
+      "start": 725.94,
+      "end": 737.06,
       "matchedWords": 9
     },
     {
@@ -1276,8 +1276,8 @@
       "text": "What do an increasing number of Americans do according to the passage?",
       "type": "question",
       "words": 12,
-      "start": 736.8,
-      "end": 755.78,
+      "start": 737.06,
+      "end": 755.68,
       "matchedWords": 12
     },
     {
@@ -1288,9 +1288,9 @@
       "text": "What does Eddie Yoon think cooking is akin to?",
       "type": "question",
       "words": 9,
-      "start": 755.78,
-      "end": 772.92,
-      "matchedWords": 8
+      "start": 755.68,
+      "end": 773.18,
+      "matchedWords": 9
     },
     {
       "id": "line-102",
@@ -1300,8 +1300,8 @@
       "text": "What will Americans be able to do by making their own lunch?",
       "type": "question",
       "words": 12,
-      "start": 772.92,
-      "end": 790.66,
+      "start": 773.18,
+      "end": 790.98,
       "matchedWords": 12
     },
     {
@@ -1312,8 +1312,8 @@
       "text": "What does the passage say signifies a host of challenges for America's grocery industry?",
       "type": "question",
       "words": 14,
-      "start": 790.66,
-      "end": 835.66,
+      "start": 790.98,
+      "end": 836.12,
       "matchedWords": 14
     },
     {
@@ -1324,8 +1324,8 @@
       "text": "Every year, of the more than 2.",
       "type": "narration",
       "words": 7,
-      "start": 835.66,
-      "end": 837.96,
+      "start": 836.12,
+      "end": 838.04,
       "matchedWords": 7
     },
     {
@@ -1336,8 +1336,8 @@
       "text": "5 billion bags checked onto flights worldwide, 26 million go missing — and of that 26 million, 1 million never make it back to their original owner.",
       "type": "narration",
       "words": 26,
-      "start": 837.96,
-      "end": 849.64,
+      "start": 838.04,
+      "end": 849.18,
       "matchedWords": 26
     },
     {
@@ -1348,8 +1348,8 @@
       "text": "Bad weather and flight delays, miscoded destination tags and some people simply forgetting to pick up one of their bags are a few of the reasons.",
       "type": "narration",
       "words": 26,
-      "start": 849.64,
-      "end": 858.76,
+      "start": 849.18,
+      "end": 858.6,
       "matchedWords": 26
     },
     {
@@ -1360,8 +1360,8 @@
       "text": "But the number-one reason a bag ends up lost is that it has no ID tag, and airlines don't know to whom it belongs.",
       "type": "narration",
       "words": 25,
-      "start": 858.76,
-      "end": 867.5,
+      "start": 858.6,
+      "end": 867.38,
       "matchedWords": 25
     },
     {
@@ -1372,8 +1372,8 @@
       "text": "Transferring baggage from check-in to departure gates to arrival gates to baggage claim is a delicate piece of timing.",
       "type": "narration",
       "words": 20,
-      "start": 867.5,
-      "end": 874.5,
+      "start": 867.38,
+      "end": 873.86,
       "matchedWords": 20
     },
     {
@@ -1384,8 +1384,8 @@
       "text": "If the system moves too slowly, the bags won't make connecting flights.",
       "type": "narration",
       "words": 12,
-      "start": 874.5,
-      "end": 879.3,
+      "start": 873.86,
+      "end": 879.4,
       "matchedWords": 12
     },
     {
@@ -1396,8 +1396,8 @@
       "text": "If it's too fast, the bags may make the connection but the passengers might miss the flight.",
       "type": "narration",
       "words": 17,
-      "start": 879.3,
-      "end": 885.34,
+      "start": 879.4,
+      "end": 885.44,
       "matchedWords": 17
     },
     {
@@ -1408,8 +1408,8 @@
       "text": "Each airport has its own way of allotting how much time a bag needs to move in transit.",
       "type": "narration",
       "words": 18,
-      "start": 885.34,
-      "end": 891.16,
+      "start": 885.44,
+      "end": 891.46,
       "matchedWords": 18
     },
     {
@@ -1420,9 +1420,9 @@
       "text": "Some airports have sophisticated automated systems, including scanners that read baggage labels, destination-coded vehicles that load and unload the bags without stopping, and sorting machines that route baggage to the appropriate gate.",
       "type": "narration",
       "words": 33,
-      "start": 891.16,
-      "end": 906.5,
-      "matchedWords": 32
+      "start": 891.46,
+      "end": 906.9,
+      "matchedWords": 33
     },
     {
       "id": "line-113",
@@ -1432,8 +1432,8 @@
       "text": "Even so, all that technology may not save your baggage tag from being torn off on the conveyor belt, making you the owner of a bag with no name.",
       "type": "narration",
       "words": 29,
-      "start": 906.5,
-      "end": 917.26,
+      "start": 906.9,
+      "end": 917.38,
       "matchedWords": 29
     },
     {
@@ -1444,9 +1444,9 @@
       "text": "Once a bag goes missing and the passenger files a claim, the bag is declared \"mishandled\" by the carrier.",
       "type": "narration",
       "words": 19,
-      "start": 917.26,
-      "end": 923.82,
-      "matchedWords": 17
+      "start": 917.38,
+      "end": 923.8,
+      "matchedWords": 19
     },
     {
       "id": "line-115",
@@ -1456,8 +1456,8 @@
       "text": "Mishandled refers to bags that have been delayed, lost, stolen or damaged.",
       "type": "narration",
       "words": 12,
-      "start": 923.82,
-      "end": 929.6,
+      "start": 923.8,
+      "end": 930.0,
       "matchedWords": 12
     },
     {
@@ -1468,8 +1468,8 @@
       "text": "Most delayed bags are only one flight behind their owners and can be delivered within 24 hours.",
       "type": "narration",
       "words": 17,
-      "start": 929.6,
-      "end": 936.24,
+      "start": 930.0,
+      "end": 936.34,
       "matchedWords": 17
     },
     {
@@ -1480,8 +1480,8 @@
       "text": "The other bags are examined by airline employees for clues to their ownership and destination.",
       "type": "narration",
       "words": 15,
-      "start": 936.24,
-      "end": 942.32,
+      "start": 936.34,
+      "end": 942.46,
       "matchedWords": 15
     },
     {
@@ -1492,8 +1492,8 @@
       "text": "If the mystery is solved, those bags are returned to their owners within four or five days.",
       "type": "narration",
       "words": 17,
-      "start": 942.32,
-      "end": 948.9,
+      "start": 942.46,
+      "end": 948.5,
       "matchedWords": 17
     },
     {
@@ -1504,8 +1504,8 @@
       "text": "Bags with no destination code or identification tag are shipped to a central warehouse, and undergo a comprehensive baggage tracing process over the next 90 days.",
       "type": "narration",
       "words": 26,
-      "start": 948.9,
-      "end": 960.78,
+      "start": 948.5,
+      "end": 961.24,
       "matchedWords": 26
     },
     {
@@ -1516,8 +1516,8 @@
       "text": "Airlines inventory their mishandled baggage, and many use a database to match the contents with owners' descriptions.",
       "type": "narration",
       "words": 17,
-      "start": 960.78,
-      "end": 967.86,
+      "start": 961.24,
+      "end": 967.98,
       "matchedWords": 17
     },
     {
@@ -1528,8 +1528,8 @@
       "text": "It takes about three months to go from \"missing in action\" to \"irretrievably lost\".",
       "type": "narration",
       "words": 14,
-      "start": 967.86,
-      "end": 973.04,
+      "start": 967.98,
+      "end": 972.38,
       "matchedWords": 14
     },
     {
@@ -1540,8 +1540,8 @@
       "text": "Once that happens, the bags are donated to charity, sold at auction, or purchased by a company which sells them to the public.",
       "type": "narration",
       "words": 23,
-      "start": 973.04,
-      "end": 981.58,
+      "start": 972.38,
+      "end": 981.76,
       "matchedWords": 23
     },
     {
@@ -1552,8 +1552,8 @@
       "text": "So never pack anything of real value in your checked baggage.",
       "type": "narration",
       "words": 11,
-      "start": 981.58,
-      "end": 985.98,
+      "start": 981.76,
+      "end": 985.94,
       "matchedWords": 11
     },
     {
@@ -1564,8 +1564,8 @@
       "text": "And make sure your name is on the bag, along with your phone number, so an agent can contact you.",
       "type": "narration",
       "words": 20,
-      "start": 985.98,
-      "end": 998.46,
+      "start": 985.94,
+      "end": 998.48,
       "matchedWords": 20
     },
     {
@@ -1576,8 +1576,8 @@
       "text": "What is the number-one reason a bag ends up lost according to this talk?",
       "type": "question",
       "words": 15,
-      "start": 998.46,
-      "end": 1017.38,
+      "start": 998.48,
+      "end": 1017.64,
       "matchedWords": 15
     },
     {
@@ -1588,9 +1588,9 @@
       "text": "What may happen to your baggage even when there are sophisticated automated systems?",
       "type": "question",
       "words": 13,
-      "start": 1017.38,
-      "end": 1036.9,
-      "matchedWords": 13
+      "start": 1017.64,
+      "end": 1037.26,
+      "matchedWords": 11
     },
     {
       "id": "line-127",
@@ -1600,8 +1600,8 @@
       "text": "What does the speaker advise us to do at the end of the talk?",
       "type": "question",
       "words": 14,
-      "start": 1036.9,
-      "end": 1055.14,
+      "start": 1037.26,
+      "end": 1055.64,
       "matchedWords": 14
     },
     {
@@ -1612,8 +1612,8 @@
       "text": "You've probably been with someone who ignored you while interacting with his or her smartphone.",
       "type": "narration",
       "words": 15,
-      "start": 1055.14,
-      "end": 1061.62,
+      "start": 1055.64,
+      "end": 1061.72,
       "matchedWords": 15
     },
     {
@@ -1624,8 +1624,8 @@
       "text": "And you've probably engaged in this behavior yourself.",
       "type": "narration",
       "words": 8,
-      "start": 1061.62,
-      "end": 1065.22,
+      "start": 1061.72,
+      "end": 1065.12,
       "matchedWords": 8
     },
     {
@@ -1636,9 +1636,9 @@
       "text": "In a recent survey, nine out of ten respondents said they'd used their smartphone during their most recent social activity.",
       "type": "narration",
       "words": 20,
-      "start": 1065.22,
-      "end": 1073.71,
-      "matchedWords": 20
+      "start": 1065.12,
+      "end": 1073.62,
+      "matchedWords": 18
     },
     {
       "id": "line-131",
@@ -1648,8 +1648,8 @@
       "text": "There's also evidence that this behavior is socially harmful.",
       "type": "narration",
       "words": 9,
-      "start": 1073.71,
-      "end": 1077.55,
+      "start": 1073.62,
+      "end": 1077.5,
       "matchedWords": 9
     },
     {
@@ -1660,8 +1660,8 @@
       "text": "It can leave people less satisfied with their face-to-face interactions.",
       "type": "narration",
       "words": 12,
-      "start": 1077.55,
-      "end": 1081.67,
+      "start": 1077.5,
+      "end": 1081.2,
       "matchedWords": 12
     },
     {
@@ -1672,8 +1672,8 @@
       "text": "And it can generate feelings of resentment and jealousy.",
       "type": "narration",
       "words": 9,
-      "start": 1081.67,
-      "end": 1086.15,
+      "start": 1081.2,
+      "end": 1086.92,
       "matchedWords": 9
     },
     {
@@ -1684,8 +1684,8 @@
       "text": "Now, the Journal of Applied Social Psychology has published a new study exploring the reasons for these effects.",
       "type": "narration",
       "words": 18,
-      "start": 1086.15,
-      "end": 1094.47,
+      "start": 1086.92,
+      "end": 1094.88,
       "matchedWords": 18
     },
     {
@@ -1696,8 +1696,8 @@
       "text": "The study included 128 mostly female student participants.",
       "type": "narration",
       "words": 8,
-      "start": 1094.47,
-      "end": 1100.29,
+      "start": 1094.88,
+      "end": 1100.32,
       "matchedWords": 8
     },
     {
@@ -1708,8 +1708,8 @@
       "text": "The participants watched a three-minute animation in which two cartoon figures interacted and engaged in a conversation.",
       "type": "narration",
       "words": 18,
-      "start": 1100.29,
-      "end": 1108.11,
+      "start": 1100.32,
+      "end": 1107.12,
       "matchedWords": 18
     },
     {
@@ -1720,8 +1720,8 @@
       "text": "The conversation couldn't be heard but could be detected through mouth movements.",
       "type": "narration",
       "words": 12,
-      "start": 1108.11,
-      "end": 1113.69,
+      "start": 1107.12,
+      "end": 1114.18,
       "matchedWords": 12
     },
     {
@@ -1732,8 +1732,8 @@
       "text": "Participants had to imagine themselves as the closest figure in the video and then make judgments about the conversations and how they felt about their conversation partners.",
       "type": "narration",
       "words": 27,
-      "start": 1113.69,
-      "end": 1125.03,
+      "start": 1114.18,
+      "end": 1124.84,
       "matchedWords": 27
     },
     {
@@ -1744,8 +1744,8 @@
       "text": "In one version of the experiment, the phone of the participants' conversation partner remained unused on the table throughout the conversation.",
       "type": "narration",
       "words": 21,
-      "start": 1125.03,
-      "end": 1133.41,
+      "start": 1124.84,
+      "end": 1132.86,
       "matchedWords": 21
     },
     {
@@ -1756,8 +1756,8 @@
       "text": "In another version, their partner's attention was quickly drawn to something on their phone and they spent the rest of the time interacting with their phone.",
       "type": "narration",
       "words": 26,
-      "start": 1133.41,
-      "end": 1142.41,
+      "start": 1132.86,
+      "end": 1142.64,
       "matchedWords": 26
     },
     {
@@ -1768,8 +1768,8 @@
       "text": "A third version involved the participants' partner alternating between periods of interaction with their phone and periods where they ignored their phone.",
       "type": "narration",
       "words": 22,
-      "start": 1142.41,
-      "end": 1152.21,
+      "start": 1142.64,
+      "end": 1152.52,
       "matchedWords": 22
     },
     {
@@ -1780,8 +1780,8 @@
       "text": "If you've experienced a similar situation, you probably won't be surprised by the results of the experiments.",
       "type": "narration",
       "words": 17,
-      "start": 1152.21,
-      "end": 1159.99,
+      "start": 1152.52,
+      "end": 1158.94,
       "matchedWords": 17
     },
     {
@@ -1792,8 +1792,8 @@
       "text": "The participants had a negative view of phone use during social interactions.",
       "type": "narration",
       "words": 12,
-      "start": 1159.99,
-      "end": 1164.89,
+      "start": 1158.94,
+      "end": 1164.92,
       "matchedWords": 12
     },
     {
@@ -1804,8 +1804,8 @@
       "text": "The more it was present, the worse they considered both the quality of the interaction and the quality of the relationship.",
       "type": "narration",
       "words": 21,
-      "start": 1164.89,
-      "end": 1172.93,
+      "start": 1164.92,
+      "end": 1172.94,
       "matchedWords": 21
     },
     {
@@ -1816,8 +1816,8 @@
       "text": "The researchers believed that focusing on one's phone instead of the person one is with has this effect because it's seen as a form of social exclusion.",
       "type": "narration",
       "words": 27,
-      "start": 1172.93,
-      "end": 1183.95,
+      "start": 1172.94,
+      "end": 1183.44,
       "matchedWords": 27
     },
     {
@@ -1828,8 +1828,8 @@
       "text": "They assert that the behavior is analogous to when people have no choice but to eat alone in the school cafeteria.",
       "type": "narration",
       "words": 21,
-      "start": 1183.95,
-      "end": 1191.53,
+      "start": 1183.44,
+      "end": 1191.48,
       "matchedWords": 21
     },
     {
@@ -1840,8 +1840,8 @@
       "text": "The twist is that this exclusion occurs while sharing a physical encounter and having a conversation.",
       "type": "narration",
       "words": 16,
-      "start": 1191.53,
-      "end": 1198.77,
+      "start": 1191.48,
+      "end": 1199.04,
       "matchedWords": 16
     },
     {
@@ -1852,8 +1852,8 @@
       "text": "Researchers found that the behavior had adverse effects on participants' sense of belonging, need for meaning and self-esteem.",
       "type": "narration",
       "words": 19,
-      "start": 1198.77,
-      "end": 1206.79,
+      "start": 1199.04,
+      "end": 1206.88,
       "matchedWords": 19
     },
     {
@@ -1864,8 +1864,8 @@
       "text": "These negative effects are similar to those caused by traditional forms of social exclusion.",
       "type": "narration",
       "words": 14,
-      "start": 1206.79,
-      "end": 1214.29,
+      "start": 1206.88,
+      "end": 1214.34,
       "matchedWords": 14
     },
     {
@@ -1876,8 +1876,8 @@
       "text": "The new findings are important because they elaborate our understanding of a subtle but common aspect of our daily experience.",
       "type": "narration",
       "words": 20,
-      "start": 1214.29,
-      "end": 1222.35,
+      "start": 1214.34,
+      "end": 1222.2,
       "matchedWords": 20
     },
     {
@@ -1888,8 +1888,8 @@
       "text": "This common behavior can create vicious cycles of detachment even as we try to connect with others.",
       "type": "narration",
       "words": 17,
-      "start": 1222.35,
-      "end": 1236.41,
+      "start": 1222.2,
+      "end": 1236.6,
       "matchedWords": 17
     },
     {
@@ -1900,8 +1900,8 @@
       "text": "What does the speaker say about using one's smartphone during a face-to-face conversation?",
       "type": "question",
       "words": 15,
-      "start": 1236.41,
-      "end": 1256.03,
+      "start": 1236.6,
+      "end": 1256.16,
       "matchedWords": 15
     },
     {
@@ -1912,8 +1912,8 @@
       "text": "How did the participants in the new study respond regarding phone use during social interactions?",
       "type": "question",
       "words": 15,
-      "start": 1256.03,
-      "end": 1276.59,
+      "start": 1256.16,
+      "end": 1276.84,
       "matchedWords": 15
     },
     {
@@ -1924,8 +1924,8 @@
       "text": "What does the speaker say can result from the common behavior of using phones during face-to-face conversations?",
       "type": "question",
       "words": 19,
-      "start": 1276.59,
-      "end": 1298.17,
+      "start": 1276.84,
+      "end": 1298.34,
       "matchedWords": 18
     },
     {
@@ -1936,8 +1936,8 @@
       "text": "More and more people travel for a variety of reasons.",
       "type": "narration",
       "words": 10,
-      "start": 1298.17,
-      "end": 1301.93,
+      "start": 1298.34,
+      "end": 1301.88,
       "matchedWords": 10
     },
     {
@@ -1948,8 +1948,8 @@
       "text": "Many are tourists, but many venture forth on personal or professional business.",
       "type": "narration",
       "words": 12,
-      "start": 1301.93,
-      "end": 1306.37,
+      "start": 1301.88,
+      "end": 1307.2,
       "matchedWords": 12
     },
     {
@@ -1960,8 +1960,8 @@
       "text": "Whatever the reason for traveling, a common complaint of travelers is the impersonal accommodations they find.",
       "type": "narration",
       "words": 16,
-      "start": 1306.37,
-      "end": 1314.09,
+      "start": 1307.2,
+      "end": 1314.32,
       "matchedWords": 14
     },
     {
@@ -1972,8 +1972,8 @@
       "text": "After spending five consecutive nights in five similar hotels, the business traveler may find it difficult to remember what happened from day to day, or even what towns were visited, and the tourist may get the mistaken impression that all cities are pretty much the same, at least as far as decoration, food and service are concerned.",
       "type": "narration",
       "words": 57,
-      "start": 1314.09,
-      "end": 1335.95,
+      "start": 1314.32,
+      "end": 1336.26,
       "matchedWords": 55
     },
     {
@@ -1984,8 +1984,8 @@
       "text": "To combat this sense of impersonal sameness, travelers are taking advantage of in-home hospitality or Bed and Breakfast arrangements.",
       "type": "narration",
       "words": 20,
-      "start": 1335.95,
-      "end": 1344.89,
+      "start": 1336.26,
+      "end": 1344.92,
       "matchedWords": 19
     },
     {
@@ -1996,8 +1996,8 @@
       "text": "B&Bs, I mean, Bed and Breakfast arrangements are private homes which offer lodging and breakfast in a very personalized, friendly setting.",
       "type": "narration",
       "words": 22,
-      "start": 1344.89,
-      "end": 1354.39,
+      "start": 1344.92,
+      "end": 1354.86,
       "matchedWords": 21
     },
     {
@@ -2008,8 +2008,8 @@
       "text": "For decades, B&Bs have been the classic way to visit Europe, especially the British Isles.",
       "type": "narration",
       "words": 16,
-      "start": 1354.39,
-      "end": 1359.95,
+      "start": 1354.86,
+      "end": 1359.98,
       "matchedWords": 16
     },
     {
@@ -2020,8 +2020,8 @@
       "text": "And in fact, they are not really a new idea in America.",
       "type": "narration",
       "words": 12,
-      "start": 1359.95,
-      "end": 1363.75,
+      "start": 1359.98,
+      "end": 1363.8,
       "matchedWords": 12
     },
     {
@@ -2032,8 +2032,8 @@
       "text": "The tradition dates back to colonial times when inns were few and far between, and the weary traveler had to depend on the kindness of strangers for a meal and a bed.",
       "type": "narration",
       "words": 32,
-      "start": 1363.75,
-      "end": 1373.63,
+      "start": 1363.8,
+      "end": 1373.76,
       "matchedWords": 31
     },
     {
@@ -2044,8 +2044,8 @@
       "text": "But the revival of B&Bs as desirable accommodations is a fairly recent phenomenon.",
       "type": "narration",
       "words": 14,
-      "start": 1373.63,
-      "end": 1379.73,
+      "start": 1373.76,
+      "end": 1380.24,
       "matchedWords": 14
     },
     {
@@ -2056,9 +2056,9 @@
       "text": "If the idea of operating a B&B arouses your interest, there are several factors to consider before plunging into this business.",
       "type": "narration",
       "words": 22,
-      "start": 1379.73,
-      "end": 1387.69,
-      "matchedWords": 22
+      "start": 1380.24,
+      "end": 1387.6,
+      "matchedWords": 20
     },
     {
       "id": "line-166",
@@ -2068,8 +2068,8 @@
       "text": "The first consideration is your property, not only the building itself, but the location.",
       "type": "narration",
       "words": 14,
-      "start": 1387.69,
-      "end": 1392.99,
+      "start": 1387.6,
+      "end": 1393.1,
       "matchedWords": 14
     },
     {
@@ -2080,9 +2080,9 @@
       "text": "If you live near a famous historical site or in a popular destination, such as New York City or Washington, D.C., your home can be fairly simple, yet still do well as a B&B.",
       "type": "narration",
       "words": 36,
-      "start": 1392.99,
-      "end": 1405.17,
-      "matchedWords": 34
+      "start": 1393.1,
+      "end": 1405.26,
+      "matchedWords": 32
     },
     {
       "id": "line-168",
@@ -2092,8 +2092,8 @@
       "text": "On the other hand, if your home is architecturally unique or has facilities for the traveler, such as a private entrance, private bath or swimming pool, people may be willing to go some distance to reach you.",
       "type": "narration",
       "words": 37,
-      "start": 1405.17,
-      "end": 1418.27,
+      "start": 1405.26,
+      "end": 1418.4,
       "matchedWords": 36
     },
     {
@@ -2104,8 +2104,8 @@
       "text": "Another important factor is the lifestyle of you and your family.",
       "type": "narration",
       "words": 11,
-      "start": 1418.27,
-      "end": 1422.97,
+      "start": 1418.4,
+      "end": 1423.26,
       "matchedWords": 11
     },
     {
@@ -2116,8 +2116,8 @@
       "text": "You must take into account whether all members of the family truly enjoy visitors, want to repeatedly discuss local sites and activities, and have the time and energy to handle the additional cooking, cleaning, laundry and the bookkeeping involved.",
       "type": "narration",
       "words": 39,
-      "start": 1422.97,
-      "end": 1437.49,
+      "start": 1423.26,
+      "end": 1438.9,
       "matchedWords": 38
     },
     {
@@ -2128,8 +2128,8 @@
       "text": "The final consideration is a financial one, potential B&B hosts must be realistic about opportunities for income.",
       "type": "narration",
       "words": 18,
-      "start": 1437.49,
-      "end": 1447.05,
+      "start": 1438.9,
+      "end": 1447.1,
       "matchedWords": 18
     },
     {
@@ -2140,8 +2140,8 @@
       "text": "While B&Bs usually have low initial costs, experts estimate it would take at least five rooms rented regularly for the host to earn a living from B&B.",
       "type": "narration",
       "words": 29,
-      "start": 1447.05,
-      "end": 1465.59,
+      "start": 1447.1,
+      "end": 1465.98,
       "matchedWords": 29
     },
     {
@@ -2152,8 +2152,8 @@
       "text": "What does the speaker say travelers commonly complain about?",
       "type": "question",
       "words": 9,
-      "start": 1465.59,
-      "end": 1484.17,
+      "start": 1465.98,
+      "end": 1484.28,
       "matchedWords": 9
     },
     {
@@ -2164,8 +2164,8 @@
       "text": "What is said about Bed and Breakfast arrangements?",
       "type": "question",
       "words": 8,
-      "start": 1484.17,
-      "end": 1502.19,
+      "start": 1484.28,
+      "end": 1502.54,
       "matchedWords": 8
     },
     {
@@ -2176,9 +2176,9 @@
       "text": "What is the first thing you have to consider if you want to start a B&B business?",
       "type": "question",
       "words": 18,
-      "start": 1502.19,
-      "end": 1521.75,
-      "matchedWords": 17
+      "start": 1502.54,
+      "end": 1521.68,
+      "matchedWords": 18
     },
     {
       "id": "line-176",
@@ -2188,7 +2188,7 @@
       "text": "What does the speaker say potential B&B hosts must be realistic about?",
       "type": "question",
       "words": 13,
-      "start": 1521.75,
+      "start": 1521.68,
       "end": 1543.93,
       "matchedWords": 13
     }
