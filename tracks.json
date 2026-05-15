@@ -13,6 +13,6 @@
     "markdown": "transcripts/2025-12-2.md",
     "audio": "audio/2025年12月六级听力音频第2套.mp3",
     "timings": "transcripts/2025-12-2.timings.json",
-    "available": false
+    "available": true
   }
 ]
