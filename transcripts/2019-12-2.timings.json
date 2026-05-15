@@ -1,0 +1,342 @@
+{
+  "version": 2,
+  "audio": "2019.12六级听力第2套.mp3",
+  "markdown": "2019-12-2.md",
+  "duration": 1681.006,
+  "source": {
+    "markdown": {
+      "name": "2019-12-2.md",
+      "size": 1553,
+      "mtimeNs": 1778852032415322800
+    },
+    "audio": {
+      "name": "2019.12六级听力第2套.mp3",
+      "size": 20463287,
+      "mtimeNs": 1778851810172631700
+    }
+  },
+  "generatedAt": 1778852846,
+  "elapsedSeconds": 293.84,
+  "mode": "faster-whisper",
+  "model": "small.en",
+  "device": "cpu",
+  "computeType": "int8",
+  "warning": null,
+  "transcription": {
+    "language": "en",
+    "languageProbability": 1.0,
+    "duration": 1681.009,
+    "segmentCount": 241,
+    "wordCount": 2885
+  },
+  "cached": false,
+  "sections": [
+    {
+      "id": "intro",
+      "title": "INTRO",
+      "firstLineId": "line-0"
+    }
+  ],
+  "lines": [
+    {
+      "id": "line-0",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q1.",
+      "text": "What do we learn about the woman’s store?",
+      "type": "question",
+      "words": 9,
+      "start": 174.52,
+      "end": 191.06,
+      "matchedWords": 7
+    },
+    {
+      "id": "line-1",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q2.",
+      "text": "What does the man say about Jazz music?",
+      "type": "question",
+      "words": 8,
+      "start": 191.06,
+      "end": 209.56,
+      "matchedWords": 8
+    },
+    {
+      "id": "line-2",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q3.",
+      "text": "What does the woman say about Jazz?",
+      "type": "question",
+      "words": 7,
+      "start": 209.56,
+      "end": 227.12,
+      "matchedWords": 7
+    },
+    {
+      "id": "line-3",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q4.",
+      "text": "What should you do to appreciate different styles of Jazz according to the woman?",
+      "type": "question",
+      "words": 14,
+      "start": 227.12,
+      "end": 289.24,
+      "matchedWords": 14
+    },
+    {
+      "id": "line-4",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q5.",
+      "text": "What did the woman do this morning?",
+      "type": "question",
+      "words": 7,
+      "start": 289.24,
+      "end": 394.68,
+      "matchedWords": 5
+    },
+    {
+      "id": "line-5",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q6.",
+      "text": "Why was the woman’s proposal rejected?",
+      "type": "question",
+      "words": 7,
+      "start": 394.68,
+      "end": 412.42,
+      "matchedWords": 5
+    },
+    {
+      "id": "line-6",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q7.",
+      "text": "What is the woman planning to do?",
+      "type": "question",
+      "words": 7,
+      "start": 412.42,
+      "end": 430.14,
+      "matchedWords": 7
+    },
+    {
+      "id": "line-7",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q8.",
+      "text": "What does the man suggest the woman do?",
+      "type": "question",
+      "words": 8,
+      "start": 430.14,
+      "end": 611.82,
+      "matchedWords": 8
+    },
+    {
+      "id": "line-8",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q9.",
+      "text": "What do we learn about Leo Sanchez’s farm?",
+      "type": "question",
+      "words": 9,
+      "start": 611.82,
+      "end": 630.04,
+      "matchedWords": 7
+    },
+    {
+      "id": "line-9",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q10.",
+      "text": "What has motivated Leo Sanchez and his fellow young farmers to engage in farming?",
+      "type": "question",
+      "words": 14,
+      "start": 630.04,
+      "end": 650.58,
+      "matchedWords": 14
+    },
+    {
+      "id": "line-10",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q11.",
+      "text": "Why did Leo Sanchez buy a hand operated weeding tool?",
+      "type": "question",
+      "words": 10,
+      "start": 650.58,
+      "end": 795.92,
+      "matchedWords": 10
+    },
+    {
+      "id": "line-11",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q12.",
+      "text": "What do we learn from the passage about the food company Eat Grub?",
+      "type": "question",
+      "words": 13,
+      "start": 795.92,
+      "end": 815.5,
+      "matchedWords": 13
+    },
+    {
+      "id": "line-12",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q13.",
+      "text": "What does the speaker say about his first bite a roasted crickets?",
+      "type": "question",
+      "words": 12,
+      "start": 815.5,
+      "end": 835.06,
+      "matchedWords": 11
+    },
+    {
+      "id": "line-13",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q14.",
+      "text": "What does Eat Grub say about his dried crickets?",
+      "type": "question",
+      "words": 9,
+      "start": 835.06,
+      "end": 853.52,
+      "matchedWords": 7
+    },
+    {
+      "id": "line-14",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q15.",
+      "text": "What does the passage say about insect farming?",
+      "type": "question",
+      "words": 8,
+      "start": 853.52,
+      "end": 1089.18,
+      "matchedWords": 8
+    },
+    {
+      "id": "line-15",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q16.",
+      "text": "Why do psychologists and educators study learning styles?",
+      "type": "question",
+      "words": 8,
+      "start": 1089.18,
+      "end": 1108.8,
+      "matchedWords": 8
+    },
+    {
+      "id": "line-16",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q17.",
+      "text": "What does the speaker say about one study mentioned in the 2008 review?",
+      "type": "question",
+      "words": 13,
+      "start": 1108.8,
+      "end": 1129.22,
+      "matchedWords": 13
+    },
+    {
+      "id": "line-17",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q18.",
+      "text": "What message does the speaker want to convey about learning at the end of the talk?",
+      "type": "question",
+      "words": 16,
+      "start": 1129.22,
+      "end": 1168.3,
+      "matchedWords": 16
+    },
+    {
+      "id": "line-18",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q19.",
+      "text": "What do people often feel guilty about according to the speaker?",
+      "type": "question",
+      "words": 11,
+      "start": 1168.3,
+      "end": 1347.62,
+      "matchedWords": 4
+    },
+    {
+      "id": "line-19",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q20.",
+      "text": "What did leading economists predict 90 years ago?",
+      "type": "question",
+      "words": 8,
+      "start": 1347.62,
+      "end": 1366.6,
+      "matchedWords": 8
+    },
+    {
+      "id": "line-20",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q21.",
+      "text": "What is the result of denying workers’ right to make their own choices?",
+      "type": "question",
+      "words": 13,
+      "start": 1366.6,
+      "end": 1602.88,
+      "matchedWords": 13
+    },
+    {
+      "id": "line-21",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q22.",
+      "text": "What does the speaker say about the dream airport in Berlin?",
+      "type": "question",
+      "words": 11,
+      "start": 1602.88,
+      "end": 1622.18,
+      "matchedWords": 11
+    },
+    {
+      "id": "line-22",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q23.",
+      "text": "Why was there a need for a new airport in Berlin?",
+      "type": "question",
+      "words": 11,
+      "start": 1622.18,
+      "end": 1640.3,
+      "matchedWords": 11
+    },
+    {
+      "id": "line-23",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q24.",
+      "text": "Why did Berlin postpone the opening of its dream airport again and again?",
+      "type": "question",
+      "words": 13,
+      "start": 1640.3,
+      "end": 1660.16,
+      "matchedWords": 13
+    },
+    {
+      "id": "line-24",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q25.",
+      "text": "What happens while the airport remains unused?",
+      "type": "question",
+      "words": 7,
+      "start": 1660.16,
+      "end": 1681.006,
+      "matchedWords": 7
+    }
+  ]
+}

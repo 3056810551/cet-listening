@@ -1,0 +1,296 @@
+{
+  "version": 1,
+  "markdown": "2019-12-1.md",
+  "source": {
+    "markdown": {
+      "name": "2019-12-1.md",
+      "size": 1588,
+      "mtimeNs": 1778852032414317000
+    }
+  },
+  "generatedAt": 1778852285,
+  "sections": [
+    {
+      "id": "intro",
+      "title": "INTRO",
+      "firstLineId": "line-0"
+    }
+  ],
+  "lines": [
+    {
+      "id": "line-0",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q1.",
+      "text": "What is the woman’s profession?",
+      "type": "question",
+      "words": 6,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-1",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q2.",
+      "text": "What is one of the woman’s main responsibilities?",
+      "type": "question",
+      "words": 9,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-2",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q3.",
+      "text": "What do many people think about the woman’s job?",
+      "type": "question",
+      "words": 10,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-3",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q4.",
+      "text": "What helped the woman to get her current position?",
+      "type": "question",
+      "words": 9,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-4",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q5.",
+      "text": "What does the man think of the satire Frankie he recently watched?",
+      "type": "question",
+      "words": 12,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-5",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q6.",
+      "text": "What does the man say especial about the satire Frankie?",
+      "type": "question",
+      "words": 10,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-6",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q7.",
+      "text": "What does the woman say she is going to do with the satire Frankie?",
+      "type": "question",
+      "words": 14,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-7",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q8.",
+      "text": "What does the woman say about the comedy The Big Bang Theory?",
+      "type": "question",
+      "words": 12,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-8",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q9.",
+      "text": "What does the speaker say about players of contact sports?",
+      "type": "question",
+      "words": 10,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-9",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q10.",
+      "text": "What do longevity statistics reveal about the average person?",
+      "type": "question",
+      "words": 9,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-10",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q11.",
+      "text": "What bonus does the keep moving principle bring us according to the speaker?",
+      "type": "question",
+      "words": 13,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-11",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q12.",
+      "text": "What does the passage say about people’s mind?",
+      "type": "question",
+      "words": 9,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-12",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q13.",
+      "text": "For what purpose did the researchers develop the new app?",
+      "type": "question",
+      "words": 10,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-13",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q14.",
+      "text": "How does daydreaming benefit people according to some researchers?",
+      "type": "question",
+      "words": 9,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-14",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q15.",
+      "text": "What was the finding of the experiment with 145 undergraduates?",
+      "type": "question",
+      "words": 10,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-15",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q16.",
+      "text": "What does the speaker say about the Viking wooden churches?",
+      "type": "question",
+      "words": 10,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-16",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q17.",
+      "text": "What is special about most of the Viking wooden churches?",
+      "type": "question",
+      "words": 10,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-17",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q18.",
+      "text": "Why were the Viking churches constructed from wood?",
+      "type": "question",
+      "words": 8,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-18",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q19.",
+      "text": "What are the three interesting studies about?",
+      "type": "question",
+      "words": 7,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-19",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q20.",
+      "text": "What does the second study find about nine-month-old babies?",
+      "type": "question",
+      "words": 11,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-20",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q21.",
+      "text": "What is the 1980 study about?",
+      "type": "question",
+      "words": 6,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-21",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q22.",
+      "text": "What does the speaker say about being over collaborative?",
+      "type": "question",
+      "words": 9,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-22",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q23.",
+      "text": "What does the speaker say about people engaged in collaborative projects?",
+      "type": "question",
+      "words": 11,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-23",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q24.",
+      "text": "How do people benefit from working in a team?",
+      "type": "question",
+      "words": 9,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-24",
+      "sectionId": "intro",
+      "sectionTitle": "INTRO",
+      "speaker": "Q25.",
+      "text": "Why is it undesirable to spend too much time trying to reach consensus?",
+      "type": "question",
+      "words": 13,
+      "start": 0,
+      "end": 0
+    }
+  ]
+}
