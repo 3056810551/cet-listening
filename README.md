@@ -4,7 +4,7 @@
 
 当前仓库已经按同一数据结构整理了 37 套六级听力材料；四级材料也可以用相同的命名和生成流程接入。
 
-![界面预览](docs/app-preview.png)
+![界面预览](docs/img.png)
 
 ## 功能特性
 
@@ -330,11 +330,11 @@ python3 data_tools/normalize_transcripts.py data_tools/0.md --year 2026 --month 
 
 `timings.py` 默认使用以下环境变量：
 
-| 变量 | 默认值 | 说明 |
-| --- | --- | --- |
-| `WHISPER_MODEL` | `small.en` | faster-whisper 模型名称 |
-| `WHISPER_DEVICE` | `cpu` | 运行设备，例如 `cpu` 或 `cuda` |
-| `WHISPER_COMPUTE_TYPE` | `int8` | 计算类型，例如 `int8`、`float16` |
+| 变量                   | 默认值     | 说明                             |
+| ---------------------- | ---------- | -------------------------------- |
+| `WHISPER_MODEL`        | `small.en` | faster-whisper 模型名称          |
+| `WHISPER_DEVICE`       | `cpu`      | 运行设备，例如 `cpu` 或 `cuda`   |
+| `WHISPER_COMPUTE_TYPE` | `int8`     | 计算类型，例如 `int8`、`float16` |
 
 CPU 示例：
 
@@ -446,6 +446,8 @@ python3 data_tools/scan.py --gen --force
 - PWA 离线缓存。
 - SQLite 或后端 API，用于更大规模题库检索。
 
-## 版权与使用说明
+## 许可证
 
-本项目用于个人学习、听力训练和本地材料整理。音频、原文和真题内容的版权归原权利方所有，请在合法范围内使用和分发相关资源。
+项目代码采用 [MIT License](LICENSE) 开源。
+
+音频、原文和真题内容的版权归原权利方所有。本项目用于个人学习、听力训练和本地材料整理，请在合法范围内使用和分发相关资源。
