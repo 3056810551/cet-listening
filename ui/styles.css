@@ -229,12 +229,36 @@ body.resizing {
 }
 
 .track-list {
+  --sb-track-color: #eef4f5;
+  --sb-thumb-color: #9fcbbb;
+  --sb-size: 9px;
   display: grid;
   flex: 1 1 auto;
   align-content: start;
   min-height: 0;
   margin: 0 -18px -22px;
   overflow: auto;
+}
+
+.track-list::-webkit-scrollbar {
+  width: calc(var(--sb-size) - 3px);
+}
+
+.track-list::-webkit-scrollbar-track {
+  background: var(--sb-track-color);
+  border-radius: 7px;
+}
+
+.track-list::-webkit-scrollbar-thumb {
+  background: var(--sb-thumb-color);
+  border-radius: 7px;
+}
+
+@supports not selector(::-webkit-scrollbar) {
+  .track-list {
+    scrollbar-color: var(--sb-thumb-color) var(--sb-track-color);
+    scrollbar-width: thin;
+  }
 }
 
 .track-list-item {
