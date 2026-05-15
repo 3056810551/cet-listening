@@ -18,6 +18,24 @@
     "available": true
   },
   {
+    "id": "2019-6-1",
+    "title": "2019 年 6 月 第 1 套",
+    "markdown": "transcripts/2019-6-1.md",
+    "transcript": "transcripts/2019-6-1.transcript.json",
+    "audio": "audio/2019年06月六级听力第1套.mp3",
+    "timings": "transcripts/2019-6-1.timings.json",
+    "available": true
+  },
+  {
+    "id": "2019-6-2",
+    "title": "2019 年 6 月 第 2 套",
+    "markdown": "transcripts/2019-6-2.md",
+    "transcript": "transcripts/2019-6-2.transcript.json",
+    "audio": "audio/2019年06月六级听力第2套.mp3",
+    "timings": "transcripts/2019-6-2.timings.json",
+    "available": true
+  },
+  {
     "id": "2020-12-1",
     "title": "2020 年 12 月 第 1 套",
     "markdown": "transcripts/2020-12-1.md",
@@ -42,15 +60,6 @@
     "transcript": "transcripts/2020-7-1.transcript.json",
     "audio": "audio/2020年7月六级听力第1套.mp3",
     "timings": "transcripts/2020-7-1.timings.json",
-    "available": true
-  },
-  {
-    "id": "2020-9-1",
-    "title": "2020 年 9 月 第 1 套",
-    "markdown": "transcripts/2020-9-1.md",
-    "transcript": "transcripts/2020-9-1.transcript.json",
-    "audio": "audio/2020年09月六级听力第1套.mp3",
-    "timings": "transcripts/2020-9-1.timings.json",
     "available": true
   },
   {

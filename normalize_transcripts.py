@@ -64,13 +64,14 @@ def main(argv=None):
     )
     parser.add_argument("--year", type=int, help="Override year detected from the title.")
     parser.add_argument("--month", type=int, help="Override month detected from the title.")
+    parser.add_argument("--set", type=int, help="Only extract the specified set number.")
     parser.add_argument("--force", action="store_true", help="Overwrite existing output files.")
     args = parser.parse_args(argv)
 
     source = args.input.resolve()
     text = source.read_text(encoding="utf-8-sig")
     year, month = detect_year_month(text, args.year, args.month)
-    tracks = split_sets(text)
+    tracks = split_sets(text, args.set)
 
     if not tracks:
         raise SystemExit(f"No transcript sets found in {source}")
@@ -98,7 +99,7 @@ def detect_year_month(text, year_override=None, month_override=None):
     return year, month
 
 
-def split_sets(text):
+def split_sets(text, selected_set=None):
     tracks = []
     current_set = None
     current_lines = []
@@ -114,7 +115,7 @@ def split_sets(text):
             saw_explicit_set = True
             if current_set is not None:
                 tracks.append((current_set, trim_blank_edges(current_lines)))
-            current_set = set_num
+            current_set = set_num if selected_set is None or set_num == selected_set else None
             current_lines = []
             current_heading = None
             continue
@@ -134,7 +135,7 @@ def split_sets(text):
         heading = normalize_item_heading(stripped)
         if heading:
             if current_set is None:
-                current_set = 1
+                current_set = selected_set or 1
             append_blank(current_lines)
             current_lines.append(f"## {heading}")
             append_blank(current_lines)
@@ -158,7 +159,7 @@ def split_sets(text):
         if current_heading:
             current_lines.append(normalize_speaker(stripped))
 
-    if current_set is not None:
+    if current_set is not None and (selected_set is None or current_set == selected_set):
         tracks.append((current_set, trim_blank_edges(current_lines)))
 
     if saw_explicit_set:
@@ -167,19 +168,16 @@ def split_sets(text):
 
 
 def detect_set_number(line):
-    dedicated = re.match(r"^#{1,2}\s*第?\s*([一二三四五六七八九十\d]+)\s*套\s*$", line)
+    text = re.sub(r"^#{1,6}\s*", "", line).strip()
+    dedicated = re.match(r"^(?:第\s*)?([一二三四五六七八九十\d]+)\s*套(?:[（(].*[）)])?$", text)
     if dedicated:
         return set_number(dedicated.group(1))
 
-    if "两套" in line or "二套" in line and "、" in line:
+    if "两套" in text or ("二套" in text and "、" in text):
         return None
 
-    if "唯一" in line and "套" in line:
+    if "唯一" in text and "套" in text:
         return 1
-
-    title = re.match(r"^#\s+.*?（第?\s*([一二三四五六七八九十\d]+)\s*套）\s*$", line)
-    if title:
-        return set_number(title.group(1))
 
     return None
 

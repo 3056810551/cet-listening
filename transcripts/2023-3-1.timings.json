@@ -2,7 +2,7 @@
   "version": 2,
   "audio": "2023.03六级真题第1套听力音频.mp3",
   "markdown": "2023-3-1.md",
-  "duration": 1652.715,
+  "duration": 1575.079,
   "source": {
     "markdown": {
       "name": "2023-3-1.md",
@@ -11,12 +11,12 @@
     },
     "audio": {
       "name": "2023.03六级真题第1套听力音频.mp3",
-      "size": 20119016,
-      "mtimeNs": 1778845104231064900
+      "size": 19174050,
+      "mtimeNs": 1778858785198923700
     }
   },
-  "generatedAt": 1778849728,
-  "elapsedSeconds": 230.38,
+  "generatedAt": 1778859469,
+  "elapsedSeconds": 192.75,
   "mode": "faster-whisper",
   "model": "small.en",
   "device": "cpu",
@@ -25,9 +25,9 @@
   "transcription": {
     "language": "en",
     "languageProbability": 1.0,
-    "duration": 1652.727,
-    "segmentCount": 231,
-    "wordCount": 2970
+    "duration": 1575.079,
+    "segmentCount": 266,
+    "wordCount": 2929
   },
   "cached": false,
   "sections": [
@@ -76,9 +76,9 @@
       "text": "Thanks for inviting me out tonight.",
       "type": "dialogue",
       "words": 6,
-      "start": 0.0,
-      "end": 3.357,
-      "matchedWords": 0
+      "start": 36.24,
+      "end": 38.48,
+      "matchedWords": 6
     },
     {
       "id": "line-1",
@@ -88,9 +88,9 @@
       "text": "I've been wanting to try this place for weeks.",
       "type": "dialogue",
       "words": 9,
-      "start": 3.357,
-      "end": 8.393,
-      "matchedWords": 0
+      "start": 38.48,
+      "end": 41.66,
+      "matchedWords": 9
     },
     {
       "id": "line-2",
@@ -100,9 +100,9 @@
       "text": "I usually pass it on my way home from work but never seem to have time to stop.",
       "type": "dialogue",
       "words": 18,
-      "start": 8.393,
-      "end": 18.465,
-      "matchedWords": 0
+      "start": 41.66,
+      "end": 46.92,
+      "matchedWords": 18
     },
     {
       "id": "line-3",
@@ -112,9 +112,9 @@
       "text": "I've been dying to come here as well.",
       "type": "dialogue",
       "words": 8,
-      "start": 18.465,
-      "end": 22.941,
-      "matchedWords": 0
+      "start": 46.92,
+      "end": 49.12,
+      "matchedWords": 8
     },
     {
       "id": "line-4",
@@ -124,9 +124,9 @@
       "text": "I was worried that the menu might not be accommodating.",
       "type": "dialogue",
       "words": 10,
-      "start": 22.941,
-      "end": 28.537,
-      "matchedWords": 0
+      "start": 49.12,
+      "end": 52.1,
+      "matchedWords": 10
     },
     {
       "id": "line-5",
@@ -136,9 +136,9 @@
       "text": "But one of my close friends ate here last week.",
       "type": "dialogue",
       "words": 10,
-      "start": 28.537,
-      "end": 34.132,
-      "matchedWords": 0
+      "start": 52.1,
+      "end": 55.0,
+      "matchedWords": 10
     },
     {
       "id": "line-6",
@@ -148,9 +148,9 @@
       "text": "She's a vegetarian.",
       "type": "dialogue",
       "words": 3,
-      "start": 34.132,
-      "end": 36.37,
-      "matchedWords": 0
+      "start": 55.0,
+      "end": 55.6,
+      "matchedWords": 3
     },
     {
       "id": "line-7",
@@ -160,9 +160,9 @@
       "text": "She told me that there were a lot of options for her, and they offered alternative dishes.",
       "type": "dialogue",
       "words": 17,
-      "start": 36.37,
-      "end": 45.883,
-      "matchedWords": 0
+      "start": 55.6,
+      "end": 62.08,
+      "matchedWords": 17
     },
     {
       "id": "line-8",
@@ -172,9 +172,9 @@
       "text": "But you're not vegetarian, are you?",
       "type": "dialogue",
       "words": 6,
-      "start": 45.883,
-      "end": 49.24,
-      "matchedWords": 0
+      "start": 62.08,
+      "end": 64.42,
+      "matchedWords": 6
     },
     {
       "id": "line-9",
@@ -184,9 +184,9 @@
       "text": "Well, not entirely.",
       "type": "dialogue",
       "words": 3,
-      "start": 49.24,
-      "end": 49.344,
-      "matchedWords": 1
+      "start": 64.42,
+      "end": 66.3,
+      "matchedWords": 3
     },
     {
       "id": "line-10",
@@ -196,9 +196,9 @@
       "text": "I don't eat meat at all, but I don't have a problem eating fish, seafood, or eggs.",
       "type": "dialogue",
       "words": 17,
-      "start": 49.344,
-      "end": 49.785,
-      "matchedWords": 0
+      "start": 66.3,
+      "end": 72.18,
+      "matchedWords": 17
     },
     {
       "id": "line-11",
@@ -208,9 +208,9 @@
       "text": "Isn't that very difficult?",
       "type": "dialogue",
       "words": 4,
-      "start": 49.785,
-      "end": 49.889,
-      "matchedWords": 0
+      "start": 72.18,
+      "end": 73.92,
+      "matchedWords": 4
     },
     {
       "id": "line-12",
@@ -220,9 +220,9 @@
       "text": "I can't imagine giving up a premium juicy steak or bacon cheeseburgers.",
       "type": "dialogue",
       "words": 12,
-      "start": 49.889,
-      "end": 50.2,
-      "matchedWords": 0
+      "start": 73.92,
+      "end": 78.56,
+      "matchedWords": 12
     },
     {
       "id": "line-13",
@@ -232,9 +232,9 @@
       "text": "I wouldn't know.",
       "type": "dialogue",
       "words": 3,
-      "start": 50.2,
-      "end": 50.304,
-      "matchedWords": 0
+      "start": 78.56,
+      "end": 79.82,
+      "matchedWords": 3
     },
     {
       "id": "line-14",
@@ -244,9 +244,9 @@
       "text": "My parents followed the same diet.",
       "type": "dialogue",
       "words": 6,
-      "start": 50.304,
-      "end": 50.46,
-      "matchedWords": 0
+      "start": 79.82,
+      "end": 82.2,
+      "matchedWords": 6
     },
     {
       "id": "line-15",
@@ -256,9 +256,9 @@
       "text": "Even when I was younger, we never had meat during meals.",
       "type": "dialogue",
       "words": 11,
-      "start": 50.46,
-      "end": 60.19,
-      "matchedWords": 3
+      "start": 82.2,
+      "end": 85.64,
+      "matchedWords": 11
     },
     {
       "id": "line-16",
@@ -268,9 +268,9 @@
       "text": "And I never really had a craving to try it.",
       "type": "dialogue",
       "words": 10,
-      "start": 60.19,
-      "end": 69.036,
-      "matchedWords": 0
+      "start": 85.64,
+      "end": 88.64,
+      "matchedWords": 10
     },
     {
       "id": "line-17",
@@ -280,9 +280,9 @@
       "text": "I bet it would be hard though, giving up something you're accustomed to eating.",
       "type": "dialogue",
       "words": 14,
-      "start": 69.036,
-      "end": 81.42,
-      "matchedWords": 0
+      "start": 88.64,
+      "end": 93.36,
+      "matchedWords": 14
     },
     {
       "id": "line-18",
@@ -292,9 +292,9 @@
       "text": "I tried cutting back on coffee in the morning and it was awful.",
       "type": "dialogue",
       "words": 13,
-      "start": 81.42,
-      "end": 90.469,
-      "matchedWords": 6
+      "start": 93.36,
+      "end": 97.56,
+      "matchedWords": 13
     },
     {
       "id": "line-19",
@@ -304,9 +304,9 @@
       "text": "Come to think of it, it was probably even worse for my colleagues that had to deal with me at morning meetings.",
       "type": "dialogue",
       "words": 22,
-      "start": 90.469,
-      "end": 105.782,
-      "matchedWords": 0
+      "start": 97.56,
+      "end": 103.86,
+      "matchedWords": 22
     },
     {
       "id": "line-20",
@@ -316,9 +316,9 @@
       "text": "That's even harder to imagine you without coffee.",
       "type": "dialogue",
       "words": 8,
-      "start": 105.782,
-      "end": 111.35,
-      "matchedWords": 0
+      "start": 103.86,
+      "end": 107.48,
+      "matchedWords": 8
     },
     {
       "id": "line-21",
@@ -328,9 +328,9 @@
       "text": "So you say your parents also followed a partially vegetarian diet.",
       "type": "dialogue",
       "words": 11,
-      "start": 111.35,
-      "end": 119.007,
-      "matchedWords": 0
+      "start": 107.48,
+      "end": 112.42,
+      "matchedWords": 11
     },
     {
       "id": "line-22",
@@ -340,9 +340,9 @@
       "text": "Why did they decide to do that?",
       "type": "dialogue",
       "words": 7,
-      "start": 119.007,
-      "end": 123.879,
-      "matchedWords": 0
+      "start": 112.42,
+      "end": 114.5,
+      "matchedWords": 7
     },
     {
       "id": "line-23",
@@ -352,9 +352,9 @@
       "text": "That's an interesting question.",
       "type": "dialogue",
       "words": 4,
-      "start": 123.879,
-      "end": 126.664,
-      "matchedWords": 0
+      "start": 114.5,
+      "end": 116.28,
+      "matchedWords": 4
     },
     {
       "id": "line-24",
@@ -364,9 +364,9 @@
       "text": "I never thought to ask them though.",
       "type": "dialogue",
       "words": 7,
-      "start": 126.664,
-      "end": 131.536,
-      "matchedWords": 0
+      "start": 116.28,
+      "end": 118.64,
+      "matchedWords": 7
     },
     {
       "id": "line-25",
@@ -376,9 +376,9 @@
       "text": "My best guess is for health reasons.",
       "type": "dialogue",
       "words": 7,
-      "start": 131.536,
-      "end": 136.408,
-      "matchedWords": 0
+      "start": 118.64,
+      "end": 121.5,
+      "matchedWords": 7
     },
     {
       "id": "line-26",
@@ -388,9 +388,9 @@
       "text": "They're not terribly active or knowledgeable about animal preservation efforts, but they're serious about their health.",
       "type": "dialogue",
       "words": 16,
-      "start": 136.408,
-      "end": 147.545,
-      "matchedWords": 0
+      "start": 121.5,
+      "end": 128.62,
+      "matchedWords": 16
     },
     {
       "id": "line-27",
@@ -400,9 +400,9 @@
       "text": "Both are in their 70s now, eat organic as often as possible and take part in regular physical exercise.",
       "type": "dialogue",
       "words": 19,
-      "start": 147.545,
-      "end": 160.77,
-      "matchedWords": 0
+      "start": 128.62,
+      "end": 136.04,
+      "matchedWords": 19
     },
     {
       "id": "line-28",
@@ -412,9 +412,9 @@
       "text": "Neither of them has any health problems, and they hardly ever get sick.",
       "type": "dialogue",
       "words": 13,
-      "start": 160.77,
-      "end": 169.819,
-      "matchedWords": 0
+      "start": 136.04,
+      "end": 140.26,
+      "matchedWords": 13
     },
     {
       "id": "line-29",
@@ -424,9 +424,9 @@
       "text": "In that case, I might give it a try someday.",
       "type": "dialogue",
       "words": 10,
-      "start": 169.819,
-      "end": 176.78,
-      "matchedWords": 0
+      "start": 140.26,
+      "end": 143.5,
+      "matchedWords": 10
     },
     {
       "id": "line-30",
@@ -436,9 +436,9 @@
       "text": "Now back to the menu.",
       "type": "dialogue",
       "words": 5,
-      "start": 176.78,
-      "end": 180.26,
-      "matchedWords": 0
+      "start": 143.5,
+      "end": 144.92,
+      "matchedWords": 5
     },
     {
       "id": "line-31",
@@ -448,9 +448,9 @@
       "text": "What are you going to have?",
       "type": "dialogue",
       "words": 6,
-      "start": 180.26,
-      "end": 184.71,
-      "matchedWords": 2
+      "start": 144.92,
+      "end": 153.26,
+      "matchedWords": 6
     },
     {
       "id": "line-32",
@@ -460,9 +460,9 @@
       "text": "Where does the conversation most probably take place?",
       "type": "question",
       "words": 8,
-      "start": 184.71,
-      "end": 197.32,
-      "matchedWords": 0
+      "start": 153.26,
+      "end": 171.5,
+      "matchedWords": 8
     },
     {
       "id": "line-33",
@@ -472,9 +472,9 @@
       "text": "What do we learn about the woman?",
       "type": "question",
       "words": 7,
-      "start": 197.32,
-      "end": 217.16,
-      "matchedWords": 6
+      "start": 171.5,
+      "end": 188.2,
+      "matchedWords": 7
     },
     {
       "id": "line-34",
@@ -484,9 +484,9 @@
       "text": "What would be a difficult thing to do according to the woman?",
       "type": "question",
       "words": 12,
-      "start": 217.16,
-      "end": 430.1,
-      "matchedWords": 6
+      "start": 188.2,
+      "end": 206.88,
+      "matchedWords": 12
     },
     {
       "id": "line-35",
@@ -496,9 +496,9 @@
       "text": "What does the woman say about her parents?",
       "type": "question",
       "words": 8,
-      "start": 430.1,
-      "end": 489.564,
-      "matchedWords": 6
+      "start": 206.88,
+      "end": 225.44,
+      "matchedWords": 8
     },
     {
       "id": "line-36",
@@ -508,9 +508,9 @@
       "text": "How did your annual performance evaluation meeting with your manager go?",
       "type": "dialogue",
       "words": 11,
-      "start": 489.564,
-      "end": 528.04,
-      "matchedWords": 0
+      "start": 225.44,
+      "end": 229.7,
+      "matchedWords": 11
     },
     {
       "id": "line-37",
@@ -520,9 +520,9 @@
       "text": "Did you get much in the way of praise?",
       "type": "dialogue",
       "words": 9,
-      "start": 528.04,
-      "end": 529.331,
-      "matchedWords": 4
+      "start": 229.7,
+      "end": 231.68,
+      "matchedWords": 9
     },
     {
       "id": "line-38",
@@ -532,9 +532,9 @@
       "text": "Next to zero.",
       "type": "dialogue",
       "words": 3,
-      "start": 529.331,
-      "end": 529.905,
-      "matchedWords": 0
+      "start": 231.68,
+      "end": 233.16,
+      "matchedWords": 3
     },
     {
       "id": "line-39",
@@ -544,9 +544,9 @@
       "text": "When we came to the part about discussing my areas for growth, he bluntly told me that I had an attitude problem.",
       "type": "dialogue",
       "words": 22,
-      "start": 529.905,
-      "end": 533.06,
-      "matchedWords": 0
+      "start": 233.16,
+      "end": 240.64,
+      "matchedWords": 22
     },
     {
       "id": "line-40",
@@ -556,9 +556,9 @@
       "text": "But he wouldn't really expand on that description.",
       "type": "dialogue",
       "words": 8,
-      "start": 533.06,
-      "end": 534.208,
-      "matchedWords": 0
+      "start": 240.64,
+      "end": 243.76,
+      "matchedWords": 8
     },
     {
       "id": "line-41",
@@ -568,9 +568,9 @@
       "text": "He said it's the little things I do and say.",
       "type": "dialogue",
       "words": 10,
-      "start": 534.208,
-      "end": 535.642,
-      "matchedWords": 0
+      "start": 243.76,
+      "end": 246.6,
+      "matchedWords": 10
     },
     {
       "id": "line-42",
@@ -580,9 +580,9 @@
       "text": "Did you ask him for a specific example?",
       "type": "dialogue",
       "words": 8,
-      "start": 535.642,
-      "end": 536.789,
-      "matchedWords": 0
+      "start": 246.6,
+      "end": 249.6,
+      "matchedWords": 8
     },
     {
       "id": "line-43",
@@ -592,9 +592,9 @@
       "text": "I did ask him a few more questions to try to narrow it down.",
       "type": "dialogue",
       "words": 14,
-      "start": 536.789,
-      "end": 538.797,
-      "matchedWords": 0
+      "start": 249.6,
+      "end": 253.96,
+      "matchedWords": 13
     },
     {
       "id": "line-44",
@@ -604,9 +604,9 @@
       "text": "He said my constant questioning of him and his decisions was the most obvious example he could give.",
       "type": "dialogue",
       "words": 18,
-      "start": 538.797,
-      "end": 541.379,
-      "matchedWords": 0
+      "start": 253.96,
+      "end": 259.92,
+      "matchedWords": 18
     },
     {
       "id": "line-45",
@@ -616,9 +616,9 @@
       "text": "Then our conversation was swiftly brought to a close.",
       "type": "dialogue",
       "words": 9,
-      "start": 541.379,
-      "end": 542.67,
-      "matchedWords": 0
+      "start": 259.92,
+      "end": 264.18,
+      "matchedWords": 9
     },
     {
       "id": "line-46",
@@ -628,9 +628,9 @@
       "text": "I had a similar experience once, my manager told me I was too honest.",
       "type": "dialogue",
       "words": 14,
-      "start": 542.67,
-      "end": 544.678,
-      "matchedWords": 0
+      "start": 264.18,
+      "end": 269.36,
+      "matchedWords": 14
     },
     {
       "id": "line-47",
@@ -640,9 +640,9 @@
       "text": "In most cases, I thought my honesty was helpful, as did my colleagues, but my manager thought otherwise.",
       "type": "dialogue",
       "words": 18,
-      "start": 544.678,
-      "end": 547.26,
-      "matchedWords": 0
+      "start": 269.36,
+      "end": 276.46,
+      "matchedWords": 18
     },
     {
       "id": "line-48",
@@ -652,9 +652,9 @@
       "text": "Some managers really adopt manipulative language to disguise the unreasonable choices they have made.",
       "type": "dialogue",
       "words": 14,
-      "start": 547.26,
-      "end": 549.268,
-      "matchedWords": 0
+      "start": 276.46,
+      "end": 283.22,
+      "matchedWords": 14
     },
     {
       "id": "line-49",
@@ -664,9 +664,9 @@
       "text": "They don't use the rational power of arguments to resolve issues of conflict or complaints about unfairness.",
       "type": "dialogue",
       "words": 17,
-      "start": 549.268,
-      "end": 551.706,
-      "matchedWords": 0
+      "start": 283.22,
+      "end": 290.86,
+      "matchedWords": 17
     },
     {
       "id": "line-50",
@@ -676,9 +676,9 @@
       "text": "Right.",
       "type": "dialogue",
       "words": 1,
-      "start": 551.706,
-      "end": 552.28,
-      "matchedWords": 0
+      "start": 290.86,
+      "end": 292.1,
+      "matchedWords": 1
     },
     {
       "id": "line-51",
@@ -688,9 +688,9 @@
       "text": "Some employ their persuasive and influential communication style to win workplace arguments by compelling people to perform the intended action.",
       "type": "dialogue",
       "words": 20,
-      "start": 552.28,
-      "end": 555.149,
-      "matchedWords": 0
+      "start": 292.1,
+      "end": 302.64,
+      "matchedWords": 20
     },
     {
       "id": "line-52",
@@ -700,9 +700,9 @@
       "text": "Exactly.",
       "type": "dialogue",
       "words": 1,
-      "start": 555.149,
-      "end": 555.722,
-      "matchedWords": 0
+      "start": 302.64,
+      "end": 303.82,
+      "matchedWords": 1
     },
     {
       "id": "line-53",
@@ -712,9 +712,9 @@
       "text": "Too honest, isn't that a good thing?",
       "type": "dialogue",
       "words": 7,
-      "start": 555.722,
-      "end": 556.726,
-      "matchedWords": 0
+      "start": 303.82,
+      "end": 306.62,
+      "matchedWords": 7
     },
     {
       "id": "line-54",
@@ -724,9 +724,9 @@
       "text": "I thought that's surely something we should have covered earlier in the section discussing strengths and talents.",
       "type": "dialogue",
       "words": 17,
-      "start": 556.726,
-      "end": 559.165,
-      "matchedWords": 0
+      "start": 306.62,
+      "end": 313.28,
+      "matchedWords": 17
     },
     {
       "id": "line-55",
@@ -736,9 +736,9 @@
       "text": "But now, honesty was deemed to be more of a sin than a virtue, since it made people feel uncomfortable or at least it made the most powerful folks feel uncomfortable.",
       "type": "dialogue",
       "words": 31,
-      "start": 559.165,
-      "end": 563.611,
-      "matchedWords": 0
+      "start": 313.28,
+      "end": 324.24,
+      "matchedWords": 30
     },
     {
       "id": "line-56",
@@ -748,9 +748,9 @@
       "text": "Indeed, rhetoric is viewed by many philosophers as the method through which the powerful accumulate more power.",
       "type": "dialogue",
       "words": 17,
-      "start": 563.611,
-      "end": 566.05,
-      "matchedWords": 0
+      "start": 324.24,
+      "end": 332.44,
+      "matchedWords": 17
     },
     {
       "id": "line-57",
@@ -760,9 +760,9 @@
       "text": "By virtue of having the loudest voice, they're able to command greater attention and to further assert their dominance.",
       "type": "dialogue",
       "words": 19,
-      "start": 566.05,
-      "end": 568.775,
-      "matchedWords": 0
+      "start": 332.44,
+      "end": 339.66,
+      "matchedWords": 19
     },
     {
       "id": "line-58",
@@ -772,9 +772,9 @@
       "text": "Even when what they're saying doesn't really make much sense.",
       "type": "dialogue",
       "words": 10,
-      "start": 568.775,
-      "end": 570.209,
-      "matchedWords": 0
+      "start": 339.66,
+      "end": 343.48,
+      "matchedWords": 10
     },
     {
       "id": "line-59",
@@ -784,9 +784,9 @@
       "text": "And retaining their power and prestige is their priority.",
       "type": "dialogue",
       "words": 9,
-      "start": 570.209,
-      "end": 571.5,
-      "matchedWords": 0
+      "start": 343.48,
+      "end": 347.42,
+      "matchedWords": 9
     },
     {
       "id": "line-60",
@@ -796,9 +796,9 @@
       "text": "It's what makes the most sense to a lot of them.",
       "type": "dialogue",
       "words": 11,
-      "start": 571.5,
-      "end": 571.902,
-      "matchedWords": 3
+      "start": 347.42,
+      "end": 356.76,
+      "matchedWords": 11
     },
     {
       "id": "line-61",
@@ -808,9 +808,9 @@
       "text": "What was the manager's reason for giving little praise for the man's performance?",
       "type": "question",
       "words": 13,
-      "start": 571.902,
-      "end": 572.707,
-      "matchedWords": 0
+      "start": 356.76,
+      "end": 376.84,
+      "matchedWords": 13
     },
     {
       "id": "line-62",
@@ -820,9 +820,9 @@
       "text": "What does the woman say about some managers?",
       "type": "question",
       "words": 8,
-      "start": 572.707,
-      "end": 573.329,
-      "matchedWords": 0
+      "start": 376.84,
+      "end": 394.76,
+      "matchedWords": 8
     },
     {
       "id": "line-63",
@@ -832,9 +832,9 @@
       "text": "According to the woman, what do some managers think of honesty?",
       "type": "question",
       "words": 11,
-      "start": 573.329,
-      "end": 574.061,
-      "matchedWords": 0
+      "start": 394.76,
+      "end": 413.64,
+      "matchedWords": 11
     },
     {
       "id": "line-64",
@@ -844,9 +844,9 @@
       "text": "What does the woman think is the priority of many managers?",
       "type": "question",
       "words": 11,
-      "start": 574.061,
-      "end": 574.792,
-      "matchedWords": 0
+      "start": 413.64,
+      "end": 459.78,
+      "matchedWords": 11
     },
     {
       "id": "line-65",
@@ -856,9 +856,9 @@
       "text": "Athletes are seen as heroes because they can do things that most of us can't do.",
       "type": "narration",
       "words": 16,
-      "start": 574.792,
-      "end": 575.378,
-      "matchedWords": 0
+      "start": 459.78,
+      "end": 465.2,
+      "matchedWords": 16
     },
     {
       "id": "line-66",
@@ -868,9 +868,9 @@
       "text": "They can hit fast balls coming at them at nearly 100 miles an hour, and leap and hang in the air, seemingly defying gravity.",
       "type": "narration",
       "words": 24,
-      "start": 575.378,
-      "end": 576.256,
-      "matchedWords": 0
+      "start": 465.2,
+      "end": 475.98,
+      "matchedWords": 22
     },
     {
       "id": "line-67",
@@ -880,9 +880,9 @@
       "text": "They get paid millions of dollars for their efforts, and their names and faces appear on everything from running shoes to advertising boards.",
       "type": "narration",
       "words": 23,
-      "start": 576.256,
-      "end": 577.097,
-      "matchedWords": 0
+      "start": 475.98,
+      "end": 485.72,
+      "matchedWords": 23
     },
     {
       "id": "line-68",
@@ -892,9 +892,9 @@
       "text": "Athletes who are champions also show qualities such as perseverance, dedication, and the ability to keep their cool under pressure.",
       "type": "narration",
       "words": 20,
-      "start": 577.097,
-      "end": 577.829,
-      "matchedWords": 0
+      "start": 485.72,
+      "end": 495.22,
+      "matchedWords": 20
     },
     {
       "id": "line-69",
@@ -904,9 +904,9 @@
       "text": "Many show those same qualities off the playing field, too.",
       "type": "narration",
       "words": 10,
-      "start": 577.829,
-      "end": 578.195,
-      "matchedWords": 0
+      "start": 495.22,
+      "end": 499.92,
+      "matchedWords": 10
     },
     {
       "id": "line-70",
@@ -916,9 +916,9 @@
       "text": "Stories about superstar athletes teach us about working hard and believing in ourselves and in being passionate about what we do.",
       "type": "narration",
       "words": 21,
-      "start": 578.195,
-      "end": 578.963,
-      "matchedWords": 0
+      "start": 499.92,
+      "end": 508.62,
+      "matchedWords": 21
     },
     {
       "id": "line-71",
@@ -928,9 +928,9 @@
       "text": "Although it's usually bad behavior that gets an athlete a spot on the 6 o'clock news, many high-profile players work hard to be positive role models to children.",
       "type": "narration",
       "words": 29,
-      "start": 578.963,
-      "end": 580.024,
-      "matchedWords": 0
+      "start": 508.62,
+      "end": 519.5,
+      "matchedWords": 28
     },
     {
       "id": "line-72",
@@ -940,9 +940,9 @@
       "text": "They raise money for charities and act as mentors, talking to student groups and volunteering their time to programs that help children keep off drugs and stay in school.",
       "type": "narration",
       "words": 29,
-      "start": 580.024,
-      "end": 581.085,
-      "matchedWords": 0
+      "start": 519.5,
+      "end": 531.9,
+      "matchedWords": 29
     },
     {
       "id": "line-73",
@@ -952,9 +952,9 @@
       "text": "Still, even the greatest champions have flaws.",
       "type": "narration",
       "words": 7,
-      "start": 581.085,
-      "end": 581.341,
-      "matchedWords": 0
+      "start": 531.9,
+      "end": 535.58,
+      "matchedWords": 7
     },
     {
       "id": "line-74",
@@ -964,9 +964,9 @@
       "text": "Just because an athlete has the perfect golf swing doesn't mean he is the perfect parent, friend, or spokesperson.",
       "type": "narration",
       "words": 19,
-      "start": 581.341,
-      "end": 582.036,
-      "matchedWords": 0
+      "start": 535.58,
+      "end": 543.7,
+      "matchedWords": 19
     },
     {
       "id": "line-75",
@@ -976,9 +976,9 @@
       "text": "They also make mistakes.",
       "type": "narration",
       "words": 4,
-      "start": 582.036,
-      "end": 582.182,
-      "matchedWords": 0
+      "start": 543.7,
+      "end": 546.28,
+      "matchedWords": 4
     },
     {
       "id": "line-76",
@@ -988,9 +988,9 @@
       "text": "Separating an athlete's professional and personal lives can be tough.",
       "type": "narration",
       "words": 10,
-      "start": 582.182,
-      "end": 582.548,
-      "matchedWords": 0
+      "start": 546.28,
+      "end": 551.6,
+      "matchedWords": 10
     },
     {
       "id": "line-77",
@@ -1000,9 +1000,9 @@
       "text": "When a sports star gets in trouble with the law or does something wrong in their private life, fans are often left disappointed.",
       "type": "narration",
       "words": 23,
-      "start": 582.548,
-      "end": 583.39,
-      "matchedWords": 0
+      "start": 551.6,
+      "end": 560.24,
+      "matchedWords": 23
     },
     {
       "id": "line-78",
@@ -1012,9 +1012,9 @@
       "text": "Before he died, baseball star, Mickey Mantle, who was plagued with alcohol problems, told young ball players and the fans who admired him \"To play like me; don't be like me\".",
       "type": "narration",
       "words": 31,
-      "start": 583.39,
-      "end": 584.524,
-      "matchedWords": 0
+      "start": 560.24,
+      "end": 578.68,
+      "matchedWords": 29
     },
     {
       "id": "line-79",
@@ -1024,9 +1024,9 @@
       "text": "Why does the speaker say athletes are often viewed as heroes?",
       "type": "question",
       "words": 11,
-      "start": 584.524,
-      "end": 585.255,
-      "matchedWords": 0
+      "start": 578.68,
+      "end": 596.72,
+      "matchedWords": 11
     },
     {
       "id": "line-80",
@@ -1036,9 +1036,9 @@
       "text": "What does the speaker say many high-profile players do?",
       "type": "question",
       "words": 10,
-      "start": 585.255,
-      "end": 585.95,
-      "matchedWords": 0
+      "start": 596.72,
+      "end": 615.076,
+      "matchedWords": 10
     },
     {
       "id": "line-81",
@@ -1048,8 +1048,8 @@
       "text": "What does the speaker say can be difficult?",
       "type": "question",
       "words": 8,
-      "start": 585.95,
-      "end": 586.572,
+      "start": 615.076,
+      "end": 631.5,
       "matchedWords": 0
     },
     {
@@ -1060,9 +1060,9 @@
       "text": "We don't need to tell you that weddings can get expensive.",
       "type": "narration",
       "words": 11,
-      "start": 586.572,
-      "end": 586.975,
-      "matchedWords": 0
+      "start": 631.5,
+      "end": 636.44,
+      "matchedWords": 11
     },
     {
       "id": "line-83",
@@ -1072,9 +1072,9 @@
       "text": "Even with the most meticulous budgeting, a few unexpected costs are bound to occur.",
       "type": "narration",
       "words": 14,
-      "start": 586.975,
-      "end": 587.487,
-      "matchedWords": 0
+      "start": 636.44,
+      "end": 642.8,
+      "matchedWords": 14
     },
     {
       "id": "line-84",
@@ -1084,9 +1084,9 @@
       "text": "While most brides tend to accept this as fact, one Canadian woman who is only known as Susan, attempted to avoid all wedding costs.",
       "type": "narration",
       "words": 24,
-      "start": 587.487,
-      "end": 588.365,
-      "matchedWords": 0
+      "start": 642.8,
+      "end": 652.16,
+      "matchedWords": 24
     },
     {
       "id": "line-85",
@@ -1096,9 +1096,9 @@
       "text": "She did this by asking her friends and family to pay up to attend her wedding.",
       "type": "narration",
       "words": 16,
-      "start": 588.365,
-      "end": 588.95,
-      "matchedWords": 0
+      "start": 652.16,
+      "end": 657.3,
+      "matchedWords": 16
     },
     {
       "id": "line-86",
@@ -1108,9 +1108,9 @@
       "text": "It went about as well as you'd expect.",
       "type": "narration",
       "words": 8,
-      "start": 588.95,
-      "end": 589.243,
-      "matchedWords": 0
+      "start": 657.3,
+      "end": 660.48,
+      "matchedWords": 8
     },
     {
       "id": "line-87",
@@ -1120,9 +1120,9 @@
       "text": "Susan is causing quite the debate online after posting a bizarre Facebook complaint about her now canceled wedding.",
       "type": "narration",
       "words": 18,
-      "start": 589.243,
-      "end": 589.901,
-      "matchedWords": 0
+      "start": 660.48,
+      "end": 669.28,
+      "matchedWords": 17
     },
     {
       "id": "line-88",
@@ -1132,9 +1132,9 @@
       "text": "Yes, the couple called off the wedding just days before their wedding vows, since the guests refused to pay the $1500 attendance fee, the $60000 dream wedding was put on permanent hold.",
       "type": "narration",
       "words": 32,
-      "start": 589.901,
-      "end": 591.072,
-      "matchedWords": 0
+      "start": 669.28,
+      "end": 685.02,
+      "matchedWords": 29
     },
     {
       "id": "line-89",
@@ -1144,9 +1144,9 @@
       "text": "In her long explanation filled with cursing and swearing, the bride accused her friends and family of ruining her marriage and her life.",
       "type": "narration",
       "words": 23,
-      "start": 591.072,
-      "end": 591.913,
-      "matchedWords": 0
+      "start": 685.02,
+      "end": 694.62,
+      "matchedWords": 23
     },
     {
       "id": "line-90",
@@ -1156,9 +1156,9 @@
       "text": "She stated that each guest would only need to pay $1500, while she sacrificed everything for the day.",
       "type": "narration",
       "words": 18,
-      "start": 591.913,
-      "end": 592.572,
-      "matchedWords": 0
+      "start": 694.62,
+      "end": 701.36,
+      "matchedWords": 17
     },
     {
       "id": "line-91",
@@ -1168,9 +1168,9 @@
       "text": "Her maid of honour told her to stick to the budget as she was asking too much from her guests, but Susan ignored her.",
       "type": "narration",
       "words": 24,
-      "start": 592.572,
-      "end": 593.45,
-      "matchedWords": 0
+      "start": 701.36,
+      "end": 711.0,
+      "matchedWords": 22
     },
     {
       "id": "line-92",
@@ -1180,9 +1180,9 @@
       "text": "Not surprisingly, only 8 people responded positively to the wedding invitations and money requests.",
       "type": "narration",
       "words": 14,
-      "start": 593.45,
-      "end": 593.962,
-      "matchedWords": 0
+      "start": 711.0,
+      "end": 718.96,
+      "matchedWords": 13
     },
     {
       "id": "line-93",
@@ -1192,9 +1192,9 @@
       "text": "Realizing they would not be able to afford their dream wedding, Susan's future husband suggested getting married in Las Vegas.",
       "type": "narration",
       "words": 20,
-      "start": 593.962,
-      "end": 594.694,
-      "matchedWords": 0
+      "start": 718.96,
+      "end": 726.06,
+      "matchedWords": 20
     },
     {
       "id": "line-94",
@@ -1204,9 +1204,9 @@
       "text": "The bride quickly shut down the idea, saying she did not want a wedding of gambling and heavy drinking.",
       "type": "narration",
       "words": 19,
-      "start": 594.694,
-      "end": 595.389,
-      "matchedWords": 0
+      "start": 726.06,
+      "end": 733.8,
+      "matchedWords": 19
     },
     {
       "id": "line-95",
@@ -1216,9 +1216,9 @@
       "text": "It seems her dream wedding has now become a nightmare.",
       "type": "narration",
       "words": 10,
-      "start": 595.389,
-      "end": 595.755,
-      "matchedWords": 0
+      "start": 733.8,
+      "end": 744.792,
+      "matchedWords": 10
     },
     {
       "id": "line-96",
@@ -1228,8 +1228,8 @@
       "text": "What does the speaker say about weddings?",
       "type": "question",
       "words": 7,
-      "start": 595.755,
-      "end": 596.34,
+      "start": 744.792,
+      "end": 762.38,
       "matchedWords": 0
     },
     {
@@ -1240,9 +1240,9 @@
       "text": "What do we learn about the wedding of the Canadian woman, Susan?",
       "type": "question",
       "words": 12,
-      "start": 596.34,
-      "end": 845.55,
-      "matchedWords": 8
+      "start": 762.38,
+      "end": 781.26,
+      "matchedWords": 12
     },
     {
       "id": "line-98",
@@ -1252,9 +1252,9 @@
       "text": "What did Susan's maid of honor advise her to do?",
       "type": "question",
       "words": 10,
-      "start": 845.55,
-      "end": 880.578,
-      "matchedWords": 3
+      "start": 781.26,
+      "end": 799.8,
+      "matchedWords": 9
     },
     {
       "id": "line-99",
@@ -1264,9 +1264,9 @@
       "text": "How did Susan respond to her future husband's suggestion?",
       "type": "question",
       "words": 9,
-      "start": 880.578,
-      "end": 913.763,
-      "matchedWords": 0
+      "start": 799.8,
+      "end": 844.7,
+      "matchedWords": 9
     },
     {
       "id": "line-100",
@@ -1276,9 +1276,9 @@
       "text": "It has long been scientifically established that weather changes can affect people's moods.",
       "type": "narration",
       "words": 13,
-      "start": 913.763,
-      "end": 937.73,
-      "matchedWords": 0
+      "start": 844.7,
+      "end": 850.96,
+      "matchedWords": 13
     },
     {
       "id": "line-101",
@@ -1288,9 +1288,9 @@
       "text": "Now a new study has provided evidence that temperature can influence people's personalities.",
       "type": "narration",
       "words": 13,
-      "start": 937.73,
-      "end": 938.343,
-      "matchedWords": 4
+      "start": 850.96,
+      "end": 857.98,
+      "matchedWords": 13
     },
     {
       "id": "line-102",
@@ -1300,9 +1300,9 @@
       "text": "This study of over 1.",
       "type": "narration",
       "words": 5,
-      "start": 938.343,
-      "end": 938.578,
-      "matchedWords": 0
+      "start": 857.98,
+      "end": 859.76,
+      "matchedWords": 5
     },
     {
       "id": "line-103",
@@ -1312,9 +1312,9 @@
       "text": "6 million people revealed that 22-degrees Celsius is the perfect air temperature to live in.",
       "type": "narration",
       "words": 16,
-      "start": 938.578,
-      "end": 939.333,
-      "matchedWords": 0
+      "start": 859.76,
+      "end": 866.8,
+      "matchedWords": 16
     },
     {
       "id": "line-104",
@@ -1324,9 +1324,9 @@
       "text": "A city with an average annual temperature closer to 22 tends to have a population who are more agreeable, conscientious, emotionally stable, and outgoing.",
       "type": "narration",
       "words": 24,
-      "start": 939.333,
-      "end": 940.464,
-      "matchedWords": 0
+      "start": 866.8,
+      "end": 878.6,
+      "matchedWords": 24
     },
     {
       "id": "line-105",
@@ -1336,9 +1336,9 @@
       "text": "It is the least taxing temperature for the body to regulate its own temperature.",
       "type": "narration",
       "words": 14,
-      "start": 940.464,
-      "end": 941.124,
-      "matchedWords": 0
+      "start": 878.6,
+      "end": 883.66,
+      "matchedWords": 14
     },
     {
       "id": "line-106",
@@ -1348,9 +1348,9 @@
       "text": "The study was observational and didn't show cause and effect, but the scientists behind it theorized that better weather leads people to leave their home more often.",
       "type": "narration",
       "words": 27,
-      "start": 941.124,
-      "end": 942.397,
-      "matchedWords": 0
+      "start": 883.66,
+      "end": 894.62,
+      "matchedWords": 26
     },
     {
       "id": "line-107",
@@ -1360,9 +1360,9 @@
       "text": "This in turn leads to more social interaction, which encourages them to develop a friendlier and socially more acceptable personality.",
       "type": "narration",
       "words": 20,
-      "start": 942.397,
-      "end": 943.339,
-      "matchedWords": 0
+      "start": 894.62,
+      "end": 903.68,
+      "matchedWords": 20
     },
     {
       "id": "line-108",
@@ -1372,9 +1372,9 @@
       "text": "Warmer climates also make people feel more positive in general.",
       "type": "narration",
       "words": 10,
-      "start": 943.339,
-      "end": 943.811,
-      "matchedWords": 0
+      "start": 903.68,
+      "end": 907.9,
+      "matchedWords": 10
     },
     {
       "id": "line-109",
@@ -1384,9 +1384,9 @@
       "text": "They tend to be more agreeable and conscientious.",
       "type": "narration",
       "words": 8,
-      "start": 943.811,
-      "end": 944.188,
-      "matchedWords": 0
+      "start": 907.9,
+      "end": 911.46,
+      "matchedWords": 8
     },
     {
       "id": "line-110",
@@ -1396,9 +1396,9 @@
       "text": "The findings might help explain why colder and warmer countries tend to produce people with different personalities.",
       "type": "narration",
       "words": 17,
-      "start": 944.188,
-      "end": 944.989,
-      "matchedWords": 0
+      "start": 911.46,
+      "end": 918.44,
+      "matchedWords": 17
     },
     {
       "id": "line-111",
@@ -1408,9 +1408,9 @@
       "text": "Roughly speaking, about 40% of a person's personality is determined by their genes, the other 60% by their environment.",
       "type": "narration",
       "words": 19,
-      "start": 944.989,
-      "end": 945.885,
-      "matchedWords": 0
+      "start": 918.44,
+      "end": 930.04,
+      "matchedWords": 19
     },
     {
       "id": "line-112",
@@ -1420,9 +1420,9 @@
       "text": "It was already well-known that personality traits vary across geographic regions.",
       "type": "narration",
       "words": 12,
-      "start": 945.885,
-      "end": 946.45,
-      "matchedWords": 0
+      "start": 930.04,
+      "end": 936.5,
+      "matchedWords": 12
     },
     {
       "id": "line-113",
@@ -1432,9 +1432,9 @@
       "text": "Scientists also knew that these geographic personality traits are associated with a broad range of consequential outcomes.",
       "type": "narration",
       "words": 17,
-      "start": 946.45,
-      "end": 947.252,
-      "matchedWords": 0
+      "start": 936.5,
+      "end": 943.72,
+      "matchedWords": 17
     },
     {
       "id": "line-114",
@@ -1444,9 +1444,9 @@
       "text": "These outcomes include economic activity, for example entrepreneurial startup rates, and also crime rates, health behaviors, and health outcomes.",
       "type": "narration",
       "words": 19,
-      "start": 947.252,
-      "end": 948.147,
-      "matchedWords": 0
+      "start": 943.72,
+      "end": 956.84,
+      "matchedWords": 19
     },
     {
       "id": "line-115",
@@ -1456,9 +1456,9 @@
       "text": "And it is well established that personality traits differ between countries.",
       "type": "narration",
       "words": 11,
-      "start": 948.147,
-      "end": 948.666,
-      "matchedWords": 0
+      "start": 956.84,
+      "end": 962.0,
+      "matchedWords": 11
     },
     {
       "id": "line-116",
@@ -1468,9 +1468,9 @@
       "text": "The research team speculated the two might be linked.",
       "type": "narration",
       "words": 9,
-      "start": 948.666,
-      "end": 949.09,
-      "matchedWords": 0
+      "start": 962.0,
+      "end": 966.58,
+      "matchedWords": 9
     },
     {
       "id": "line-117",
@@ -1480,9 +1480,9 @@
       "text": "To test this, they gave online personality tests to 5587 Chinese students and 1.",
       "type": "narration",
       "words": 14,
-      "start": 949.09,
-      "end": 949.75,
-      "matchedWords": 0
+      "start": 966.58,
+      "end": 974.62,
+      "matchedWords": 13
     },
     {
       "id": "line-118",
@@ -1492,9 +1492,9 @@
       "text": "66 million Americans.",
       "type": "narration",
       "words": 3,
-      "start": 949.75,
-      "end": 949.939,
-      "matchedWords": 0
+      "start": 974.62,
+      "end": 977.18,
+      "matchedWords": 3
     },
     {
       "id": "line-119",
@@ -1504,9 +1504,9 @@
       "text": "They then compared the results with the average annual temperature where they grew up.",
       "type": "narration",
       "words": 14,
-      "start": 949.939,
-      "end": 950.599,
-      "matchedWords": 0
+      "start": 977.18,
+      "end": 982.54,
+      "matchedWords": 14
     },
     {
       "id": "line-120",
@@ -1516,9 +1516,9 @@
       "text": "The tests measured personality along 5 well-studied characteristics.",
       "type": "narration",
       "words": 9,
-      "start": 950.599,
-      "end": 951.023,
-      "matchedWords": 0
+      "start": 982.54,
+      "end": 988.06,
+      "matchedWords": 8
     },
     {
       "id": "line-121",
@@ -1528,9 +1528,9 @@
       "text": "The 5 were agreeability, conscientiousness, emotional stability, outgoingness, and openness to new experiences.",
       "type": "narration",
       "words": 13,
-      "start": 951.023,
-      "end": 951.636,
-      "matchedWords": 0
+      "start": 988.06,
+      "end": 998.14,
+      "matchedWords": 12
     },
     {
       "id": "line-122",
@@ -1540,9 +1540,9 @@
       "text": "In both groups, the researchers found the closer a town's average annual temperature was to 22 degrees, the more its population exhibited those personality characteristics.",
       "type": "narration",
       "words": 25,
-      "start": 951.636,
-      "end": 952.814,
-      "matchedWords": 0
+      "start": 998.14,
+      "end": 1011.08,
+      "matchedWords": 25
     },
     {
       "id": "line-123",
@@ -1552,9 +1552,9 @@
       "text": "However, the findings were much stronger for the Chinese group than the Americans studied, which suggests that though temperature plays a role, it does not play a dominant role.",
       "type": "narration",
       "words": 29,
-      "start": 952.814,
-      "end": 954.181,
-      "matchedWords": 0
+      "start": 1011.08,
+      "end": 1023.08,
+      "matchedWords": 29
     },
     {
       "id": "line-124",
@@ -1564,9 +1564,9 @@
       "text": "The effects are fairly weak.",
       "type": "narration",
       "words": 5,
-      "start": 954.181,
-      "end": 954.417,
-      "matchedWords": 0
+      "start": 1023.08,
+      "end": 1026.06,
+      "matchedWords": 5
     },
     {
       "id": "line-125",
@@ -1576,9 +1576,9 @@
       "text": "It's unlikely to lead to many arguments over the temperature setting of the office air conditioner.",
       "type": "narration",
       "words": 16,
-      "start": 954.417,
-      "end": 955.171,
-      "matchedWords": 0
+      "start": 1026.06,
+      "end": 1038.58,
+      "matchedWords": 16
     },
     {
       "id": "line-126",
@@ -1588,9 +1588,9 @@
       "text": "What has a new study revealed about temperature?",
       "type": "question",
       "words": 8,
-      "start": 955.171,
-      "end": 955.972,
-      "matchedWords": 0
+      "start": 1038.58,
+      "end": 1056.46,
+      "matchedWords": 8
     },
     {
       "id": "line-127",
@@ -1600,9 +1600,9 @@
       "text": "What does the speaker say about warmer climates?",
       "type": "question",
       "words": 8,
-      "start": 955.972,
-      "end": 956.774,
-      "matchedWords": 0
+      "start": 1056.46,
+      "end": 1073.32,
+      "matchedWords": 8
     },
     {
       "id": "line-128",
@@ -1612,9 +1612,9 @@
       "text": "What did the online personality tests suggest?",
       "type": "question",
       "words": 7,
-      "start": 956.774,
-      "end": 957.528,
-      "matchedWords": 0
+      "start": 1073.32,
+      "end": 1091.24,
+      "matchedWords": 7
     },
     {
       "id": "line-129",
@@ -1624,9 +1624,9 @@
       "text": "Today we're talking about loneliness.",
       "type": "narration",
       "words": 5,
-      "start": 957.528,
-      "end": 957.764,
-      "matchedWords": 0
+      "start": 1091.24,
+      "end": 1095.94,
+      "matchedWords": 5
     },
     {
       "id": "line-130",
@@ -1636,9 +1636,9 @@
       "text": "Loneliness and social isolation are growing public health concerns for people of all ages in the United States, from adolescence to the elderly.",
       "type": "narration",
       "words": 23,
-      "start": 957.764,
-      "end": 958.848,
-      "matchedWords": 0
+      "start": 1095.94,
+      "end": 1106.06,
+      "matchedWords": 22
     },
     {
       "id": "line-131",
@@ -1648,9 +1648,9 @@
       "text": "Public health experts are worried because loneliness seems to be on the rise.",
       "type": "narration",
       "words": 13,
-      "start": 958.848,
-      "end": 959.46,
-      "matchedWords": 0
+      "start": 1106.06,
+      "end": 1110.28,
+      "matchedWords": 13
     },
     {
       "id": "line-132",
@@ -1660,9 +1660,9 @@
       "text": "And studies have long found correlations between loneliness and an assortment of medical conditions that threaten health and longevity.",
       "type": "narration",
       "words": 19,
-      "start": 959.46,
-      "end": 960.356,
-      "matchedWords": 0
+      "start": 1110.28,
+      "end": 1120.36,
+      "matchedWords": 19
     },
     {
       "id": "line-133",
@@ -1672,9 +1672,9 @@
       "text": "The problem of loneliness may be even greater than we thought.",
       "type": "narration",
       "words": 11,
-      "start": 960.356,
-      "end": 960.875,
-      "matchedWords": 0
+      "start": 1120.36,
+      "end": 1124.46,
+      "matchedWords": 11
     },
     {
       "id": "line-134",
@@ -1684,9 +1684,9 @@
       "text": "A new national poll found that about a third of older Americans are lonely; and almost as many seniors feel isolated.",
       "type": "narration",
       "words": 21,
-      "start": 960.875,
-      "end": 961.864,
-      "matchedWords": 0
+      "start": 1124.46,
+      "end": 1133.1,
+      "matchedWords": 21
     },
     {
       "id": "line-135",
@@ -1696,9 +1696,9 @@
       "text": "This is a serious problem, as research shows that chronic loneliness in particular can impair older adults' memory and damage their physical and mental health.",
       "type": "narration",
       "words": 25,
-      "start": 961.864,
-      "end": 963.043,
-      "matchedWords": 0
+      "start": 1133.1,
+      "end": 1147.42,
+      "matchedWords": 23
     },
     {
       "id": "line-136",
@@ -1708,9 +1708,9 @@
       "text": "Chronic loneliness even impacts the life expectancy of seniors, increasing their risk of early mortality.",
       "type": "narration",
       "words": 15,
-      "start": 963.043,
-      "end": 963.75,
-      "matchedWords": 0
+      "start": 1147.42,
+      "end": 1155.86,
+      "matchedWords": 15
     },
     {
       "id": "line-137",
@@ -1720,9 +1720,9 @@
       "text": "Let's take a closer look at that poll now.",
       "type": "narration",
       "words": 9,
-      "start": 963.75,
-      "end": 967.17,
-      "matchedWords": 8
+      "start": 1155.86,
+      "end": 1159.5,
+      "matchedWords": 9
     },
     {
       "id": "line-138",
@@ -1732,9 +1732,9 @@
       "text": "More than a third of seniors in the poll said they felt lonely at least some of the time, and 27% said they sometimes or often felt isolated.",
       "type": "narration",
       "words": 28,
-      "start": 967.17,
-      "end": 1011.343,
-      "matchedWords": 7
+      "start": 1159.5,
+      "end": 1170.54,
+      "matchedWords": 28
     },
     {
       "id": "line-139",
@@ -1744,9 +1744,9 @@
       "text": "This reflects how much time the seniors spent with others.",
       "type": "narration",
       "words": 10,
-      "start": 1011.343,
-      "end": 1027.119,
-      "matchedWords": 0
+      "start": 1170.54,
+      "end": 1175.22,
+      "matchedWords": 10
     },
     {
       "id": "line-140",
@@ -1756,9 +1756,9 @@
       "text": "Almost 30% said they socialized with friends, family, or neighbors once a week or less.",
       "type": "narration",
       "words": 15,
-      "start": 1027.119,
-      "end": 1050.783,
-      "matchedWords": 0
+      "start": 1175.22,
+      "end": 1183.06,
+      "matchedWords": 15
     },
     {
       "id": "line-141",
@@ -1768,9 +1768,9 @@
       "text": "Women were more likely than men to report loneliness.",
       "type": "narration",
       "words": 9,
-      "start": 1050.783,
-      "end": 1064.982,
-      "matchedWords": 0
+      "start": 1183.06,
+      "end": 1187.14,
+      "matchedWords": 9
     },
     {
       "id": "line-142",
@@ -1780,9 +1780,9 @@
       "text": "But there is good news.",
       "type": "narration",
       "words": 5,
-      "start": 1064.982,
-      "end": 1072.87,
-      "matchedWords": 0
+      "start": 1187.14,
+      "end": 1189.02,
+      "matchedWords": 5
     },
     {
       "id": "line-143",
@@ -1792,9 +1792,9 @@
       "text": "It looks like loneliness can be reversed.",
       "type": "narration",
       "words": 7,
-      "start": 1072.87,
-      "end": 1073.681,
-      "matchedWords": 2
+      "start": 1189.02,
+      "end": 1191.58,
+      "matchedWords": 7
     },
     {
       "id": "line-144",
@@ -1804,9 +1804,9 @@
       "text": "But researchers are still trying to determine the best way to do so.",
       "type": "narration",
       "words": 13,
-      "start": 1073.681,
-      "end": 1075.187,
-      "matchedWords": 0
+      "start": 1191.58,
+      "end": 1196.04,
+      "matchedWords": 13
     },
     {
       "id": "line-145",
@@ -1816,9 +1816,9 @@
       "text": "Why is that?",
       "type": "narration",
       "words": 3,
-      "start": 1075.187,
-      "end": 1075.65,
-      "matchedWords": 0
+      "start": 1196.04,
+      "end": 1197.82,
+      "matchedWords": 3
     },
     {
       "id": "line-146",
@@ -1828,9 +1828,9 @@
       "text": "Resolving the problem of loneliness among seniors often isn't as simple as getting them together with others or moving them in with their children.",
       "type": "narration",
       "words": 24,
-      "start": 1075.65,
-      "end": 1078.43,
-      "matchedWords": 0
+      "start": 1197.82,
+      "end": 1206.02,
+      "matchedWords": 24
     },
     {
       "id": "line-147",
@@ -1840,9 +1840,9 @@
       "text": "In fact, the poll found that seniors who lived with their children were more likely to report feeling lonely than those who didn't.",
       "type": "narration",
       "words": 23,
-      "start": 1078.43,
-      "end": 1081.094,
-      "matchedWords": 0
+      "start": 1206.02,
+      "end": 1215.78,
+      "matchedWords": 23
     },
     {
       "id": "line-148",
@@ -1852,9 +1852,9 @@
       "text": "This may be because loneliness refers to the discrepancy between actual and desired relationships.",
       "type": "narration",
       "words": 14,
-      "start": 1081.094,
-      "end": 1082.716,
-      "matchedWords": 0
+      "start": 1215.78,
+      "end": 1223.16,
+      "matchedWords": 14
     },
     {
       "id": "line-149",
@@ -1864,9 +1864,9 @@
       "text": "So it's possible that someone who lives alone doesn't meet that definition, while someone in a house full of busy people does.",
       "type": "narration",
       "words": 22,
-      "start": 1082.716,
-      "end": 1085.264,
-      "matchedWords": 0
+      "start": 1223.16,
+      "end": 1233.32,
+      "matchedWords": 22
     },
     {
       "id": "line-150",
@@ -1876,9 +1876,9 @@
       "text": "How can we solve the problem?",
       "type": "narration",
       "words": 6,
-      "start": 1085.264,
-      "end": 1085.959,
-      "matchedWords": 0
+      "start": 1233.32,
+      "end": 1234.9,
+      "matchedWords": 6
     },
     {
       "id": "line-151",
@@ -1888,9 +1888,9 @@
       "text": "Well, the researchers assert that it's important to address each person's underlying cause of loneliness, whether it's the death of a spouse, medical problems, or social expectations that haven't been fulfilled.",
       "type": "narration",
       "words": 31,
-      "start": 1085.959,
-      "end": 1089.55,
-      "matchedWords": 0
+      "start": 1234.9,
+      "end": 1252.2,
+      "matchedWords": 31
     },
     {
       "id": "line-152",
@@ -1900,9 +1900,9 @@
       "text": "It's noteworthy that there is one general recommendation.",
       "type": "narration",
       "words": 8,
-      "start": 1089.55,
-      "end": 1090.477,
-      "matchedWords": 0
+      "start": 1252.2,
+      "end": 1256.46,
+      "matchedWords": 8
     },
     {
       "id": "line-153",
@@ -1912,9 +1912,9 @@
       "text": "While finding solutions for loneliness is highly personal, research suggests the best interventions are those that involve meaningful social contact at least once a week.",
       "type": "narration",
       "words": 25,
-      "start": 1090.477,
-      "end": 1093.372,
-      "matchedWords": 0
+      "start": 1256.46,
+      "end": 1268.84,
+      "matchedWords": 25
     },
     {
       "id": "line-154",
@@ -1924,9 +1924,9 @@
       "text": "Depending on the person, that could mean volunteering, calling an old friend, or something else.",
       "type": "narration",
       "words": 15,
-      "start": 1093.372,
-      "end": 1095.11,
-      "matchedWords": 0
+      "start": 1268.84,
+      "end": 1283.36,
+      "matchedWords": 14
     },
     {
       "id": "line-155",
@@ -1936,9 +1936,9 @@
       "text": "Why does the speaker say the finding of a new national poll reveals a serious problem?",
       "type": "question",
       "words": 16,
-      "start": 1095.11,
-      "end": 1294.53,
-      "matchedWords": 8
+      "start": 1283.36,
+      "end": 1304.32,
+      "matchedWords": 16
     },
     {
       "id": "line-156",
@@ -1948,9 +1948,9 @@
       "text": "What is the good news the speaker talks about?",
       "type": "question",
       "words": 9,
-      "start": 1294.53,
-      "end": 1297.482,
-      "matchedWords": 6
+      "start": 1304.32,
+      "end": 1322.14,
+      "matchedWords": 9
     },
     {
       "id": "line-157",
@@ -1960,9 +1960,9 @@
       "text": "What is the key to solving the loneliness problem, according to the speaker?",
       "type": "question",
       "words": 13,
-      "start": 1297.482,
-      "end": 1301.09,
-      "matchedWords": 0
+      "start": 1322.14,
+      "end": 1340.62,
+      "matchedWords": 13
     },
     {
       "id": "line-158",
@@ -1972,9 +1972,9 @@
       "text": "Hello, I am co-founder of the popular female travel community, We Are Travel Girls.",
       "type": "narration",
       "words": 15,
-      "start": 1301.09,
-      "end": 1303.55,
-      "matchedWords": 0
+      "start": 1340.62,
+      "end": 1348.8,
+      "matchedWords": 15
     },
     {
       "id": "line-159",
@@ -1984,9 +1984,9 @@
       "text": "We collect and publish stories from women traveling all over the world.",
       "type": "narration",
       "words": 12,
-      "start": 1303.55,
-      "end": 1305.519,
-      "matchedWords": 0
+      "start": 1348.8,
+      "end": 1354.04,
+      "matchedWords": 12
     },
     {
       "id": "line-160",
@@ -1996,9 +1996,9 @@
       "text": "We promote women's blogs.",
       "type": "narration",
       "words": 4,
-      "start": 1305.519,
-      "end": 1306.175,
-      "matchedWords": 0
+      "start": 1354.04,
+      "end": 1355.94,
+      "matchedWords": 4
     },
     {
       "id": "line-161",
@@ -2008,9 +2008,9 @@
       "text": "We host meetings and events and are getting ready to launch our Travel with Us trips in Bali, Japan and Malawi.",
       "type": "narration",
       "words": 21,
-      "start": 1306.175,
-      "end": 1309.619,
-      "matchedWords": 0
+      "start": 1355.94,
+      "end": 1364.82,
+      "matchedWords": 21
     },
     {
       "id": "line-162",
@@ -2020,9 +2020,9 @@
       "text": "Before I started We Are Travel Girls, I had a successful 10-year career in finance in London where I advised private clients on their investments.",
       "type": "narration",
       "words": 26,
-      "start": 1309.619,
-      "end": 1313.883,
-      "matchedWords": 0
+      "start": 1364.82,
+      "end": 1375.72,
+      "matchedWords": 26
     },
     {
       "id": "line-163",
@@ -2032,9 +2032,9 @@
       "text": "Having always had a huge love for travel, I finally took the leap and left finance to pursue my dream of starting a travel company.",
       "type": "narration",
       "words": 25,
-      "start": 1313.883,
-      "end": 1317.983,
-      "matchedWords": 0
+      "start": 1375.72,
+      "end": 1385.48,
+      "matchedWords": 25
     },
     {
       "id": "line-164",
@@ -2044,9 +2044,9 @@
       "text": "For as long as I can remember, I wanted to be a travel writer.",
       "type": "narration",
       "words": 14,
-      "start": 1317.983,
-      "end": 1320.279,
-      "matchedWords": 0
+      "start": 1385.48,
+      "end": 1389.82,
+      "matchedWords": 14
     },
     {
       "id": "line-165",
@@ -2056,9 +2056,9 @@
       "text": "Before blogs existed, and everything we read was online, I would go to travel writing seminars by writers who were published in travel magazines.",
       "type": "narration",
       "words": 24,
-      "start": 1320.279,
-      "end": 1324.215,
-      "matchedWords": 0
+      "start": 1389.82,
+      "end": 1400.42,
+      "matchedWords": 24
     },
     {
       "id": "line-166",
@@ -2068,9 +2068,9 @@
       "text": "I was desperate to write for one of those magazines but didn't know how to break into that industry.",
       "type": "narration",
       "words": 19,
-      "start": 1324.215,
-      "end": 1327.332,
-      "matchedWords": 0
+      "start": 1400.42,
+      "end": 1406.86,
+      "matchedWords": 19
     },
     {
       "id": "line-167",
@@ -2080,9 +2080,9 @@
       "text": "After university, I ended up working in finance, but always had a desire to travel and write about it.",
       "type": "narration",
       "words": 19,
-      "start": 1327.332,
-      "end": 1330.448,
-      "matchedWords": 0
+      "start": 1406.86,
+      "end": 1414.02,
+      "matchedWords": 19
     },
     {
       "id": "line-168",
@@ -2092,9 +2092,9 @@
       "text": "In 2015, I was looking at ways to leave finance, and my friend Vanessa, who grew up on a ranch on the central coast of California, suggested starting a blog.",
       "type": "narration",
       "words": 30,
-      "start": 1330.448,
-      "end": 1335.368,
-      "matchedWords": 0
+      "start": 1414.02,
+      "end": 1426.6,
+      "matchedWords": 30
     },
     {
       "id": "line-169",
@@ -2104,9 +2104,9 @@
       "text": "But when we started creating it, we realized that was the same thing every girl was doing.",
       "type": "narration",
       "words": 17,
-      "start": 1335.368,
-      "end": 1338.156,
-      "matchedWords": 0
+      "start": 1426.6,
+      "end": 1432.28,
+      "matchedWords": 17
     },
     {
       "id": "line-170",
@@ -2116,9 +2116,9 @@
       "text": "So we turned our attention to creating a community among these women.",
       "type": "narration",
       "words": 12,
-      "start": 1338.156,
-      "end": 1340.124,
-      "matchedWords": 0
+      "start": 1432.28,
+      "end": 1436.64,
+      "matchedWords": 12
     },
     {
       "id": "line-171",
@@ -2128,9 +2128,9 @@
       "text": "This led us to start We Are Travel Girls, which has now grown into a community of over 200,000 followers.",
       "type": "narration",
       "words": 21,
-      "start": 1340.124,
-      "end": 1343.568,
-      "matchedWords": 0
+      "start": 1436.64,
+      "end": 1445.3,
+      "matchedWords": 21
     },
     {
       "id": "line-172",
@@ -2140,9 +2140,9 @@
       "text": "To anyone thinking about becoming a travel writer, I would suggest they first try and look for a unique way to enter the industry.",
       "type": "narration",
       "words": 24,
-      "start": 1343.568,
-      "end": 1347.505,
-      "matchedWords": 0
+      "start": 1445.3,
+      "end": 1454.04,
+      "matchedWords": 23
     },
     {
       "id": "line-173",
@@ -2152,9 +2152,9 @@
       "text": "There are a lot of travel writers now and it can be hard to stand out from the crowd.",
       "type": "narration",
       "words": 19,
-      "start": 1347.505,
-      "end": 1350.621,
-      "matchedWords": 0
+      "start": 1454.04,
+      "end": 1466.404,
+      "matchedWords": 18
     },
     {
       "id": "line-174",
@@ -2164,8 +2164,8 @@
       "text": "My advice would be to find a niche and focus on that.",
       "type": "narration",
       "words": 12,
-      "start": 1350.621,
-      "end": 1352.589,
+      "start": 1466.404,
+      "end": 1474.213,
       "matchedWords": 0
     },
     {
@@ -2176,8 +2176,8 @@
       "text": "For example, if you love adventure travel, focus on that.",
       "type": "narration",
       "words": 10,
-      "start": 1352.589,
-      "end": 1354.229,
+      "start": 1474.213,
+      "end": 1480.72,
       "matchedWords": 0
     },
     {
@@ -2188,9 +2188,9 @@
       "text": "If you love food, focus on food travel.",
       "type": "narration",
       "words": 8,
-      "start": 1354.229,
-      "end": 1355.541,
-      "matchedWords": 0
+      "start": 1480.72,
+      "end": 1482.033,
+      "matchedWords": 2
     },
     {
       "id": "line-177",
@@ -2200,8 +2200,8 @@
       "text": "The more specific you are, the easier it will be to build an audience.",
       "type": "narration",
       "words": 14,
-      "start": 1355.541,
-      "end": 1357.837,
+      "start": 1482.033,
+      "end": 1484.331,
       "matchedWords": 0
     },
     {
@@ -2212,8 +2212,8 @@
       "text": "Another thing I would suggest is to avoid too much advertising early on.",
       "type": "narration",
       "words": 13,
-      "start": 1357.837,
-      "end": 1359.969,
+      "start": 1484.331,
+      "end": 1486.465,
       "matchedWords": 0
     },
     {
@@ -2224,8 +2224,8 @@
       "text": "When you first start out, your audience is there for your content, not to be sold to.",
       "type": "narration",
       "words": 17,
-      "start": 1359.969,
-      "end": 1362.757,
+      "start": 1486.465,
+      "end": 1489.256,
       "matchedWords": 0
     },
     {
@@ -2236,8 +2236,8 @@
       "text": "If you start bombarding them with ads too early, they will lose interest.",
       "type": "narration",
       "words": 13,
-      "start": 1362.757,
-      "end": 1364.89,
+      "start": 1489.256,
+      "end": 1491.39,
       "matchedWords": 0
     },
     {
@@ -2248,8 +2248,8 @@
       "text": "Wait until you have built up a loyal following before you start introducing any kind of advertising.",
       "type": "narration",
       "words": 17,
-      "start": 1364.89,
-      "end": 1367.678,
+      "start": 1491.39,
+      "end": 1494.18,
       "matchedWords": 0
     },
     {
@@ -2260,9 +2260,9 @@
       "text": "What do we learn about the speaker before she started We Are Travel Girls?",
       "type": "question",
       "words": 14,
-      "start": 1367.678,
-      "end": 1371.45,
-      "matchedWords": 0
+      "start": 1494.18,
+      "end": 1514.62,
+      "matchedWords": 13
     },
     {
       "id": "line-183",
@@ -2272,9 +2272,9 @@
       "text": "What did the speaker's friend Vanessa suggest she do in 2015?",
       "type": "question",
       "words": 11,
-      "start": 1371.45,
-      "end": 1374.73,
-      "matchedWords": 0
+      "start": 1514.62,
+      "end": 1524.32,
+      "matchedWords": 9
     },
     {
       "id": "line-184",
@@ -2284,9 +2284,9 @@
       "text": "What does the speaker suggest people do to become travel writers?",
       "type": "question",
       "words": 11,
-      "start": 1374.73,
-      "end": 1572.52,
-      "matchedWords": 7
+      "start": 1524.32,
+      "end": 1534.02,
+      "matchedWords": 0
     },
     {
       "id": "line-185",
@@ -2296,9 +2296,9 @@
       "text": "What does the speaker advise travel writers to do when they first start out?",
       "type": "question",
       "words": 14,
-      "start": 1572.52,
-      "end": 1652.715,
-      "matchedWords": 5
+      "start": 1534.02,
+      "end": 1575.079,
+      "matchedWords": 7
     }
   ]
 }
