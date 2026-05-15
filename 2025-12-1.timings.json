@@ -7,7 +7,7 @@
     "markdown": {
       "name": "2025-12-1.md",
       "size": 16071,
-      "mtimeNs": 1778765047798919100
+      "mtimeNs": 1778827709630444200
     },
     "audio": {
       "name": "2025年12月六级听力音频第1套.mp3",
@@ -15,8 +15,8 @@
       "mtimeNs": 1778764825741763600
     }
   },
-  "generatedAt": 1778770704,
-  "elapsedSeconds": 115.11,
+  "generatedAt": 1778827982,
+  "elapsedSeconds": 69.22,
   "mode": "faster-whisper",
   "model": "base.en",
   "device": "cpu",

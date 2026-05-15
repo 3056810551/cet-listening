@@ -112,7 +112,10 @@ class Cet6Handler(SimpleHTTPRequestHandler):
                 chunk = file.read(min(1024 * 1024, remaining))
                 if not chunk:
                     break
-                self.wfile.write(chunk)
+                try:
+                    self.wfile.write(chunk)
+                except (BrokenPipeError, ConnectionAbortedError, ConnectionResetError):
+                    return
                 remaining -= len(chunk)
 
     def log_message(self, format, *args):
@@ -170,7 +173,7 @@ def build_track(markdown_path, audio_path, force=False):
     compute_type = os.environ.get("WHISPER_COMPUTE_TYPE", "int8")
 
     if not force and cache_path.exists():
-        cached = read_fresh_cache(cache_path, source, model_name, device, compute_type)
+        cached = read_timings_file(cache_path)
         if cached:
             return with_current_transcript(cached, sections, lines, cached=True)
 
@@ -179,23 +182,12 @@ def build_track(markdown_path, audio_path, force=False):
     return payload
 
 
-def read_fresh_cache(cache_path, source, model_name, device, compute_type):
+def read_timings_file(cache_path):
     try:
         data = json.loads(cache_path.read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError):
         return None
 
-    if data.get("version") != CACHE_VERSION:
-        return None
-    if data.get("source") != source:
-        return None
-    if data.get("mode") == "faster-whisper":
-        if data.get("model") != model_name:
-            return None
-        if data.get("device") != device:
-            return None
-        if data.get("computeType") != compute_type:
-            return None
     if not isinstance(data.get("lines"), list):
         return None
     return data
