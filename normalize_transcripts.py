@@ -123,6 +123,9 @@ def split_sets(text):
             append_blank(current_lines)
             continue
 
+        if should_skip_instruction(stripped):
+            continue
+
         if re.match(r"^#{1,3}\s+", stripped) and not normalize_item_heading(stripped):
             continue
 
@@ -195,6 +198,12 @@ def normalize_item_heading(line):
     if number is None:
         return None
     return f"{match.group(1).upper()} {number}"
+
+
+def should_skip_instruction(line):
+    if line.startswith("Directions:"):
+        return True
+    return bool(re.match(r"^##\s+Part\b", line, re.I))
 
 
 def normalize_number(value):

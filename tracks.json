@@ -1,5 +1,23 @@
 [
   {
+    "id": "2020-12-1",
+    "title": "2020 年 12 月 第 1 套",
+    "markdown": "transcripts/2020-12-1.md",
+    "transcript": "transcripts/2020-12-1.transcript.json",
+    "audio": "audio/2020年12月六级听力第1套.mp3",
+    "timings": "transcripts/2020-12-1.timings.json",
+    "available": true
+  },
+  {
+    "id": "2020-12-2",
+    "title": "2020 年 12 月 第 2 套",
+    "markdown": "transcripts/2020-12-2.md",
+    "transcript": "transcripts/2020-12-2.transcript.json",
+    "audio": "audio/2020年12月六级听力第2套.mp3",
+    "timings": "transcripts/2020-12-2.timings.json",
+    "available": true
+  },
+  {
     "id": "2021-12-1",
     "title": "2021 年 12 月 第 1 套",
     "markdown": "transcripts/2021-12-1.md",
