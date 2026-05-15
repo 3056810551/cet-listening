@@ -120,6 +120,8 @@ def split_sets(text):
             continue
 
         if not stripped:
+            if current_heading and current_heading.startswith("CONVERSATION"):
+                continue
             append_blank(current_lines)
             continue
 
@@ -190,8 +192,8 @@ def set_number(value):
 
 
 def normalize_item_heading(line):
-    text = line.strip("*").strip()
-    match = re.match(r"^(?:#{2,4}\s*)?(Conversation|Passage|Recording)\s+([A-Za-z]+|\d+)\s*$", text, re.I)
+    text = re.sub(r"^#{1,6}\s*", "", line.strip("*").strip())
+    match = re.match(r"^(Conversation|Passage|Recording)\s+([A-Za-z]+|\d+)\s*$", text, re.I)
     if not match:
         return None
     number = normalize_number(match.group(2))
@@ -203,7 +205,8 @@ def normalize_item_heading(line):
 def should_skip_instruction(line):
     if line.startswith("Directions:"):
         return True
-    return bool(re.match(r"^##\s+Part\b", line, re.I))
+    text = re.sub(r"^#{1,6}\s*", "", line).strip()
+    return bool(re.match(r"^(Part\b|Section\s+[A-Z]\b|---$)", text, re.I))
 
 
 def normalize_number(value):
