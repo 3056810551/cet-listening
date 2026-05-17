@@ -78,7 +78,8 @@
       "words": 11,
       "start": 37.28,
       "end": 41.64,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "感谢你能这么快和我见面，斯蒂芬。"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 4,
       "start": 41.64,
       "end": 43.38,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "没问题，玛格丽特。"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 7,
       "start": 43.38,
       "end": 45.96,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "现在，请给我一些好消息。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 7,
       "start": 45.96,
       "end": 48.02,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "你同意我上一个提议了吗？"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 3,
       "start": 48.02,
       "end": 49.06,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "的确同意了。"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 17,
       "start": 49.06,
       "end": 53.84,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "我希望签署协议，但合同中有一处小改动。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 16,
       "start": 53.84,
       "end": 60.3,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "玛格丽特，我们已经为此纠结了快一年了，反反复复地修改。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 15,
       "start": 60.3,
       "end": 64.58,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "你到底想不想为你的客户达成这项赞助协议？"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 15,
       "start": 64.58,
       "end": 69.38,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "我这么问是因为，坦率地说，我这边有些人的耐心快耗尽了。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 4,
       "start": 69.38,
       "end": 70.92,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我理解你的担忧。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 19,
       "start": 70.92,
       "end": 77.92,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "但我相信你也明白，我们认为客户的最大利益是首要考虑的事项。"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 19,
       "start": 77.92,
       "end": 86.44,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "因此，我们会仔细审查所有合同的细节，请放心，我们都非常感谢贵公司的耐心。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 2,
       "start": 86.44,
       "end": 87.52,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "好吧。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 8,
       "start": 87.52,
       "end": 90.6,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "那么你想做哪些改动？"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 12,
       "start": 90.6,
       "end": 94.56,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "基本上，我们希望新协议排除中东地区。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 3,
       "start": 94.56,
       "end": 95.46,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "仅此而已。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 3,
       "start": 95.46,
       "end": 96.62,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "中东地区。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 1,
       "start": 96.62,
       "end": 97.72,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "为什么？"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 16,
       "start": 97.72,
       "end": 103.12,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "我的客户从中东的一些公司那里得到了其他几项潜在的营销协议。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 17,
       "start": 103.12,
       "end": 110.02,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "这些提议一旦实现，将仅在中东地区使用我客户的形象。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 20,
       "start": 110.02,
       "end": 119.1,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "因此，为了避免任何冲突，我们需要确保这两项营销活动在地理上不重叠。"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 12,
       "start": 119.1,
       "end": 123.24,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "我们这里说的是中东的哪个业务部门？"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 2,
       "start": 123.24,
       "end": 124.56,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "房地产。"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 6,
       "start": 124.56,
       "end": 127.08,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "哦，那应该没问题。"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 21,
       "start": 127.08,
       "end": 133.72,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "只要产品与我们的餐饮市场完全不同，就不应该存在利益冲突。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 10,
       "start": 133.72,
       "end": 137.36,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "尽管如此，我还是得和我的团队沟通一下。"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 7,
       "start": 137.36,
       "end": 140.08,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "不过我预见不到会有任何问题。"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 21,
       "start": 140.08,
       "end": 156.792,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "中东对我们来说是一个微不足道的市场，但我仍然需要和几个部门核实一下。"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 8,
       "start": 156.792,
       "end": 170.32,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "女人说她会做什么？"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 10,
       "start": 170.32,
       "end": 188.46,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "男人关于他所代表的一些人说了什么？"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 15,
       "start": 188.46,
       "end": 207.84,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "女人给出新协议排除中东的原因是什么？"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 9,
       "start": 207.84,
       "end": 226.16,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "男人关于中东说了什么？"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 9,
       "start": 226.16,
       "end": 229.82,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "接下来，我们有一个特别的科学新闻。"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 7,
       "start": 229.82,
       "end": 233.92,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "保拉·汉考克在丹佛天文台。"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 8,
       "start": 233.92,
       "end": 237.62,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "保拉，那边有什么重大新闻？"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 2,
       "start": 237.62,
       "end": 238.74,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "你好，约翰。"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 10,
       "start": 238.74,
       "end": 243.04,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "是的，这里的全体天文学家都非常兴奋。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 27,
       "start": 243.04,
       "end": 254.08,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "事实上，整个北美以及北半球其他地区的太空爱好者们今晚都将聚集在山顶观看夜空。"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 1,
       "start": 254.08,
       "end": 255.28,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "为什么？"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 5,
       "start": 255.28,
       "end": 256.54,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "有什么重大活动？"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 6,
       "start": 256.54,
       "end": 258.06,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "不久后会有日食吗？"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 12,
       "start": 258.06,
       "end": 263.94,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "今晚，地球将与奥本海默彗星近距离接触。"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 16,
       "start": 263.94,
       "end": 269.44,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "这是100多年来我们的星球与这种现象距离最近的一次。"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 24,
       "start": 269.44,
       "end": 278.04,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "因此，预计今晚将有成千上万的人仰望天空，以观赏这个庞然大物。"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 6,
       "start": 278.04,
       "end": 280.98,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "这颗彗星有多远？"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 11,
       "start": 280.98,
       "end": 283.0,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "人们能用肉眼看到它吗？"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 36,
       "start": 283.0,
       "end": 297.8,
-      "matchedWords": 36
+      "matchedWords": 36,
+      "translation": "奥本海默彗星仍将在数百万英里之外，处于我们星系的边缘，但尽管如此，这仍然是一个相对较近的距离，足以让人们通过望远镜观察到详细的细节。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 8,
       "start": 297.8,
       "end": 300.74,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "没有望远镜的话，人们只能看到一个模糊的光点。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 9,
       "start": 300.74,
       "end": 304.76,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "然而，这并不意味着需要专业设备。"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 19,
       "start": 304.76,
       "end": 312.06,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "即使是最普通的望远镜也应该有助于人们观察和惊叹这个飞行物。"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 20,
       "start": 312.06,
       "end": 319.22,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "我们的许多观众都会想知道，他们如何也能参与到这一生一次的盛事中。"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 8,
       "start": 319.22,
       "end": 321.64,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "这颗彗星会出现在天空的哪个位置？"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 5,
       "start": 321.64,
       "end": 323.66,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "人们怎么能找到它？"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 14,
       "start": 323.66,
       "end": 329.78,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "彗星将几乎正对着北方，位于赤道上方60度。"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 24,
       "start": 329.78,
       "end": 338.3,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "然而，寻找这颗彗星确实非常棘手，这里的科学家告诉我，有很多手机应用程序可以提供帮助。"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 2,
       "start": 338.3,
       "end": 340.6,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "太棒了。"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 6,
       "start": 340.6,
       "end": 349.3,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "谢谢你，保拉，提供的这些信息。"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 13,
       "start": 349.3,
       "end": 368.98,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "关于丹佛天文台的全体天文学家，女人说了什么？"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 11,
       "start": 368.98,
       "end": 387.68,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "从关于奥本海默彗星的对话中我们了解到了什么？"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 15,
       "start": 387.68,
       "end": 406.94,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "女人说没有望远镜人们在天空只能看到什么？"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 15,
       "start": 406.94,
       "end": 459.52,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "丹佛天文台的科学家建议业余爱好者做什么来方便他们的观察？"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 13,
       "start": 459.52,
       "end": 467.3,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "膳食指南构成了世界各地营养建议和法规的基础。"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 25,
       "start": 467.3,
       "end": 479.8,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "虽然大多数现有指南都有很强的科学共识，但最近有一个问题引起了辩论：是否应该警告消费者避免食用超加工食品？"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 34,
       "start": 479.8,
       "end": 496.1,
-      "matchedWords": 34
+      "matchedWords": 34,
+      "translation": "今天发表在《美国临床营养学杂志》上的两篇论文概述了支持和反对使用超加工食品概念来帮助制定常规食品分类系统之外的膳食指南的理由。"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 34,
       "start": 496.1,
       "end": 513.42,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "作者，圣保罗大学的卡洛斯·蒙泰罗和诺和诺德基金会的阿恩·阿斯特鲁普，将在8月14日的“营养2024在线直播”期间进行实时虚拟辩论，讨论这一问题。"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 26,
       "start": 513.42,
       "end": 526.02,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "辩论的核心是蒙泰罗及其同事开发的一套系统，该系统根据食品的工业加工程度进行分类，从未经加工到超加工。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 30,
       "start": 526.02,
       "end": 540.62,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "该系统将超加工食品定义为采用一系列工艺制成的食品，这些工艺从食物中提取物质，并用化学物质改变它们，以配制最终产品。"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 30,
       "start": 540.62,
       "end": 557.6,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "超加工食品的特点是设计廉价、美味且方便；例子包括软饮料和糖果、包装零食和糕点、即热产品以及重组肉制品。"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 41,
       "start": 557.6,
       "end": 573.36,
-      "matchedWords": 41
+      "matchedWords": 41,
+      "translation": "研究将食用超加工食品（通常含有高盐、高糖和高脂肪）与体重增加和慢性疾病风险增加联系起来，即使在调整了饮食中的盐、糖和脂肪含量后也是如此。"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 32,
       "start": 573.36,
       "end": 600.138,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "虽然这些关联背后的机制尚不完全清楚，但蒙泰罗认为，现有证据足以证明在膳食建议和政府政策中不鼓励食用超加工食品是合理的。"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 9,
       "start": 600.138,
       "end": 615.2,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "据称最近引起辩论的是什么问题？"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 11,
       "start": 615.2,
       "end": 636.06,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "蒙泰罗及其同事开发的系统是如何对食品进行分类的？"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 12,
       "start": 636.06,
       "end": 655.52,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "根据研究，食用超加工食品与什么有关？"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 9,
       "start": 655.52,
       "end": 661.5,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "不管你信不信，人类的创造力受益于约束。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 18,
       "start": 661.5,
       "end": 668.04,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "根据心理学家的说法，当你能利用的资源较少时，你实际上开始以不同的方式看待世界。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 11,
       "start": 668.04,
       "end": 673.86,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "有了约束，你会把精力集中在更有策略地行动上。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 10,
       "start": 673.86,
       "end": 676.98,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "当面临挑战时，你会想出新的方法来变得更好。"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 16,
       "start": 676.98,
       "end": 685.9,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "最成功的创意人才知道，约束给了他们的思维跳得更高的动力。"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 18,
       "start": 685.9,
       "end": 692.26,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "发明新产品的人并不受限于他们没有什么或不能做什么。"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 9,
       "start": 692.26,
       "end": 697.26,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "他们利用自己的局限性来进一步推动自己。"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 16,
       "start": 697.26,
       "end": 703.24,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "许多产品和服务之所以被创造出来，是因为创始人看到了他们所使用的东西的局限性。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 14,
       "start": 703.24,
       "end": 710.14,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "他们根据当时对他们不起作用的东西创造了创新。"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 9,
       "start": 710.14,
       "end": 714.9,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "创新是创意人士对局限性的反应。"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 50,
       "start": 714.9,
       "end": 736.74,
-      "matchedWords": 47
+      "matchedWords": 47,
+      "translation": "在2015年的一项研究中，伊利诺伊大学的拉维·梅塔和约翰·霍普金斯大学的朱猛研究了关于稀缺或富足的思考如何影响人们创造性地使用资源，他们发现人们根本没有动力以新颖的方式使用他们可获得的资源。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 20,
       "start": 736.74,
       "end": 745.98,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "当人们面临稀缺时，他们会赋予自己以非常规方式使用资源的自由，因为他们不得不这样做。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 11,
       "start": 745.98,
       "end": 750.74,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "障碍可以拓宽你的感知并开启你的思维过程。"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 11,
       "start": 750.74,
       "end": 758.52,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "持续的约束有助于你提高连接无关想法和概念的能力。"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 20,
       "start": 758.52,
       "end": 767.24,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "谷歌前搜索产品和用户体验副总裁玛丽莎·梅耶尔曾在彭博社的一份出版物中写道。"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 11,
       "start": 767.24,
       "end": 773.48,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "“约束塑造并聚焦问题，并提供需要克服的明确挑战。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 5,
       "start": 773.48,
       "end": 779.391,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "创造力在受到约束时最能蓬勃发展。"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 1,
       "start": 779.391,
       "end": 784.12,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "”"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 12,
       "start": 784.12,
       "end": 803.6,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "心理学家说人们在缺乏资源时会做什么？"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 7,
       "start": 803.6,
       "end": 821.06,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "文章关于创新说了什么？"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 12,
       "start": 821.06,
       "end": 840.2,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "拉维·梅塔和朱猛在2015年的研究中发现了什么？"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 8,
       "start": 840.2,
       "end": 883.68,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "玛丽莎·梅耶尔曾写过关于创造力的什么内容？"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 8,
       "start": 883.68,
       "end": 888.18,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "不同的人使用不同的冲突管理策略。"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 6,
       "start": 888.18,
       "end": 891.06,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "这些策略是在童年时期学到的。"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 12,
       "start": 891.06,
       "end": 895.28,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "通常，我们没有意识到自己在冲突情况下的行为方式。"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 8,
       "start": 895.28,
       "end": 898.74,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "我们只是做任何看起来自然而然的事情。"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 27,
       "start": 898.74,
       "end": 907.9,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "但我们确实有一套个人策略；而且因为它是习得的，我们总能通过学习新的、更有效的管理冲突的方法来改变它。"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 31,
       "start": 907.9,
       "end": 920.18,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "当你卷入冲突时，你必须考虑两个主要问题：实现你的个人目标和与对方保持良好的关系。"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 21,
       "start": 920.18,
       "end": 928.16,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "你的个人目标有多重要，以及这段关系对你有多重要，会影响你在冲突中的行为方式。"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 12,
       "start": 928.16,
       "end": 934.4,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "考虑到这两个顾虑，可以确定五种管理冲突的风格："
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 1,
       "start": 934.4,
       "end": 935.64,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "1."
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 2,
       "start": 935.64,
       "end": 937.22,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "海龟型。"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 8,
       "start": 937.22,
       "end": 940.44,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "海龟退缩到壳里以避免冲突。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 8,
       "start": 940.44,
       "end": 943.78,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "他们放弃了自己的个人目标和关系。"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 14,
       "start": 943.78,
       "end": 948.8,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "他们认为退出冲突比面对冲突更容易。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 1,
       "start": 948.8,
       "end": 949.82,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "2."
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 2,
       "start": 949.82,
       "end": 951.7,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "鲨鱼型。"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 15,
       "start": 951.7,
       "end": 957.8,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "鲨鱼试图通过强迫对手接受他们的冲突解决方案来压倒对手。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 9,
       "start": 957.8,
       "end": 962.02,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "他们不惜一切代价寻求实现自己的目标。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 14,
       "start": 962.02,
       "end": 967.78,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "鲨鱼认为冲突是由一个人获胜而另一个人失败来解决的。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 9,
       "start": 967.78,
       "end": 971.42,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "获胜给鲨鱼一种自豪感和成就感。"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 10,
       "start": 971.42,
       "end": 977.14,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "失败给他们一种软弱、不足和失败的感觉。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 1,
       "start": 977.14,
       "end": 977.74,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "3."
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 3,
       "start": 977.74,
       "end": 979.36,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "泰迪熊型。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 11,
       "start": 979.36,
       "end": 982.8,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "泰迪熊想要被别人接受和喜欢。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 21,
       "start": 982.8,
       "end": 991.78,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "他们认为应该为了和谐而避免冲突，并相信不损害关系就无法讨论冲突。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 9,
       "start": 991.78,
       "end": 996.26,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "他们为了维持关系而放弃了自己的目标。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 1,
       "start": 996.26,
       "end": 996.76,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "4."
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 2,
       "start": 996.76,
       "end": 998.42,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "狐狸型。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 15,
       "start": 998.42,
       "end": 1004.64,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "狐狸中度关注自己的目标以及与他人的关系。"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 22,
       "start": 1004.64,
       "end": 1010.84,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "他们放弃一部分目标，并说服冲突中的对方放弃其一部分目标。"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 11,
       "start": 1010.84,
       "end": 1016.04,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "他们寻求双方都能有所收获的冲突解决方案。"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 1,
       "start": 1016.04,
       "end": 1016.82,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "5."
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 2,
       "start": 1016.82,
       "end": 1017.98,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "猫头鹰型。"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 8,
       "start": 1017.98,
       "end": 1021.4,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "猫头鹰将冲突视为需要解决的问题。"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 12,
       "start": 1021.4,
       "end": 1027.32,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "他们认为冲突通过减少两人之间的紧张关系来改善关系。"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 13,
       "start": 1027.32,
       "end": 1032.06,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "他们试图开始一场将冲突识别为问题的讨论。"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 15,
       "start": 1032.06,
       "end": 1039.92,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "通过寻求让自己和对方都满意的解决方案，猫头鹰维持了关系。"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 35,
       "start": 1039.92,
       "end": 1064.702,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "猫头鹰直到找到实现自己目标和对方目标的解决方案才感到满意，而且直到紧张状态和负面情绪完全消除才感到满意。"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 13,
       "start": 1064.702,
       "end": 1080.28,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "说话者为什么说管理冲突的策略总是可以改变的？"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 14,
       "start": 1080.28,
       "end": 1098.74,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "据称什么会影响你在冲突中想要采取的行为方式？"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 15,
       "start": 1098.74,
       "end": 1120.12,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "在说话者讨论的五种风格中，哪一种将冲突视为需要解决的问题？"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 6,
       "start": 1120.12,
       "end": 1121.78,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "所有1."
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 24,
       "start": 1121.78,
       "end": 1132.32,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "地球上已知的50万种动植物物种的基因组将被测序，以帮助拯救物种免于灭绝并促进人类健康。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 30,
       "start": 1132.32,
       "end": 1147.84,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "科学家希望，破解动植物的基因组可以帮助发现传染病的新疗法、延缓衰老、改善农业作物并创造新的生物材料。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 33,
       "start": 1147.84,
       "end": 1163.24,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "在英国，包括自然历史博物馆、邱园皇家植物园和维康桑格研究所在内的机构已联手对英国的66,000种动植物进行测序。"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 19,
       "start": 1163.24,
       "end": 1170.12,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "该项目被称为“达尔文生命之树项目”，预计将耗时10年，耗资1亿英镑。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 11,
       "start": 1170.12,
       "end": 1175.26,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "一旦完成，所有信息都将向研究人员公开。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 46,
       "start": 1175.26,
       "end": 1192.64,
-      "matchedWords": 46
+      "matchedWords": 46,
+      "translation": "许多科学家认为，地球现在已经进入了第六次物种大灭绝，人类造成了栖息地丧失、污染和气候变化的有害组合，自1500年以来，这已经导致了至少77种哺乳动物和140种鸟类的灭绝。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 17,
       "start": 1192.64,
       "end": 1200.68,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "这是自6600万年前恐龙灭绝以来最大规模特种损失。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 25,
       "start": 1200.68,
       "end": 1213.18,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "科学家表示，对每个物种进行测序将彻底改变对生物学和进化的理解，加强保护以及防护和恢复生物多样性的努力。"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 42,
       "start": 1213.18,
       "end": 1229.1,
-      "matchedWords": 42
+      "matchedWords": 42,
+      "translation": "自然历史博物馆生命科学部主任蒂姆·利特尔伍德博士说，无论你对食物还是疾病感兴趣，地球上每一个生物如何适应其环境的历史都记录在它的遗传构成中。"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 13,
       "start": 1229.1,
       "end": 1234.24,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "你如何利用这一点取决于你理解它的能力。"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 18,
       "start": 1234.24,
       "end": 1240.3,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "我们将使用现代方法来获得一扇观察现在和过去的绝佳窗口。"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 16,
       "start": 1240.3,
       "end": 1245.06,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "当然，一扇观察过去的窗口会给你一个关于未来的前瞻性模型。"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 30,
       "start": 1245.06,
       "end": 1259.3,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "维康信托基金会科学主任吉姆·史密斯爵士说：“无论我怎么努力，我都想不出一个比这更令人兴奋、更相关、更及时或更具国际启发性的项目了。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 10,
       "start": 1259.3,
       "end": 1265.3,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "自1970年以来，人类已经消灭了60%的动物种群。"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 11,
       "start": 1265.3,
       "end": 1270.56,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "在接受调查的80,000个物种中，约有23,000个正接近灭绝。"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 29,
       "start": 1270.56,
       "end": 1283.56,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "我们正处于地球生命第六次大灭绝事件之中，这不仅威胁到野生动物物种，也危及全球粮食供应。"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 16,
       "start": 1283.56,
       "end": 1290.1,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "作为科学家，我们都意识到我们现在迫切需要为我们脆弱星球上的生命编制目录。"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 6,
       "start": 1290.1,
       "end": 1296.58,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我认为我们正在创造历史。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 1,
       "start": 1296.58,
       "end": 1300.9,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "”"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 15,
       "start": 1300.9,
       "end": 1320.54,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "科学家希望通过破解植物和动物的基因组来做什么？"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 9,
       "start": 1320.54,
       "end": 1338.86,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "关于地球，许多科学家相信什么？"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 17,
       "start": 1338.86,
       "end": 1361.54,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "维康信托基金会科学主任吉姆·史密斯爵士如何描述达尔文生命之树项目？"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 31,
       "start": 1361.54,
       "end": 1372.98,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "17世纪英国诗人约翰·多恩写道：“没有人是一座孤岛，自成一体；每个人都是大陆的一块，是整体的一部分。"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 30,
       "start": 1372.98,
       "end": 1386.3,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "”现在，一位英国学者声称人类的个性和独特性确实只是一种幻觉，因为社会在心理、生理和文化层面的相互联系远比人们意识到的要紧密得多。"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 39,
       "start": 1386.3,
       "end": 1403.46,
-      "matchedWords": 38
+      "matchedWords": 38,
+      "translation": "雷丁大学生态与进化研究小组的研究员汤姆·奥利弗教授在他的新书《自我幻觉》中辩称，根本不存在所谓的“自我”，甚至我们的身体也不是真正的“我们”。"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 37,
       "start": 1403.46,
       "end": 1420.3,
-      "matchedWords": 36
+      "matchedWords": 36,
+      "translation": "正如哥白尼意识到地球不是宇宙的中心一样，奥利弗教授说，社会迫切需要一场类似哥白尼式的革命，以理解人们不是独立的个体，而是一个相互关联的整体的一部分。"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 30,
       "start": 1420.3,
       "end": 1432.48,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "他写道：“人类思维文化进化的一个重要里程碑是接受了地球不是宇宙的中心，即所谓的哥白尼革命。”"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 23,
       "start": 1432.48,
       "end": 1441.64,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "“然而，我们还有一个巨大的神话需要打破：即我们作为独立的自我存在于主观宇宙的中心。"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 38,
       "start": 1441.64,
       "end": 1456.48,
-      "matchedWords": 38
+      "matchedWords": 38,
+      "translation": "你可能觉得你是一个独立的个体，在这个世界上自主地行动；你有一个在你一生中始终不变的内在自我，作为一个中心锚点，而世界在你周围变化。"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 8,
       "start": 1456.48,
       "end": 1459.18,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "这就是我试图解决的幻觉。"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 9,
       "start": 1459.18,
       "end": 1463.14,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "我们与周围的世界紧密相连。"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 31,
       "start": 1463.14,
       "end": 1476.02,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "”奥利弗教授辩称，人体内约有37万亿个细胞，但大多数细胞的寿命只有几天或几周，因此物质层面的“我们”是在不断变化的。"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 17,
       "start": 1476.02,
       "end": 1482.08,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "事实上，你身体里没有哪个部分存在的时间超过了10年。"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 26,
       "start": 1482.08,
       "end": 1493.24,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "“由于我们的身体基本上每隔几周就会焕然一新，单靠其中的物质显然不足以解释身份的持续性。"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 30,
       "start": 1493.24,
       "end": 1506.06,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "”奥利弗教授声称，个人主义实际上对社会有害，只有通过意识到我们是一个更大实体的一部分，我们才能解决紧迫的环境和社会问题。"
     },
     {
       "id": "line-171",
@@ -2130,7 +2301,8 @@
       "words": 19,
       "start": 1506.06,
       "end": 1514.9,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "通过自私的过度消费，我们正在破坏自然界，并以越来越快的速度消耗不可再生资源。"
     },
     {
       "id": "line-172",
@@ -2142,7 +2314,8 @@
       "words": 26,
       "start": 1514.9,
       "end": 1525.28,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "他说：“作为一种物种，我们正处于一个关键的十字路口，我们必须迅速改革我们的心态和行为，以不那么自私的方式行事。”"
     },
     {
       "id": "line-173",
@@ -2154,7 +2327,8 @@
       "words": 13,
       "start": 1525.28,
       "end": 1537.508,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "因此，让我们擦亮眼睛，去发现身边隐藏的联系。"
     },
     {
       "id": "line-174",
@@ -2166,7 +2340,8 @@
       "words": 11,
       "start": 1537.508,
       "end": 1556.32,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "根据汤姆·奥利弗教授的说法，什么确实只是一种幻觉？"
     },
     {
       "id": "line-175",
@@ -2178,7 +2353,8 @@
       "words": 22,
       "start": 1556.32,
       "end": 1578.44,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "汤姆·奥利弗教授如何看待我们作为独立的自我存在于主观宇宙中心的观点？"
     },
     {
       "id": "line-176",
@@ -2190,7 +2366,8 @@
       "words": 13,
       "start": 1578.44,
       "end": 1598.38,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "为什么汤姆·奥利弗教授声称物质层面的“我们”是在不断变化的？"
     },
     {
       "id": "line-177",
@@ -2202,7 +2379,8 @@
       "words": 14,
       "start": 1598.38,
       "end": 1621.124,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "根据汤姆·奥利弗教授的说法，我们该如何解决紧迫的环境和社会问题？"
     }
   ]
 }

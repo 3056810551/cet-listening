@@ -78,7 +78,8 @@
       "words": 7,
       "start": 38.04,
       "end": 40.16,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "我刚买了一个新的搅拌机。"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 3,
       "start": 40.16,
       "end": 41.2,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "那是什么？"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 9,
       "start": 41.2,
       "end": 45.08,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "搅拌机，你知道的，一种搅拌食物的机器。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 4,
       "start": 45.08,
       "end": 46.76,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "啊，是的，当然。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 4,
       "start": 46.76,
       "end": 48.68,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "电动厨房电器。"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 1,
       "start": 48.68,
       "end": 49.8,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "没错。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 7,
       "start": 49.8,
       "end": 52.1,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "这个是目前最先进的。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 21,
       "start": 52.1,
       "end": 57.96,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "我一直想买一个，我对他进行了深入的研究，以决定买哪款。"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 9,
       "start": 57.96,
       "end": 61.4,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "我读了可能有几百条在线用户评论。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 4,
       "start": 61.4,
       "end": 63.18,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "总之，它很棒。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 1,
       "start": 63.18,
       "end": 63.74,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "真的吗？"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 7,
       "start": 63.74,
       "end": 65.56,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "它有什么特别之处？"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 7,
       "start": 65.56,
       "end": 67.5,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "我的意思是，它只是个搅拌机。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 9,
       "start": 67.5,
       "end": 70.52,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "嗯，基本上，它只是一个非常好用的搅拌机。"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 8,
       "start": 70.52,
       "end": 73.54,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "它感觉很重，坚固且做工精良。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 14,
       "start": 73.54,
       "end": 78.52,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "它还有很大的功率，可以轻松切割和粉碎几乎任何东西。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 18,
       "start": 78.52,
       "end": 84.56,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "这样，我做的汤和果汁就会非常细腻光滑，没有疙瘩。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 3,
       "start": 84.56,
       "end": 86.26,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "嗯，我明白了。"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 8,
       "start": 86.26,
       "end": 88.42,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我从来没想过自己也要买一个。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 15,
       "start": 88.42,
       "end": 93.54,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "听起来对我个人来说，我很少会用到。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 6,
       "start": 93.54,
       "end": 94.82,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我以前从来没有买过。"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 11,
       "start": 94.82,
       "end": 97.8,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "现在有了，我一直都在用。"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 24,
       "start": 97.8,
       "end": 105.76,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "我早上做新鲜果汁，可能不是每个早晨，但每周三四次，感觉棒极了。"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 6,
       "start": 105.76,
       "end": 106.82,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "这是一个非常健康的习惯。"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 8,
       "start": 106.82,
       "end": 110.94,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "我能想象那一定感觉很满足。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 18,
       "start": 110.94,
       "end": 116.86,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "我可以想象你在厨房里发挥创意，尝试多种不同的配料。"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 15,
       "start": 116.86,
       "end": 122.2,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "显然，这比从超市买包装好的果汁更健康。"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 5,
       "start": 122.2,
       "end": 123.8,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "健康得多。"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 5,
       "start": 123.8,
       "end": 125.34,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "甚至完全没法比。"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 11,
       "start": 125.34,
       "end": 129.36,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "你知道店里卖的果汁大约有10%是糖吗？"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 1,
       "start": 129.36,
       "end": 130.06,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "对。"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 9,
       "start": 130.06,
       "end": 132.24,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "所以你是为了健康买的？"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 2,
       "start": 132.24,
       "end": 134.84,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "主要是。"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 17,
       "start": 134.84,
       "end": 139.88,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "基本上，它让我能够拥有更多样化的饮食和更广泛的营养。"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 26,
       "start": 139.88,
       "end": 156.48,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "因为早上的果汁里不仅有水果，我还可以放入蔬菜、坚果、酸奶、谷物，任何我喜欢的东西。"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 11,
       "start": 156.48,
       "end": 174.44,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "男子说他在买搅拌机之前做了什么？"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 11,
       "start": 174.44,
       "end": 191.94,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "女子说她从未想过要做什么？"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 10,
       "start": 191.94,
       "end": 209.26,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "男子说什么是真正健康的习惯？"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 11,
       "start": 209.26,
       "end": 228.12,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "关于商店购买的果汁，我们从谈话中了解到什么？"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 7,
       "start": 228.12,
       "end": 231.48,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "今天我们迎来了一位非常有趣的客人。"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 21,
       "start": 231.48,
       "end": 240.44,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "伯克顿市长托马斯·本杰明·格林先生来到这里，谈论他的工作和职责，负责管理这个迷人的村庄。"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 7,
       "start": 240.44,
       "end": 242.78,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "格林先生，谢谢您能来到这里。"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 5,
       "start": 242.78,
       "end": 244.46,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "谢谢你们邀请我。"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 9,
       "start": 244.46,
       "end": 247.22,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "我想先说一个显而易见的事实。"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 20,
       "start": 247.22,
       "end": 253.72,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "伯克顿已成为该国最受欢迎的旅游目的地之一，而这一切都发生在您的任期内。"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 6,
       "start": 253.72,
       "end": 256.26,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "您是如何实现这一目标的？"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 9,
       "start": 256.26,
       "end": 259.64,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "这一成就属于伯克顿的所有居民。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 13,
       "start": 259.64,
       "end": 263.66,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这是一项共同努力，每个人都为公共利益贡献了自己的力量。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 6,
       "start": 263.66,
       "end": 265.5,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "但这种变化是如何发生的呢？"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 19,
       "start": 265.5,
       "end": 273.16,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "在大约10年的时间里，伯克顿从一个相对默默无闻的宁静村庄变成了必游之地。"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 7,
       "start": 273.16,
       "end": 276.72,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "是的，这种变化确实非常显著。"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 13,
       "start": 276.72,
       "end": 281.6,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "伯克顿一直很幸运，拥有如此美丽的自然魅力。"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 21,
       "start": 281.6,
       "end": 289.56,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "村庄上方的恩布里山丘仍未受到人类开发的破坏，其下方的索诺拉山谷同样令人叹为观止。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 28,
       "start": 289.56,
       "end": 301.38,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "这种转变始于2008年春天的一次市政厅会议，距今已有10多年了，当时绝大多数邻居投票支持第836号提案。"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 17,
       "start": 301.38,
       "end": 308.5,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "这项立法提案的核心是协调伯克顿所有房屋的美学外观。"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 26,
       "start": 308.5,
       "end": 317.18,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "当时的想法是，如果所有的房产看起来都有共同的设计特色，那么整个村庄就会看起来更漂亮。"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 3,
       "start": 317.18,
       "end": 318.82,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "它奏效了。"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 3,
       "start": 318.82,
       "end": 320.36,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "确实如此。"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 16,
       "start": 320.36,
       "end": 325.88,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我正在看一张前后对比的照片，变化确实非常显著。"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 10,
       "start": 325.88,
       "end": 328.28,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "很难相信这是同一个地方。"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 7,
       "start": 328.28,
       "end": 330.46,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "邻居们现在感觉如何？"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 5,
       "start": 330.46,
       "end": 331.98,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "我想说，非常自豪。"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 11,
       "start": 331.98,
       "end": 336.54,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "但是现在拥挤在街头的大量游客呢？"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 5,
       "start": 336.54,
       "end": 338.88,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "每个人都对此感到高兴吗？"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 15,
       "start": 338.88,
       "end": 344.6,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我们接待的游客是一种恩赐，因为他们彻底振兴了当地经济。"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 5,
       "start": 344.6,
       "end": 353.66,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "每位访客都受到热烈欢迎。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 12,
       "start": 353.66,
       "end": 372.56,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "女子在介绍完之后问了格林先生什么问题？"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 10,
       "start": 372.56,
       "end": 390.06,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "关于10年前的伯克顿，我们了解到了什么？"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 11,
       "start": 390.06,
       "end": 410.76,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "通过第836号立法提案产生了什么结果？"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 12,
       "start": 410.76,
       "end": 461.24,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "为什么男子说游客对伯克顿来说是一种恩赐？"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 24,
       "start": 461.24,
       "end": 468.78,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "美国研究人员创造了一种遥控机器人，它非常小，甚至可以走在美分硬币的顶部。"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 20,
       "start": 468.78,
       "end": 476.84,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "在发表在《科学机器人》杂志上的研究中，西北大学的一个团队表示，这种像螃蟹一样的机器人宽度仅为0."
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 3,
       "start": 476.84,
       "end": 478.14,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "5毫米。"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 11,
       "start": 478.14,
       "end": 482.6,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "研究人员称其为有史以来最小的遥控步行机器人。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 21,
       "start": 482.6,
       "end": 493.04,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "这个微型机器人可以弯曲、扭曲、爬行、行走、转弯甚至跳跃，无需使用复杂的硬件或特殊动力。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 17,
       "start": 493.04,
       "end": 499.62,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "工程师表示，这是因为该机器人由其身体的弹性特性驱动。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 20,
       "start": 499.62,
       "end": 508.92,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "为了制造这个机器人，研究人员使用了一种形状记忆合金材料，受热时会转化为其记忆中的形状。"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 22,
       "start": 508.92,
       "end": 516.6,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "通过激光，该团队能够加热机器人身体的特定部位，使其改变形状。"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 19,
       "start": 516.6,
       "end": 523.72,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "当机器人变形并恢复原状时，它就会从一个地方移动到另一个地方。"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 18,
       "start": 523.72,
       "end": 530.64,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "“由于这些结构非常微小，冷却速度非常快，”项目负责人约翰·A·"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 2,
       "start": 530.64,
       "end": 531.8,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "罗杰斯说。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 13,
       "start": 531.8,
       "end": 535.44,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "“事实上，缩小这些机器人的尺寸可以让他们跑得更快。"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 1,
       "start": 535.44,
       "end": 536.56,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "”"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 29,
       "start": 536.56,
       "end": 549.32,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "虽然研究仍处于探索阶段，但该团队认为这项技术可以催生微型机器人，这些机器人可以在狭窄受限的空间内执行实际任务。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 41,
       "start": 549.32,
       "end": 578.905,
-      "matchedWords": 41
+      "matchedWords": 41,
+      "translation": "“你可以想象微型机器人作为在工业中修复或组装小型结构或机器的代理人，或者作为外科手术助理来清理阻塞的动脉、止住内出血或消除肿瘤——所有这些都是在微创手术中进行的，”罗杰斯说。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 13,
       "start": 578.905,
       "end": 594.78,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "关于西北大学的研究团队，文章说了什么？"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 10,
       "start": 594.78,
       "end": 612.84,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "关于他们创造的机器人，研究人员说了什么？"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 12,
       "start": 612.84,
       "end": 631.02,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "研究人员期望他们的机器人在未来做什么？"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 19,
       "start": 631.02,
       "end": 638.2,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "我不想夸耀或什么的，但我一直认为自己是一个精英级睡眠者。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 17,
       "start": 638.2,
       "end": 645.4,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "如果有机会，我可以睡上马拉松般的时间，甚至在最极端的情况下也能打盹。"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 38,
       "start": 645.4,
       "end": 659.58,
-      "matchedWords": 37
+      "matchedWords": 37,
+      "translation": "例如，在一次前往斯基利群岛的波涛汹涌的轮渡中，我的旅伴们整整三个小时都在厕所里呕吐，而我却开心地在塑料椅子上打瞌睡。"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 16,
       "start": 659.58,
       "end": 665.1,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "不幸的是，我注意到我毕竟不是一个精英级睡眠者。"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 6,
       "start": 665.1,
       "end": 667.3,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "似乎我只是懒惰。"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 25,
       "start": 667.3,
       "end": 678.22,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "因为精英级睡眠者的定义是，大约3%的人口在生物学上被编程为比我们其他人需要更少的睡眠。"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 31,
       "start": 678.22,
       "end": 691.58,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "根据3月份发表的一项研究，精英级睡眠者拥有罕见的基因变化，这意味着他们可以比普通人睡眠时间更少，而不会有任何认知能力下降的风险。"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 19,
       "start": 691.58,
       "end": 697.9,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "改变自己的基因可能是不可能的，但你能通过训练让自己需要更少的睡眠吗？"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 11,
       "start": 697.9,
       "end": 703.26,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "有没有非生物学的方法来达到精英级睡眠者的状态？"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 11,
       "start": 703.26,
       "end": 707.3,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "在过去的一年里，我一直试图回答这个问题。"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 24,
       "start": 707.3,
       "end": 716.56,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "我想补充一点，这不是为了好玩，而是因为生了孩子严重扰乱了我的睡眠，我对睡眠仍有极大的热情。"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 25,
       "start": 716.56,
       "end": 723.64,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "有一段时间，我以为我会被迫成为那种在黎明时分跳下床的人。"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 28,
       "start": 723.64,
       "end": 739.76,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "然而，经过一年的艰苦科学研究，我发现被迫早起与成为“早起鸟”是很不一样的。"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 15,
       "start": 739.76,
       "end": 758.76,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "关于去斯基利群岛的旅程，说话者说她做了什么？"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 10,
       "start": 758.76,
       "end": 777.12,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "关于精英级睡眠者，我们从文章中了解到了什么？"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 13,
       "start": 777.12,
       "end": 796.26,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "在过去的一年里，说话者一直试图弄清楚什么？"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 12,
       "start": 796.26,
       "end": 839.72,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "经过一年的艰苦科学研究，说话者发现了什么？"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 21,
       "start": 839.72,
       "end": 847.5,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "如果你读一篇关于争议性问题的文章，你认为你会意识到它是否改变了你的信念吗？"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 21,
       "start": 847.5,
       "end": 854.36,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "没有比你更了解自己内心的人了——似乎显而易见，你会知道你的信念是否发生了转变。"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 42,
       "start": 854.36,
       "end": 870.88,
-      "matchedWords": 40
+      "matchedWords": 40,
+      "translation": "然而，《实验心理学季刊》上的一篇新论文表明，我们实际上对自己信念改变的“意识”非常贫乏，这意味着我们往往会低估自己被一篇有说服力的文章动摇的程度。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 26,
       "start": 870.88,
       "end": 882.1,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "研究人员在两项研究中招募了200多名本科生，并关注他们对体罚孩子是否是有效惩戒方式的信念。"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 29,
       "start": 882.1,
       "end": 893.3,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "学生们在1（完全不相信）到9（完全相信）的量表上报告了他们最初对体罚是否是惩戒孩子的有效方式的信念。"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 14,
       "start": 893.3,
       "end": 899.56,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "几周后，他们得到两篇基于研究的文章之一进行阅读。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 20,
       "start": 899.56,
       "end": 907.62,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "每篇文章都有好几页长，要么提出支持体罚的论据和数据，要么反对体罚。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 16,
       "start": 907.62,
       "end": 913.98,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "之后，学生们回答了一些问题，以测试他们对文章的理解和记忆。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 15,
       "start": 913.98,
       "end": 920.72,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "然后，学生们再次对自己是否相信体罚有效进行评分。"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 18,
       "start": 920.72,
       "end": 927.4,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "最后，研究人员要求他们回忆在研究开始时他们的信念是什么。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 19,
       "start": 927.4,
       "end": 934.74,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "当学生阅读反对他们最初立场的文章时，他们对体罚的信念发生了改变。"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 30,
       "start": 934.74,
       "end": 946.18,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "至关重要的是，他们对最初信念的记忆向新信念的方向偏移了——事实上，他们的记忆更接近目前的信念，而不是最初的信念。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 28,
       "start": 946.18,
       "end": 956.91,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "信念改变得越多，这种记忆偏差就往往越大，这表明学生是在依靠目前的信念来推导最初的信念。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 36,
       "start": 956.91,
       "end": 969.63,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "记忆偏差与他们理解或回忆文章的程度无关，这表明这些因素在最初信念的记忆或对信念改变的意识中没有发挥作用。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 13,
       "start": 969.63,
       "end": 975.83,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "研究人员承认，这项研究主要是关于中等程度信念的改变。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 19,
       "start": 975.83,
       "end": 982.57,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "在极端或根深蒂固的信念改变的情况下，研究结果可能会有所不同。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 43,
       "start": 982.57,
       "end": 1008.21,
-      "matchedWords": 43
+      "matchedWords": 43,
+      "translation": "然而，我们在大多数话题上的信念都在中等范围内，当我们在日常生活中阅读信息材料时，这些有趣的发现表明，我们大多不知道刚刚阅读的内容是如何更新和改变了我们自己的立场。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 13,
       "start": 1008.21,
       "end": 1028.67,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "《实验心理学季刊》上的一篇新论文提出了什么建议？"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 15,
       "start": 1028.67,
       "end": 1048.81,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "当学生阅读反对自己最初立场的文章时发生了什么？"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 8,
       "start": 1048.81,
       "end": 1067.45,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "研究人员承认了他们的哪些发现？"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 12,
       "start": 1067.45,
       "end": 1073.25,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "随着美国人口的增长，美国妈妈的数量也在增长。"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 36,
       "start": 1073.25,
       "end": 1085.75,
-      "matchedWords": 34
+      "matchedWords": 34,
+      "translation": "但是，在母亲节成为正式节日一个多世纪后，即使这个数字在增加，美国人口中母亲的比例也处于四分之一世纪以来的最低点。"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 36,
       "start": 1085.75,
       "end": 1098.56,
-      "matchedWords": 34
+      "matchedWords": 34,
+      "translation": "人们经常注意到，富裕国家的生育率正在急剧下降，但这一趋势的一个较少被观察到的后果是，出生率的下降也意味着母亲身份整体的下降。"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 27,
       "start": 1098.56,
       "end": 1109.06,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "根据我对人口普查局数据的分析，美国母亲身份的下降是真实存在的，发生得非常快，并且可能还会持续一段时间。"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 28,
       "start": 1109.06,
       "end": 1118.88,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "不仅妈妈们在人口中所占比例越来越小，她们的特征也在发生变化，而且这种变化可能与她们比例的下降有关。"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 10,
       "start": 1118.88,
       "end": 1121.54,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "今天的妈妈们往往比过去年龄更大。"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 15,
       "start": 1121.54,
       "end": 1128.12,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "看看最近几年，特定年龄生育率的变化非常剧烈。"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 28,
       "start": 1128.12,
       "end": 1139.92,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "就在过去几年里，美国女性的高峰生育年龄范围已从25至29岁提前到30至34岁。"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 21,
       "start": 1139.92,
       "end": 1149.66,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "与此同时，20岁以下女性的生育率下降了一半或更多，而35岁及以上女性的生育率正在上升。"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 21,
       "start": 1149.66,
       "end": 1158.22,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "这种年龄变化的一个积极后果是，更大比例的新妈妈在经济上做好了抚养孩子的准备。"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 21,
       "start": 1158.22,
       "end": 1165.68,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "然而，不那么积极的一面是，许多女性发现，随着年龄的增长，她们不能像她们希望的那样拥有那么多孩子。"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 13,
       "start": 1165.68,
       "end": 1170.38,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "此外，较晚生育会增加健康并发症的风险。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 26,
       "start": 1170.38,
       "end": 1180.66,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "撇开这些细节不谈，高龄妈妈趋势的一个主要后果是，女性一生中作为母亲度过的年限减少了。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 26,
       "start": 1180.66,
       "end": 1191.32,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "这意味着在任何特定时间，更大比例的女性，从而也是整个人口，会在政府调查中报告没有孩子。"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 8,
       "start": 1191.32,
       "end": 1195.9,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "换句话说，晚育意味着更少的母亲身份。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 12,
       "start": 1195.9,
       "end": 1201.1,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "当然，即使母亲率下降，母亲节也会持续下去。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 15,
       "start": 1201.1,
       "end": 1207.56,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "事实上，尽管人口发生了变化，但该节日的零售支出似乎正在上升。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 24,
       "start": 1207.56,
       "end": 1214.84,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "很难说考虑到美国人口在不断增长，母亲节支出是否比预期增长得更多。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 39,
       "start": 1214.84,
       "end": 1236.62,
-      "matchedWords": 39
+      "matchedWords": 39,
+      "translation": "但一个因素可能是，作为成年子女母亲的女性比例正在上升，而这些成年子女在为不再住在一起的妈妈庆祝节日时，可能会花得更慷慨。"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 14,
       "start": 1236.62,
       "end": 1255.68,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "说话者从她对人口普查局数据的分析中得出了什么结论？"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 15,
       "start": 1255.68,
       "end": 1275.68,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "说话者说生育年龄变化的一个积极后果是什么？"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 14,
       "start": 1275.68,
       "end": 1295.52,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "对于母亲节零售支出上升，一个可能的解释是什么？"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 30,
       "start": 1295.52,
       "end": 1308.96,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "自从NASA在1989年发表论文称室内植物可以吸收污染和有毒化学物质以来，企业和房主越来越多地投资绿色植物以帮助清洁空气。"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 30,
       "start": 1308.96,
       "end": 1320.52,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "但一项新的分析表明，实际上每平方米可能需要1000多株植物才能获得比简单打开几扇窗户更大的好处。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 27,
       "start": 1320.52,
       "end": 1330.38,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "问题在于NASA是在密封容器中进行测试的，这些容器并不能模拟大多数人家庭或办公室的情况。"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 45,
       "start": 1330.38,
       "end": 1347.44,
-      "matchedWords": 44
+      "matchedWords": 44,
+      "translation": "航天局主要关注的是为在生物圈或空间站中与世隔绝的宇航员保持空气清新，并帮助对抗“病态建筑综合症”，这种症状在20世纪70年代后期由于办公楼高度隔热和节能而成为一个问题。"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 24,
       "start": 1347.44,
       "end": 1359.66,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "到20世纪80年代初，工人们经常抱怨皮疹、嗜睡、头痛和过敏，因为他们吸入了油漆和塑料中的有毒化学物质。"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 23,
       "start": 1359.66,
       "end": 1369.26,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "NASA发现某些植物可以清除空气中的化学物质，即使在今天，园艺中心仍推荐这些具有空气净化能力的植物。"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 21,
       "start": 1369.26,
       "end": 1378.14,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "然而，对横跨30年的数十项研究进行的一项新评估发现，正常环境下的室内植物几乎没有影响。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 11,
       "start": 1378.14,
       "end": 1383.02,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "事实上，自然通风在清洁空气方面要好得多。"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 53,
       "start": 1383.02,
       "end": 1402.46,
-      "matchedWords": 52
+      "matchedWords": 52,
+      "translation": "研究人员还计算了研究中植物的洁净空气输出率，发现植物分散化合物的速度远低于由于人员往来、开关门窗造成的正常建筑中通常的空气交换率。"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 34,
       "start": 1402.46,
       "end": 1415.14,
-      "matchedWords": 34
+      "matchedWords": 34,
+      "translation": "许多研究确实显示随着时间的推移，挥发性有机化合物的浓度有所降低，这可能就是为什么人们抓住这些研究来赞美植物净化空气的美德。"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 45,
       "start": 1415.14,
       "end": 1432.0,
-      "matchedWords": 41
+      "matchedWords": 41,
+      "translation": "但研究的计算表明，每平方米地板空间需要10到1000株植物才能与建筑物的空气处理系统，甚至只是房子里两扇打开的窗户的空气清洁能力相媲美。"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 14,
       "start": 1432.0,
       "end": 1438.62,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "相比之下，NASA的密封实验建议每100平方英尺放置一盆盆栽植物。"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 16,
       "start": 1438.62,
       "end": 1445.84,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "这无疑是一个科学发现随着时间的推移如何被误导或误解的例子。"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 30,
       "start": 1445.84,
       "end": 1465.88,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "但它也是一个很好的例子，说明科学研究应该不断地重新审视和质疑发现，以更接近地面真实情况，了解实际发生了什么。"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 10,
       "start": 1465.88,
       "end": 1485.78,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "NASA 1989年的论文声称室内植物可以做什么？"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 16,
       "start": 1485.78,
       "end": 1506.24,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "据报道，NASA 1989年论文中研究的问题是什么？"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 15,
       "start": 1506.24,
       "end": 1526.88,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "对横跨30年的数十项研究进行的一项新评估发现了什么？"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 13,
       "start": 1526.88,
       "end": 1549.793,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "NASA的密封实验建议在科学家追求真理的过程中体现了什么？"
     }
   ]
 }
