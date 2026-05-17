@@ -31,6 +31,7 @@ const els = {
   progress: document.querySelector("#progress"),
   currentTime: document.querySelector("#currentTime"),
   duration: document.querySelector("#duration"),
+  progressRow: document.querySelector(".progress-row"),
   trackList: document.querySelector("#trackList"),
   sortTrackList: document.querySelector("#sortTrackList"),
   sectionNav: document.querySelector("#sectionNav"),
@@ -55,6 +56,7 @@ async function init() {
   restoreLayoutState();
   restorePlayerPinned();
   restorePlayerPosition();
+  setupProgressTimeline();
   bindEvents();
 
   try {
@@ -122,6 +124,7 @@ function resetPlaybackState() {
   els.audio.removeAttribute("src");
   els.audio.load();
   els.progress.value = "0";
+  updateProgressFill();
   els.currentTime.textContent = "00:00";
   els.duration.textContent = "00:00";
   els.playBtn.textContent = "Play";
@@ -132,6 +135,7 @@ function resetPlaybackState() {
   document
     .querySelectorAll(".line.passed")
     .forEach((line) => line.classList.remove("passed"));
+  renderProgressTimeline();
 }
 
 function renderTrackList() {
@@ -280,6 +284,8 @@ function bindEvents() {
   els.audio.addEventListener("loadedmetadata", async () => {
     els.duration.textContent = formatTime(els.audio.duration);
     await applyTimings();
+    updateProgressFill();
+    renderProgressTimeline();
     updateFromTime();
   });
 
@@ -741,6 +747,7 @@ async function applyTimings() {
 
   state.timingsReady = true;
   renderTranscript();
+  renderProgressTimeline();
 }
 
 function normalizeLineEnds(duration) {
@@ -1038,7 +1045,19 @@ function updateProgress() {
   els.progress.value = String(
     (els.audio.currentTime / els.audio.duration) * 1000,
   );
+  updateProgressFill();
   els.currentTime.textContent = formatTime(els.audio.currentTime);
+}
+
+function updateProgressFill() {
+  const min = Number(els.progress.min) || 0;
+  const max = Number(els.progress.max) || 100;
+  const value = Number(els.progress.value) || min;
+  const percent = max > min ? ((value - min) / (max - min)) * 100 : 0;
+  const fill = `${clamp(percent, 0, 100)}%`;
+  els.progress.style.setProperty("--progress-fill", fill);
+  els.progressRow?.style.setProperty("--progress-fill", fill);
+  els.progressShell?.style.setProperty("--progress-fill", fill);
 }
 
 function progressToTime() {
@@ -1049,6 +1068,7 @@ function progressToTime() {
 function seekToProgress() {
   const time = progressToTime();
   els.audio.currentTime = time;
+  updateProgressFill();
   els.currentTime.textContent = formatTime(time);
   updateFromTime(time);
 }
@@ -1093,6 +1113,211 @@ function updateFromTime(timeOverride = null) {
   if (els.autoScroll.checked && activeEl) {
     activeEl.scrollIntoView({ behavior: "smooth", block: "center" });
   }
+}
+
+function setupProgressTimeline() {
+  if (!els.progress || els.progressShell) return;
+
+  const shell = document.createElement("div");
+  shell.className = "progress-shell";
+
+  const map = document.createElement("div");
+  map.className = "progress-map";
+  map.setAttribute("aria-hidden", "true");
+
+  const played = document.createElement("div");
+  played.className = "progress-played";
+
+  const playhead = document.createElement("div");
+  playhead.className = "progress-playhead";
+
+  const hover = document.createElement("div");
+  hover.className = "progress-hover";
+  hover.setAttribute("aria-hidden", "true");
+  hover.innerHTML = `
+    <div class="progress-hover-tip"></div>
+    <div class="progress-hover-panel">
+      <span class="progress-hover-panel-label"></span>
+      <span class="progress-hover-panel-track"></span>
+    </div>
+  `;
+
+  const input = els.progress;
+  input.parentNode.insertBefore(shell, input);
+  shell.append(map, hover, played, playhead, input);
+
+  els.progressShell = shell;
+  els.progressMap = map;
+  els.progressPlayed = played;
+  els.progressPlayhead = playhead;
+  els.progressHover = hover;
+  els.progressHoverTip = hover.querySelector(".progress-hover-tip");
+  els.progressHoverLabel = hover.querySelector(".progress-hover-panel-label");
+
+  shell.addEventListener("pointermove", updateProgressHover);
+  shell.addEventListener("pointerleave", hideProgressHover);
+}
+
+function renderProgressTimeline() {
+  if (!els.progressMap || !els.progressPlayed || !els.progressPlayhead) return;
+
+  els.progressMap.replaceChildren(els.progressPlayed, els.progressPlayhead);
+  els.progressHoverItems = [];
+  hideProgressHover();
+
+  if (
+    !state.timingsReady ||
+    !state.sections.length ||
+    !Number.isFinite(els.audio.duration) ||
+    els.audio.duration <= 0
+  ) {
+    return;
+  }
+
+  const duration = els.audio.duration;
+  const sections = state.sections
+    .map((section, index) => buildProgressSection(section, index, duration))
+    .filter((section) => section.end > section.start);
+
+  sections.forEach((section) => {
+    const left = (section.start / duration) * 100;
+    const width = ((section.end - section.start) / duration) * 100;
+
+    const segment = document.createElement("span");
+    segment.className = "progress-section";
+    segment.style.left = `${left}%`;
+    segment.style.width = `${width}%`;
+    segment.setAttribute("aria-hidden", "true");
+
+    const label = document.createElement("span");
+    label.className = "progress-section-label";
+    label.style.left = `${left}%`;
+    label.style.width = `${width}%`;
+    label.textContent = formatTimelineSectionTitle(section.title);
+
+    els.progressMap.append(segment, label);
+    els.progressHoverItems.push({
+      type: "section",
+      startPct: left,
+      endPct: left + width,
+      title: formatTimelineHoverTitle(section.title),
+      label: formatTimelineSectionTitle(section.title),
+    });
+  });
+
+  state.lines
+    .filter((line) => line.type === "question")
+    .forEach((line) => {
+      const pct = (Number(line.start) / duration) * 100;
+      if (!Number.isFinite(pct)) return;
+
+      const marker = document.createElement("span");
+      marker.className = "progress-question";
+      marker.style.left = `${clamp(pct, 0, 100)}%`;
+      marker.textContent = formatQuestionLabel(line);
+      marker.setAttribute("aria-hidden", "true");
+      els.progressMap.append(marker);
+      els.progressHoverItems.push({
+        type: "question",
+        pct: clamp(pct, 0, 100),
+        title: `Question ${formatQuestionLabel(line)}`,
+        label: formatQuestionLabel(line),
+      });
+    });
+}
+
+function buildProgressSection(section, index, duration) {
+  const firstLine =
+    state.lines.find((line) => line.id === section.firstLineId) ||
+    state.lines.find((line) => line.sectionId === section.id);
+  const nextSection = state.sections[index + 1];
+  const nextFirstLine =
+    nextSection &&
+    (state.lines.find((line) => line.id === nextSection.firstLineId) ||
+      state.lines.find((line) => line.sectionId === nextSection.id));
+  const firstQuestion = state.lines.find(
+    (line) => line.sectionId === section.id && line.type === "question",
+  );
+  const start = index === 0 ? 0 : Number(firstLine?.start) || 0;
+  const end =
+    Number(firstQuestion?.start) || Number(nextFirstLine?.start) || duration;
+
+  return {
+    title: section.title,
+    start,
+    end: Math.max(end, start),
+  };
+}
+
+function formatTimelineSectionTitle(title) {
+  const raw = String(title || "").trim().toUpperCase();
+  const match = raw.match(/^(CONVERSATION|PASSAGE|RECORDING)\s*(\d+)/);
+  if (!match) return titleCase(raw);
+
+  const prefix =
+    match[1] === "CONVERSATION"
+      ? "Conv"
+      : match[1] === "PASSAGE"
+        ? "Pass"
+        : "Record";
+  return `${prefix} ${match[2]}`;
+}
+
+function formatTimelineHoverTitle(title) {
+  const raw = String(title || "").trim().toLowerCase();
+  const match = raw.match(/^(conversation|passage|recording)\s*(\d+)/);
+  if (!match) return raw;
+
+  return `${match[1]} ${match[2]}`;
+}
+
+function formatQuestionLabel(line) {
+  const match = String(line?.speaker || line?.text || "").match(/^Q(\d{1,2})\./);
+  return match ? match[1] : "";
+}
+
+function updateProgressHover(event) {
+  if (!els.progressHover || !Array.isArray(els.progressHoverItems)) return;
+
+  const rect = els.progressShell.getBoundingClientRect();
+  const pct = clamp(((event.clientX - rect.left) / rect.width) * 100, 0, 100);
+  const item = getProgressHoverItem(pct, rect.width);
+  if (!item) {
+    hideProgressHover();
+    return;
+  }
+
+  const anchorPct =
+    item.type === "section" ? (item.startPct + item.endPct) / 2 : item.pct;
+  els.progressHover.style.left = `${anchorPct}%`;
+  els.progressHover.classList.toggle("is-question", item.type === "question");
+  els.progressHover.classList.toggle("is-section", item.type === "section");
+  els.progressHoverTip.textContent = item.title;
+  els.progressHoverLabel.textContent = item.label;
+  els.progressHover.classList.add("visible");
+}
+
+function getProgressHoverItem(pct, width) {
+  const questionThreshold = Math.max(0.6, (10 / Math.max(width, 1)) * 100);
+  const questions = els.progressHoverItems.filter(
+    (item) => item.type === "question",
+  );
+  const nearestQuestion = questions
+    .map((item) => ({ item, distance: Math.abs(item.pct - pct) }))
+    .sort((a, b) => a.distance - b.distance)[0];
+
+  if (nearestQuestion && nearestQuestion.distance <= questionThreshold) {
+    return nearestQuestion.item;
+  }
+
+  return els.progressHoverItems.find(
+    (item) =>
+      item.type === "section" && pct >= item.startPct && pct <= item.endPct,
+  );
+}
+
+function hideProgressHover() {
+  els.progressHover?.classList.remove("visible");
 }
 
 function findActiveLineIndex(time) {
