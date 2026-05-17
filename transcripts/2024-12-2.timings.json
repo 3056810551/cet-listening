@@ -78,7 +78,8 @@
       "words": 9,
       "start": 132.52,
       "end": 136.38,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "嗨，艾伦，抱歉没能早点给你回电话。"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 14,
       "start": 136.38,
       "end": 140.02,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "你在电话里说你有事要跟我商量？"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 14,
       "start": 140.02,
       "end": 145.5,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "额，直说吧，我正在重新考虑我的专业。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 25,
       "start": 145.5,
       "end": 156.6,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "随着我的家庭状况变得越来越复杂，而且大学学业也快结束了，坚持学艺术史似乎不是一个正确的选择。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 20,
       "start": 156.6,
       "end": 164.68,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "艾伦，在过去的三年里，我听到的全是关于你对艺术史课程有多么热爱的消息。"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 16,
       "start": 164.68,
       "end": 171.26,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "你经常告诉同学们老师们有多么出色，而且你终于觉得被认可了。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 7,
       "start": 171.26,
       "end": 174.08,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "是什么原因让你想要放弃它呢？"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 22,
       "start": 174.08,
       "end": 184.68,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "我父亲目前的经济状况让我意识到，一个更有经济保障的就业机会未必是一件坏事。"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 14,
       "start": 184.68,
       "end": 191.86,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "艺术史滋养了我的灵魂，但它没法让我糊口。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 12,
       "start": 191.86,
       "end": 195.94,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "那我上个月跟你讨论的那些工作机会呢？"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 22,
       "start": 195.94,
       "end": 204.82,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "你有没有去那些企业调查一下，看看是否有适合你背景的人选的正规职位？"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 2,
       "start": 204.82,
       "end": 205.38,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "嗯，这个……"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 24,
       "start": 205.38,
       "end": 213.52,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "听着，艾伦，如果你一心想在艺术界工作，你就需要表现得更积极主动一些，开始与人交流。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 17,
       "start": 213.52,
       "end": 219.96,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "如果你想成为博物馆和画廊界的知名人物，人脉是关键。"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 8,
       "start": 219.96,
       "end": 222.84,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "现在时间是非常宝贵的财富。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 6,
       "start": 222.84,
       "end": 225.26,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我的社交生活几乎不存在。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 18,
       "start": 225.26,
       "end": 231.56,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "我勉强能跟上学业，而且论文要在今年年底前交。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 18,
       "start": 231.56,
       "end": 236.72,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "我现在要做的事情这么多，哪有时间去找工作呢？"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 9,
       "start": 236.72,
       "end": 240.9,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "你现在的所作所为将决定你未来的选择。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 11,
       "start": 240.9,
       "end": 245.54,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "现在是你付出最大努力的最佳时机。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 8,
       "start": 245.54,
       "end": 248.94,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "我会考虑你说的话的。"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 5,
       "start": 248.94,
       "end": 257.9,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "非常感谢你的建议。"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 10,
       "start": 257.9,
       "end": 275.2,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "男的想和女的讨论什么？"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 10,
       "start": 275.2,
       "end": 292.68,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "为什么男的想放弃艺术史？"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 9,
       "start": 292.68,
       "end": 310.22,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "女的建议男的怎么做？"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 10,
       "start": 310.22,
       "end": 328.98,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "男的说他现在真正缺少的是什么？"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 14,
       "start": 328.98,
       "end": 333.48,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "你决定好期末商业项目要做什么了吗？"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 4,
       "start": 333.48,
       "end": 335.84,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "是的，你呢？"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 3,
       "start": 335.84,
       "end": 337.76,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "是的，继续说。"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 3,
       "start": 337.76,
       "end": 339.1,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "你先说。"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 7,
       "start": 339.1,
       "end": 341.82,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "我打算做关于牛肉的项目。"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 1,
       "start": 341.82,
       "end": 342.38,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "牛肉？"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 2,
       "start": 342.38,
       "end": 343.94,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "是的，牛肉。"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 19,
       "start": 343.94,
       "end": 351.0,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "我打算为一个供应国内市场的养牛场设计一个商业案例研究。"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 7,
       "start": 351.0,
       "end": 354.62,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "哇，听起来非常有趣且新颖。"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 7,
       "start": 354.62,
       "end": 356.26,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "你到底是从哪儿得到这个主意的？"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 10,
       "start": 356.26,
       "end": 359.22,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我不知道，我想它就是突然出现在我脑海里的。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 4,
       "start": 359.22,
       "end": 360.14,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "但想想看。"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 11,
       "start": 360.14,
       "end": 364.9,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "在过去的20年里，牛肉消费一直增长强劲。"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 18,
       "start": 364.9,
       "end": 372.48,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "随着经济的持续增长，预计在可预见的未来，消费者需求将继续增加。"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 14,
       "start": 372.48,
       "end": 377.9,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "目前大部分牛肉都是进口的，这带来了额外的费用。"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 6,
       "start": 377.9,
       "end": 380.56,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "那为什么不在这里养牛呢？"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 2,
       "start": 380.56,
       "end": 382.02,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "当然了。"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 3,
       "start": 382.02,
       "end": 383.58,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "完全有道理。"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 20,
       "start": 383.58,
       "end": 391.34,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "西部有很多土地，所以如果做得好，养殖我们自己的牛应该是很有利可图的。"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 1,
       "start": 391.34,
       "end": 393.1,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "没错。"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 7,
       "start": 393.1,
       "end": 396.04,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "说真的，这听起来是个很棒的主意。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 11,
       "start": 396.04,
       "end": 400.06,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我们拿到学位后，你真的应该研究一下这个。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 1,
       "start": 400.06,
       "end": 400.94,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "谢谢。"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 4,
       "start": 400.94,
       "end": 402.58,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "那么，轮到你了。"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 8,
       "start": 402.58,
       "end": 405.02,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "你的案例研究是关于什么的？"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 21,
       "start": 405.02,
       "end": 411.68,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "我本来在想洗车店，但在听了你的绝妙主意后，这现在似乎成了一个非常乏味的想法。"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 2,
       "start": 411.68,
       "end": 412.48,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "那很酷啊。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 5,
       "start": 412.48,
       "end": 413.5,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "我觉得那是行得通的。"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 14,
       "start": 413.5,
       "end": 419.8,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "毕竟，到处都是车，而且短期内它们不会消失。"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 13,
       "start": 419.8,
       "end": 424.32,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "虽然很多人不在乎他们的车看起来怎么样，但也有很多人在乎。"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 8,
       "start": 424.32,
       "end": 427.7,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "你拥有一个庞大且持续的市场。"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 1,
       "start": 427.7,
       "end": 429.12,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "对。"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 10,
       "start": 429.12,
       "end": 432.98,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "所以我的想法是一个大型的自动清洗洗车店。"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 13,
       "start": 432.98,
       "end": 437.3,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "但我的意思是那种规模很大、设备齐全的，就像美国的那种。"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 14,
       "start": 437.3,
       "end": 441.62,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我在想让它迎合大城市的高端消费者。"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 20,
       "start": 441.62,
       "end": 456.28,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "它可以通过提供比竞争对手稍微多一点的技术设备和专业服务来收取有利可图的溢价。"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 10,
       "start": 456.28,
       "end": 474.32,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "说话者在对话中主要谈论什么？"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 8,
       "start": 474.32,
       "end": 491.58,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "男的说什么是完全有道理的？"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 12,
       "start": 491.58,
       "end": 510.84,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "男的说哪个行业拥有庞大且持续的市场？"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 8,
       "start": 510.84,
       "end": 555.68,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "男的想象中的生意会迎合谁的需求？"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 18,
       "start": 555.68,
       "end": 563.68,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "幼儿看电视时间的增加长期以来一直与某些发展领域的进展较慢有关。"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 14,
       "start": 563.68,
       "end": 569.5,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "抵消这些负面影响的一种可能方法是在观看屏幕时进行交谈。"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 31,
       "start": 569.5,
       "end": 582.8,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "正如一项新研究表明，父母在看电视期间与学龄前儿童交谈得越多，这些孩子在进入幼儿园时拥有更高好奇心水平的可能性就越大。"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 9,
       "start": 582.8,
       "end": 589.28,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "对于社会经济地位处于劣势的孩子来说，情况尤其如此。"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 30,
       "start": 589.28,
       "end": 604.46,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "密歇根大学健康中心C.S. 莫特儿童医院的主要作者普拉奇·沙阿说：“我们的发现增强了家长对话在促进幼儿发展和好奇心方面的重要性。”"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 18,
       "start": 604.46,
       "end": 614.64,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "研究人员评估了1500名学龄前儿童每天看电视的小时数以及父母在看电视时与之交谈的频率。"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 8,
       "start": 614.64,
       "end": 619.2,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "然后在幼儿园阶段测量了幼儿的好奇心。"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 23,
       "start": 619.2,
       "end": 629.96,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "该研究专门关注好奇心水平，好奇心与幼儿园阶段阅读和数学学习能力的增强以及更高的学术成就相关。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 13,
       "start": 629.96,
       "end": 638.22,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "以及行为发展方面的益处，特别是对于来自社会经济地位较低家庭的孩子。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 19,
       "start": 638.22,
       "end": 645.66,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "虽然现在的许多幼儿是在通过平板电脑和手机等移动设备接触数字媒体的环境中长大的。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 13,
       "start": 645.66,
       "end": 653.64,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "电视仍然是主要的屏幕活动，占所有屏幕时间的72%。"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 17,
       "start": 653.64,
       "end": 662.86,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "98%的家庭都有电视，这使得看电视成为幼儿的一个相关发展背景。"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 27,
       "start": 662.86,
       "end": 675.92,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "过度的媒体接触，包括电视，可能会取代游戏和亲子互动等探索性活动，而这些活动被认为是培养孩子好奇心的关键。"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 26,
       "start": 675.92,
       "end": 697.16,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "沙阿说，我们的发现表明，父母在日常生活中寻找机会与幼儿进行对话交流非常重要，包括在看电视的时候。"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 11,
       "start": 697.16,
       "end": 715.34,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "关于幼儿，我们从一项新研究中了解到了什么？"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 8,
       "start": 715.34,
       "end": 733.46,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "普拉奇·沙阿的研究专门关注什么？"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 9,
       "start": 733.46,
       "end": 754.18,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "关于过度接触媒体，文章怎么说？"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 6,
       "start": 754.18,
       "end": 758.08,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "人类是具有抱负、追求目标的生物。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 12,
       "start": 758.08,
       "end": 761.78,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "根据研究，我们每个人都有一种天生的获取欲望。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 34,
       "start": 761.78,
       "end": 777.86,
-      "matchedWords": 34
+      "matchedWords": 34,
+      "translation": "这种获取欲望的阴暗面是盲目地追求拥有越来越多的东西，并在社交上将我们的东西与他人生活中的所有东西进行比较。"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 24,
       "start": 777.86,
       "end": 788.54,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "所以问题是，我们如何确保以积极的方式利用我们的获取欲望，从而造福我们的福祉？"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 8,
       "start": 788.54,
       "end": 793.36,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "一种方法是变得更加有目的地追求抱负。"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 23,
       "start": 793.36,
       "end": 803.38,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "有目的地追求抱负包括有意识地渴望成为你在职业和个人生活中取得成功所需要成为的人。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 20,
       "start": 803.38,
       "end": 812.44,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "它还包括有意识地渴望在你的生活中获得那些会对你的幸福感产生积极影响的东西。"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 22,
       "start": 812.44,
       "end": 826.56,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "如果你没有有意识地、留心地、有目的地利用你天生的获取欲望，你可能会盲目地追求所有错误的东西。"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 35,
       "start": 826.56,
       "end": 842.64,
-      "matchedWords": 34
+      "matchedWords": 34,
+      "translation": "虽然你有目的、有抱负的目标将包括追求获得能增加你幸福感的东西，但它们也应该包括在你不同的生活角色中帮助他人的目标。"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 21,
       "start": 842.64,
       "end": 854.54,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "你有目的、有抱负的目标还将包括努力成为最好的自己，一个具有良好品格、正直且值得信赖的人。"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 10,
       "start": 854.54,
       "end": 860.16,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "从实践而非理论的角度考虑这一点。"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 13,
       "start": 860.16,
       "end": 866.72,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "如果你没有追求有目的、有抱负的目标，你就没有什么可以为之奋斗的了。"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 35,
       "start": 866.72,
       "end": 893.282,
-      "matchedWords": 35
+      "matchedWords": 35,
+      "translation": "如果你没有什么可奋斗的，你就会让自己陷入随波逐流的危险境地，你将无法体验、生活和享受生活所能提供的一切。"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 11,
       "start": 893.282,
       "end": 908.46,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我们天生的获取欲望的阴暗面是什么？"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 13,
       "start": 908.46,
       "end": 927.58,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "如果我们不利用我们天生的获取欲望，会发生什么？"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 10,
       "start": 927.58,
       "end": 947.14,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "关于我们有目的、有抱负的目标，文章怎么说？"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 11,
       "start": 947.14,
       "end": 994.48,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "如果没有追求有目的、有抱负的目标，你最终会做什么？"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 7,
       "start": 994.48,
       "end": 998.36,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "现在是考试和论文的复习时间。"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 21,
       "start": 998.36,
       "end": 1005.38,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "压力很大，所以你会想要所有能得到的帮助来增强记忆力并提高成绩。"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 20,
       "start": 1005.38,
       "end": 1012.88,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "作为一名营养专家，我想说，吃得好能让你的复习计划大不相同。"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 10,
       "start": 1012.88,
       "end": 1017.4,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "那么，我会推荐哪些健脑的食物和饮料呢？"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 5,
       "start": 1017.4,
       "end": 1019.76,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "咖啡有很多好处。"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 19,
       "start": 1019.76,
       "end": 1028.54,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "然而，虽然咖啡可能会让你更清醒，但个人可能会产生耐受性，这意味着这种效果是短暂的。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 14,
       "start": 1028.54,
       "end": 1034.28,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "咖啡还会增加血糖，并最终导致注意力不集中和精力不足。"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 10,
       "start": 1034.28,
       "end": 1037.78,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "还值得注意的是，人们对咖啡的反应不同。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 22,
       "start": 1037.78,
       "end": 1047.34,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "有些人可以在午夜喝了咖啡后直接入睡，而另一些人在喝了少量咖啡后就会感到焦虑。"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 23,
       "start": 1047.34,
       "end": 1055.7,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "还要记住，咖啡店的咖啡可能比家里冲的咖啡更浓，所以下午2点以后就不要喝咖啡了。"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 1,
       "start": 1055.7,
       "end": 1056.2,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "点"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 11,
       "start": 1056.2,
       "end": 1059.98,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "每天最多喝两杯咖啡。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 9,
       "start": 1059.98,
       "end": 1064.14,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "但要注意你对它的反应。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 7,
       "start": 1064.14,
       "end": 1068.08,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "全谷物食品可以防止饥饿。"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 7,
       "start": 1068.08,
       "end": 1071.8,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "例子包括粥和全麦面包。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 21,
       "start": 1071.8,
       "end": 1081.82,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "将全谷物食品与蛋白质结合使用有助于保持血糖水平平衡，这对情绪和注意力至关重要。"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 9,
       "start": 1081.82,
       "end": 1085.04,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "浆果和坚果是方便且营养丰富的零食。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 17,
       "start": 1085.04,
       "end": 1094.26,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "蓝莓和许多深色的蔬菜水果一样，可以减缓大脑损伤和与年龄相关的衰退。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 7,
       "start": 1094.26,
       "end": 1097.16,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "冷冻浆果也是一个不错的选择。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 13,
       "start": 1097.16,
       "end": 1103.34,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "它们通常很便宜，保存时间更长，而且冷冻时不会流失营养。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 16,
       "start": 1103.34,
       "end": 1111.3,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "但带口味和有涂层的坚果不太健康，因为它们含有添加的油、盐和糖。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 14,
       "start": 1111.3,
       "end": 1117.18,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "医生经常建议服用维生素补充剂来补充你需要的营养。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 39,
       "start": 1117.18,
       "end": 1131.52,
-      "matchedWords": 39
+      "matchedWords": 39,
+      "translation": "但我想说，食物应该始终先于补充剂，而获得尽可能多营养的关键是饮食多样化，多吃不同颜色的食物，如冷冻浆果和深绿色蔬菜。"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 11,
       "start": 1131.52,
       "end": 1135.64,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "最好从食物和饮料中获取你需要的一切。"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 28,
       "start": 1135.64,
       "end": 1147.78,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "例如，橙子不仅含有能增强免疫系统的维生素C，还含有纤维和其他成分，这些成分是无法封装在药片里的。"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 23,
       "start": 1147.78,
       "end": 1157.22,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "别忘了喝适量的水，这可以将注意力提高近25%，还可以提升你的情绪。"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 4,
       "start": 1157.22,
       "end": 1159.74,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "最后，不要跳过正餐。"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 17,
       "start": 1159.74,
       "end": 1174.2,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "规律饮食有助于保持血糖平衡，并为大脑提供所需的燃料。"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 8,
       "start": 1174.2,
       "end": 1192.42,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "说话者在这次演讲中推荐了什么？"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 8,
       "start": 1192.42,
       "end": 1211.78,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于咖啡，说话者警告不要做什么？"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 10,
       "start": 1211.78,
       "end": 1231.24,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "根据说话者的说法，我们如何获得充足的营养？"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 9,
       "start": 1231.24,
       "end": 1237.32,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "已故的一位瑞典学者发现了一个令人担忧的趋势。"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 27,
       "start": 1237.32,
       "end": 1249.1,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "发达经济体中的许多人不仅不知道世界正在变得越来越好，甚至还持有相反的看法。"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 16,
       "start": 1249.1,
       "end": 1258.76,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "这并不奇怪，因为新闻主要关注报道灾难、恐怖袭击、战争和饥荒。"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 27,
       "start": 1258.76,
       "end": 1268.82,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "谁想听这样的事实：每天全世界约有20万人摆脱了每天2美元的贫困线？"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 20,
       "start": 1268.82,
       "end": 1277.6,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "或者每天有超过30万人首次获得电力和清洁饮用水？"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 15,
       "start": 1277.6,
       "end": 1284.82,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "这些低收入国家人们的故事根本不适合作为令人兴奋的新闻报道。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 9,
       "start": 1284.82,
       "end": 1289.42,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "但正如罗斯林在他的《事实》一书中所指出的那样。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 10,
       "start": 1289.42,
       "end": 1293.84,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "正确看待所有的坏消息很重要。"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 34,
       "start": 1293.84,
       "end": 1310.76,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "虽然近几十年来全球化确实给发达经济体的中产阶级工资带来了一些下行压力，但它也帮助数亿人摆脱了贫困。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 31,
       "start": 1310.76,
       "end": 1326.86,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "如果我们真的关心全球福祉，全球化是确保经济繁荣在所有国家共享而不仅仅是少数选定的发达经济体的唯一途径。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 32,
       "start": 1326.86,
       "end": 1339.69,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "虽然有些人美化过去，但经济史上的一个重大事实是，直到最近，世界人口的一大部分仍生活在相当悲惨的条件下。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 9,
       "start": 1339.69,
       "end": 1344.84,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "在人类历史的大部分时间里都是如此。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 30,
       "start": 1344.84,
       "end": 1358.36,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "虽然经历了许多长期的起伏，如大萧条或最近的大衰退，但长期增长率的稳定性实际上是非常神奇的。"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 26,
       "start": 1358.36,
       "end": 1369.62,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "包括中国和印度在内的低收入国家近几十年来一直以显著更快的速度增长，并且正在迅速赶上西方。"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 18,
       "start": 1369.62,
       "end": 1377.24,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "长期保持10%的增长率意味着收入水平大约每七年翻一番。"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 13,
       "start": 1377.24,
       "end": 1384.96,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "如果繁荣在全球范围内得到更广泛的共享，这显然是个好消息。"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 24,
       "start": 1384.96,
       "end": 1396.98,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "虽然由于全球化，国家内部的不平等现象有所增加，但几十年来，全球不平等现象一直呈稳步下降趋势。"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 16,
       "start": 1396.98,
       "end": 1403.84,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "这主要是数亿人生活水平提高的结果。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 22,
       "start": 1403.84,
       "end": 1421.56,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "事实上，自工业革命以来，全球约一半的人口首次可以被视为中产阶级。"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 11,
       "start": 1421.56,
       "end": 1440.88,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "已故瑞典学者发现的令人担忧的趋势是什么？"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 7,
       "start": 1440.88,
       "end": 1458.84,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "说话者关于全球化说了什么？"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 10,
       "start": 1458.84,
       "end": 1478.02,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "关于全球约一半的人口，我们了解到了什么？"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 10,
       "start": 1478.02,
       "end": 1481.38,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我们都知道嗅觉是很强大的。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 13,
       "start": 1481.38,
       "end": 1485.86,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "例如，面包诱人的香味可以像时光机一样。"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 11,
       "start": 1485.86,
       "end": 1489.82,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "闻一下就能勾起多年前的回忆。"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 13,
       "start": 1489.82,
       "end": 1496.44,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "事实上，总的来说，气味颗粒可以唤醒早已被遗忘的记忆。"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 11,
       "start": 1496.44,
       "end": 1502.52,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "但为什么气味有时会引发强烈的记忆，尤其是带有情感色彩的记忆呢？"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 16,
       "start": 1502.52,
       "end": 1509.82,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "简而言之，大脑中处理气味、记忆和情感的区域是相连的。"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 36,
       "start": 1509.82,
       "end": 1522.58,
-      "matchedWords": 35
+      "matchedWords": 35,
+      "translation": "气味是一种化学颗粒，通过鼻子飘入大脑中负责嗅觉的区域，在那里，感觉首先被处理成大脑可以读取的形式。"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 32,
       "start": 1522.58,
       "end": 1535.52,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "然后，脑细胞将这些信息传递到处理情绪的大脑区域，接着传递到邻近的学习和记忆形成区域。"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 20,
       "start": 1535.52,
       "end": 1541.68,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "嗅觉是唯一能够如此直接进入大脑情绪和记忆中心的感觉。"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 11,
       "start": 1541.68,
       "end": 1547.92,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "这导致了情感、记忆和嗅觉之间的密切联系。"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 19,
       "start": 1547.92,
       "end": 1556.1,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "这就是为什么嗅觉触发的记忆比视觉或听觉触发的记忆带给人的情感感受更强烈。"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 11,
       "start": 1556.1,
       "end": 1560.88,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "让我们近距离看看这些记忆是如何被激活的。"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 30,
       "start": 1560.88,
       "end": 1572.86,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "通常，当一个人闻到与过去有意义的事件相关的气味时，他们首先会对这种感觉产生情绪反应，然后记忆可能会随之而来。"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 9,
       "start": 1572.86,
       "end": 1576.32,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "但有时，记忆并没有浮现出来。"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 19,
       "start": 1576.32,
       "end": 1582.88,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "这个人可能会感受到过去发生的某件事的情绪，但记不起他们经历了什么。"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 5,
       "start": 1582.88,
       "end": 1585.96,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "是什么导致了这种令人困惑的现象？"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 4,
       "start": 1585.96,
       "end": 1588.7,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "解释是情境。"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 3,
       "start": 1588.7,
       "end": 1590.38,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "想象一下这个场景。"
     },
     {
       "id": "line-171",
@@ -2130,7 +2301,8 @@
       "words": 21,
       "start": 1590.38,
       "end": 1599.52,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "一个人正走在街上，闻到了几十年前第一次遇到的气味，这激活了情绪反应。"
     },
     {
       "id": "line-172",
@@ -2142,7 +2314,8 @@
       "words": 41,
       "start": 1599.52,
       "end": 1613.88,
-      "matchedWords": 41
+      "matchedWords": 41,
+      "translation": "如果这个人最初是在一个完全不同的背景下闻到那个气味的，那么恢复相关的记忆就会困难得多，因为大脑利用背景给信息赋予意义并寻找记忆。"
     },
     {
       "id": "line-173",
@@ -2154,7 +2327,8 @@
       "words": 18,
       "start": 1613.88,
       "end": 1621.22,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "尽管气味带回的记忆具有特殊性，但它们也有和其他记忆相同的缺点。"
     },
     {
       "id": "line-174",
@@ -2166,7 +2340,8 @@
       "words": 10,
       "start": 1621.22,
       "end": 1625.18,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "它们并不总是准确的，而且会随时间而改变。"
     },
     {
       "id": "line-175",
@@ -2178,7 +2353,8 @@
       "words": 12,
       "start": 1625.18,
       "end": 1631.02,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "事实上，每当我们回想起某件事时，那段记忆都可能变得扭曲。"
     },
     {
       "id": "line-176",
@@ -2190,7 +2366,8 @@
       "words": 30,
       "start": 1631.02,
       "end": 1654.636,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "但是，由于这些记忆引发的强烈情感联系，因气味而想起某事的人通常深信记忆是准确的，即使事实并非如此。"
     },
     {
       "id": "line-177",
@@ -2202,7 +2379,8 @@
       "words": 11,
       "start": 1654.636,
       "end": 1670.38,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "说话者在这次演讲中试图回答什么问题？"
     },
     {
       "id": "line-178",
@@ -2214,7 +2392,8 @@
       "words": 14,
       "start": 1670.38,
       "end": 1693.0,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "据说是什么导致了情绪、记忆和嗅觉之间的密切联系？"
     },
     {
       "id": "line-179",
@@ -2226,7 +2405,8 @@
       "words": 14,
       "start": 1693.0,
       "end": 1713.76,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "大脑用什么来给信息赋予意义并寻找记忆？"
     },
     {
       "id": "line-180",
@@ -2238,7 +2418,8 @@
       "words": 12,
       "start": 1713.76,
       "end": 1743.224,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "嗅觉记忆与其他记忆有什么共同的缺点？"
     }
   ]
 }

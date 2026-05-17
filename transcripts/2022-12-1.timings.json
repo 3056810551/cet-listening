@@ -78,7 +78,8 @@
       "words": 4,
       "start": 35.86,
       "end": 38.2,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "你的论文进展如何？"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 13,
       "start": 38.2,
       "end": 43.14,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "我正在校对初稿，明天就要提交给我的教授了。"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 8,
       "start": 43.14,
       "end": 46.58,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "噢，我甚至还没开始动笔写我的论文呢。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 12,
       "start": 46.58,
       "end": 50.72,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "所以我真的很担心下学期结束前能不能完成。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 8,
       "start": 50.72,
       "end": 53.66,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "你是说你甚至还没开始写？"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 8,
       "start": 53.66,
       "end": 55.72,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "终稿要在五个月后提交。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 21,
       "start": 55.72,
       "end": 63.22,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "我当然已经开始了，但我现在还没法动笔写，因为我还没找到足够的资源。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 6,
       "start": 63.22,
       "end": 65.86,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "所以我还在调研这个课题。"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 10,
       "start": 65.86,
       "end": 69.26,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "也许问题出在你做研究的方式上。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 13,
       "start": 69.26,
       "end": 73.54,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "我是从咨询教授去哪里查找信息开始的。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 20,
       "start": 73.54,
       "end": 81.04,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "根据他的建议，我在图书馆找到了书，还在网上找到了很多信誉良好的期刊文章。"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 20,
       "start": 81.04,
       "end": 89.86,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "这些我都试过了，但还是没有足够的素材来写论文，因为我们系的最低字数要求是70页。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 10,
       "start": 89.86,
       "end": 93.9,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我觉得问题在于我的课题不可行。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 20,
       "start": 93.9,
       "end": 100.7,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "老实说，我的教授在一开始就警告过我，我可能找不到足够的材料。"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 16,
       "start": 100.7,
       "end": 105.78,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "但我对这个课题太感兴趣了，没让他的建议阻碍我。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 8,
       "start": 105.78,
       "end": 108.7,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "好吧，我建议你换一个课题。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 16,
       "start": 108.7,
       "end": 114.04,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "毕竟，教授是来指导我们的，所以最好听从他们的建议。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 12,
       "start": 114.04,
       "end": 118.74,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "回想起来，我真希望当时听了他的话，但我没有。"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 19,
       "start": 118.74,
       "end": 124.58,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "现在我不想放弃我的课题，因为我已经投入了这么多时间和精力。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 18,
       "start": 124.58,
       "end": 131.64,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "如果你坚持目前的课题，也许你可以做一些调整，而不是完全放弃它。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 4,
       "start": 131.64,
       "end": 132.56,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "你的课题是什么？"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 12,
       "start": 132.56,
       "end": 138.46,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "是“该国南部民间传说中对女性特质的描写”。"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 3,
       "start": 138.46,
       "end": 140.12,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "那确实相当狭窄。"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 18,
       "start": 140.12,
       "end": 146.46,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "如果你把课题范围扩大一些，比如加入其他种类的描写，你就能找到更多的材料。"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 7,
       "start": 146.46,
       "end": 148.98,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "扩大课题范围是个好主意。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 11,
       "start": 148.98,
       "end": 159.82,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我会从加入该国其他地区的民间传说开始。"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 8,
       "start": 159.82,
       "end": 177.32,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于她的论文，这位女性说了什么？"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 8,
       "start": 177.32,
       "end": 194.64,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于他的教授，这位男性说了什么？"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 8,
       "start": 194.64,
       "end": 211.42,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于她的教授，这位女性说了什么？"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 12,
       "start": 211.42,
       "end": 231.02,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "我们了解到这位女性将如何完成她的论文？"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 26,
       "start": 231.02,
       "end": 242.16,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "今天，在《谈书》节目中，我们有幸邀请到约翰·罗宾斯，讨论他的新书《为什么美国人很胖以及我们如何减肥》。"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 18,
       "start": 242.16,
       "end": 250.12,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "约翰不仅是一位受人尊敬的作家，他也是当今极少数撰写科学类文章的著名作家之一。"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 10,
       "start": 250.12,
       "end": 254.34,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "谢谢你的邀请，丽贝卡，但我很难称得上是名人。"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 29,
       "start": 254.34,
       "end": 265.66,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "你太谦虚了，考虑到你的四本书在全球共售出700万册，并被翻译成12种不同的语言。"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 8,
       "start": 265.66,
       "end": 269.58,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "是什么让人们对你的作品如此着迷？"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 22,
       "start": 269.58,
       "end": 280.0,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "嗯，人们读我的书是因为超过60%的美国人超重或肥胖，其他国家也面临着类似的问题。"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 10,
       "start": 280.0,
       "end": 283.22,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "基本上，我们都想知道如何解决这些问题。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 3,
       "start": 283.22,
       "end": 284.94,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "我们确实想知道。"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 24,
       "start": 284.94,
       "end": 292.82,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "我读了你的新书，它非常精彩，尤其是你让普通人也能轻松理解深奥的科学。"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 4,
       "start": 292.82,
       "end": 296.08,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "这可是一个不小的成就。"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 31,
       "start": 296.08,
       "end": 307.04,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "很高兴听到你觉得我的书通俗易懂，因为我在写的时候还担心讨论科学可能会让这本书更适合专业读者。"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 10,
       "start": 307.04,
       "end": 310.62,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我的上一本书主要是为医学界写的。"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 14,
       "start": 310.62,
       "end": 316.4,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "但这一次，我想帮助普通人控制自己的体重。"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 8,
       "start": 316.4,
       "end": 318.16,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "那你建议他们怎么做呢？"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 16,
       "start": 318.16,
       "end": 323.54,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "你能给想要减肥的人提供一些基本的建议吗？"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 18,
       "start": 323.54,
       "end": 331.58,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "简单来说，我认为每个人都需要考虑自己的新陈代谢，吃适合自己身体需要的食物。"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 6,
       "start": 331.58,
       "end": 334.48,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我不主张单一的饮食法。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 8,
       "start": 334.48,
       "end": 337.44,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "有些人应该比其他人摄入更多的碳水化合物。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 10,
       "start": 337.44,
       "end": 340.46,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "不同的人需要不同量的蛋白质和脂肪。"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 20,
       "start": 340.46,
       "end": 349.92,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "但你确实对每个人都有一些建议，包括每天吃十份蔬菜和三份水果。"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 21,
       "start": 349.92,
       "end": 364.08,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "我们接下来会讨论这些建议，但现在我们需要休息一下，听一段赞助商的信息。"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 11,
       "start": 364.08,
       "end": 382.12,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "这位女性在介绍中关于这位男性说了什么？"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 9,
       "start": 382.12,
       "end": 399.98,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "是什么促使这位男性写书？"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 12,
       "start": 399.98,
       "end": 417.42,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这位男性说他的上一本书主要是为谁写的？"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 7,
       "start": 417.42,
       "end": 462.44,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "这位男性建议人们做什么？"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 23,
       "start": 462.44,
       "end": 472.94,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "压力通常被描绘成负面的，但研究表明，适度的压力对你的大脑和身体都有好处。"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 6,
       "start": 472.94,
       "end": 476.84,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "首先，对大脑的好处。"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 13,
       "start": 476.84,
       "end": 482.96,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "研究表明，短时间的压力实际上可以增强认知功能。"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 21,
       "start": 482.96,
       "end": 492.16,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "研究人员发现，将大鼠置于压力环境中仅几个小时，其新生脑细胞的增长就翻了一番。"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 11,
       "start": 492.16,
       "end": 496.94,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "这些大鼠随后在记忆测试中表现也更好。"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 8,
       "start": 496.94,
       "end": 501.22,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "科学家认为同样的情况也会发生在人类身上。"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 6,
       "start": 501.22,
       "end": 505.2,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "但压力是如何提高记忆力的呢？"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 2,
       "start": 505.2,
       "end": 506.54,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "很简单。"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 9,
       "start": 506.54,
       "end": 511.26,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "当你的脑细胞增殖时，你的记忆力就会提高。"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 23,
       "start": 511.26,
       "end": 521.18,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "从生物学角度来看，这是有道理的，因为那些更善于记住危险情况的动物在未来可以避开危险。"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 20,
       "start": 521.18,
       "end": 531.24,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "例如，如果一只动物遇到捕食者并逃脱了，记住那次遭遇发生的地点和时间是很重要的。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 9,
       "start": 531.24,
       "end": 535.38,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "专家声称，同样的原则也适用于人类。"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 9,
       "start": 535.38,
       "end": 539.88,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "现在，让我们转向压力对身体的好处。"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 19,
       "start": 539.88,
       "end": 547.72,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "这对于普通人来说可能有些意外，但专家说压力可以防止你生病。"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 34,
       "start": 547.72,
       "end": 563.68,
-      "matchedWords": 34
+      "matchedWords": 34,
+      "translation": "科学家承认，慢性压力会让你更容易生病，但研究表明，短时间的压力实际上可以提供一些防病保护，因为它能增强你的免疫功能。"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 26,
       "start": 563.68,
       "end": 575.02,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "一项研究显示，经历短暂压力的大鼠免疫细胞反应激增，这使得免疫系统更好地准备好对抗疾病。"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 17,
       "start": 575.02,
       "end": 591.72,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "对于人类来说，甚至有证据表明，在接种疫苗前经历压力可以帮助提高疫苗的效力。"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 12,
       "start": 591.72,
       "end": 611.96,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "关于被置于短时间压力环境下的大鼠，研究人员发现了什么？"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 14,
       "start": 611.96,
       "end": 630.82,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "为什么人们往往对自己遇到的危险情况有更清晰的记忆？"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 8,
       "start": 630.82,
       "end": 649.82,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "科学家认为慢性压力会导致什么？"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 16,
       "start": 649.82,
       "end": 656.04,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "对于许多经理和担任领导职务的人来说，处理邮件是个两难的问题。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 31,
       "start": 656.04,
       "end": 673.04,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "就邮件的数量、重要性和紧急程度而言，日常邮件这种不可预测、不可控且持续不断的性质，很可能会增加他们的焦虑程度，并削弱领导技能。"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 15,
       "start": 673.04,
       "end": 679.88,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "这是因为许多领导者优先处理邮件管理而不是人员管理，这并不罕见。"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 13,
       "start": 679.88,
       "end": 687.04,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "对收件箱管理的痴迷阻碍了他们处理员工问题。"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 30,
       "start": 687.04,
       "end": 701.24,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "结果，他们忽视了起初可能只是轻微问题的事情，直到不幸的是，这些问题由于被忽视而不可避免地演变成重大问题或危机。"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 39,
       "start": 701.24,
       "end": 721.36,
-      "matchedWords": 39
+      "matchedWords": 39,
+      "translation": "作为领导者，他们被期望激励和鼓舞团队追求长期战略目标，而且，虽然不那么宏大但更务实的是，要监督员工的日常产出，设定明确的预期并给予定期的反馈。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 20,
       "start": 721.36,
       "end": 730.22,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "当面临收件箱的吸引力和其他更重要的活动之间的选择时，许多人牺牲了后者。"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 11,
       "start": 730.22,
       "end": 734.24,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "日常邮件需求对他们的目标进展有负面影响。"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 17,
       "start": 734.24,
       "end": 744.02,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "这是因为领导者必须从其他任务中转移资源来检查、过滤和回复邮件。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 11,
       "start": 744.02,
       "end": 748.8,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "解决方案是培养自控力，它就像肌肉一样。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 10,
       "start": 748.8,
       "end": 753.84,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "它可以通过锻炼随着时间的推移而得到加强或提高。"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 45,
       "start": 753.84,
       "end": 780.8,
-      "matchedWords": 42
+      "matchedWords": 42,
+      "translation": "一些建议包括：在你的日程表中留出专门的一段时间来检查邮件；给自己设定一个定时器，这样你就不会因为收件箱而分心太久；关闭邮件提醒，这样你就不会被它们打断。"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 11,
       "start": 780.8,
       "end": 799.1,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "说话者说经理们的一个普遍问题是什么？"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 8,
       "start": 799.1,
       "end": 817.08,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "当经理忽视小问题时，可能会发生什么？"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 11,
       "start": 817.08,
       "end": 835.8,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "在追求战略目标的过程中，领导者被期望做什么？"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 10,
       "start": 835.8,
       "end": 881.4,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "经理如何才能最好地避免被邮件分心？"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 25,
       "start": 881.4,
       "end": 892.06,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "在上一周的讲座中，我们谈到了由于不良饮食习惯引起的问题，重点讨论了医疗专业人员如何试图解决这些问题。"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 15,
       "start": 892.06,
       "end": 899.98,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "今天，我们将继续讨论这个话题，但重点关注来自不同领域——营销学——的研究。"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 9,
       "start": 899.98,
       "end": 904.44,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "那么，营销学能告诉我们关于改善营养的什么呢？"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 22,
       "start": 904.44,
       "end": 914.02,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "一组营销学教授研究了食物视觉方面的重要性以及它是如何影响食物选择的。"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 27,
       "start": 914.02,
       "end": 925.08,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "那些营销专家声称，食物外观的影响比我们预想的要大，而且可能是鼓励更好饮食的关键。"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 8,
       "start": 925.08,
       "end": 929.6,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "那么食物的外观有多重要呢？"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 28,
       "start": 929.6,
       "end": 942.06,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "研究显示，例如，仅仅看到广告中一张诱人的汉堡照片，就能让人联想到那个汉堡的味道或气味。"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 11,
       "start": 942.06,
       "end": 945.7,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "这会使他们更有可能购买并食用它。"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 7,
       "start": 945.7,
       "end": 949.76,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "当然，这就是广告的目的。"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 6,
       "start": 949.76,
       "end": 952.62,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "那么这不是一件好事吗？"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 37,
       "start": 952.62,
       "end": 968.36,
-      "matchedWords": 36
+      "matchedWords": 36,
+      "translation": "营销学教授辩称，这实际上是一个问题，因为汉堡和披萨等不健康食品的美观性与易得性相结合，可能正在导致全球性的健康危机。"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 20,
       "start": 968.36,
       "end": 980.38,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "事实上，统计数据显示，世界上39%的成年人体重超标，另外13%的人肥胖。"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 33,
       "start": 980.38,
       "end": 996.46,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "正如我们上次讨论的，医疗专业人员试图通过关注不同食物中发现的营养成分来对抗肥胖流行，强调碳水化合物、脂肪、糖和卡路里含量等。"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 5,
       "start": 996.46,
       "end": 999.44,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "但他们取得的成功有限。"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 28,
       "start": 999.44,
       "end": 1011.76,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "营销学教授认为，肥胖的真正解决方案是让食物看起来诱人，并关注看食物和吃食物带来的快乐。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 13,
       "start": 1011.76,
       "end": 1016.88,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "那种快乐可以被用作促进健康食物选择的工具。"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 27,
       "start": 1016.88,
       "end": 1031.04,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "事实上，该团队的研究表明，将健康食物与令人愉悦的图像、经历和情感联系起来，会产生更大的购买或食用兴趣。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 18,
       "start": 1031.04,
       "end": 1038.2,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "他们声称，这比提醒消费者某种食物对他们有好处是更好的策略。"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 4,
       "start": 1038.2,
       "end": 1040.56,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "但他们对吗？"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 15,
       "start": 1040.56,
       "end": 1046.96,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "研究人员引用了一项旨在扭转胡萝卜销售下降的营销活动。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 19,
       "start": 1046.96,
       "end": 1056.72,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "该活动并没有强调胡萝卜的健康品质，而是宣传了它们的美感和吃胡萝卜带来的快乐。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 17,
       "start": 1056.72,
       "end": 1064.26,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "例如，广告聚焦于胡萝卜鲜艳美丽的橙色和爽脆的口感。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 14,
       "start": 1064.26,
       "end": 1070.52,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "该活动使产品销量大幅增长了10%以上。"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 25,
       "start": 1070.52,
       "end": 1091.477,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "研究人员相信，其他公司也可以通过类似的广告来提高健康食品的销量，将他们的产品描绘成诱人的快乐源泉。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 12,
       "start": 1091.477,
       "end": 1109.08,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "说话者说一组营销学教授研究了什么？"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 8,
       "start": 1109.08,
       "end": 1127.62,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "医疗专业人员是如何试图对抗肥胖的？"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 13,
       "start": 1127.62,
       "end": 1147.22,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "其他公司可以从胡萝卜促销活动的例子中学到什么？"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 13,
       "start": 1147.22,
       "end": 1154.46,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "家用清洁用品行业真正开始腾飞是在20世纪50年代。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 30,
       "start": 1154.46,
       "end": 1166.9,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "在那之前，在不那么繁荣的时代长大的足智多谋的家庭主妇们依赖于她们厨房里使用的物质，比如用来擦窗户的醋。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 20,
       "start": 1166.9,
       "end": 1176.18,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "如今，家用清洁用品行业每年的价值达数十亿美元，并由大型全球性公司主导。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 24,
       "start": 1176.18,
       "end": 1186.9,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "然而，近年来，许多国家见证了提供更环保清洁产品的小企业和公司数量的激增。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 6,
       "start": 1186.9,
       "end": 1189.86,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "它们的生意也做得很好。"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 17,
       "start": 1189.86,
       "end": 1197.6,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "其中一个原因是消费者对环境和可持续性问题变得更加关注。"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 14,
       "start": 1197.6,
       "end": 1203.66,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "他们也想让自己的家成为一个安全的地方，没有有毒化学物质。"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 15,
       "start": 1203.66,
       "end": 1210.78,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "第三个原因是人们对技术的意识和知识从未如此之高。"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 36,
       "start": 1210.78,
       "end": 1226.2,
-      "matchedWords": 36
+      "matchedWords": 36,
+      "translation": "过去，人们可能对声称能够达到神奇清洁效果的新产品持怀疑态度，但他们现在相信技术有能力做到曾经认为不可能的事情。"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 26,
       "start": 1226.2,
       "end": 1236.94,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "也许没有比一家公司销售的专利抹布更好的例子了，令人惊叹的是，这种抹布只用水，而不使用传统的清洁产品。"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 37,
       "start": 1236.94,
       "end": 1254.36,
-      "matchedWords": 37
+      "matchedWords": 37,
+      "translation": "该公司声称其抹布可以提起、捕捉并清除污垢和细菌，考虑到人们在商店里看不到这些产品，也没有在电视或媒体上看到它们的广告，这已经是一个相当迅猛的增长了。"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 20,
       "start": 1254.36,
       "end": 1262.0,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "这些公司背后的许多人开始通过在当地市场销售来测试他们产品的可行性。"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 23,
       "start": 1262.0,
       "end": 1272.84,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "然后，在很多情况下，客户通过在社交媒体上发表一连串赞扬其优点的评论来为这些产品做营销。"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 22,
       "start": 1272.84,
       "end": 1283.4,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "还有专门针对维持家居整洁、以及拥有干净家居的好处的电视节目和书籍。"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 22,
       "start": 1283.4,
       "end": 1292.2,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "在一个日益失控的世界里，拥有一个安全、干净的家可能是人们觉得可以控制的一件事。"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 6,
       "start": 1292.2,
       "end": 1295.14,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "此外，还有社交媒体名。一位英国女性因其清洁技巧页面拥有超过200万粉丝而成为社交媒体上的红人。"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 21,
       "start": 1295.14,
       "end": 1309.96,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "说话者关于近年来的清洁产品行业说了什么？"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 13,
       "start": 1309.96,
       "end": 1329.22,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "为什么新研发的清洁产品卖得很好？"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 8,
       "start": 1329.22,
       "end": 1347.32,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "一些客户在做什么来帮助推广非传统的清洁产品？"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 12,
       "start": 1347.32,
       "end": 1367.3,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "把零钱扔进喷泉是一个历史悠久的仪式。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 11,
       "start": 1367.3,
       "end": 1371.78,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "把一枚硬币扔进水里，你的愿望就可能实现。"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 12,
       "start": 1371.78,
       "end": 1375.9,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "但所有的钱总得有个去处。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 8,
       "start": 1375.9,
       "end": 1378.66,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "否则，堆积如山的便士、25分硬币和欧元可能会堵塞喷泉的运行。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 15,
       "start": 1378.66,
       "end": 1385.28,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "今天我要讲讲这些硬币都去哪儿了。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 11,
       "start": 1385.28,
       "end": 1389.6,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "收集到的硬币可以去各种不同的地方，从喷泉维护到慈善或公共服务。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 20,
       "start": 1389.6,
       "end": 1398.08,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "例如，在纽约市，从喷泉和公共公园收集的硬币通常用于喷泉本身的维护。"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 20,
       "start": 1398.08,
       "end": 1406.76,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "不过，那些不介意弄湿手的创业者通常会捷足先登。"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 14,
       "start": 1406.76,
       "end": 1412.42,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "纽约市公园里有50多个漂亮的装饰性展示喷泉。"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 13,
       "start": 1412.42,
       "end": 1418.28,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "公园工作人员每隔几周就会清理一次，但大部分硬币已经被创业的纽约人拿走了，剩下的收集量并不大。"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 34,
       "start": 1418.28,
       "end": 1431.3,
-      "matchedWords": 34
+      "matchedWords": 34,
+      "translation": "不过，其他城市可能会有更丰厚的收获。"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 11,
       "start": 1431.3,
       "end": 1436.56,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "以罗马著名的特雷维喷泉为例。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 7,
       "start": 1436.56,
       "end": 1440.4,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "几百年来，游客们都会从肩头向喷泉里扔硬币，以确保他们会回来。"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 20,
       "start": 1440.4,
       "end": 1448.7,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "由于扔硬币的游客如此之多，罗马官员每天晚上都会清理喷泉，据报道，每天能从世界各地的零钱中得到多达4000美元。"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 29,
       "start": 1448.7,
       "end": 1462.26,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "每晚收集的大部分钱都用于为贫困人口经营一家超市，而收集这些现金是一项严肃的工作。"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 22,
       "start": 1462.26,
       "end": 1471.409,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "但并不是每个人都遵守规则。"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 7,
       "start": 1471.409,
       "end": 1474.32,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "2017年，一名54岁的荷兰男子因使用磁力棒从特雷维喷泉偷硬币被抓。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 20,
       "start": 1474.32,
       "end": 1504.136,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "他这样做已经好几年了，估计偷了120万欧元。"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 13,
       "start": 1504.136,
       "end": 1523.517,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "他被逮捕并被判处34年监禁。"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 3,
       "start": 1523.517,
       "end": 1529.48,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "扔进喷泉的硬币可能会引起什么问题？"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 10,
       "start": 1529.48,
       "end": 1556.02,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "说话者关于从纽约市公园收集的硬币说了什么？"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 9,
       "start": 1556.02,
       "end": 1576.12,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "从罗马特雷维喷泉收集的大部分钱怎么处理了？"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 14,
       "start": 1576.12,
       "end": 1597.52,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "我们了解到了关于那名荷兰男子的什么？"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 12,
       "start": 1597.52,
       "end": 1616.3,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "罗马特莱维喷泉收集的大部分钱都怎么处理了？"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 8,
       "start": 1616.3,
       "end": 1635.631,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "关于那个荷兰男子我们了解到了什么？"
     }
   ]
 }

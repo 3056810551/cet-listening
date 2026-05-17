@@ -78,7 +78,8 @@
       "words": 13,
       "start": 41.26,
       "end": 47.2,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "今晚我们邀请到了一位来自当地机构——巴黎咖啡馆（Parisian Café）的特别嘉宾。"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 1,
       "start": 47.2,
       "end": 47.96,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "欢迎！"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 8,
       "start": 47.96,
       "end": 50.22,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "嗨，谢谢邀请我参加你们的节目。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 5,
       "start": 50.22,
       "end": 52.82,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "谢谢你加入我们。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 12,
       "start": 52.82,
       "end": 56.94,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "那么请告诉我们，你为什么决定开一家咖啡馆？"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 16,
       "start": 56.94,
       "end": 64.86,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "嗯，我们看到了一个机会，可以提供一些特别的、与其他机构不同的东西。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 9,
       "start": 64.86,
       "end": 68.64,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "咖啡馆确实是一个竞争非常激烈的市场领域。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 19,
       "start": 68.64,
       "end": 75.36,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "我们城市里的咖啡馆多得是，而且我们觉得它们都大同小异。"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 4,
       "start": 75.36,
       "end": 75.94,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "你不同意吗？"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 2,
       "start": 75.94,
       "end": 78.0,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "当然同意。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 7,
       "start": 78.0,
       "end": 80.82,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "那么你的咖啡馆有什么不同之处呢？"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 11,
       "start": 80.82,
       "end": 86.44,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "嗯，简单来说，我们这里有兔子自由自在地走动。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 20,
       "start": 86.44,
       "end": 94.74,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "我们的顾客进来享用食物和饮料，而小兔子们在周围玩耍，并蹭着他们的腿。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 7,
       "start": 94.74,
       "end": 97.32,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "没有其他地方像这样。"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 3,
       "start": 97.32,
       "end": 98.68,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "那太神奇了！"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 8,
       "start": 98.68,
       "end": 100.16,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "你是怎么想到这个主意的？"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 9,
       "start": 100.16,
       "end": 103.94,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "我们看到其他咖啡馆里有猫。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 6,
       "start": 103.94,
       "end": 106.66,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "所以我们想，为什么不养兔子呢？"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 3,
       "start": 106.66,
       "end": 107.94,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "人们喜欢兔子。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 5,
       "start": 107.94,
       "end": 110.22,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "它们是非常可爱的动物。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 4,
       "start": 110.22,
       "end": 111.6,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "但这样安全吗？"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 6,
       "start": 111.6,
       "end": 113.52,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "兔子会咬人吗？"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 8,
       "start": 113.52,
       "end": 116.9,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "或者有顾客伤害过兔子吗？"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 10,
       "start": 116.9,
       "end": 120.76,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "这对兔子和我们的顾客来说都是绝对安全的。"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 9,
       "start": 120.76,
       "end": 124.0,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "兔子很温顺，肯定不会咬人。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 13,
       "start": 124.0,
       "end": 130.8,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "此外，我们的兔子会定期清洁，并已接受了所有要求的疫苗接种。"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 7,
       "start": 130.8,
       "end": 134.42,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "所以完全没有健康风险。"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 18,
       "start": 134.42,
       "end": 141.8,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "至于我们的顾客，他们都是动物爱好者，所以他们永远不会试图伤害兔子。"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 21,
       "start": 141.8,
       "end": 150.08,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "有时小孩子可能会过度兴奋，动作有点粗鲁，但这从来不是什么严重的问题。"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 27,
       "start": 150.08,
       "end": 160.74,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "相反，巴黎咖啡馆为孩子们提供了很棒的体验，让他们有机会了解兔子并学习如何照顾它们。"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 15,
       "start": 160.74,
       "end": 172.1,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "嗯，这确实是我第一次听说这样的咖啡馆。"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 7,
       "start": 172.1,
       "end": 188.04,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "关于这位女士，我们了解到了什么？"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 11,
       "start": 188.04,
       "end": 205.38,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "关于她所在城市的咖啡馆，这位女士说了什么？"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 13,
       "start": 205.38,
       "end": 224.52,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "巴黎咖啡馆如何保证它的兔子不会构成健康威胁？"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 8,
       "start": 224.52,
       "end": 241.6,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于他们的顾客，这位女士说了什么？"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 2,
       "start": 241.6,
       "end": 242.5,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "嘿，你好。"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 3,
       "start": 242.5,
       "end": 243.4,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "你好吗？"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 2,
       "start": 243.4,
       "end": 244.6,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "噢，嗨。"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 3,
       "start": 244.6,
       "end": 244.9,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "我很好！"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 1,
       "start": 244.9,
       "end": 245.76,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "谢谢。"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 5,
       "start": 245.76,
       "end": 246.9,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "你看起来也很棒。"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 2,
       "start": 246.9,
       "end": 248.62,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "谢谢你。"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 11,
       "start": 248.62,
       "end": 251.98,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "很高兴看到你在有机区购物。"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 9,
       "start": 251.98,
       "end": 254.56,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "我看到你买了很多健康的东西。"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 19,
       "start": 254.56,
       "end": 259.68,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "我希望我能在这里买更多的有机产品，但我发现孩子们不喜欢。"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 13,
       "start": 259.68,
       "end": 263.68,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我不知道你家孩子怎么样，但我家孩子只喜欢垃圾食品。"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 3,
       "start": 263.68,
       "end": 265.22,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "噢，相信我！"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 6,
       "start": 265.22,
       "end": 267.66,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我完全理解你的感受。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 5,
       "start": 267.66,
       "end": 269.82,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "我的孩子也一样。"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 14,
       "start": 269.82,
       "end": 273.66,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "现在的孩子是怎么回事，吃那么多垃圾食品？"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 9,
       "start": 273.66,
       "end": 278.26,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "我认为全是电视上的那些广告（造成的）。"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 6,
       "start": 278.26,
       "end": 279.68,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "他们就是从那里学来的。"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 4,
       "start": 279.68,
       "end": 281.3,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "是的，一定是这样。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 11,
       "start": 281.3,
       "end": 285.9,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我的孩子在电视上看到什么，就立刻想要什么。"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 12,
       "start": 285.9,
       "end": 289.92,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "就好像他们没有意识到这只是广告一样。"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 1,
       "start": 289.92,
       "end": 290.9,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "没错。"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 12,
       "start": 290.9,
       "end": 297.16,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "而且几乎所有针对儿童的广告都是不健康的加工食品。"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 18,
       "start": 297.16,
       "end": 305.28,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "难怪对我们父母来说，给孩子喂普通的蔬菜水果就像一场战斗。"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 5,
       "start": 305.28,
       "end": 306.98,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "就是这么回事。"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 9,
       "start": 306.98,
       "end": 311.94,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "在电视上从来见不到普通食材的广告。"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 8,
       "start": 311.94,
       "end": 314.28,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "从来没有胡萝卜或桃子。"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 9,
       "start": 314.28,
       "end": 317.78,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "总是一些垃圾，比如裹着巧克力的糖果。"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 2,
       "start": 317.78,
       "end": 319.3,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "太不健康了。"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 1,
       "start": 319.3,
       "end": 320.46,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "完全正确。"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 24,
       "start": 320.46,
       "end": 330.28,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "这些大型食品公司有那么多钱花在巧妙的策略上，旨在让小孩子想买他们的产品。"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 5,
       "start": 330.28,
       "end": 332.36,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "孩子们根本没有还手之力。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 5,
       "start": 332.36,
       "end": 333.82,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "这真的很不公平。"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 4,
       "start": 333.82,
       "end": 335.52,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "你说得太对了。"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 17,
       "start": 335.52,
       "end": 341.82,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "当我们还是孩子的时候，几乎没有什么垃圾食品，我们也成长得很好。"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 1,
       "start": 341.82,
       "end": 342.64,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "是的。"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 8,
       "start": 342.64,
       "end": 345.44,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我父母对这些一点也不理解。"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 11,
       "start": 345.44,
       "end": 350.28,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "电视广告和超市对他们来说都很陌生。"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 10,
       "start": 350.28,
       "end": 353.16,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "他们年轻时的世界是如此不同。"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 11,
       "start": 353.16,
       "end": 357.02,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "我不知道下一代会发生什么。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 5,
       "start": 357.02,
       "end": 359.36,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "这个世界要疯了。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 2,
       "start": 359.36,
       "end": 363.843,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "肯定如此。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 11,
       "start": 363.843,
       "end": 386.26,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "说话者关于他们孩子喜欢的食物说了什么？"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 12,
       "start": 386.26,
       "end": 404.18,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "根据说话者的说法，什么对孩子的食物选择影响最大？"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 10,
       "start": 404.18,
       "end": 421.62,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "说话者认为大型食品公司在做什么？"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 11,
       "start": 421.62,
       "end": 470.68,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "关于说话者小时候的情况，我们了解到了什么？"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 17,
       "start": 470.68,
       "end": 478.88,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "密西西比河全长约2300英里，是美国最长的河流。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 13,
       "start": 478.88,
       "end": 485.0,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "马更些河长约1000英里，是加拿大最长的河流。"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 19,
       "start": 485.0,
       "end": 494.38,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "但与世界上两条最长的河流——尼罗河和亚马逊河相比，这些水道显得微不足道。"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 29,
       "start": 494.38,
       "end": 509.26,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "尼罗河发源于非洲中部，向北流经4100多英里注入地中海，其沿岸曾孕育了世界上最伟大的古代文明之一。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 32,
       "start": 509.26,
       "end": 525.26,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "尼罗河一年中大部分时间都平静安宁，过去每年都会泛滥，从而为古埃及赖以生存的附近农田创造、灌溉并运送新的表层土壤。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 15,
       "start": 525.26,
       "end": 532.12,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "作为一种运输手段，这条河流载着各种船只在其中往返。"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 35,
       "start": 532.12,
       "end": 546.66,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "今天，在这一水道畅通无阻的部分旅行，将会经过宏伟的帝王谷，许多古代君主的陵墓已经在那里屹立了3000多年。"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 38,
       "start": 546.66,
       "end": 564.5,
-      "matchedWords": 36
+      "matchedWords": 36,
+      "translation": "伟大的文明和密集的定居点几乎与亚马逊河无关，然而这条长达4000英里的南美河流承载着世界约20%的淡水——比密西西比河、尼罗河和长江的总和还要多。"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 5,
       "start": 564.5,
       "end": 567.66,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "其他统计数据同样令人惊讶。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 17,
       "start": 567.66,
       "end": 574.38,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "亚马逊河在某些地方非常宽阔，从河中心甚至看不到两岸。"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 24,
       "start": 574.38,
       "end": 586.6,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "亚马逊河每秒向大西洋注入约5500万加仑的水；在河口，有一座比瑞士还大的岛屿。"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 14,
       "start": 586.6,
       "end": 599.556,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "最重要的是，亚马逊河灌溉着地球上最大的热带雨林。"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 10,
       "start": 599.556,
       "end": 617.14,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "在帝王谷可以发现什么？"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 11,
       "start": 617.14,
       "end": 634.9,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "亚马逊河在哪些方面与其他大河不同？"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 8,
       "start": 634.9,
       "end": 651.08,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "说话者关于亚马逊河说了什么？"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 18,
       "start": 651.08,
       "end": 657.04,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "你多久对人说一次“我很忙”或“我没时间做那个”？"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 28,
       "start": 657.04,
       "end": 666.82,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "尽管我们知道忙碌并不总是特别健康，但我们所有人都生活在快节奏中，这是一个不可避免的事实。"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 11,
       "start": 666.82,
       "end": 671.82,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "在新西兰长大时，一切总是平静而缓慢的。"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 10,
       "start": 671.82,
       "end": 676.2,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "人们享受慢节奏生活的宁静。"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 41,
       "start": 676.2,
       "end": 690.36,
-      "matchedWords": 41
+      "matchedWords": 41,
+      "translation": "搬到东京并住了几年后，我习惯了有一大堆待办事项清单，我的日历总是看起来一团糟，上面写满了要做的各种事情。"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 21,
       "start": 690.36,
       "end": 699.2,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "我发现自己把时间填满了没完没了的工作会议和社交活动，忙得像只蜜蜂一样到处奔波。"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 34,
       "start": 699.2,
       "end": 714.22,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "然后，有一天，我读到了一本名为《慢活》（In Praise of Slowness）的书，并意识到忙碌不仅有害，而且有把生活变成一场无止境竞赛的危险。"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 27,
       "start": 714.22,
       "end": 726.4,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "于是我开始练习作者在书中提到的各种实用步骤，并开始反抗“太忙”这种观念本身。"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 38,
       "start": 726.4,
       "end": 741.32,
-      "matchedWords": 34
+      "matchedWords": 34,
+      "translation": "这并不意味着我的待办事项清单不复存在，但我更加意识到放慢脚步的重要性，并确保我在执行日常活动时能够享受其中。"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 27,
       "start": 741.32,
       "end": 754.7,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "从现在起，当有人问你生活过得怎么样时，试着用“令人兴奋且有趣”之类的词来回答，而不是用文化惯例中的“忙碌”。"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 8,
       "start": 754.7,
       "end": 766.38,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "看看你是否能体验到随之而来的宁静。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 9,
       "start": 766.38,
       "end": 783.96,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "说话者认为什么是不可避免的事实？"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 10,
       "start": 783.96,
       "end": 801.38,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "说话者关于她在东京的生活说了什么？"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 7,
       "start": 801.38,
       "end": 817.84,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "是什么让说话者改变了她的生活方式？"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 8,
       "start": 817.84,
       "end": 865.4,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "说话者改变生活方式后发生了什么？"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 32,
       "start": 865.4,
       "end": 881.46,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "政府、私立机构和个人每年花费数十亿美元试图根除被认为对生态系统危险的非本土生物，并防止新入侵者的引入。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 22,
       "start": 881.46,
       "end": 890.6,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "但一些科学家质疑这样一种假设，即外来物种的存在在自然生态系统中永远是不可接受的。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 13,
       "start": 890.6,
       "end": 897.88,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "他们说，将引入的物种描绘成天生有害是一种不科学的方法。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 42,
       "start": 897.88,
       "end": 918.28,
-      "matchedWords": 42
+      "matchedWords": 42,
+      "translation": "亚利桑那大学进化生物学教授迈克尔·罗森茨威格博士说：“外来物种和本土物种之间的区别是人为的，因为它们取决于选定一个日期，并将该日期之后出现的动植物称为‘外来物种’。”"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 14,
       "start": 918.28,
       "end": 925.82,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "默认情况下，没有被定义为“外来物种”的生态系统被认为是最自然的。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 17,
       "start": 925.82,
       "end": 933.7,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "“你无法倒转时钟并移除所有外来物种或修复栖息地，”罗森茨威格博士说。"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 26,
       "start": 933.7,
       "end": 943.8,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "“本土物种和外来物种都可能变成侵入性的，因此当它们开始失控时，都必须受到监测和控制。”"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 26,
       "start": 943.8,
       "end": 955.14,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "这场辩论的核心是如何管理世界上剩余的自然生态系统，以及如何以及在多大程度上恢复其他栖息地。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 12,
       "start": 955.14,
       "end": 963.38,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "侵入领地的物种会危害生态系统、农业和人类健康。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 12,
       "start": 963.38,
       "end": 969.04,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "它们会威胁一些本土物种，甚至摧毁并取代其他物种。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 17,
       "start": 969.04,
       "end": 978.78,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "许多生态学家说，除了栖息地流失之外，这些侵入物种构成了全球生物多样性的最大威胁。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 18,
       "start": 978.78,
       "end": 991.24,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "生态学家通常将外来物种定义为人们无意中或故意带到新地点的物种。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 14,
       "start": 991.24,
       "end": 997.96,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "在美洲大陆，外来物种是指在欧洲人第一次接触后引入的物种。"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 37,
       "start": 997.96,
       "end": 1017.3,
-      "matchedWords": 36
+      "matchedWords": 36,
+      "translation": "这个日期，大约在公元1500年，代表了生态学家认为的物种（包括农作物和牲畜）扩散的一个重大转变，因为它们开始随着人类从一个大陆迁移到另一个大陆。"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 27,
       "start": 1017.3,
       "end": 1031.02,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "田纳西大学生态学和进化生物学教授唐·史密斯说：“只有小部分外来物种在它们的新栖息地造成问题。”"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 27,
       "start": 1031.02,
       "end": 1043.68,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "他指出：“在美国的7000种外来物种中（总共15万个物种），只有约10%具有侵入性。”"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 13,
       "start": 1043.68,
       "end": 1050.06,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "其他90%已经融入了环境，被认为是自然化的。"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 24,
       "start": 1050.06,
       "end": 1063.58,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "然而生态学家警告说，外表可能会具有欺骗性，许多这些外来物种可能仅仅因为没有人记录它们的有害影响而被认为是可以接受的。"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 14,
       "start": 1063.58,
       "end": 1078.6,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "更重要的是，非本土物种可能几十年看起来都无害，然后变成侵入性的。"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 12,
       "start": 1078.6,
       "end": 1098.12,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "关于引入物种的什么假设受到了许多科学家的质疑？"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 11,
       "start": 1098.12,
       "end": 1117.32,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "迈克尔·罗森茨威格博士对外来物种和本土物种有什么看法？"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 9,
       "start": 1117.32,
       "end": 1135.12,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "唐·史密斯教授关于外来物种说了什么？"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 5,
       "start": 1135.12,
       "end": 1138.38,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "女士们，先生们，早上好！"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 17,
       "start": 1138.38,
       "end": 1146.34,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "欢迎参加我们的“在国外做生意”系列商务研讨会的第三场。"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 31,
       "start": 1146.34,
       "end": 1159.38,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "今天我们将探讨跨文化意识，也就是说，事实上并非所有人都是英国人，并非所有人都说英语，也并非所有人都以英国人的方式做生意。"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 4,
       "start": 1159.38,
       "end": 1160.78,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "他们凭什么要那样做呢？"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 24,
       "start": 1160.78,
       "end": 1170.54,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "如果海外商务人士向我们销售产品，那么他们会尽一切努力说英语，并尊重我们的传统和方法。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 14,
       "start": 1170.54,
       "end": 1174.24,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "当我们拜访他们时，我们也理应如此，这才是礼貌的。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 5,
       "start": 1174.24,
       "end": 1176.46,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "这不仅是礼貌问题。"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 11,
       "start": 1176.46,
       "end": 1181.72,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "如果我们想在海外销售英国产品，这是必不可少的。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 4,
       "start": 1181.72,
       "end": 1184.3,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "首先，做一个小测试。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 8,
       "start": 1184.3,
       "end": 1187.6,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "让我们看看你的跨文化意识有多强。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 16,
       "start": 1187.6,
       "end": 1194.94,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "问题1：在每月的1号和7号，哪里绝对不能饮酒？"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 11,
       "start": 1194.94,
       "end": 1201.08,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "问题2：在什么地方你绝对不应该称赞主人的财产？"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 14,
       "start": 1201.08,
       "end": 1208.0,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "问题3：在曼谷的商务午餐期间，你应该如何吸引服务员的注意？"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 21,
       "start": 1208.0,
       "end": 1216.014,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "问题4：你应该把所有的预约时间定在2:00之前还是5:30之"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 1,
       "start": 1216.014,
       "end": 1217.54,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "后？"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 1,
       "start": 1217.54,
       "end": 1218.78,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "好的。"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 8,
       "start": 1218.78,
       "end": 1221.7,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "大家都有机会做记录了吗？"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 23,
       "start": 1221.7,
       "end": 1230.52,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "对，这里是答案——尽管我确信这些信息同样适用于除我选定的国家之外的其他国家。"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 18,
       "start": 1230.52,
       "end": 1238.78,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "所以，第1题：在印度，每月的1号和7号不能饮酒。"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 26,
       "start": 1238.78,
       "end": 1253.48,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "在国际酒店，你可能会发现有酒供应，但如果你正与一位印度同事用餐，切记避免点啤酒。"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 17,
       "start": 1253.48,
       "end": 1258.86,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "第2题：在其他一些国家，社会上的普遍礼节是人们会赠送出他们的财产。"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 18,
       "start": 1258.86,
       "end": 1268.46,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "如果你赞美你同事漂亮的金色碗，你很可能会发现它们被赠送给了你。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 17,
       "start": 1268.46,
       "end": 1281.02,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "然而这并非一种廉价的方式，因为你的主人也会发现同等的价值和美感。"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 29,
       "start": 1281.02,
       "end": 1295.2,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "第3题：在泰国，拍手或对服务员大喊大叫会让你、你的主人、同桌食客以及服务员本人都感到尴尬，尤其是你。"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 14,
       "start": 1295.2,
       "end": 1304.9,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "手掌向下做一个含蓄的手势，然后等待回应。"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 30,
       "start": 1304.9,
       "end": 1329.684,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "最后，第4题：在西班牙，一些企业可能会一直工作到下午2点，然后在晚上5:30到8点或9点返回办公室。"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 10,
       "start": 1329.684,
       "end": 1345.38,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "当你与外国人做生意时，你应该怎么做？"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 9,
       "start": 1345.38,
       "end": 1362.6,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "你必须避免和你的印度同事一起做什么？"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 8,
       "start": 1362.6,
       "end": 1380.3,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于一些西班牙人，我们了解到了什么？"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 30,
       "start": 1380.3,
       "end": 1395.76,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "1984年，乔治·格鲁恩接管《读者文摘》协会后不久，他就打开了公司会议室的门，并宣布该房间现在对员工开放。"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 19,
       "start": 1395.76,
       "end": 1401.26,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "这是一种象征性的行为，表明在格鲁恩的领导下，《读者文摘》将会变得不同。"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 11,
       "start": 1401.26,
       "end": 1405.96,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "格鲁恩言出必行，重塑了这里的文化。"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 17,
       "start": 1405.96,
       "end": 1412.28,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "为了了解我们所说的文化，看看格鲁恩开放的会议室。"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 23,
       "start": 1412.28,
       "end": 1422.52,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "它拥有世界上任何博物馆都想收藏的艺术品，包括莫奈和毕加索等许多世界著名艺术家的画作。"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 9,
       "start": 1422.52,
       "end": 1428.7,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "其总部收藏了约3000件艺术品。"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 22,
       "start": 1428.7,
       "end": 1438.42,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "主楼顶部是一座乔治亚风格的塔楼，上面有四座神话中飞马的雕塑，这是该杂志的公司标志。"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 9,
       "start": 1438.42,
       "end": 1444.44,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "它占地127英亩，拥有修剪整齐的草坪。"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 32,
       "start": 1444.44,
       "end": 1460.86,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "编辑办公室过去是创始人德威特·华莱士的办公室，他在1922年与妻子莱拉·艾奇逊·华莱士共同创办了《读者文摘》，刊登来自其他出版物的摘要文章。"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 23,
       "start": 1460.86,
       "end": 1471.5,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "它已成为世界上读者最多的杂志，每月以17种语言和41个不同版本售出2800万册。"
     },
     {
       "id": "line-171",
@@ -2130,7 +2301,8 @@
       "words": 16,
       "start": 1471.5,
       "end": 1480.46,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "华莱士夫妇都是牧师的孩子，他们对自己的这份小杂志有一套明确的准则。"
     },
     {
       "id": "line-172",
@@ -2142,7 +2314,8 @@
       "words": 15,
       "start": 1480.46,
       "end": 1488.96,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "正如《读者文摘》最初的副标题所言，文章应该是简短、可读且振奋人心的。"
     },
     {
       "id": "line-173",
@@ -2154,7 +2327,8 @@
       "words": 7,
       "start": 1488.96,
       "end": 1492.88,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "挑选的主题旨在激励或娱乐。"
     },
     {
       "id": "line-174",
@@ -2166,7 +2340,8 @@
       "words": 26,
       "start": 1492.88,
       "end": 1505.6,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "华莱士夫妇直到1955年才在美版杂志中接受广告，即便如此，他们也不允许刊登任何香烟、烈酒或药品的广告。"
     },
     {
       "id": "line-175",
@@ -2178,7 +2353,8 @@
       "words": 14,
       "start": 1505.6,
       "end": 1511.16,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "华莱士夫妇对他们想要的工作场所也有清晰的认识。"
     },
     {
       "id": "line-176",
@@ -2190,7 +2366,8 @@
       "words": 21,
       "start": 1511.16,
       "end": 1520.26,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "它最初是一家夫妻店，没有孩子的华莱士夫妇一直把员工视为家庭的一员。"
     },
     {
       "id": "line-177",
@@ -2202,7 +2379,8 @@
       "words": 37,
       "start": 1520.26,
       "end": 1535.64,
-      "matchedWords": 35
+      "matchedWords": 35,
+      "translation": "员工们至今仍在讲述华莱士夫妇如何照顾遭遇不幸的员工，以及他们如何为员工提供不寻常的福利，比如感恩节的火鸡和五月份的周五放假。"
     },
     {
       "id": "line-178",
@@ -2214,7 +2392,8 @@
       "words": 7,
       "start": 1535.64,
       "end": 1539.64,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "这种舒适的工作环境现在已经不复存在了。"
     },
     {
       "id": "line-179",
@@ -2226,7 +2405,8 @@
       "words": 11,
       "start": 1539.64,
       "end": 1544.46,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "华莱士夫妇都在20世纪80年代初去世，享年九十多岁。"
     },
     {
       "id": "line-180",
@@ -2238,7 +2418,8 @@
       "words": 21,
       "start": 1544.46,
       "end": 1552.82,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "1960年加入《读者文摘》的前广告推销员乔治·格鲁恩，将目光聚焦在了利润上。"
     },
     {
       "id": "line-181",
@@ -2250,7 +2431,8 @@
       "words": 12,
       "start": 1552.82,
       "end": 1557.64,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "在短短几年内，他让这份杂志发生了天翻地覆的变化。"
     },
     {
       "id": "line-182",
@@ -2262,7 +2444,8 @@
       "words": 20,
       "start": 1557.64,
       "end": 1577.84,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "他解雇了几百名工人，受打击最重的是蓝领和粉领部门，如订阅履行部门。"
     },
     {
       "id": "line-183",
@@ -2274,7 +2457,8 @@
       "words": 7,
       "start": 1577.84,
       "end": 1594.0,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "乔治·格鲁恩在1984年做了什么？"
     },
     {
       "id": "line-184",
@@ -2286,7 +2470,8 @@
       "words": 9,
       "start": 1594.0,
       "end": 1612.2,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "华莱士夫妇为《读者文摘》制定的准则是什么？"
     },
     {
       "id": "line-185",
@@ -2298,7 +2483,8 @@
       "words": 13,
       "start": 1612.2,
       "end": 1630.92,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "关于《读者文摘》的创始人德威特·华莱士，我们了解到了什么？"
     },
     {
       "id": "line-186",
@@ -2310,7 +2496,8 @@
       "words": 12,
       "start": 1630.92,
       "end": 1651.548,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "华莱士夫妇去世后，《读者文摘》发生了什么变化？"
     }
   ]
 }

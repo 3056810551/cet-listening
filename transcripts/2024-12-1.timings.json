@@ -78,7 +78,8 @@
       "words": 9,
       "start": 132.68,
       "end": 136.62,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "好了，这是你的年度绩效评估。"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 18,
       "start": 136.62,
       "end": 142.98,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "你已经在公司工作了三年，在过去的 12 个月里一直由我直接监督。"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 5,
       "start": 142.98,
       "end": 145.26,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "你的报告大部分都很好。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 10,
       "start": 145.26,
       "end": 148.42,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "但有几个问题我们必须讨论一下。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 8,
       "start": 148.42,
       "end": 150.94,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "报告你可以带走。"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 8,
       "start": 150.94,
       "end": 153.6,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "我们现在一起过一下要点。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 10,
       "start": 153.6,
       "end": 157.56,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "你可以稍后更详细地查看它。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 8,
       "start": 157.56,
       "end": 160.06,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "在我们开始之前你有什么问题吗？"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 2,
       "start": 160.06,
       "end": 161.2,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "没有，先生。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 6,
       "start": 161.2,
       "end": 162.58,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "那我就直入正题了。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 9,
       "start": 162.58,
       "end": 167.2,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "显然你是一个勤奋的员工。"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 5,
       "start": 167.2,
       "end": 170.2,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "你准时且勤勉。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 10,
       "start": 170.2,
       "end": 174.72,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "此外，你有很强的分析能力和对细节的关注。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 12,
       "start": 174.72,
       "end": 180.76,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "公司，包括我自己在内，对你的生产力和整体表现都很满意。"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 2,
       "start": 180.76,
       "end": 181.52,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "谢谢。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 4,
       "start": 181.52,
       "end": 183.76,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我感谢这份认可。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 9,
       "start": 183.76,
       "end": 186.96,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "那么，到目前为止，你同意这些描述吗？"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 6,
       "start": 186.96,
       "end": 190.98,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "是的，也许有点过于简单了。"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 10,
       "start": 190.98,
       "end": 194.5,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "但这种评估通常都是这样的。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 1,
       "start": 194.5,
       "end": 195.64,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "当然。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 6,
       "start": 195.64,
       "end": 197.94,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "你想补充什么吗？"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 11,
       "start": 197.94,
       "end": 202.26,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "如果你愿意，你的意见可以添加到报告中。"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 4,
       "start": 202.26,
       "end": 203.52,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "哦，没必要。"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 5,
       "start": 203.52,
       "end": 205.68,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "这真是一种过奖的描绘。"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 3,
       "start": 205.68,
       "end": 207.22,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "不过还是要谢谢你。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 1,
       "start": 207.22,
       "end": 208.76,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "好的。"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 9,
       "start": 208.76,
       "end": 212.72,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "这让我想到了不太好的部分。"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 13,
       "start": 212.72,
       "end": 219.84,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这主要集中在一个行为方面——你与他人合作的能力。"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 2,
       "start": 219.84,
       "end": 221.0,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "我明白了。"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 1,
       "start": 221.0,
       "end": 222.18,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "是的。"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 19,
       "start": 222.18,
       "end": 230.28,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "如你所知，在过去的几个月里，有一些关于你沟通方式的投诉。"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 10,
       "start": 230.28,
       "end": 234.14,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "当然，关于这件事我们已经开了大约三次会了。"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 16,
       "start": 234.14,
       "end": 239.56,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "听着，我想说的是，我从来没有想过要冒犯任何人。"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 18,
       "start": 239.56,
       "end": 246.22,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "简单地说，我不喜欢写长邮件，因为坦率地说，我认为那是在浪费时间。"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 3,
       "start": 246.22,
       "end": 248.62,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "简洁就是效率。"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 18,
       "start": 248.62,
       "end": 255.18,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "我觉得写长邮件会损害你刚才表扬我的那种生产力。"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 8,
       "start": 255.18,
       "end": 258.62,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "如果有人感到被冒犯，我已经道过歉了。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 17,
       "start": 258.62,
       "end": 272.36,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "但坦率地说，我认为任何感到被冒犯的人都显得有点太敏感了。"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 7,
       "start": 272.36,
       "end": 290.04,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "说话者最可能在做什么？"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 7,
       "start": 290.04,
       "end": 307.56,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "这位女士说她感谢什么？"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 10,
       "start": 307.56,
       "end": 326.26,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "是什么引起了对这位女士的一些投诉？"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 9,
       "start": 326.26,
       "end": 345.58,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "为什么这位女士不喜欢写长邮件？"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 10,
       "start": 345.58,
       "end": 350.08,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "那么告诉我，你为什么要学医？"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 7,
       "start": 350.08,
       "end": 352.12,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "我一直想当一名医生。"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 12,
       "start": 352.12,
       "end": 355.82,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我来自一个小镇，那里的医疗条件一直不是最好的。"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 10,
       "start": 355.82,
       "end": 358.82,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我认为那对我产生了深远的影响。"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 18,
       "start": 358.82,
       "end": 365.02,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "小时候，我记得我在想，如果能为社区服务、为人治病，那该多好啊！"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 16,
       "start": 365.02,
       "end": 370.12,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "你生活中还有哪些人或事影响了你成为医生的兴趣？"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 5,
       "start": 370.12,
       "end": 372.26,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "嗯，这很难说。"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 11,
       "start": 372.26,
       "end": 375.66,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我当然会说我的父母是一个关键因素。"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 7,
       "start": 375.66,
       "end": 377.96,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "他们总是督促我努力学习。"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 9,
       "start": 377.96,
       "end": 381.36,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "如果没有他们的支持，我肯定不会出现在这里。"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 15,
       "start": 381.36,
       "end": 386.5,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "我想我也非常幸运，身边有优秀的老师和朋友。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 23,
       "start": 386.5,
       "end": 394.6,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "归根结底，我一直处于一种积极的环境中，有利于我努力工作和追求梦想。"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 12,
       "start": 394.6,
       "end": 397.92,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "你有什么想钻研的医学分支吗？"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 4,
       "start": 397.92,
       "end": 400.18,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我还没决定。"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 4,
       "start": 400.18,
       "end": 402.2,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "现在还为时过早。"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 8,
       "start": 402.2,
       "end": 406.3,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "但如果要我说的话，内科学。"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 3,
       "start": 406.3,
       "end": 408.4,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "为什么是内科学？"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 5,
       "start": 408.4,
       "end": 409.96,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "我知道这不容易。"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 19,
       "start": 409.96,
       "end": 416.98,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "但我发现它最有趣，因为它涵盖了如此多的内容，并将许多其他专业联系在一起。"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 2,
       "start": 416.98,
       "end": 417.82,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "谢谢。"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 11,
       "start": 417.82,
       "end": 421.08,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "现在我想谈谈你的学术背景和预期成绩。"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 18,
       "start": 421.08,
       "end": 430.86,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "我们认为自己是一所声誉卓著的机构，拥有极具竞争力和前途的学生群体。"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 18,
       "start": 430.86,
       "end": 437.16,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "如你所知，要进入我们的项目，你需要在入学考试中获得至少 85% 的分数。"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 7,
       "start": 437.16,
       "end": 439.08,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "你认为你能达到吗？"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 3,
       "start": 439.08,
       "end": 440.16,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "我想是的。"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 1,
       "start": 440.16,
       "end": 441.24,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "是的。"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 11,
       "start": 441.24,
       "end": 445.16,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我现在正在看你的学校成绩，坦白说。"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 7,
       "start": 445.16,
       "end": 447.06,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "有点参差不齐。"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 13,
       "start": 447.06,
       "end": 451.64,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "你确实偶尔会拿到最高分，但你并不是非常……"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 4,
       "start": 451.64,
       "end": 454.18,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我们要说“稳定”吗？"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 25,
       "start": 454.18,
       "end": 473.297,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "我觉得给你发一个有条件的录取通知书没问题，但请注意，我们的入学考试，用你自己的话说，并不容易。"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 13,
       "start": 473.297,
       "end": 490.12,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这位女士说她从小就一直想做什么？"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 11,
       "start": 490.12,
       "end": 508.32,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "从对话中我们了解到这位女士的父母什么信息？"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 14,
       "start": 508.32,
       "end": 527.22,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "为什么这位女士说她想选择内科学作为她的专业？"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 9,
       "start": 527.22,
       "end": 571.98,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "这位男士如何描述这位女士的学校成绩？"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 15,
       "start": 571.98,
       "end": 576.96,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "登录你的电子邮件账户有时感觉就像试图入侵五角大楼。"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 46,
       "start": 576.96,
       "end": 596.82,
-      "matchedWords": 46
+      "matchedWords": 46,
+      "translation": "如果你遵循所有的准则，你需要为每个账户使用不同的密码；使用由字母、数字和符号组成的难以理解的组合；注册两步验证；并且每次其中一个密码泄露时都要更改所有密码。"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 32,
       "start": 596.82,
       "end": 609.94,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "通常情况下，你还得选择包含街道标志的照片，因为这显然向你的电脑提供了确凿的证据，证明你确实是一个人类。"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 15,
       "start": 609.94,
       "end": 616.16,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "难怪我们大多数人忘记密码的次数比忘记钥匙的次数还要多。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 34,
       "start": 616.16,
       "end": 630.72,
-      "matchedWords": 34
+      "matchedWords": 34,
+      "translation": "现在，芬兰阿尔托大学的研究人员进行了一项新的同行评审研究，试图弄清楚我们为什么会忘记密码，以帮助终结这一令人沮丧的现象。"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 34,
       "start": 630.72,
       "end": 642.36,
-      "matchedWords": 34
+      "matchedWords": 34,
+      "translation": "他们的研究结果表明，你记住密码的可能性与密码本身的复杂程度关系不大，而更多地与你预计使用它的频率有关。"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 47,
       "start": 642.36,
       "end": 659.5,
-      "matchedWords": 47
+      "matchedWords": 47,
+      "translation": "也就是说：如果你知道你会经常使用它来登录一个账户，你记住一个复杂密码的可能性，比你记住一个不打算经常登录的账户的简单密码的可能性要大得多。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 26,
       "start": 659.5,
       "end": 677.06,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "研究人员建议网站增加更多激励措施，让用户更频繁地登录，以帮助他们记住自己的密码。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 19,
       "start": 677.06,
       "end": 698.22,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "为什么我们登录电子邮件账户时经常需要选择包含街道标志的照片？"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 15,
       "start": 698.22,
       "end": 718.36,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "芬兰一所大学的研究人员在他们的新研究中旨在做什么？"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 14,
       "start": 718.36,
       "end": 738.42,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "研究人员在文章最后建议网站做什么？"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 10,
       "start": 738.42,
       "end": 742.9,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "四年前，詹妮·韦纳正处于健身低潮期。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 9,
       "start": 742.9,
       "end": 746.62,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "她想改善自己的身心健康。"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 12,
       "start": 746.62,
       "end": 751.52,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "然而，由于没有合适的训练计划可遵循，她的锻炼缺乏强度。"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 24,
       "start": 751.52,
       "end": 764.12,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "当她去健身房时，她的日常活动主要包括慢跑等简单的锻炼项目；她避开了举重等更艰巨的练习。"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 12,
       "start": 764.12,
       "end": 768.4,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "请一个能督促她的私人教练是不可能的。"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 6,
       "start": 768.4,
       "end": 772.02,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "昂贵的费用根本负担不起。"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 8,
       "start": 772.02,
       "end": 775.6,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "后来她发现了一款健身手机应用 Slimmeretics。"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 22,
       "start": 775.6,
       "end": 785.4,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "要使用该应用，你首先要输入关于你之前的训练经历和偏好，以及你想要达到的目标的个人资料。"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 13,
       "start": 785.4,
       "end": 792.72,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "然后，一位虚拟教练会利用这些信息建议一套个性化的训练方案。"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 28,
       "start": 792.72,
       "end": 807.52,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "锻炼结束后，该应用的决策人工智能软件系统会利用来自韦纳女士和全球其他 5300 万用户的反馈来调整未来的训练课程。"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 7,
       "start": 807.52,
       "end": 810.96,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "现在韦纳女士发现这些锻炼非常令人兴奋。"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 9,
       "start": 810.96,
       "end": 814.16,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "这是因为没有两次锻炼是完全相同的。"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 14,
       "start": 814.16,
       "end": 818.8,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "结果，该应用帮助她减掉了超过 25 公斤的体重。"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 11,
       "start": 818.8,
       "end": 825.6,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "该应用的数学方法可以安排更细致的锻炼计划。"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 6,
       "start": 825.6,
       "end": 828.84,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "这带来了最佳的效果。"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 11,
       "start": 828.84,
       "end": 834.78,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "然而，一些专家认为应用无法取代人类私人教练。"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 6,
       "start": 834.78,
       "end": 838.1,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "应用无法理解人类行为。"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 14,
       "start": 838.1,
       "end": 843.92,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "它不会理解在身心健康之外还存在利益冲突。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 10,
       "start": 843.92,
       "end": 848.54,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "此外，人类教练可以为锻炼增加同理心。"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 8,
       "start": 848.54,
       "end": 853.4,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "他还能让运动变得有趣且可持续。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 10,
       "start": 853.4,
       "end": 858.34,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "教练可以监控一个人做动作是否正确。"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 5,
       "start": 858.34,
       "end": 861.24,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "这可以防止受伤。"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 6,
       "start": 861.24,
       "end": 868.627,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "应用无法察觉这些细微差别。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 10,
       "start": 868.627,
       "end": 892.02,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "四年前詹妮·韦纳遇到了什么问题？"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 12,
       "start": 892.02,
       "end": 911.88,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "根据文章，健身手机应用 Slimmeretics 能做什么？"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 12,
       "start": 911.88,
       "end": 932.0,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "为什么文章说詹妮·韦纳现在觉得锻炼很令人兴奋？"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 10,
       "start": 932.0,
       "end": 978.54,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "一些专家如何看待像 Slimmeretics 这样的健身应用？"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 25,
       "start": 978.54,
       "end": 988.82,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "牛津大学得出结论，所有社会都由七条通用的道德规则维系在一起，其中包括服从上级和尊重他人财产。"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 32,
       "start": 988.82,
       "end": 1006.52,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "尽管许多文化正朝着更自由、等级更森严的组织发展，但新的研究表明，传统的权力结构以及慈善和手足情谊的基本价值是成功社会的基石。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 20,
       "start": 1006.52,
       "end": 1014.56,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "这项针对全球 60 种不同文化的大型研究发现，所有社区都在七个基本道德准则下运行。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 26,
       "start": 1014.56,
       "end": 1028.94,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "这些普遍规则是：帮助你的家人，帮助你的群体，回报恩惠，勇敢，顺从上级，公平分配资源以及尊重他人的财产。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 28,
       "start": 1028.94,
       "end": 1045.44,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "研究人员发现，每种类型的社区都具备这些性格特征，无论是传统的狩猎采集者还是先进的文明，它们都有助于维护文明社会并促进社会合作。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 19,
       "start": 1045.44,
       "end": 1055.4,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "“世界各地的每一个人都共享一套共同的道德准则，”牛津大学主要作者、资深研究员奥利弗·斯科特·库里博士说。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 17,
       "start": 1055.4,
       "end": 1065.24,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "“这七条道德规则似乎在各种文化中都是通用的，因为人们面临着相同的社会问题。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 31,
       "start": 1065.24,
       "end": 1083.7,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "即使其中一些特征看起来是右翼或保守的，例如顺从权威，左翼人士仍然会有群体忠诚度，并对某人或某事表示顺从。”"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 19,
       "start": 1083.7,
       "end": 1100.08,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "这项发表在《当代人类学》上的研究是迄今为止进行的规模最大、最全面的跨文化道德调查。"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 13,
       "start": 1100.08,
       "end": 1109.36,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "该团队审查了来自世界各地 60 个社会的民族志记录。"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 22,
       "start": 1109.36,
       "end": 1199.9,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "他们发现这七条规则在所有社会都被认为是道德上的善，并且在所有大陆、宗教和政治体制中都得到了遵守。"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 8,
       "start": 1199.9,
       "end": 1208.221,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "牛津大学的研究人员得出了什么结论？"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 12,
       "start": 1208.221,
       "end": 1218.5,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这项针对 60 种不同文化的大规模研究的目的是什么？"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 9,
       "start": 1218.5,
       "end": 1239.58,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "奥利弗·斯科特·库里博士建议研究人员做什么？"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 8,
       "start": 1239.58,
       "end": 1243.3,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "说到食物，颜色就是金钱。"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 22,
       "start": 1243.3,
       "end": 1253.06,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "食品公司知道更好的颜色意味着更好的价格，所以他们确保自己的产品颜色诱人，以提高收益。"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 15,
       "start": 1253.06,
       "end": 1258.68,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "例如，橙子必须符合特定的颜色标准，而橙子仅仅是个开始。"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 15,
       "start": 1258.68,
       "end": 1269.16,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "包括炸薯条、西红柿、南瓜、橄榄、蜂蜜和樱桃在内的食物都有颜色标准。"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 8,
       "start": 1269.16,
       "end": 1272.18,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "对颜色的关注是有充分理由的。"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 20,
       "start": 1272.18,
       "end": 1279.34,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "尽管人们常说舌头，但我们的眼睛可能确实是我们进食体验中最重要的部分。"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 36,
       "start": 1279.34,
       "end": 1294.44,
-      "matchedWords": 36
+      "matchedWords": 36,
+      "translation": "我们大脑的大量功能都致力于处理视觉，而只有百分之一二用于味觉能力，结果是颜色实际上改变了我们品尝食物的方式。"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 11,
       "start": 1294.44,
       "end": 1299.92,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "科学家们已经多次证明了颜色对味觉的重要性。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 27,
       "start": 1299.92,
       "end": 1309.58,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "例如，在 20 世纪 80 年代的一项研究中，测试参与者被要求在看不见饮料的情况下说出他们正在喝的饮料的味道。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 11,
       "start": 1309.58,
       "end": 1314.44,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "只有五分之一的人能将其识别为橙味。"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 23,
       "start": 1314.44,
       "end": 1321.5,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "但当允许他们看到所喝的东西是橙色时，他们每个人都识别出了橙味。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 23,
       "start": 1321.5,
       "end": 1329.9,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "而当一种酸橙味的饮料被染成橙色时，近一半的受访者将该饮料的味道识别为橙味。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 11,
       "start": 1329.9,
       "end": 1334.02,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "当饮料是绿色时，没有人犯那个错误。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 21,
       "start": 1334.02,
       "end": 1341.24,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "当有人无法识别看不见或颜色异常的饮料的味道时，发生了什么？"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 16,
       "start": 1341.24,
       "end": 1346.9,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "是因为参与者无法辨别味道，所以依赖视觉线索吗？"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 9,
       "start": 1346.9,
       "end": 1351.34,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "还是颜色实际上改变了味觉体验？"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 12,
       "start": 1351.34,
       "end": 1356.2,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这些问题的关键是颜色对预期的影响。"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 6,
       "start": 1356.2,
       "end": 1359.44,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "大脑利用颜色做出预测。"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 9,
       "start": 1359.44,
       "end": 1364.68,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "这些预测依赖于来自经验的预期。"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 27,
       "start": 1364.68,
       "end": 1374.1,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "研究表明，我们天生就喜欢甜食并渴望吃到它们，但我们并不是天生就知道我们渴望的甜食长什么样。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 8,
       "start": 1374.1,
       "end": 1377.32,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "所以我们需要随着时间的推移来学习这一点。"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 8,
       "start": 1377.32,
       "end": 1425.56,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "关于我们的眼睛，演讲者说了什么？"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 9,
       "start": 1425.56,
       "end": 1444.66,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "根据这篇演讲，颜色实际上起到了什么作用？"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 8,
       "start": 1444.66,
       "end": 1463.32,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "大脑利用颜色做什么？"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 12,
       "start": 1463.32,
       "end": 1467.9,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "寻找意义是我们许多人一生都会经历的事情。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 11,
       "start": 1467.9,
       "end": 1473.96,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "对一些人来说，这种意义是宗教的，一些是政治的，还有一些是人际关系的。"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 10,
       "start": 1473.96,
       "end": 1477.9,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "拥有意义感可以给我们带来幸福。"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 17,
       "start": 1477.9,
       "end": 1486.84,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "一项新的研究调查了财务资源背景下意义与幸福之间的关系。"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 33,
       "start": 1486.84,
       "end": 1502.7,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "多伦多大学的里亚·卡塔帕诺及其同事发现，对于富人来说，意义作为幸福预测因素的作用远弱于穷人，这表明经济资源会影响我们体验意义的方式。"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 12,
       "start": 1502.7,
       "end": 1508.8,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "该团队分析了来自 123 个国家的 50 多万人的数据。"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 17,
       "start": 1508.8,
       "end": 1519.24,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "第一项研究使用了 2013 年至 2015 年间收集的美国居民每日民意调查数据。"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 30,
       "start": 1519.24,
       "end": 1534.64,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "通过正向情感指标来追踪幸福感——即在接受调查的前一天，参与者是否开怀大笑，或感到非常幸福。"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 31,
       "start": 1534.64,
       "end": 1549.64,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "意义是通过每日“目标指数”来衡量的，该指数探讨了参与者在多大程度上觉得他们喜欢每天所做的事情，并有动力去实现他们的目标。"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 5,
       "start": 1549.64,
       "end": 1553.34,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "最后，评估了收入水平。"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 18,
       "start": 1553.34,
       "end": 1563.44,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "结果显示，在低收入群体中，意义与幸福之间的相关性最强。"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 9,
       "start": 1563.44,
       "end": 1568.88,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "但随着收入水平的提高，这种相关性变得越来越弱。"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 7,
       "start": 1568.88,
       "end": 1573.3,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "第二项研究查看了全球数据。"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 31,
       "start": 1573.3,
       "end": 1586.98,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "幸福感是使用与第一项研究相同的问题来衡量的，而意义是使用一个问题来衡量的：“你觉得你的生活有重要的目标或意义吗？”"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 14,
       "start": 1586.98,
       "end": 1594.14,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "同样，意义与幸福之间联系的强度取决于参与者的收入。"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 18,
       "start": 1594.14,
       "end": 1602.52,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "与高收入者相比，意义对低收入者的幸福感影响更大。"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 29,
       "start": 1602.52,
       "end": 1617.6,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "在最后一项研究中，法国参与者指出了他们在多大程度上觉得自己的生活有目标、有意义，以及他们在多大程度上认为自己是一个幸福的人。"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 25,
       "start": 1617.6,
       "end": 1632.76,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "最后，他们并没有使用具体的收入等级，而是将自己置于社会阶梯上，代表他们在财富、教育和职业方面的地位。"
     },
     {
       "id": "line-171",
@@ -2130,7 +2301,8 @@
       "words": 11,
       "start": 1632.76,
       "end": 1639.18,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "该研究的结果与前两项研究的结果一致。"
     },
     {
       "id": "line-172",
@@ -2142,7 +2314,8 @@
       "words": 18,
       "start": 1639.18,
       "end": 1649.02,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "因此总的来说，资源较少的人比资源较多的人在意义和幸福之间有着更强的联系。"
     },
     {
       "id": "line-173",
@@ -2154,7 +2327,8 @@
       "words": 28,
       "start": 1649.02,
       "end": 1659.84,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "这可能是因为富人有更多途径获得其他幸福来源，其中许多是外部的，比如没有压力或有社区支持。"
     },
     {
       "id": "line-174",
@@ -2166,7 +2340,8 @@
       "words": 15,
       "start": 1659.84,
       "end": 1675.108,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "因此，关注内在的满足感、目标或意义就不那么重要了。"
     },
     {
       "id": "line-175",
@@ -2178,7 +2353,8 @@
       "words": 13,
       "start": 1675.108,
       "end": 1697.5,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "演讲者说我们许多人一生都在寻找什么？"
     },
     {
       "id": "line-176",
@@ -2190,7 +2366,8 @@
       "words": 10,
       "start": 1697.5,
       "end": 1718.34,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "里亚·卡塔帕诺及其同事对经济资源有什么发现？"
     },
     {
       "id": "line-177",
@@ -2202,7 +2379,8 @@
       "words": 12,
       "start": 1718.34,
       "end": 1718.39,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于该团队进行的第二项研究，我们了解到什么？"
     },
     {
       "id": "line-178",
@@ -2214,7 +2392,8 @@
       "words": 12,
       "start": 1718.39,
       "end": 1771.366,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "根据演讲者的说法，为什么意义对富人来说不那么重要？"
     }
   ]
 }

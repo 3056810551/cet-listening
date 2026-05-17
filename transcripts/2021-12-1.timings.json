@@ -78,7 +78,8 @@
       "words": 12,
       "start": 48.08,
       "end": 52.44,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "嗨，大卫，我有将近两周没在课堂上见到你了。"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 10,
       "start": 52.44,
       "end": 55.5,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我们还以为你提早休假消失了或者是别的什么原因。"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 2,
       "start": 55.5,
       "end": 57.06,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "嗨，莎拉。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 10,
       "start": 57.06,
       "end": 60.2,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "哎，恐怕说来话长。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 25,
       "start": 60.2,
       "end": 67.94,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "我上周喉咙感染了，不得不去医院开些抗生素，因为我真的不见好转。"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 2,
       "start": 67.94,
       "end": 69.3,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "哦，是吗。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 9,
       "start": 69.3,
       "end": 72.1,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "今年冬天到处都是病毒。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 11,
       "start": 72.1,
       "end": 75.72,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "过去几周天气一直很糟糕。"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 36,
       "start": 75.72,
       "end": 86.9,
-      "matchedWords": 35
+      "matchedWords": 35,
+      "translation": "而且，在从医院回来的路上，我在冰上滑倒摔了一跤，然后不得不去医院拍 X 光，因为我基本上以为自己的手腕骨折了。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 5,
       "start": 86.9,
       "end": 89.4,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "不过谢天谢地，没断。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 13,
       "start": 89.4,
       "end": 93.16,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "但在接下来的几周里，我需要小心对待它。"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 4,
       "start": 93.16,
       "end": 95.04,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "噢，那太糟糕了。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 2,
       "start": 95.04,
       "end": 96.86,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "真不幸。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 18,
       "start": 96.86,
       "end": 102.96,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "更糟糕的是，我竟然刚好摔在四个九年级女生面前。"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 5,
       "start": 102.96,
       "end": 105.86,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "所以，简直丢脸死了。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 9,
       "start": 105.86,
       "end": 108.809,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "另外，我包里的笔记本电脑也摔坏了。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 1,
       "start": 108.809,
       "end": 110.12,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "不！"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 4,
       "start": 110.12,
       "end": 112.4,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "简直是一场彻底的灾难！"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 6,
       "start": 112.4,
       "end": 114.9,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "笔记本电脑还在保修期内吗？"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 24,
       "start": 114.9,
       "end": 122.58,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "如果还在保修期内，你就可以很方便地寄回厂家，他们肯定会免费给你换一台全新的。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 10,
       "start": 122.58,
       "end": 126.54,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "保修期在我摔坏它的三天前刚过。"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 21,
       "start": 126.54,
       "end": 132.92,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "我所有的论文都在里面，我得在圣诞假期放假前交上去。"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 15,
       "start": 132.92,
       "end": 138.16,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "听着，我家有一个很不错且价格公道的电脑维修店的电话。"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 12,
       "start": 138.16,
       "end": 143.22,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "我爸爸以前找过这个人，他能创造奇迹。"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 22,
       "start": 143.22,
       "end": 149.76,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "我们回我家吧，我们可以给维修店打电话，你还可以喝点茶，吃点饼干。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 1,
       "start": 149.76,
       "end": 149.92,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "哇。"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 2,
       "start": 149.92,
       "end": 150.96,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "谢谢，莎拉。"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 4,
       "start": 150.96,
       "end": 152.26,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "那太好了。"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 17,
       "start": 152.26,
       "end": 164.52,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "我给我妈打个电话，告诉她我会晚一点回家。"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 12,
       "start": 164.52,
       "end": 182.68,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "莎拉认为大卫在过去的两个星期里在做什么？"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 11,
       "start": 182.68,
       "end": 200.94,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "大卫在从医院回来的路上发生了什么？"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 11,
       "start": 200.94,
       "end": 219.08,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "关于损坏的电脑，莎拉说他们应该怎么做？"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 9,
       "start": 219.08,
       "end": 236.28,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "莎拉说她打算做什么？"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 8,
       "start": 236.28,
       "end": 240.84,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "欢迎收看本周的《读书访谈》节目。"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 18,
       "start": 240.84,
       "end": 248.44,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "今天和我在一起的是海蒂·布朗，她是一位历史学家，写过五本广受好评的军事史书籍。"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 5,
       "start": 248.44,
       "end": 249.74,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "谢谢你邀请我，约翰。"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 14,
       "start": 249.74,
       "end": 255.9,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我很兴奋能谈谈我上个月出版的新书。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 12,
       "start": 255.9,
       "end": 259.9,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "所以这本书是一本小说，是你对这种题材的首次尝试。"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 9,
       "start": 259.9,
       "end": 262.14,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "这对你来说有点像是一种转型。"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 21,
       "start": 262.14,
       "end": 270.12,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "我想说这是一次重大的转型，因为它不仅仅是一部虚构作品，而且背景设定在 200 年后的未来。"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 1,
       "start": 270.12,
       "end": 270.76,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "是的。"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 5,
       "start": 270.76,
       "end": 272.52,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "那是怎么发生的呢？"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 16,
       "start": 272.52,
       "end": 278.6,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "你花了三十年时间书写过去，专注于 18 和 19 世纪。"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 7,
       "start": 278.6,
       "end": 282.14,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "而现在你却在推测未来。"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 26,
       "start": 282.14,
       "end": 294.64,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "嗯，在研究了多年士兵并记录了他们在战斗中的生活后，我开始好奇他们生活的其他方面，尤其是他们的个人生活。"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 4,
       "start": 294.64,
       "end": 295.88,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我能理解。"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 23,
       "start": 295.88,
       "end": 304.74,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "你的小说是关于士兵的，但它侧重于他们的人际关系，尤其是儿子与母亲、丈夫与妻子之间的纽带。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 1,
       "start": 304.74,
       "end": 306.12,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "是的。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 14,
       "start": 306.12,
       "end": 311.28,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "这种关注点出现在我仍打算写另一本历史书的时候。"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 12,
       "start": 311.28,
       "end": 317.6,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "我从研究士兵真实的个人生活开始，研究他们寄回家的信件。"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 9,
       "start": 317.6,
       "end": 320.72,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "那么，那本历史书是如何变成小说的呢？"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 9,
       "start": 320.72,
       "end": 325.26,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "嗯，我意识到历史记录是不完整的。"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 20,
       "start": 325.26,
       "end": 331.78,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "所以我要么得留下很多空白，要么得做出比历史学家应有的更多的假设。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 18,
       "start": 331.78,
       "end": 338.44,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "但是，既然你的资历非常适合写历史小说，为什么还要写一本背景设定在未来的小说呢？"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 14,
       "start": 338.44,
       "end": 344.36,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "作为一名历史学家，你写的任何历史小说都会很有说服力。"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 8,
       "start": 344.36,
       "end": 348.06,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "我觉得研究过去太受约束了。"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 12,
       "start": 348.06,
       "end": 351.92,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "就像我写的东西需要是事实，而不是虚构。"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 13,
       "start": 351.92,
       "end": 356.6,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "但书写未来给我提供了更多想象和创造的自由。"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 15,
       "start": 356.6,
       "end": 370.86,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "嗯，读过你的书后，我很高兴你做出了转向虚构创作的选择。"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 8,
       "start": 370.86,
       "end": 387.72,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于这位女士，男士说了什么？"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 10,
       "start": 387.72,
       "end": 405.98,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "关于她新出版的书，这位女士说了什么？"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 10,
       "start": 405.98,
       "end": 423.66,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "在写新书之前，这位女士做了什么？"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 10,
       "start": 423.66,
       "end": 468.66,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "关于她撰写历史书，这位女士说了什么？"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 28,
       "start": 468.66,
       "end": 479.52,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "无论是出现在动画北极熊还是圣诞老人的手中，在几乎所有的可口可乐广告中，你都会发现一样东西，那就是独具特色的玻璃瓶。"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 15,
       "start": 479.52,
       "end": 485.56,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "大多数美国人现在已经不再喝可乐广告中看到的那种玻璃瓶装苏打水了。"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 20,
       "start": 485.56,
       "end": 493.8,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "但本周，该公司正在庆祝这种已在 200 多个国家销售的瓶子诞生一百周年。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 13,
       "start": 493.8,
       "end": 499.74,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "回溯到 1915 年，当时一瓶可口可乐只要五分钱。"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 21,
       "start": 499.74,
       "end": 509.56,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "随着这种软饮料越来越受欢迎，它面临着越来越多的竞争对手，甚至有人试图模仿可口可乐的标志。"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 20,
       "start": 509.56,
       "end": 517.92,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "因此，据可口可乐历史学家特德·赖安称，公司决定设计一种无法复制的包装。"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 10,
       "start": 517.92,
       "end": 522.44,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "产品需求被发送给了八家不同的玻璃制造商。"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 23,
       "start": 522.44,
       "end": 531.96,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "鲁特玻璃公司的员工收到了请求，并开始查阅当地图书馆的百科全书，最终锁定在可可豆种子上。"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 10,
       "start": 531.96,
       "end": 535.56,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "可可种子并不是这种苏打水的成分。"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 12,
       "start": 535.56,
       "end": 540.28,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "他们根据种子的形状和宽大的中部设计了瓶子。"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 36,
       "start": 540.28,
       "end": 554.64,
-      "matchedWords": 34
+      "matchedWords": 34,
+      "translation": "它赢得了亚特兰大可口可乐高管的青睐，并随后获得了专属商标，引发了收藏热潮，并为可口可乐赢得了一个标志性形象，使其在一个世纪以来成为美国文化的一部分。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 13,
       "start": 554.64,
       "end": 559.1,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "就在一百年前的本周，该瓶子获得了专利。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 11,
       "start": 559.1,
       "end": 564.18,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "到了二战期间，可乐瓶的销量已激增至数十亿个。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 25,
       "start": 564.18,
       "end": 581.34,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "如今美国人大多饮用铝罐或塑料瓶装可乐，但玻璃瓶仍然是美国的一个象征，在全球范围内广为人知。"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 13,
       "start": 581.34,
       "end": 600.48,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "文章说几乎所有的可口可乐广告中都会出现什么？"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 12,
       "start": 600.48,
       "end": 619.86,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "为什么可口可乐公司决定设计专门的包装？"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 15,
       "start": 619.86,
       "end": 643.54,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "关于鲁特玻璃公司设计的可口可乐瓶，我们了解到了什么？"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 8,
       "start": 643.54,
       "end": 645.4,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "试图让情绪产生一些可衡量的改善。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 15,
       "start": 645.4,
       "end": 651.82,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "但我们大多数人都不愿开始这些谈话，因为我们预想的情况恰恰相反。"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 18,
       "start": 651.82,
       "end": 659.66,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "在一项实验中，与附近陌生人交谈的通勤者发现，这种通勤方式比不交谈的人更令人愉快。"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 17,
       "start": 659.66,
       "end": 665.72,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "他们被要求预测，如果与他人交谈，他们是否会更享受通勤过程。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 11,
       "start": 665.72,
       "end": 670.84,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "有趣的是，大多数人预料孤独的体验会更令人愉悦。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 3,
       "start": 670.84,
       "end": 671.66,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "这是为什么呢？"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 7,
       "start": 671.66,
       "end": 676.32,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "社会焦虑似乎是问题所在。"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 16,
       "start": 676.32,
       "end": 684.82,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "人们不愿与附近的陌生人开始交谈，部分原因是低估了他人建立联系的兴趣。"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 20,
       "start": 684.82,
       "end": 692.94,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "可悲的是，人们预设附近的陌生人不想交谈，因此不去开始对话。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 23,
       "start": 692.94,
       "end": 700.6,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "只有那些因为实验要求而强迫自己聊天的人，才发现这是一种多么愉快的体验。"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 5,
       "start": 700.6,
       "end": 703.96,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "人类是社交动物。"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 20,
       "start": 703.96,
       "end": 712.06,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "在某些情况下，那些误解社交互动影响的人，为了自身的幸福可能表现得不够社交。"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 9,
       "start": 712.06,
       "end": 715.28,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "你应该与遇到的陌生人聊天。"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 13,
       "start": 715.28,
       "end": 719.38,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "你偶尔可能会遇到不愉快的经历，这可能会留在你的记忆中。"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 13,
       "start": 719.38,
       "end": 724.14,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这是因为人脑偏向于关注负面事件。"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 13,
       "start": 724.14,
       "end": 729.04,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "但与陌生人开始对话仍然值得冒被拒绝的风险。"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 13,
       "start": 729.04,
       "end": 735.4,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "与陌生人交谈也会让他们更快乐，这可能会让你感到惊讶。"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 6,
       "start": 735.4,
       "end": 738.82,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "联系带来的快乐似乎具有传染性。"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 15,
       "start": 738.82,
       "end": 753.56,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "被搭话的人与发起对话的人有着同样积极的体验。"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 9,
       "start": 753.56,
       "end": 772.56,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "关于陌生人之间的交谈，研究显示了什么？"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 9,
       "start": 772.56,
       "end": 791.7,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "是什么阻碍了人们开始与陌生人交谈？"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 11,
       "start": 791.7,
       "end": 810.54,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "为什么与陌生人的不愉快遭遇会留在记忆中？"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 12,
       "start": 810.54,
       "end": 855.3,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "文章说联系带来的快乐似乎是什么？"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 15,
       "start": 855.3,
       "end": 861.8,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "加勒比群岛被划分为两个世界：一个富裕，一个贫穷。"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 9,
       "start": 861.8,
       "end": 866.4,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "这个热带地区的经济主要以农业为基础。"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 5,
       "start": 866.4,
       "end": 868.4,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "农民分为两类。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 13,
       "start": 868.4,
       "end": 872.8,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "一类是种植园主，可能拥有成千上万英亩的土地。"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 13,
       "start": 872.8,
       "end": 879.7,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "相比之下，小耕作者只在几英亩土地上劳作。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 11,
       "start": 879.7,
       "end": 884.64,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "大多数前往加勒比地区的游客都很富有，就像那些种植园主一样。"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 23,
       "start": 884.64,
       "end": 893.56,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "他们没有意识到，或者不想意识到，许多农户仅靠种植的农作物勉强维持生计。"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 5,
       "start": 893.56,
       "end": 896.44,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "加勒比地区产出许多东西。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 5,
       "start": 896.44,
       "end": 897.86,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "糖是主要产品。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 17,
       "start": 897.86,
       "end": 907.68,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "其他出口作物有烟草、咖啡、香蕉、香料和柑橘类水果，如橙子、柠檬或葡萄柚。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 13,
       "start": 907.68,
       "end": 913.96,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "西印度群岛还出产石油、天然沥青和许多森林产品。"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 8,
       "start": 913.96,
       "end": 917.8,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "牙买加的铝矿石供应量是世界上最大的。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 19,
       "start": 917.8,
       "end": 925.44,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "石油来自特立尼达、阿鲁巴和库拉索，但对于许多较小的岛屿来说，糖是唯一的出口产品。"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 15,
       "start": 925.44,
       "end": 933.04,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "朗姆酒是一种由甘蔗蒸馏而成的烈性酒精饮料，也是一种出口产品。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 8,
       "start": 933.04,
       "end": 936.48,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "世界上最好的朗姆酒产自这个地区。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 19,
       "start": 936.48,
       "end": 944.06,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "当地品种各异，从波多黎各的淡朗姆酒到巴巴多斯和牙买加的更烈、颜色更深的朗姆酒。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 15,
       "start": 944.06,
       "end": 951.36,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "美国游客喜欢在度假时囤积廉价且高质量的加勒比朗姆酒。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 20,
       "start": 951.36,
       "end": 960.56,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "在库拉索，同名的著名烈酒是由当地一种橙子的肥厚外皮制成的。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 14,
       "start": 960.56,
       "end": 966.72,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "自美国殖民时代以来，加勒比群岛一直是人们喜爱的旅游胜地。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 15,
       "start": 966.72,
       "end": 973.34,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "自二战以来，由于大量的人前往那里，旅游业迅速增长。"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 19,
       "start": 973.34,
       "end": 983.6,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "岛民建造了精致的度假胜地，开发了港口和机场，改善了海滩，并扩大了海运和空运路线。"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 10,
       "start": 983.6,
       "end": 989.6,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "度假村里应有尽有：酒店、海滩、购物和娱乐。"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 10,
       "start": 989.6,
       "end": 994.14,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "度假者根本没有理由去探索这个岛屿。"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 30,
       "start": 994.14,
       "end": 1007.64,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "和大多数地方一样，有钱的人确实生活得很好，没钱的人生活在不同程度的贫困中，但这里的穷人数量远远超过富人。"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 19,
       "start": 1007.64,
       "end": 1015.34,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "游客会发现富人住在海边或乡下的公寓或西班牙式房屋里。"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 14,
       "start": 1015.34,
       "end": 1020.7,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "他们的服务人员可能包括一名厨师、一名女仆和一名照看孩子的护士。"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 10,
       "start": 1020.7,
       "end": 1023.88,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "大多数人的生活水平远低于贫困线。"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 9,
       "start": 1023.88,
       "end": 1028.28,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "在城镇里，他们拥挤在狭小的房子里。"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 10,
       "start": 1028.28,
       "end": 1030.84,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "岛民们尽其所能地利用他们所拥有的一切。"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 5,
       "start": 1030.84,
       "end": 1033.88,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "他们的家相当简陋。"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 10,
       "start": 1033.88,
       "end": 1043.667,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "遗憾的是，大多数游客从未见过加勒比地区的这一面。"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 12,
       "start": 1043.667,
       "end": 1064.22,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "关于加勒比群岛的经济，说话者说了什么？"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 9,
       "start": 1064.22,
       "end": 1082.24,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "加勒比群岛的主要产品是什么？"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 13,
       "start": 1082.24,
       "end": 1103.1,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "关于加勒比群岛的大多数人，我们了解到了什么？"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 23,
       "start": 1103.1,
       "end": 1109.42,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "去问问任何比你年长一两代的人，他们很可能会评论说，现在的孩子被惯坏了。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 13,
       "start": 1109.42,
       "end": 1114.94,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "没有人想拥有或呆在要求高、自私且被惯坏的孩子身边。"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 16,
       "start": 1114.94,
       "end": 1122.04,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "那些脾气变坏的孩子，如果不能立即得到他们想要的一切，就会默默地生气。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 27,
       "start": 1122.04,
       "end": 1132.98,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "矛盾的是，这类孩子的父母鼓励这种索取行为，因为他们错误地认为，通过尽其所能给孩子一切，孩子就会快乐。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 8,
       "start": 1132.98,
       "end": 1135.96,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "短期来看，也许他们是对的。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 25,
       "start": 1135.96,
       "end": 1145.82,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "但从长远来看，这些孩子最终会感到孤独、依赖、长期不满，并对那些费尽心思取悦他们的父母心生怨恨。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 18,
       "start": 1145.82,
       "end": 1154.92,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "毫无疑问，父母希望抚养快乐的孩子，他们自信、能干且讨人喜欢，而不是被惯坏且痛苦的孩子。"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 28,
       "start": 1154.92,
       "end": 1167.34,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "阻碍这一目标的一个因素是父母不能或没有花足够的优质时间陪伴孩子，并用玩具、游戏、小玩意等来弥补这一不足。"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 10,
       "start": 1167.34,
       "end": 1172.12,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "比起获得物质上的东西，孩子更需要父母的全心关注。"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 15,
       "start": 1172.12,
       "end": 1178.76,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "在一起的时间多少并不如这段时间的内容重要。"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 21,
       "start": 1178.76,
       "end": 1186.64,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "父母不应该立即满足他们的愿望，而应该帮助他们制定一个计划来赢得他们想要的东西。"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 19,
       "start": 1186.64,
       "end": 1194.88,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "这教会他们重视努力以及努力所取得的成果，并让他们享受期待的过程。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 28,
       "start": 1194.88,
       "end": 1204.46,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "许多心理学研究表明，学会等待自己渴望的事物的孩子，在以后的生活中更有可能在许多方面取得成功。"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 13,
       "start": 1204.46,
       "end": 1210.72,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "20 世纪 60 年代一项著名的实验涉及 3 至 6 岁的儿童。"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 25,
       "start": 1210.72,
       "end": 1219.96,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "他们可以选择立即得到一个小奖励（比如一块饼干），或者如果等待 15 分钟，他们可以得到两块。"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 27,
       "start": 1219.96,
       "end": 1231.7,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "后续研究发现，那些选择延迟满足的人现在在学业上更成功，更有自我价值感，甚至往往更健康。"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 22,
       "start": 1231.7,
       "end": 1239.82,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "如果孩子失败了，如果他们真的想要得到预期的结果，就应该鼓励他们继续尝试，而不是放弃。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 24,
       "start": 1239.82,
       "end": 1252.56,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "这教会他们如何处理和从失望中恢复，这与在学业、财务和人际关系上获得更大的成功和满足感有关。"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 21,
       "start": 1252.56,
       "end": 1259.36,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "最后，父母应该鼓励孩子从他人的角度以及自己的角度来看待生活。"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 21,
       "start": 1259.36,
       "end": 1279.32,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "这教会他们理解和同情他人，这些品质将使他们在人生道路上走得更远。"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 11,
       "start": 1279.32,
       "end": 1295.48,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "如果孩子总是能立即得到满足，会发生什么？"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 10,
       "start": 1295.48,
       "end": 1316.42,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "什么可能会阻碍父母抚养出自信且有能力的孩子？"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 11,
       "start": 1316.42,
       "end": 1334.94,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "为什么孩子失败时应该鼓励他们继续尝试？"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 8,
       "start": 1334.94,
       "end": 1338.0,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "搞砸面试并不难。"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 19,
       "start": 1338.0,
       "end": 1346.68,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "大多数人在面对招聘经理时会感到紧张，回答那些实际上是在让自己接受评判的问题。"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 25,
       "start": 1346.68,
       "end": 1357.32,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "仅仅因为在错误的时间说了错误的话，你被更慎重地考虑这份工作的机会就会迅速下降。"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 9,
       "start": 1357.32,
       "end": 1360.92,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "最明显不该做的事情就是抱怨。"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 6,
       "start": 1360.92,
       "end": 1363.38,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "雇主想雇佣积极乐观的人。"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 28,
       "start": 1363.38,
       "end": 1375.4,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "负面地谈论前一份工作会让人担心你可能难以管理，或者你可能是那种将自己的糟糕表现归咎于管理层的人。"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 23,
       "start": 1375.4,
       "end": 1382.98,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "不要说你频繁跳槽是因为还没找到合适的岗位，或者觉得没有受到足够的挑战。"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 10,
       "start": 1382.98,
       "end": 1387.22,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "这样的言论会让你听起来漫无目的、迷失方向。"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 15,
       "start": 1387.22,
       "end": 1392.12,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "面试官很可能会想：为什么这个角色对你会有所不同？"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 8,
       "start": 1392.12,
       "end": 1395.2,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "你可能六个月后就会离开这里。"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 15,
       "start": 1395.2,
       "end": 1400.36,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "这也会让人质疑你与经理之间是什么样的关系。"
     },
     {
       "id": "line-171",
@@ -2130,7 +2301,8 @@
       "words": 12,
       "start": 1400.36,
       "end": 1404.28,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "听起来你和他（或她）并没有公开的交流。"
     },
     {
       "id": "line-172",
@@ -2142,7 +2314,8 @@
       "words": 31,
       "start": 1404.28,
       "end": 1417.96,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "经理通常喜欢那些能够自我维持并能通过主动采取行动来实现增长、能够有力地贯彻工作、并能提出想法和解决方案的人。"
     },
     {
       "id": "line-173",
@@ -2154,7 +2327,8 @@
       "words": 23,
       "start": 1417.96,
       "end": 1427.04,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "在讨论目前的角色时，如果你处于管理或领导职位，切记不要把所有的功劳或成就都揽在自己身上。"
     },
     {
       "id": "line-174",
@@ -2166,7 +2340,8 @@
       "words": 12,
       "start": 1427.04,
       "end": 1431.62,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "强调你的团队，以及你的愿景是如何通过他们的才华实现的。"
     },
     {
       "id": "line-175",
@@ -2178,7 +2353,8 @@
       "words": 13,
       "start": 1431.62,
       "end": 1436.9,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "大多数成功的领导者都知道，他们的优秀程度取决于他们的团队。"
     },
     {
       "id": "line-176",
@@ -2190,7 +2366,8 @@
       "words": 27,
       "start": 1436.9,
       "end": 1447.04,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "在面试中承认这一点，将非常有助于暗示你可能是你所应聘职位的合适人选。"
     },
     {
       "id": "line-177",
@@ -2202,7 +2379,8 @@
       "words": 10,
       "start": 1447.04,
       "end": 1450.46,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "最后，要清楚自己的角色是什么。"
     },
     {
       "id": "line-178",
@@ -2214,7 +2392,8 @@
       "words": 9,
       "start": 1450.46,
       "end": 1454.94,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "并努力传达出你是灵活的这一理念。"
     },
     {
       "id": "line-179",
@@ -2226,7 +2405,8 @@
       "words": 18,
       "start": 1454.94,
       "end": 1460.5,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "询问你的角色是什么，暗示你会仅仅局限于别人对你的期望。"
     },
     {
       "id": "line-180",
@@ -2238,7 +2418,8 @@
       "words": 10,
       "start": 1460.5,
       "end": 1464.82,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "实际上，你的角色取决于你自己如何塑造它。"
     },
     {
       "id": "line-181",
@@ -2250,7 +2431,8 @@
       "words": 20,
       "start": 1464.82,
       "end": 1473.42,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "在小公司尤其如此，在那里，适应和承担新责任的能力受到高度重视。"
     },
     {
       "id": "line-182",
@@ -2262,7 +2444,8 @@
       "words": 10,
       "start": 1473.42,
       "end": 1477.48,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "如果你刚开始工作，这同样重要。"
     },
     {
       "id": "line-183",
@@ -2274,7 +2457,8 @@
       "words": 16,
       "start": 1477.48,
       "end": 1484.52,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "初级职位的面试者在大多数面试中最好能展示广泛的技能组合。"
     },
     {
       "id": "line-184",
@@ -2286,7 +2470,8 @@
       "words": 17,
       "start": 1484.52,
       "end": 1491.9,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "拥有广泛的技能组合很重要，因为许多初创公司和小型公司的发展速度非常快。"
     },
     {
       "id": "line-185",
@@ -2298,7 +2483,8 @@
       "words": 18,
       "start": 1491.9,
       "end": 1506.915,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "雇主正在寻找那些聪明、能够快速适应并在成长中的公司中表现出色的候选人。"
     },
     {
       "id": "line-186",
@@ -2310,7 +2496,8 @@
       "words": 14,
       "start": 1506.915,
       "end": 1526.1,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "说话者说，什么可以轻易阻碍面试者获得工作？"
     },
     {
       "id": "line-187",
@@ -2322,7 +2509,8 @@
       "words": 8,
       "start": 1526.1,
       "end": 1546.24,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "面试者应该避免谈论前一份工作的什么内容？"
     },
     {
       "id": "line-188",
@@ -2334,7 +2522,8 @@
       "words": 8,
       "start": 1546.24,
       "end": 1565.88,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "经理通常喜欢什么样的员工？"
     },
     {
       "id": "line-189",
@@ -2346,7 +2535,8 @@
       "words": 9,
       "start": 1565.88,
       "end": 1586.945,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "初级职位面试者展示什么很重要？"
     }
   ]
 }

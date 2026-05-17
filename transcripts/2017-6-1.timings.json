@@ -78,7 +78,8 @@
       "words": 4,
       "start": 42.48,
       "end": 44.6,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "欢迎来到《职场》节目。"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 24,
       "start": 44.6,
       "end": 54.56,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "在今天的节目中，我们将关注两项最近发布的调查结果，它们都涉及同一个主题——职场幸福感。"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 7,
       "start": 54.56,
       "end": 57.36,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "约翰，给我们讲讲第一项调查的情况。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 30,
       "start": 57.36,
       "end": 69.32,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "嗯，这项调查是由一家人力资源咨询公司开展的，他们采访了1000多名员工，并确定了让人们在工作中感到幸福的前十大因素。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 16,
       "start": 69.32,
       "end": 78.08,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "对于大多数受访者来说，最重要的因素是拥有友好且能提供支持的同事。"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 26,
       "start": 78.08,
       "end": 89.72,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "事实上，73% of the interviewed people regard their relationship with colleagues as the key factor contributing to happiness at work, which is a very high percentage. 事实上，73%的受访者将与同事的关系视为职场幸福的关键因素，这是一个非常高的比例。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 11,
       "start": 89.72,
       "end": 93.38,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "第二重要的因素是拥有令人愉快的工作。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 17,
       "start": 93.38,
       "end": 104.18,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "最不重要的两个因素是成就得到认可，以及相当令人惊讶的是，获得具有竞争力的薪水。"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 8,
       "start": 104.18,
       "end": 107.58,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "所以，我们主要的动力不是金钱吗？"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 2,
       "start": 107.58,
       "end": 108.44,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "显然不是。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 7,
       "start": 108.44,
       "end": 111.78,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "调查中还有其他有趣的信息吗？"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 1,
       "start": 111.78,
       "end": 112.66,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "有的。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 15,
       "start": 112.66,
       "end": 119.88,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "例如，25%的受访员工形容自己在工作中“非常幸福”。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 9,
       "start": 119.88,
       "end": 126.56,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "然而，20%的员工形容自己并不幸福。"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 11,
       "start": 126.56,
       "end": 130.86,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "每天在工作中不开心的人还挺多的。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 4,
       "start": 130.86,
       "end": 132.42,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "是啊，不是吗？"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 11,
       "start": 132.42,
       "end": 137.8,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "调查还揭示了其他几个有趣的结论。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 20,
       "start": 137.8,
       "end": 146.68,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "首先，小而美：人们显然更喜欢在员工人数少于100人的小型机构或公司工作。"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 15,
       "start": 146.68,
       "end": 153.54,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "我们还发现，一般来说，女性在工作中的幸福感高于男性。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 5,
       "start": 153.54,
       "end": 155.62,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "是的，我们确实如此，不是吗？"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 23,
       "start": 155.62,
       "end": 163.96,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "每天只工作4或5小时的兼职合同工，比全职员工更幸福。"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 14,
       "start": 163.96,
       "end": 169.36,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "研究人员得出结论，这可能是因为更好的工作与生活平衡。"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 6,
       "start": 169.36,
       "end": 171.68,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "老板比员工更幸福吗？"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 15,
       "start": 171.68,
       "end": 178.44,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "是的，或许并不奇怪，人在公司里的地位越高，就越幸福。"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 12,
       "start": 178.44,
       "end": 191.08,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "因此，高级管理人员比他们的下属更享受自己的工作。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 14,
       "start": 191.08,
       "end": 211.98,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "根据调查，让员工感到幸福的头号因素是什么？"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 13,
       "start": 211.98,
       "end": 231.58,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "受访者中感到工作不幸福的比例是多少？"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 8,
       "start": 231.58,
       "end": 249.9,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "什么样的公司受员工欢迎？"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 14,
       "start": 249.9,
       "end": 271.04,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "兼职合同工更幸福的可能原因是什么？"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 14,
       "start": 271.04,
       "end": 276.68,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "德凯泽先生，我非常喜欢您的书《洪水前的瞬间》。"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 13,
       "start": 276.68,
       "end": 281.08,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "您能告诉我们您最初是如何对这个主题产生兴趣的吗？"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 38,
       "start": 281.08,
       "end": 295.76,
-      "matchedWords": 38
+      "matchedWords": 38,
+      "translation": "2006年，当布鲁日市音乐厅要求我为以水为主题的新音乐季目录拍摄一些照片时，我发现自己在比利时海岸线一带工作。"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 40,
       "start": 295.76,
       "end": 311.18,
-      "matchedWords": 40
+      "matchedWords": 40,
+      "translation": "由于媒体上有大量关于即将发生气候灾难的警示文章，我开始以完全不同的眼光审视大海和海滩，那是我小时候度过许多美好时光的地方。"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 15,
       "start": 311.18,
       "end": 316.52,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "这种对迫在眉睫的危险的恐惧成为了一个大型摄影项目的主题。"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 21,
       "start": 316.52,
       "end": 326.24,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "您在书中写道：“我不想拍摄灾难，我想拍摄正在等待发生的灾难。”"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 7,
       "start": 326.24,
       "end": 328.34,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "您能谈谈这一点吗？"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 19,
       "start": 328.34,
       "end": 336.22,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "现在很清楚，整个欧洲海岸线消失在水下只是时间问题。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 10,
       "start": 336.22,
       "end": 340.3,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "世界上许多大城市也是如此。"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 22,
       "start": 340.3,
       "end": 350.88,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "我的想法是在一切太迟之前，作为最后的见证者，拍摄这条美丽、独特且历史悠久的海岸线。"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 14,
       "start": 350.88,
       "end": 355.84,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "您能谈谈历史在这个项目中扮演了怎样的角色吗？"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 1,
       "start": 355.84,
       "end": 356.56,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "当然。"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 21,
       "start": 356.56,
       "end": 364.3,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "这个项目也关乎欧洲的历史，凝视着大海，思考下一个敌人何时会出现。"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 25,
       "start": 364.3,
       "end": 377.66,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "在影像中，你可以看到各种可能的防御工事，用来阻挡罗马人、德国人、维京人，而现在，大自然成为了头号敌人。"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 20,
       "start": 377.66,
       "end": 385.12,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "例如，有一张在诺曼底登陆现场拍摄的伸入大海的桥的照片。"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 26,
       "start": 385.12,
       "end": 395.78,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "还有威尼斯，这座永远受到海洋威胁的城市，每天早上都必须搭建木质通道，以便游客到达酒店。"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 5,
       "start": 395.78,
       "end": 397.52,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "谢谢您，德凯泽先生。"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 10,
       "start": 397.52,
       "end": 407.48,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "今天很高兴能请到您。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 12,
       "start": 407.48,
       "end": 425.98,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "关于《洪水前的瞬间》这本书，男人说了什么？"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 10,
       "start": 425.98,
       "end": 443.58,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "男人是什么时候产生创作这部作品的想法的？"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 8,
       "start": 443.58,
       "end": 460.94,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "当气候灾难发生时会发生什么？"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 7,
       "start": 460.94,
       "end": 510.28,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "关于威尼斯，男人说了什么？"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 20,
       "start": 510.28,
       "end": 519.7,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "面对新情况时，有些人往往会花太多时间预想最坏的情况，从而在脑海中演练失败。"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 16,
       "start": 519.7,
       "end": 525.4,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "我记得曾和一位即将开始第一次陪审团审判的年轻律师交谈。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 4,
       "start": 525.4,
       "end": 527.36,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "她非常紧张。"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 11,
       "start": 527.36,
       "end": 531.54,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我问她想给陪审团留下什么样的印象。"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 20,
       "start": 531.54,
       "end": 539.06,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "她回答说：“我不想看起来太没经验，我不想让他们怀疑这是我第一次出庭。”"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 15,
       "start": 539.06,
       "end": 546.48,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这位律师陷入了“不要”综合症——一种负面的目标设定方式。"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 12,
       "start": 546.48,
       "end": 551.98,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "“不要”可能会自我实现，因为你的大脑会对画面做出反应。"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 20,
       "start": 551.98,
       "end": 560.72,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "斯坦福大学开展的研究表明，心理图像激发神经系统的方式与实际行动是一样的。"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 14,
       "start": 560.72,
       "end": 566.28,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "这意味着当一名高尔夫球手告诉自己：“不要把球打进水里。”"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 12,
       "start": 566.28,
       "end": 570.9,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "他的大脑中会出现球飞进水里的画面。"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 7,
       "start": 570.9,
       "end": 574.12,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "所以，猜猜球会往哪儿飞？"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 16,
       "start": 574.12,
       "end": 580.98,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "因此，在进入任何充满压力的情况之前，只关注你想要发生的事情。"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 14,
       "start": 580.98,
       "end": 585.46,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我再次问那位律师，她希望在第一次审判中表现出什么样的状态。"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 13,
       "start": 585.46,
       "end": 590.42,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这次她说：“我想看起来专业且自信。”"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 14,
       "start": 590.42,
       "end": 596.34,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我告诉她描绘出一幅自信的样子。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 31,
       "start": 596.34,
       "end": 608.74,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "对她来说，这意味着在法庭上自信地走动，使用有说服力的肢体语言，并放开声音，让声音从法官席传到后门。"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 11,
       "start": 608.74,
       "end": 613.6,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "她还想象了一场精湛的结案陈词和一场胜诉的审判。"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 13,
       "start": 613.6,
       "end": 627.9,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "在这次积极的思想预演几周后，这位年轻律师确实赢了。"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 11,
       "start": 627.9,
       "end": 646.54,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "有些人在面对新情况时会做什么？"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 9,
       "start": 646.54,
       "end": 664.98,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "斯坦福大学开展的研究显示了什么？"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 12,
       "start": 664.98,
       "end": 683.68,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "说话者给处于压力情境中的人提供了什么建议？"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 10,
       "start": 683.68,
       "end": 701.6,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "关于法庭上的那位律师，我们了解到了什么？"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 10,
       "start": 701.6,
       "end": 708.42,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "大多数美国人没有摄入足够的水果、蔬菜或全谷物。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 17,
       "start": 708.42,
       "end": 715.3,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "研究人员现在表示，在青少年饮食中添加纤维可能有助于降低患乳腺癌的风险。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 16,
       "start": 715.3,
       "end": 723.16,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "关于纤维益处的对话在养老院可能比在高中更常见。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 10,
       "start": 723.16,
       "end": 727.72,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "但随之而来的一项新研究可能会改变这一现状。"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 20,
       "start": 727.72,
       "end": 737.3,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "德克萨斯儿童医院的饮食专家克里斯蒂·金发现，很难让青少年患者关注健康饮食。"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 20,
       "start": 737.3,
       "end": 744.86,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "但告诉他们，摄入大量高纤维食物可以降低中年之前患乳腺癌的风险。"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 4,
       "start": 744.86,
       "end": 746.96,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "这是一个强有力的信息。"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 12,
       "start": 746.96,
       "end": 751.78,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这一新发现是基于对44,000名女性的研究。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 18,
       "start": 751.78,
       "end": 758.38,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "调查了她们在高中时期的饮食情况，并对她们的饮食习惯进行了长达20年的跟踪。"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 31,
       "start": 758.38,
       "end": 770.48,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "结果显示，与摄入纤维最少的女性相比，在青少年时期摄入纤维水平最高的女性患乳腺癌的风险更低。"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 27,
       "start": 770.48,
       "end": 781.24,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "这项重要的研究表明，你在高中时期吃的纤维越多，日后患乳腺癌的风险就越低。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 21,
       "start": 781.24,
       "end": 791.3,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "这一发现指向了长期存在的证据，即纤维可以降低循环中的女性激素水平，这可以解释风险降低的原因。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 29,
       "start": 791.3,
       "end": 802.9,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "这里的基本结论是，你吃的纤维越多，体内的激素水平可能就越低，因此患乳腺癌的终生风险也就越低。"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 15,
       "start": 802.9,
       "end": 808.98,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "高纤维饮食还与心脏病和糖尿病风险降低有关。"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 16,
       "start": 808.98,
       "end": 822.64,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "这就是为什么女性被告知每天摄入25克纤维，而男性则更多。"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 13,
       "start": 822.64,
       "end": 842.34,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "关于在青少年饮食中添加纤维，这项新研究告诉了我们什么？"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 12,
       "start": 842.34,
       "end": 861.44,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "关于对44,000名女性的调查，我们了解到了什么？"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 10,
       "start": 861.44,
       "end": 909.76,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "说话者为这项研究发现提供了什么解释？"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 9,
       "start": 909.76,
       "end": 914.74,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "嗯，我目前的研究重点是消费者行为。"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 19,
       "start": 914.74,
       "end": 923.22,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "因此，最近我研究了年轻人的饮酒问题，这显然是目前政府关注的一个重点。"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 32,
       "start": 923.22,
       "end": 937.0,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "我还研究了媒体是如何描绘老年人的；同样，随着老年人占英国乃至全球社会的比例越来越大，这也是目前的主要兴趣点。"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 27,
       "start": 937.0,
       "end": 947.58,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "我对消费者在网上的行为，以及这种线上行为与他们去商店购物时的线下行为有何不同也很感兴趣。"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 18,
       "start": 947.58,
       "end": 955.28,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "嗯，我认为这里的关键是真正从消费者的角度去理解发生了什么。"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 25,
       "start": 955.28,
       "end": 964.56,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "企业乃至政府机构经常忽略的一点，就是没有真正从消费者的角度来看待问题。"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 35,
       "start": 964.56,
       "end": 979.02,
-      "matchedWords": 35
+      "matchedWords": 35,
+      "translation": "例如，在年轻人饮酒的案例中，我发现对于18到24岁的人来说，饮酒完全是一种社交活动。"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 50,
       "start": 979.02,
       "end": 997.8,
-      "matchedWords": 50
+      "matchedWords": 50,
+      "translation": "政府的许多广告都在强调个人责任，但实际上，了解饮酒很大程度上是一种社交活动，并寻找帮助年轻人安全回家、避免进入医院的方法，是我们试图在其中呈现的内容之一。"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 15,
       "start": 997.8,
       "end": 1004.94,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "消费者行为的关键在于消费者是如何变化的。"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 16,
       "start": 1004.94,
       "end": 1011.24,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "市场的变化总是快于营销手段的变化；所以我们必须关注消费者的行为。"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 30,
       "start": 1011.24,
       "end": 1025.24,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "目前，我向大二学生教授消费者行为学，我们研究消费者行为中的各种事物，特别是广告中是如何呈现消费者的。"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 25,
       "start": 1025.24,
       "end": 1037.3,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "因此，他们通过观看广告并批判性地评估其中的消费者行为方面，有时还参与基础研究。"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 36,
       "start": 1037.3,
       "end": 1052.0,
-      "matchedWords": 36
+      "matchedWords": 36,
+      "translation": "例如，去年我的学生花了一周时间观察自己的购买行为，并进行了详细分析，从购物到他们与零售银行及移动电话运营商的关系。"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 21,
       "start": 1052.0,
       "end": 1059.78,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "我认为他们发现这非常有用，同时也帮助他们明确了自己的预算情况。"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 44,
       "start": 1059.78,
       "end": 1089.715,
-      "matchedWords": 44
+      "matchedWords": 44,
+      "translation": "事实是，目前有很多有趣的研究，而且我认为随着时间的推移，会有更多值得我们考虑的内容，当然也会有更多让学生参与其中的机会。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 6,
       "start": 1089.715,
       "end": 1099.92,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "说话者目前正在做什么？"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 9,
       "start": 1099.92,
       "end": 1117.88,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "说话者关于年轻人的饮酒发现了什么？"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 11,
       "start": 1117.88,
       "end": 1136.78,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "说话者说他的学生去年做了什么？"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 21,
       "start": 1136.78,
       "end": 1145.0,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "瑞典是第一个印刷和使用纸币的欧洲国家，但它可能很快就会废除实物货币。"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 29,
       "start": 1145.0,
       "end": 1156.66,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "通过转向无现金系统，银行可以节省大量资金并避免监管难题，还可以避免银行抢劫、盗窃和黑钱。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 20,
       "start": 1156.66,
       "end": 1165.36,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "《金融时报·财富》的编辑克莱尔·巴雷特表示，西方世界正迈向一个没有实物货币的世界。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 21,
       "start": 1165.36,
       "end": 1174.36,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "“英国央行首席经济学家安迪·霍尔德建议英国向政府支持的数字货币迈进。”"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 10,
       "start": 1174.36,
       "end": 1178.88,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "但无现金社会真的具有良好的经济意义吗？"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 35,
       "start": 1178.88,
       "end": 1191.98,
-      "matchedWords": 35
+      "matchedWords": 35,
+      "translation": "“现金正逐渐从社会中抽离，不再是我们日常生活的一个特征，而电子支付的便利性——这是否真的让我们在不知觉中花了更多的钱？”"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 30,
       "start": 1191.98,
       "end": 1203.98,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "巴雷特想弄清楚缺少实物货币是否真的会导致一个人花更多的钱，所以她决定在几个月前做一个实验。"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 31,
       "start": 1203.98,
       "end": 1214.76,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "她决定尝试在两周内只使用现金进行所有必要的购买，看看这会对她的支出产生什么影响。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 33,
       "start": 1214.76,
       "end": 1226.92,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "她发现自己确实少花了很多钱，因为很难预测一个人需要多少现金——她不停地从取款机取钱。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 18,
       "start": 1226.92,
       "end": 1234.54,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "几个月后，她仍然发现裤兜和手提包兜里塞着现金。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 8,
       "start": 1234.54,
       "end": 1238.16,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "实验期间，巴雷特坐了一次火车。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 17,
       "start": 1238.16,
       "end": 1244.82,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "在途中，广播宣布餐车目前不接受信用卡。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 16,
       "start": 1244.82,
       "end": 1251.12,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "车厢里充满了呻吟声，因为许多乘客出行都没有带现金。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 14,
       "start": 1251.12,
       "end": 1257.16,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "“这突显了在上一代人中，事情发生了多大的变化，”巴雷特说。"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 41,
       "start": 1257.16,
       "end": 1273.38,
-      "matchedWords": 41
+      "matchedWords": 41,
+      "translation": "“我父母年轻的时候，习惯通过把钱放进信封来做预算——他们领到工资后，会立即把现金分成几堆放进信封，这样他们就知道每周要花多少钱。”"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 14,
       "start": 1273.38,
       "end": 1278.1,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "这对他们来说是一种非常有效的追踪支出的方式。"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 32,
       "start": 1278.1,
       "end": 1299.7,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "如今，我们都在使用信用卡，进行在线购物，金钱在某种程度上变得不那么具体，而更像是一种我们无法掌控的想象中的东西。”"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 6,
       "start": 1299.7,
       "end": 1316.8,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "关于瑞典，我们了解到了什么？"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 11,
       "start": 1316.8,
       "end": 1334.8,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "克莱尔·巴雷特想通过她的实验发现什么？"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 9,
       "start": 1334.8,
       "end": 1354.34,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "克莱尔·巴雷特在火车上发现了什么？"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 10,
       "start": 1354.34,
       "end": 1373.96,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "上一代人是如何规划支出预算的？"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 11,
       "start": 1373.96,
       "end": 1379.12,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "你为什么应该考虑在大学选修一门人口统计学课程？"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 17,
       "start": 1379.12,
       "end": 1385.34,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "你成长在婴儿潮一代开始退休和离世的一代。"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 17,
       "start": 1385.34,
       "end": 1390.72,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "你将面临以前从未遇到过的人口老龄化问题。"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 16,
       "start": 1390.72,
       "end": 1397.64,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "你会越来越多地听到国家之间以及农村和城市之间的迁移。"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 21,
       "start": 1397.64,
       "end": 1405.24,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "作为公民、纳税人和选民，你需要了解这些争论背后的真实原因。"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 15,
       "start": 1405.24,
       "end": 1410.88,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "我想给你们讲讲人类人口的过去、现在和未来。"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 7,
       "start": 1410.88,
       "end": 1413.7,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "那么让我们从几个问题开始。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 8,
       "start": 1413.7,
       "end": 1417.54,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "现在，有十亿人处于长期饥饿中。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 17,
       "start": 1417.54,
       "end": 1423.2,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "这意味着他们醒来时是饿的，整天都是饿的，睡觉时也是饿的。"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 17,
       "start": 1423.2,
       "end": 1429.14,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "有十亿人生活在贫民窟中，虽然不是同一批十亿人，但有一定的重叠。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 21,
       "start": 1429.14,
       "end": 1439.4,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "生活在贫民窟意味着他们没有处理垃圾的基础设施，也没有安全的饮用水供应。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 6,
       "start": 1439.4,
       "end": 1442.36,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "近十亿人是文盲。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 7,
       "start": 1442.36,
       "end": 1445.56,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "试着想象一下如果你是文盲的生活。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 18,
       "start": 1445.56,
       "end": 1451.76,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "如果你能去超市，你也读不懂超市里瓶子上的标签。"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 33,
       "start": 1451.76,
       "end": 1464.4,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "这些文盲中有三分之二是女性，约有2亿到2.15亿女性无法获得她们想要的避孕措施，以便控制自己的生育能力。"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 9,
       "start": 1464.4,
       "end": 1467.66,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "这不仅仅是发展中国家的问题。"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 8,
       "start": 1467.66,
       "end": 1471.62,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "全球约有一半的怀孕是非自愿的。"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 7,
       "start": 1471.62,
       "end": 1475.96,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "这些都是人口问题的例子。"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 12,
       "start": 1475.96,
       "end": 1480.12,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "人口统计学为您提供了理解和解决这些问题的工具。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 38,
       "start": 1480.12,
       "end": 1496.18,
-      "matchedWords": 38
+      "matchedWords": 38,
+      "translation": "它不仅是对人类人口的研究，还包括对非人类物种种群的研究，包括流感病毒、肠道细菌、你吃的植物、你喜欢的动物或为你提供肉类的动物。"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 22,
       "start": 1496.18,
       "end": 1504.66,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "人口统计学还包括对灯泡、出租车和建筑物等非生物对象的研究，因为这些也是种群。"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 20,
       "start": 1504.66,
       "end": 1516.04,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "它使用定量数据和数学模型作为分析工具，研究这些种群的过去、现在和未来。"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 10,
       "start": 1516.04,
       "end": 1520.46,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我将人口统计学视为与经济学相关的核心学科。"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 43,
       "start": 1520.46,
       "end": 1550.896,
-      "matchedWords": 42
+      "matchedWords": 42,
+      "translation": "它是更明智、更有效地干预现实世界的手段，不仅是为了改善你自己的福祉（虽然这很重要），也是为了改善你周围的人以及与我们共享这个星球的其他物种的福祉。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 12,
       "start": 1550.896,
       "end": 1565.76,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "说话者在谈话中提到了什么问题？"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 7,
       "start": 1565.76,
       "end": 1584.38,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "说话者关于怀孕说了什么？"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 9,
       "start": 1584.38,
       "end": 1607.784,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "说话者如何看待人口统计学研究？"
     }
   ]
 }

@@ -78,7 +78,8 @@
       "words": 19,
       "start": 56.6,
       "end": 66.42,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "大卫·杰克逊先生是《纽约客》的专职撰稿人，以其冒险类非虚构类书籍而闻名。"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 15,
       "start": 66.42,
       "end": 73.7,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "今天，我们要进行一次不同寻常的冒险：杰克逊养育后代的生活。"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 24,
       "start": 73.7,
       "end": 83.58,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "大卫，作为一名11岁和14岁孩子的家长，你现在面临的最有趣的问题是什么？"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 19,
       "start": 83.58,
       "end": 89.96,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "关注挑战很容易，但到目前为止，我发现这些年龄段的孩子非常棒。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 11,
       "start": 89.96,
       "end": 95.74,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "他们很独立，有自己的好奇心和痴迷的事物。"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 13,
       "start": 95.74,
       "end": 100.78,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "你可以和他们谈论相当复杂的话题，比如政治。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 11,
       "start": 100.78,
       "end": 107.06,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "是的，与跟年幼的孩子交谈相比，这听起来确实令人耳目一新。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 8,
       "start": 107.06,
       "end": 110.96,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "他们会要求你校对他们的文章吗？"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 5,
       "start": 110.96,
       "end": 112.96,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "当然，在写作方面他们会这么做。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 7,
       "start": 112.96,
       "end": 116.02,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "我真的只是尽量给予鼓励。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 12,
       "start": 116.02,
       "end": 122.38,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "我认为在这个年纪，鼓励比编辑指导更重要。"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 17,
       "start": 122.38,
       "end": 128.98,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "有没有你认为对你的孩子以及所有孩子都很重要的必读书籍？"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 14,
       "start": 128.98,
       "end": 135.5,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我的总体想法是广泛阅读，并培养对阅读的热爱。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 21,
       "start": 135.5,
       "end": 142.8,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "我认为，学会热爱阅读是最理想的事情，因为它赋予了你一项可以带到任何地方的技能。"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 13,
       "start": 142.8,
       "end": 148.72,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "所以你不像有些家长那样太担心他们阅读的内容？"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 8,
       "start": 148.72,
       "end": 151.8,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "我知道我对那方面确实有些担心。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 5,
       "start": 151.8,
       "end": 153.58,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "是的，读你喜欢的就行。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 24,
       "start": 153.58,
       "end": 163.84,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "如果一个孩子喜欢图画小说或漫画书，不管是什么，只要能激发他们阅读的兴趣和想象力就好。"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 12,
       "start": 163.84,
       "end": 169.28,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "我觉得孩子对书籍的口味在进入青春期后会发生变化。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 11,
       "start": 169.28,
       "end": 172.88,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我知道我十几岁时确实是这样的。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 4,
       "start": 172.88,
       "end": 174.52,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "你觉得呢？"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 22,
       "start": 174.52,
       "end": 182.36,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "我认为，随着他们年龄的增长，阅读那些能开阔他们对世界和人类眼界的题材尤为重要。"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 28,
       "start": 182.36,
       "end": 206.38,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "所以我认为虚构和非虚构作品都非常重要，因为它们赋予了你通过他人的生活开始感知世界的能力。"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 10,
       "start": 206.38,
       "end": 222.68,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "关于大卫·杰克逊，我们从对话中了解到了什么？"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 8,
       "start": 222.68,
       "end": 240.94,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "这位男性如何看待十几岁的青少年？"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 10,
       "start": 240.94,
       "end": 260.16,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "这位男性如何帮助孩子们写文章？"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 12,
       "start": 260.16,
       "end": 280.08,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这位女性关于自己十几岁时说了什么？"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 19,
       "start": 280.08,
       "end": 290.88,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "在本期《金钱谈》节目中，我们的嘉宾是莫莉·桑德斯，她是一名大学生，也是一位成功的年轻企业家。"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 6,
       "start": 290.88,
       "end": 292.62,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "莫莉，跟我们说说你的生意吧。"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 27,
       "start": 292.62,
       "end": 305.9,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "嗯，我通过一个网站销售特色服装，主要面向那些因为身高或体重很难在主流商店找到合适衣服的女性。"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 7,
       "start": 305.9,
       "end": 309.0,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "但我也做一些男装。"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 13,
       "start": 309.0,
       "end": 313.34,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "你是如何在这么年轻的时候就开始创业的？你在学习服装设计吗？"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 5,
       "start": 313.34,
       "end": 315.92,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "其实我的专业是财务，但我一直很喜欢衣服。我从14岁就开始自己做衣服了。"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 10,
       "start": 315.92,
       "end": 320.1,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "你接受过设计或缝纫方面的任何培训吗？还是说这是一种天赋？"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 8,
       "start": 320.1,
       "end": 324.38,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "这两个问题的答案都是否定的。没有人教我做衣服，我起初做的大多数东西简直是灾难。"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 11,
       "start": 324.38,
       "end": 328.22,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "你为什么要坚持下去？我想大多数人在不断失败的情况下都会放弃，尤其是在那个年纪。"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 6,
       "start": 328.22,
       "end": 331.4,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我坚持下去是出于必要。正如你所看到的，我非常高，在普通商店里找不到适合我的衣服，所以我一直尝试，并随着时间的推移提高了我的技能。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 7,
       "start": 331.4,
       "end": 333.98,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "嗯，我的记录显示你去年赚了5万美元的利润，对于一个20岁的学生来说，这是一个非凡的数字。这是怎么发生的？你是因为看到了市场空白并决定填补它吗？"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 18,
       "start": 333.98,
       "end": 340.64,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "不。我上大学时，一些同学赞美我的衣服。当我说明这些是我自己做的时，其他高个子女性开始问我是否可以给她们也做一些。我就照做了，不知不觉中，我就成了一名企业家。"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 4,
       "start": 340.64,
       "end": 342.76,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "那你未来的计划是什么？你打算开一家实体店吗？"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 15,
       "start": 342.76,
       "end": 348.4,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "不，我会继续在网上经营以降低成本，但我会增加更多的童装，包括女孩和男孩，甚至可能是婴儿装。我希望能扩大我的男装设计范围。"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 6,
       "start": 348.4,
       "end": 350.76,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "关于这位女性，我们了解到了什么？"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 28,
       "start": 350.76,
       "end": 362.52,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "关于她起初做的衣服，这位女性说了什么？"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 21,
       "start": 362.52,
       "end": 371.98,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "这位女性为什么要坚持为自己做衣服？"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 4,
       "start": 371.98,
       "end": 373.58,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "这位女性计划未来做什么？"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 13,
       "start": 373.58,
       "end": 377.42,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "研究人员利用人工智能发现了一种强效的新型抗生素化合物。"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 10,
       "start": 377.42,
       "end": 382.92,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "这种抗生素可以杀死非常危险的细菌。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 18,
       "start": 382.92,
       "end": 390.36,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "根据发表在《细胞》杂志上的一项研究，这些化合物成功清除了对所有已知抗生素都具有耐药性的小鼠体内的致命细菌菌株。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 3,
       "start": 390.36,
       "end": 391.58,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "研究人员表示，这是首次利用人工智能发现强效的新型抗生素分子。"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 9,
       "start": 391.58,
       "end": 394.76,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "这为什么重要？"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 8,
       "start": 394.76,
       "end": 397.56,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "答案是抗生素耐药性。当细菌进化出抵御旨在杀死它们的药物的能力时，就会发生这种情况。"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 8,
       "start": 397.56,
       "end": 399.94,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "抗生素耐药性是对健康的严重威胁，而且这个问题正在日益严重。这使得寻找新的抗生素变得非常重要。"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 26,
       "start": 399.94,
       "end": 412.24,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "然而，近几十年来，研发出的新抗生素寥寥无几，而且已有的那些往往与市面上的药物非常相似。这些搜索也往往只集中在狭窄的化学化合物范围内。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 12,
       "start": 412.24,
       "end": 424.76,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "但这正是人工智能派上用场的地方。为什么？为了寻找新药，科学家们筛选分子以预测它们的有效性。"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 7,
       "start": 424.76,
       "end": 441.9,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "通常情况下，这种筛选是由人类在实验室中完成的，既昂贵又缓慢。人工智能则不同，它速度快，且能处理大量数据。"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 12,
       "start": 441.9,
       "end": 459.8,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "它可以筛选数亿种化合物，以确定少数需要进行实验测试的目标。人工智能还能预测化合物是否具有毒性。"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 10,
       "start": 459.8,
       "end": 480.02,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "一些专家声称，这项工作标志着抗生素发现领域的范式转变。它可能会更广泛地改变药物发现过程。"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 10,
       "start": 480.02,
       "end": 529.92,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "研究人员历史上首次做了什么？"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 11,
       "start": 529.92,
       "end": 538.16,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "为什么寻找新的抗生素药物很重要？"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 7,
       "start": 538.16,
       "end": 542.44,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "关于人工智能在抗生素研究中的作用，这篇文章说了什么？"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 26,
       "start": 542.44,
       "end": 555.24,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "最近的一项研究推翻了我们对谎言的固有认知。"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 21,
       "start": 555.24,
       "end": 564.98,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "我们大多数人对于如何判断某人是否在撒谎都有一套理论。"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 4,
       "start": 564.98,
       "end": 566.74,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我们可能会通过观察那些我们熟悉且经常见面的人来形成这套理论。但我们往往会概括从那些非科学的日常观察中收集到的信息，并将其变成一套普遍的理论。"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 5,
       "start": 566.74,
       "end": 569.94,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "所以我们可能会想象撒谎者眼神躲闪，或者恰恰相反，他们只是盯着你看，或者更普遍地，我们将紧张的行为与谎言联系在一起。"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 15,
       "start": 569.94,
       "end": 577.26,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "无论具体的理论是什么，它通常都是基于对我们所认识的人的密切观察。而且我们有很多练习机会。平均而言，我们每天会被欺骗大约200次。这些大多是无伤大雅的谎言，但仍然是谎言。"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 13,
       "start": 577.26,
       "end": 583.68,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "但我们的理论存在一个问题，尽管它们是基于这些观察的。对于普通人，也就是你和我，在探测谎言方面的严格测试显示，我们的表现并不比随机猜测好。这在许多研究中都得到了证实，研究人员也多次尝试找出可靠的探测谎言的方法。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 7,
       "start": 583.68,
       "end": 587.94,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "通过训练呼吸技巧和抑制症状，甚至连测谎仪（测谎的金标准）也相对容易被欺骗。"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 9,
       "start": 587.94,
       "end": 592.84,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "有什么方法可以提高探测谎言的能力吗？这项新研究提供了一些令人惊讶的建议：停止观看，转而倾听。事实证明，如果我们看不到对方的脸，而是专注于对方的声音，我们的准确率就会大大提高。"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 13,
       "start": 592.84,
       "end": 598.38,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "根据文章，大多数人如何探测谎言？"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 14,
       "start": 598.38,
       "end": 606.5,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "关于大多数谎言，这篇文章说了什么？"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 8,
       "start": 606.5,
       "end": 610.08,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于普通人探测谎言的能力，许多研究发现了什么？"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 1,
       "start": 610.08,
       "end": 611.24,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "关于探测谎言，这项新研究提供了什么建议？"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 14,
       "start": 611.24,
       "end": 618.36,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "表现出顺从、谦卑、感激且不苛求的样子；当医生进入你的房间时，表现出极大的快乐，即使那次探视既简短又毫无用处。"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 16,
       "start": 618.36,
       "end": 624.96,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "除非你很有名或非常富有，否则不要挑战任何权威。这些是应对当今美国医疗机构的一些策略。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 4,
       "start": 624.96,
       "end": 628.0,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "患者想要的是受到尊重和体谅。但在我的经验中，很少有医院和医生准备这样做。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 9,
       "start": 628.0,
       "end": 632.38,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "小说家雷诺兹·普莱斯在其著作《全新的生活》中回忆道，他的医生选择在拥挤的走廊里告诉他他的脊髓上可能有肿瘤。这两位医生并没有意识到，走廊并不是宣布那条特定消息最合适的地方。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 18,
       "start": 632.38,
       "end": 642.52,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "我的外科医生30岁出头，看起来很疲惫。由于冬天的冰雪导致摔倒的病人太多，他应接不暇。他是个幽默的人，但有时他的幽默并不合时宜。"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 14,
       "start": 642.52,
       "end": 649.5,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "“蓝十字健康保险公司想让我明天下午把你放到雪地里去，”在我住院一个多星期后，他这样告诉我。我被吓坏了，因为我不知道该去哪里。我不能走路，甚至不能把腿抬高几英寸。"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 13,
       "start": 649.5,
       "end": 656.64,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "医院的社会工作者让我觉得像个白痴，但我对她的投诉只会激怒我的外科医生。“我必须和这些人共事，”当我的朋友凯伦·布鲁德尼医生慈悲地介入并安排我转院时，他这样对她说。"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 7,
       "start": 656.64,
       "end": 669.06,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "“如果你说一件负面的事情，他们就会产生防御心理，”她后来告诉我。“他们有这种机构忠诚感。去医院时一定要带上一位倡导者，也就是说，任何陪同你的人，并写下每一个问题和答案，以及每一位医生和护士的名字。当人们知道你记下了他们的名字时，他们的表现会更好。”"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 10,
       "start": 669.06,
       "end": 688.16,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "布鲁德尼补充道：“如果你作为一名患者，暗示你可能想要控制局面的哪怕一部分，或者想要被咨询或被告知，那么你就被认为是难对付的。他们希望你完全被动。整个医疗系统，尤其是医院和养老院，其存在的理由与照顾病人毫无关系。病人只是次要的。”"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 9,
       "start": 688.16,
       "end": 706.72,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "关于大多数美国医院，说话者说了什么？"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 14,
       "start": 706.72,
       "end": 726.16,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "凯伦·布鲁德尼建议患者怎么做？"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 11,
       "start": 726.16,
       "end": 733.24,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "根据凯伦·布鲁德尼的说法，美国医生希望他们的病人是什么样的？"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 16,
       "start": 733.24,
       "end": 738.58,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "可能有些你曾与之合作过的团队，你再也不想与之合作了。但肯定也有一些团队，你会非常珍惜在职业上再次重聚的机会。换句话说，你的团队拥有生命力。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 16,
       "start": 738.58,
       "end": 745.98,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "生命力产生于人们与团队成员建立的联系，使得他们在团队解散后依然保持联系。什么样的团队特征会使其成员在不再一起工作的情况下更有可能保持联系呢？"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 19,
       "start": 745.98,
       "end": 755.08,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "最近发表在一本商业期刊上的一项研究回答了这个问题。研究团队发现的两个关键因素之一是相似性，特别是拥有相同的性别或种族背景。一个团队的成员在人口统计特征上越相似，他们在团队完成使命后保持交往的意愿就越强。联系建立后，相似性会加强这种联系。因此，他们会对这些人产生更大的信任和相互理解，从而激励他们寻求进一步的合作机会。实际上，一个团队中人们的共同点越多，他们对彼此和团队的忠诚度就越强。"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 29,
       "start": 755.08,
       "end": 767.94,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "第二个因素是那段经历必须令人难忘。那些一起经历过激烈体验的团队，比如合作完成一个困难的项目或应对危机，更有可能保持联系。这些共同的经历创造了一种难以打破的纽带。"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 14,
       "start": 767.94,
       "end": 775.24,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "研究还发现，团队的规模也很重要。小团队比大团队更有可能建立牢固的联系。这是因为在小团队中，人们有更多机会在个人层面上进行互动。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 6,
       "start": 775.24,
       "end": 777.5,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "说话者关于团队生命力说了什么？"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 10,
       "start": 777.5,
       "end": 782.4,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "促使团队成员保持联系的关键因素之一是什么？"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 8,
       "start": 782.4,
       "end": 787.06,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "为什么小团队更有可能建立牢固的联系？"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 15,
       "start": 787.06,
       "end": 792.52,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "皮肤可能看起来只是一种表面的人类属性，但它是我们对所遇到的任何人注意到的第一件事。作为一名专注于猿类和猴子研究的动物学家，我一直在研究为什么人类进化成了“裸猿”，以及为什么世界各地皮肤的颜色有这么多深浅不同的色调。"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 20,
       "start": 792.52,
       "end": 802.94,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "我们可以从化石记录中做出非常准确的估计，人类可能在大约150万年前进化出了裸露的皮肤。与此同时，他们大部分失去了皮毛。如今，我们身上只剩下了几片毛发。我们为什么失去了皮毛呢？"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 20,
       "start": 802.94,
       "end": 812.46,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "一种理论认为，当我们开始直立行走并在炎热的非洲阳光下长距离移动时，这有助于我们保持凉爽。另一种理论认为，这有助于我们避开蜱虫和虱子等寄生虫。但最有趣的理论是，它有助于我们相互交流。我们的皮肤布满了神经末梢，能让我们感受到触摸、压力和温度。通过失去皮毛，我们能够使用触摸作为一种交流形式，如拥抱、亲吻和握手。"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 23,
       "start": 812.46,
       "end": 824.2,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "至于肤色的深浅不同，那是由于皮肤中黑色素含量的不同。黑色素是一种保护皮肤免受太阳紫外线伤害的色素。生活在赤道附近的人皮肤中含有更多的黑色素，这使得肤色更深。远离赤道生活的人黑色素较少，这使得他们的肤色较浅。这是因为在阳光较少的地区，身体需要产生更多的维生素D，而维生素D是在皮肤暴露于阳光时产生的。拥有较浅的皮肤可以让更多的阳光穿透皮肤，从而帮助身体产生更多的维生素D。"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 10,
       "start": 824.2,
       "end": 829.34,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "说话者的研究领域是什么？"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 7,
       "start": 829.34,
       "end": 833.08,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "根据化石记录，人类大约在什么时候进化出了裸露的皮肤？"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 5,
       "start": 833.08,
       "end": 835.88,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "关于人类为什么失去皮毛，其中一个理论是什么？"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 27,
       "start": 835.88,
       "end": 857.04,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "为什么生活在远离赤道地区的人肤色较浅？"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 10,
       "start": 857.04,
       "end": 877.2,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "根据这篇文章，大多数人是如何识破谎言的？"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 8,
       "start": 877.2,
       "end": 895.82,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于大多数谎言，这篇文章说了什么？"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 11,
       "start": 895.82,
       "end": 916.42,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "关于普通人识别谎言的能力，许多研究揭示了什么？"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 10,
       "start": 916.42,
       "end": 968.55,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "关于识别谎言，这项新研究提供了什么建议？"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 26,
       "start": 968.55,
       "end": 980.94,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "表现得顺从、谦卑、感激且不苛求，当医生进房间时表现出极大的愉悦，即使这次探视既短暂又无用。"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 11,
       "start": 980.94,
       "end": 986.44,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "除非你很有名或非常富有，否则不要挑战任何权威人士。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 12,
       "start": 986.44,
       "end": 993.04,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这些是应对当今美国医疗机构的一些策略。"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 11,
       "start": 993.04,
       "end": 998.2,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "患者想要的是被尊重和体谅。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 14,
       "start": 998.2,
       "end": 1004.38,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "但根据我的经验，太少的医院和医生准备好这样做。"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 33,
       "start": 1004.38,
       "end": 1018.52,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "小说家雷诺兹·普莱斯在他的书《崭新的生活》中回忆道，他的医生选择在拥挤的走廊里告诉他，他的脊髓上可能长了肿瘤。"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 23,
       "start": 1018.52,
       "end": 1028.1,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "那两位医生并没有意识到，走廊并不是宣布那条特殊消息的最合适场所。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 10,
       "start": 1028.1,
       "end": 1032.76,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "我的外科医生三十五六岁，看起来很疲惫。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 13,
       "start": 1032.76,
       "end": 1038.16,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "他被那些在冬天冰面上摔伤的病人搞得应接不暇。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 11,
       "start": 1038.16,
       "end": 1043.34,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "他是个风趣的人，但有时他的幽默并不受欢迎。"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 32,
       "start": 1043.34,
       "end": 1054.44,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "“蓝十字保险公司想让我明天下午把你赶到雪地里去，”在我住院一个多星期后他对我说道。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 10,
       "start": 1054.44,
       "end": 1059.72,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我吓坏了，因为我不知道该去哪里。"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 12,
       "start": 1059.72,
       "end": 1064.3,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我不能走路，甚至连腿都抬不起来几英寸。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 18,
       "start": 1064.3,
       "end": 1072.96,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "医院的社会工作者给我的印象是个白痴，但我对她的抱怨只会让我的外科医生感到厌烦。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 31,
       "start": 1072.96,
       "end": 1086.12,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "当我的朋友凯伦·布鲁德尼医生出于怜悯代表我出面干预，并安排我转院时，他告诉她：“我必须和这些人共事。”"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 13,
       "start": 1086.12,
       "end": 1091.46,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "“如果你说一句负面的话，他们就会产生防御心理，”她后来告诉我。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 7,
       "start": 1091.46,
       "end": 1095.3,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "“他们有一种机构忠诚度。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 31,
       "start": 1095.3,
       "end": 1108.76,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "永远带一个辩护人，也就是陪你一起去医院的任何人，并记下每一个问题和答案，以及每一位医生和护士的名字。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 10,
       "start": 1108.76,
       "end": 1113.5,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "当人们知道你掌握了他们的名字，他们会表现得更好。"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 30,
       "start": 1113.5,
       "end": 1128.02,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "布鲁德尼补充道：“而且，作为一名病人，如果你建议想要掌控局面的一部分，或者希望被咨询、被告知，那你就会被认为是难缠的。”"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 7,
       "start": 1128.02,
       "end": 1131.06,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "他们想要你完全顺从。"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 23,
       "start": 1131.06,
       "end": 1142.24,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "整个医疗保健系统，特别是医院和疗养院，其存在的原因与照顾病人毫无关系。"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 3,
       "start": 1142.24,
       "end": 1147.916,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "病人只是附带的。”"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 9,
       "start": 1147.916,
       "end": 1173.46,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "关于大多数美国医院，演讲者说了什么？"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 7,
       "start": 1173.46,
       "end": 1191.82,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "凯伦·布鲁德尼建议病人怎么做？"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 13,
       "start": 1191.82,
       "end": 1211.92,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "根据凯伦·布鲁德尼的说法，美国医生期望他们的病人是什么样的？"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 15,
       "start": 1211.92,
       "end": 1219.66,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "可能有些你曾经合作过的团队，你再也不想和他们共事了。"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 15,
       "start": 1219.66,
       "end": 1226.52,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "但肯定也还有其他一些团队，是你非常珍惜并渴望在职业生涯中再次重聚的。"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 7,
       "start": 1226.52,
       "end": 1230.8,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "换句话说，你的团队具有生命力。"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 25,
       "start": 1230.8,
       "end": 1241.36,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "当人们与团队成员建立的关系能够让他们在团队解散后仍保持联系时，团队就产生了生命力。"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 19,
       "start": 1241.36,
       "end": 1252.3,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "团队的哪些特征使得成员在不再共事后仍更有可能保持联系？"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 14,
       "start": 1252.3,
       "end": 1256.5,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "这个问题最近在《商业杂志》上发表的一项研究中得到了解答。"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 20,
       "start": 1256.5,
       "end": 1266.86,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "研究小组发现的两个关键因素之一是“同一性”，特别是拥有相同的性别或种族出身。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 25,
       "start": 1266.86,
       "end": 1277.74,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "团队成员的背景特征越相似，在团队完成使命后的很长一段时间里，他们就越倾向于保持联系。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 7,
       "start": 1277.74,
       "end": 1282.88,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "在关系建立之后，相似性会加强这种关系。"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 22,
       "start": 1282.88,
       "end": 1293.98,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "因此，他们会以更大的信任和相互理解来对待这些人，这激励他们寻求进一步的合作机会。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 23,
       "start": 1293.98,
       "end": 1466.515,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "实际上，团队成员之间的共同点越多，他们对彼此及对团队的忠诚度就越强。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 10,
       "start": 1466.515,
       "end": 1541.53,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "第二个因素是经历必须是难忘的。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 27,
       "start": 1541.53,
       "end": 1595.533,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "那些共同经历过紧张时刻的团队，比如合作完成一个困难项目或应对危机，更有可能保持联系。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 11,
       "start": 1595.533,
       "end": 1617.535,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这些共同的经历创造了一种难以打破的纽带。"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 11,
       "start": 1617.535,
       "end": 1639.536,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "研究还发现，团队的规模也很重要。"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 12,
       "start": 1639.536,
       "end": 1663.538,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "与大团队相比，小团队更有可能拥有紧密的联系。"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 19,
       "start": 1663.538,
       "end": 1701.54,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这是因为在较小的团队中，人们有更多机会在个人层面进行互动。"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 8,
       "start": 1701.54,
       "end": 1702.369,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "关于团队生命力，演讲者说了什么？"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 14,
       "start": 1702.369,
       "end": 1703.491,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "使得团队成员保持联系的关键因素之一是什么？"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 10,
       "start": 1703.491,
       "end": 1704.417,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "为什么小团队更有可能拥有紧密的联系？"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 20,
       "start": 1704.417,
       "end": 1705.393,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "皮肤可能看起来是人类的一种表面特征，但它是我们见到任何人时首先注意到的东西。"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 34,
       "start": 1705.393,
       "end": 1707.051,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "作为一名专注于猿类和猴类研究的动物学家，我一直在研究为什么人类进化成了“裸猿”，以及为什么世界各地的人皮肤颜色各异。"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 25,
       "start": 1707.051,
       "end": 1708.27,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我们可以根据化石记录做出非常准确的估计，人类大约在150万年前进化出了裸露的皮肤。"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 9,
       "start": 1708.27,
       "end": 1708.709,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "与此同时，他们大部分的皮毛都脱落了。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 13,
       "start": 1708.709,
       "end": 1709.343,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "今天，我们的身体上只剩下几处毛发。"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 6,
       "start": 1709.343,
       "end": 1709.636,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我们为什么要脱掉皮毛？"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 25,
       "start": 1709.636,
       "end": 1710.855,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "嗯，一种理论是，当我们开始直立行走并在炎热的非洲烈日下长距离移动时，这有助于我们保持凉爽。"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 15,
       "start": 1710.855,
       "end": 1711.586,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "另一种理论是，它帮助我们躲避像蜱虫和虱子这样的寄生虫。"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 15,
       "start": 1711.586,
       "end": 1712.318,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "但最有趣的理论是，它帮助我们相互交流。"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 16,
       "start": 1712.318,
       "end": 1713.098,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我们的皮肤充满了神经末梢，能让我们感受到触碰、压力和温度。"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 22,
       "start": 1713.098,
       "end": 1714.171,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "失去了皮毛，我们能够将触摸作为一种交流方式，比如拥抱、亲吻和握手。"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 19,
       "start": 1714.171,
       "end": 1715.098,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "至于肤色的不同深浅，那是由于皮肤中黑色素含量的不同造成的。"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 17,
       "start": 1715.098,
       "end": 1715.927,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "黑色素是一种保护皮肤免受太阳紫外线伤害的色素。"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 16,
       "start": 1715.927,
       "end": 1716.707,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "生活在赤道附近的人皮肤中的黑色素更多，这使得他们的肤色更深。"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 15,
       "start": 1716.707,
       "end": 1717.438,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "远离赤道的人黑色素较少，这使得他们的肤色更浅。"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 26,
       "start": 1717.438,
       "end": 1718.706,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这是因为在光照较少的地区，身体需要产生更多的维生素D，而维生素D是皮肤暴露在阳光下时产生的。"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 19,
       "start": 1718.706,
       "end": 1719.633,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "较浅的肤色能让更多的阳光穿透皮肤，从而帮助身体产生更多的维生素D。"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 7,
       "start": 1719.633,
       "end": 1720.413,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "演讲者的研究领域是什么？"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 12,
       "start": 1720.413,
       "end": 1721.437,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "根据化石记录，人类可能是在什么时候进化出裸露皮肤的？"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 10,
       "start": 1721.437,
       "end": 1721.487,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "关于人类为什么脱掉皮毛，其中一个理论是什么？"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 12,
       "start": 1721.487,
       "end": 1722.364,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "为什么远离赤道的人皮肤较浅？"
     }
   ]
 }

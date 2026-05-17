@@ -78,7 +78,8 @@
       "words": 7,
       "start": 37.54,
       "end": 40.5,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "今晚，我们请到了一位非常特别的嘉宾。"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 18,
       "start": 40.5,
       "end": 48.36,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "安娜·桑切斯女士是三届奥运会冠军，也是新书《走向极限》（To the Edge）的作者。"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 7,
       "start": 48.36,
       "end": 51.34,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "桑切斯女士，感谢您参加我们的节目。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 5,
       "start": 51.34,
       "end": 53.0,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "谢谢你们邀请我。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 5,
       "start": 53.0,
       "end": 54.84,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "让我们从您的书开始谈起吧。"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 8,
       "start": 54.84,
       "end": 57.6,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "书名“走向极限”是什么意思？"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 5,
       "start": 57.6,
       "end": 59.34,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "您指的是什么？"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 19,
       "start": 59.34,
       "end": 65.78,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "这本书是关于科学和技术如何帮助人类突破体能极限的。"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 19,
       "start": 65.78,
       "end": 71.92,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "我认为在过去的20年里，我们拥有了世界上有史以来最出色的运动员。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 6,
       "start": 71.92,
       "end": 74.24,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "但这是一个公平的比较吗？"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 18,
       "start": 74.24,
       "end": 79.74,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "你怎么知道，比如说，50年前的足球运动员与今天的足球运动员相比如何？"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 4,
       "start": 79.74,
       "end": 82.14,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "嗯，你说得对。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 8,
       "start": 82.14,
       "end": 85.68,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "这种比较也许是不可能进行的。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 15,
       "start": 85.68,
       "end": 92.54,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "但重点更多在于我们今天对人体生物化学、营养学和机械学的认识。"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 20,
       "start": 92.54,
       "end": 99.96,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "我相信，虽然我们的身体在几千年来没有变化，但变化的是科学知识。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 14,
       "start": 99.96,
       "end": 104.24,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "这使得运动员能够挑战以前认为可能的极限。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 2,
       "start": 104.24,
       "end": 106.74,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "这很有趣。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 8,
       "start": 106.74,
       "end": 110.34,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "请告诉我们更多关于这些公认极限的信息。"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 41,
       "start": 110.34,
       "end": 123.8,
-      "matchedWords": 40
+      "matchedWords": 40,
+      "translation": "世界正见证着只有在技术辅助下才能打破的体育纪录，无论是网球发球速度，还是百米短跑或200米游泳比赛的最快纪录。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 15,
       "start": 123.8,
       "end": 129.82,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "是否有人担心技术会给某些运动员带来相对于他人的不公平优势？"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 5,
       "start": 129.82,
       "end": 131.86,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "这是一个有趣的问题。"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 9,
       "start": 131.86,
       "end": 135.82,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "这也是一个必须非常谨慎考虑的问题。"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 21,
       "start": 135.82,
       "end": 143.76,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "例如，滑雪板从木制的变成了金属合金的，这使得控制力更好，速度更快。"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 6,
       "start": 143.76,
       "end": 146.48,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "技术进步是无法阻挡的。"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 16,
       "start": 146.48,
       "end": 160.6,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "但是，正如我所说，每种情况都应根据具体情况进行仔细考虑。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 7,
       "start": 160.6,
       "end": 177.7,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "关于安娜·桑切斯，我们了解到了什么？"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 7,
       "start": 177.7,
       "end": 194.88,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "这位女士的书主要关于什么？"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 9,
       "start": 194.88,
       "end": 213.08,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "在过去的几千年里，什么发生了变化？"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 13,
       "start": 213.08,
       "end": 233.26,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "男子对在体育比赛中使用技术的担忧是什么？"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 8,
       "start": 233.26,
       "end": 236.88,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "我一辈子都在从事国际贸易。"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 7,
       "start": 236.88,
       "end": 239.5,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "在我之前，我父亲也是这么做的。"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 11,
       "start": 239.5,
       "end": 242.36,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "所以我想你可以说这是家族传承。"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 6,
       "start": 242.36,
       "end": 244.66,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "你经营过哪些产品？"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 3,
       "start": 244.66,
       "end": 245.58,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "各种各样的都有。"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 14,
       "start": 245.58,
       "end": 253.94,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "这些年来，我进口过纺织品、机械、玩具、太阳能电池板等各种东西。"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 6,
       "start": 253.94,
       "end": 256.02,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "趋势和需求来来去去。"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 12,
       "start": 256.02,
       "end": 260.12,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "所以在这个行业要想成功，必须非常灵活。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 2,
       "start": 260.12,
       "end": 261.18,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "我明白了。"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 6,
       "start": 261.18,
       "end": 263.36,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "你现在在交易什么货物？"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 14,
       "start": 263.36,
       "end": 269.66,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我现在将中国的家具进口到意大利，将意大利的食品进口到中国。"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 6,
       "start": 269.66,
       "end": 271.6,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我甚至使用同一个集装箱。"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 8,
       "start": 271.6,
       "end": 274.84,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "这是一种非常高效的贸易方式。"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 3,
       "start": 274.84,
       "end": 276.38,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "同一个集装箱？"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 9,
       "start": 276.38,
       "end": 279.92,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "你是说你拥有一个40英尺的货运集装箱？"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 3,
       "start": 279.92,
       "end": 281.16,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "是的，没错。"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 11,
       "start": 281.16,
       "end": 285.46,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我在意大利的热那亚有一个仓库，在上海也有一个。"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 11,
       "start": 285.46,
       "end": 290.36,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我从中国不同的工厂采购中世纪现代风格的家具。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 6,
       "start": 290.36,
       "end": 292.64,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "物美价廉。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 17,
       "start": 292.64,
       "end": 298.58,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "我把它们全部收集在我的仓库里，然后运送到我在意大利的另一个仓库。"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 19,
       "start": 298.58,
       "end": 307.16,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "在那边我也这样做，只是用意大利食品代替了家具，比如意大利面、奶酪、葡萄酒、巧克力。"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 20,
       "start": 307.16,
       "end": 313.12,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "然后我用运输家具的同一个货运集装箱把所有这些都运到我在中国的仓库。"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 14,
       "start": 313.12,
       "end": 319.2,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "所以我推测你在各自的国家批发销售这两个系列的产品。"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 2,
       "start": 319.2,
       "end": 320.14,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "当然。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 11,
       "start": 320.14,
       "end": 323.94,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我在两个国家都有客户和合作伙伴网络。"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 11,
       "start": 323.94,
       "end": 326.64,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "这就是从事这一行这么久的优势。"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 7,
       "start": 326.64,
       "end": 330.18,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "随着时间的推移，我建立了很好的商业联系。"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 6,
       "start": 330.18,
       "end": 332.38,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "你运送过多少次货物？"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 19,
       "start": 332.38,
       "end": 339.0,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "去年运了12次，今年18次，我希望明年能增加到25次左右。"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 7,
       "start": 339.0,
       "end": 341.82,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "那是双向的，往返都有。"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 10,
       "start": 341.82,
       "end": 346.12,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "中国对地道意大利食品的需求正在迅速增长。"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 14,
       "start": 346.12,
       "end": 352.5,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "同样，意大利对价格适中但款式时尚的木制家具的销售也在增加。"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 12,
       "start": 352.5,
       "end": 366.72,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "家具的利润略高，主要是因为它享有较低的关税。"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 13,
       "start": 366.72,
       "end": 386.8,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这位女士认为在国际贸易中取得成功需要什么？"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 13,
       "start": 386.8,
       "end": 405.46,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这位女士说她的贸易方式有什么特别之处？"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 10,
       "start": 405.46,
       "end": 423.56,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "这位女士在意大利和中国都有什么？"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 10,
       "start": 423.56,
       "end": 472.06,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "这位女士说是什么让家具的利润略高？"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 34,
       "start": 472.06,
       "end": 486.62,
-      "matchedWords": 34
+      "matchedWords": 34,
+      "translation": "纽约州萨拉托加泉市幽默咨询小组“幽默项目”的创始人乔尔·古德曼说，太多人把工作看成是五天的监狱，每个周五才被假释。"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 31,
       "start": 486.62,
       "end": 500.6,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "田纳西大学诺克斯维尔分校心理学教授霍华德·波利奥认为，幽默打开了办公室的监狱大门，因为它让成年人能够带着一些童心去工作。"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 13,
       "start": 500.6,
       "end": 507.88,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "有幽默小休的办公室，其中的员工满意度高且更有效率。"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 15,
       "start": 507.88,
       "end": 515.4,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "波利奥进行的一项研究证明，幽默可以帮助工人在日常生产任务中表现出色。"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 7,
       "start": 515.4,
       "end": 518.22,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "员工在快乐工作时表现更好。"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 15,
       "start": 518.22,
       "end": 526.62,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "在等级严明的大公司里，压力往往没有排解的渠道。"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 27,
       "start": 526.62,
       "end": 539.1,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "圣路易斯圣玛丽健康中心的职场幽默演讲者林恩·马克说，每家公司都需要一些非正式的方式来调侃公司机构。"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 19,
       "start": 539.1,
       "end": 547.32,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "柯达公司纽约罗切斯特分公司发现了一种方法，让其2万名员工宣泄积压的怨气。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 11,
       "start": 547.32,
       "end": 553.6,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "他们1000平方英尺的“幽默室”里有一个玩具店。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 19,
       "start": 553.6,
       "end": 562.94,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "在房间里的许多减压小玩意中，最吸引人的是一个四肢可拆卸的老板玩偶。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 18,
       "start": 562.94,
       "end": 570.48,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "员工可以把玩偶拆开，只要他们最后把四肢装回去就行。"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 24,
       "start": 570.48,
       "end": 582.84,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "平面印刷生产业务负责人桑迪·科恩创建了“语录板”，用来记录人们在紧迫截止日期压力下说出的奇怪话语。"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 10,
       "start": 582.84,
       "end": 587.36,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "“压力之下，你会说胡话，”科恩说。"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 15,
       "start": 587.36,
       "end": 599.68,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "“现在我们只是互相看看，然后说：这句该上板了。”"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 10,
       "start": 599.68,
       "end": 618.08,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "关于职场幽默，文章说了什么？"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 8,
       "start": 618.08,
       "end": 635.82,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "霍华德·波利奥的研究表明了什么？"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 9,
       "start": 635.82,
       "end": 654.54,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "柯达的员工在幽默室里可以做什么？"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 15,
       "start": 654.54,
       "end": 660.74,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "在肥胖老鼠身上发现变异基因的最新进展引起了公众的关注。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 11,
       "start": 660.74,
       "end": 665.68,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "这一消息是由洛克菲勒大学遗传学家杰弗里·弗里德曼公布的。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 20,
       "start": 665.68,
       "end": 675.38,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "研究人员认为，这种基因会影响一种激素的产生，而这种激素会告诉生物体它有多胖或多饱。"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 28,
       "start": 675.38,
       "end": 686.26,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "那些携带变异基因的人可能感觉不到什么时候吃饱了，或者是否有足够的脂肪组织，因此不知道什么时候该停止进食。"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 16,
       "start": 686.26,
       "end": 692.84,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "研究人员还报告说，在人类身上发现了一种与老鼠肥胖基因几乎相同的基因。"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 13,
       "start": 692.84,
       "end": 698.82,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "然而，这种基因在人体中的运作方式尚未得到证实。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 12,
       "start": 698.82,
       "end": 706.08,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "尽管如此，佛蒙特大学心理学家艾斯特·罗斯·布鲁姆等专业人士反应热烈。"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 28,
       "start": 706.08,
       "end": 716.2,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "这项研究表明，人们天生就有拥有某种体重的倾向，就像他们天生拥有某种肤色或身高一样。"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 25,
       "start": 716.2,
       "end": 728.12,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "实际上，行为遗传学家认为，总体重差异中只有不到一半是由基因决定的，而身高几乎完全由遗传决定。"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 8,
       "start": 728.12,
       "end": 732.2,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "无论基因起什么作用，美国人都在变胖。"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 19,
       "start": 732.2,
       "end": 739.6,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "疾病控制中心的一项调查发现，在过去的10年里，肥胖症大大增加。"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 18,
       "start": 739.6,
       "end": 747.34,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "这种快速的变化强调了环境因素的作用，比如丰富的食物导致美国人过度饮食。"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 22,
       "start": 747.34,
       "end": 757.44,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "疾病控制中心还发现，青少年的体力活动远不如十年前。"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 11,
       "start": 757.44,
       "end": 761.32,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "接受体重是预先决定的，可以减轻超重者的罪恶感。"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 14,
       "start": 761.32,
       "end": 775.18,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "但人们认为自己无法控制体重的想法本身也会导致肥胖。"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 9,
       "start": 775.18,
       "end": 794.16,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "说话人说是什么引起了公众的关注？"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 8,
       "start": 794.16,
       "end": 812.54,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于变异基因，我们了解到了什么？"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 10,
       "start": 812.54,
       "end": 832.46,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "佛蒙特大学心理学家艾斯特·罗斯·布鲁姆说了什么？"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 15,
       "start": 832.46,
       "end": 880.7,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "根据疾病控制中心的调查，美国人肥胖的原因是什么？"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 21,
       "start": 880.7,
       "end": 890.2,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "无论性别，大多数人都会关注关系中的坦诚、同情心和智力启发等品质。"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 15,
       "start": 890.2,
       "end": 897.1,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "但从问卷调查结果来看，这些品质对女性比对男性更重要。"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 15,
       "start": 897.1,
       "end": 904.6,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "当被要求考虑亲密友谊的成分时，女性将这些品质排在首位。"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 29,
       "start": 904.6,
       "end": 920.04,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "男性对这些品质的优先级较低，他们更看重兴趣相似（77%的男性选择）和在危机中的响应（61%的男性选择）。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 17,
       "start": 920.04,
       "end": 928.52,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "智力启发在男性和女性中都排在第3位，这是唯一的重叠领域。"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 10,
       "start": 928.52,
       "end": 934.26,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "在男性中，只有28%的人认为坦诚是重要的品质。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 6,
       "start": 934.26,
       "end": 937.96,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "只有23%的人选择了体贴。"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 19,
       "start": 937.96,
       "end": 944.76,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "从他们的选择中可以明显看出，当女性谈论亲密友谊时，她们指的是情感因素。"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 11,
       "start": 944.76,
       "end": 949.52,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "而男性则强调从朋友的陪伴中获得的乐趣。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 29,
       "start": 949.52,
       "end": 961.5,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "也就是说，当一个男人谈论一个朋友时，他很可能指的是一个和他一起共事的人——一个队友，一个有共同爱好的伙伴，或者一个酒友。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 8,
       "start": 961.5,
       "end": 964.58,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "这些活动构成了友谊的基石。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 14,
       "start": 964.58,
       "end": 971.34,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "这是一段“一起做事”的关系，兴趣相似是关键的纽带。"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 11,
       "start": 971.34,
       "end": 975.3,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "只有不到11%的女性考虑过这一因素。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 11,
       "start": 975.3,
       "end": 983.16,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "女性选择一种温暖的、充满情感的氛围，其中交流自由顺畅。"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 4,
       "start": 983.16,
       "end": 985.96,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "活动仅仅是背景。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 13,
       "start": 985.96,
       "end": 991.92,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "最后，正如我们所见，男性对彼此的忠诚度有严重的疑问。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 21,
       "start": 991.92,
       "end": 1000.78,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "也许这就是为什么他们如此强调危机中的响应——一个我可以向其求助的人。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 22,
       "start": 1000.78,
       "end": 1010.2,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "正如她们的证词所表明的，女性彼此之间通常更有安全感，因此更有可能轻视这个问题。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 23,
       "start": 1010.2,
       "end": 1021.1,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "在随后的访谈中，这一点得到了多次证实，一个又一个女性表示，在需要时出现在身边是理所当然的。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 22,
       "start": 1021.1,
       "end": 1029.08,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "至于友谊的危机，不少关系因为激烈的竞争和被背叛的感觉而破裂。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 9,
       "start": 1029.08,
       "end": 1033.86,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "这在男性和女性身上都有发生，但程度不同。"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 13,
       "start": 1033.86,
       "end": 1039.86,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "相比之下，抱怨这些问题的男性几乎是女性的两倍。"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 32,
       "start": 1039.86,
       "end": 1054.3,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "此外，虽然竞争和背叛是女性友谊的主要障碍，但男性受到另外两个问题困扰的程度几乎相同：缺乏坦诚和害怕显得不像个男人。"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 11,
       "start": 1054.3,
       "end": 1066.92,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "显然，对于一个男人来说，一份好的友谊很难寻觅。"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 13,
       "start": 1066.92,
       "end": 1087.98,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "根据问卷调查结果，男性认为友谊中最重要的品质是什么？"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 10,
       "start": 1087.98,
       "end": 1106.24,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "女性谈论亲密友谊时指的是什么？"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 10,
       "start": 1106.24,
       "end": 1125.96,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "对男性和女性来说，什么可能会威胁到友谊？"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 30,
       "start": 1125.96,
       "end": 1138.3,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "在现在的恐龙国家纪念地（位于犹他州和科罗拉多州），已经发现了20多具恐龙的部分骨架以及约300具恐龙的零散骨骼。"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 24,
       "start": 1138.3,
       "end": 1148.46,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "今天，在美国和加拿大大城市的自然历史博物馆中可以看到许多最好的标本。"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 14,
       "start": 1148.46,
       "end": 1155.4,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "这个恐龙坑是当今已知最大、保存最完好的恐龙沉积矿床。"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 35,
       "start": 1155.4,
       "end": 1169.66,
-      "matchedWords": 35
+      "matchedWords": 35,
+      "translation": "许多人从坑壁上大量的骨头中得出这样的看法：某种灾难，如火山爆发或突发洪水，杀死了该地区的整群恐龙。"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 9,
       "start": 1169.66,
       "end": 1174.1,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "这可能发生过，但可能性不大。"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 16,
       "start": 1174.1,
       "end": 1180.4,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "之所以有不同想法，主要原因是骨骼散乱且沉积层较厚。"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 27,
       "start": 1180.4,
       "end": 1192.26,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "在其他被认为动物成批死亡的沉积矿床中，骨架通常是完整的，而且所有的骨头往往都处于正确的位置。"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 9,
       "start": 1192.26,
       "end": 1195.6,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "这里发现了圆形的化石碎片。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 13,
       "start": 1195.6,
       "end": 1201.52,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这些碎片是通过在河底滚动而获得光滑、圆润的外形的。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 21,
       "start": 1201.52,
       "end": 1207.9,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "在集体死亡中，骨头会被一起留在河底或湖底的同一平面上。"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 16,
       "start": 1207.9,
       "end": 1216.0,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "但在该沉积层中，骨骼分布在约12英尺厚的砂岩区。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 22,
       "start": 1216.0,
       "end": 1226.06,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "沼泽居民和旱地类型的混合也似乎表明沉积层是来自不同地方的混合物。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 14,
       "start": 1226.06,
       "end": 1232.04,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "坑区是一个大型恐龙墓地，而不是它们死亡的地方。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 19,
       "start": 1232.04,
       "end": 1240.72,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "大部分遗骸可能顺着一条向东流的河漂流，直到留在浅滩上。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 14,
       "start": 1240.72,
       "end": 1246.22,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "其中一些可能来自遥远的西方旱地地区。"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 15,
       "start": 1246.22,
       "end": 1252.84,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "也许它们是在试图穿过一条小溪时淹死的，或者在洪水期间被冲走的。"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 17,
       "start": 1252.84,
       "end": 1258.86,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "一些沼泽居民可能恰好被困在那个最终成为它们坟墓的沙洲上。"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 9,
       "start": 1258.86,
       "end": 1264.12,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "其他人可能漂流了数英里才搁浅。"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 25,
       "start": 1264.12,
       "end": 1274.86,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "即使在今天，类似的事件也在发生：当春天洪水来临时，羊、牛和鹿经常被上涨的水困住并淹死。"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 29,
       "start": 1274.86,
       "end": 1286.2,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "它们的尸体顺流而下，直到洪水退去，让它们搁浅在沙洲或岸边，半埋在沙中直到腐烂。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 26,
       "start": 1286.2,
       "end": 1306.06,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "密苏里河早期的旅行者报告说，岸边和沙洲上经常排列着死于春季洪水的野牛腐烂的尸体。"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 13,
       "start": 1306.06,
       "end": 1325.62,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "在北美的哪里可以看到许多最好的恐龙标本？"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 15,
       "start": 1325.62,
       "end": 1345.4,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "当许多人看到坑壁上大量的骨头时，他们会想到什么？"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 16,
       "start": 1345.4,
       "end": 1365.0,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "关于坑中发现的大量恐龙骨骼，说话人暗示了什么？"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 20,
       "start": 1365.0,
       "end": 1373.14,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "我特别想谈谈在我们自己的社会中发展一种新的老龄化模式的必要性。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 23,
       "start": 1373.14,
       "end": 1380.42,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "这个国家的年轻人被指责没有像在故乡那样照顾他们的父母。"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 4,
       "start": 1380.42,
       "end": 1381.92,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "事实确实如此。"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 19,
       "start": 1381.92,
       "end": 1388.78,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "但同样事实是，老年人也受到美国独立的、自主的理想的影响。"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 14,
       "start": 1388.78,
       "end": 1395.92,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "所以我们独自生活，也许濒临饥饿，久而久之没有朋友。"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 4,
       "start": 1395.92,
       "end": 1398.58,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "但我们是独立的。"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 11,
       "start": 1398.58,
       "end": 1403.66,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "这种标准的美国风格被强加给了每一个族群。"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 26,
       "start": 1403.66,
       "end": 1413.68,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "尽管对许多群体来说这种理想并不切实际，但这是一个糟糕的理想，追求它会带来巨大的伤害。"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 11,
       "start": 1413.68,
       "end": 1419.82,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "这种独立的理想也包含着极大的无私。"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 21,
       "start": 1419.82,
       "end": 1426.56,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "在与当今的年轻母亲交谈时，我问过她们，她们认为自己会成为什么样的祖母。"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 21,
       "start": 1426.56,
       "end": 1435.24,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "我听到尽职尽责、充满爱心的母亲说，当她们抚养完孩子后，她们无意成为祖母。"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 29,
       "start": 1435.24,
       "end": 1447.18,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "她们惊讶地听说，在世界上大多数地方，在历史的大部分时间里，家庭都是三四代人同住一个屋檐下。"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 12,
       "start": 1447.18,
       "end": 1453.24,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我们过度强调了小家庭单位——父亲、母亲、小孩。"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 16,
       "start": 1453.24,
       "end": 1459.58,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "如果爷爷奶奶（如果他们还活着的话）能单独生活，我们认为那是极好的。"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 24,
       "start": 1459.58,
       "end": 1466.04,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "我们已经到了认为我们能为孩子做的唯一事情就是不去妨碍他们的地步。"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 20,
       "start": 1466.04,
       "end": 1471.68,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "我们能为儿媳做的唯一事情就是尽可能少见到她。"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 33,
       "start": 1471.68,
       "end": 1483.48,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "老人院，即使是最好的老人院，也住满了相信他们能为孩子做的唯一事情就是在孩子来访时显得开心的老人。"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 17,
       "start": 1483.48,
       "end": 1490.34,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "所以到头来，老年人不得不全身心地投入到不成为负担中。"
     },
     {
       "id": "line-171",
@@ -2130,7 +2301,8 @@
       "words": 18,
       "start": 1490.34,
       "end": 1497.56,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "我们开始看到，我们为强调独立和自主付出了多么巨大的代价。"
     },
     {
       "id": "line-172",
@@ -2142,7 +2314,8 @@
       "words": 13,
       "start": 1497.56,
       "end": 1503.08,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "我们孤立了老人，切断了孩子与祖父母的联系。"
     },
     {
       "id": "line-173",
@@ -2154,7 +2327,8 @@
       "words": 21,
       "start": 1503.08,
       "end": 1510.88,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "今天代沟如此严重的原因之一就是祖父母退出了家庭生活。"
     },
     {
       "id": "line-174",
@@ -2166,7 +2340,8 @@
       "words": 29,
       "start": 1510.88,
       "end": 1530.92,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "年轻人正在被剥夺他们最需要的东西：视角——去了解为什么他们的父母行为如此古怪，以及为什么他们的祖父母会说那些话。"
     },
     {
       "id": "line-175",
@@ -2178,7 +2353,8 @@
       "words": 7,
       "start": 1530.92,
       "end": 1548.7,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "美国年轻人被指责什么？"
     },
     {
       "id": "line-176",
@@ -2190,7 +2366,8 @@
       "words": 12,
       "start": 1548.7,
       "end": 1568.42,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "说话人关于美国的退休老人说了什么？"
     },
     {
       "id": "line-177",
@@ -2202,7 +2379,8 @@
       "words": 11,
       "start": 1568.42,
       "end": 1587.74,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "对说话人采访的年轻母亲来说，什么是令人惊讶的？"
     },
     {
       "id": "line-178",
@@ -2214,7 +2392,8 @@
       "words": 12,
       "start": 1587.74,
       "end": 1611.121,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "说话人说老年人尽最大努力做什么？"
     }
   ]
 }

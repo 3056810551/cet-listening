@@ -78,7 +78,8 @@
       "words": 4,
       "start": 0.0,
       "end": 0.132,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "早上好，安居保险公司。"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 4,
       "start": 0.132,
       "end": 0.264,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我是保罗。"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 6,
       "start": 0.264,
       "end": 0.462,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "今天有什么可以帮您的吗？"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 1,
       "start": 0.462,
       "end": 0.593,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "早上好。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 13,
       "start": 0.593,
       "end": 1.022,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "从我现在的处境来看，我觉得这一丁点儿都不好。"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 23,
       "start": 1.022,
       "end": 1.78,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我是威尔逊小姐。自从收到你们关于我们保险理赔的信后，这是我这周第三次打电话了。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 16,
       "start": 1.78,
       "end": 2.308,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我的理赔电话被完全忽视，我已经有点厌烦了。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 7,
       "start": 2.308,
       "end": 2.538,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "威尔逊小姐，感谢您再次致电。"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 12,
       "start": 2.538,
       "end": 2.934,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我能记录一些细节来帮您查看理赔情况吗？"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 12,
       "start": 2.934,
       "end": 3.33,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我是梅·威尔逊小姐，住在康沃尔郡南海路15号。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 13,
       "start": 3.33,
       "end": 3.758,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "细节是我们的村庄在两个月前遭受了严重的洪灾。"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 23,
       "start": 3.758,
       "end": 4.516,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我们家小屋的整个一楼都被淹了，从那时起我们一家五口就一直住在房车里。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 16,
       "start": 4.516,
       "end": 5.044,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "你们这些人仍然因为一个奇怪的技术细节扣留着我们应得的钱。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 6,
       "start": 5.044,
       "end": 5.242,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这真是不可接受，保罗！"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 32,
       "start": 5.242,
       "end": 6.296,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "威尔逊小姐，根据您账户上的备注，您提到的那个奇怪的技术细节是指您在事故发生前的一个月没有缴纳房屋保险费。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 25,
       "start": 6.296,
       "end": 7.121,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "那笔钱已经从我们的账户里扣除了，现在该你们赔付了，你们却突然说没有按时收到钱。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 7,
       "start": 7.121,
       "end": 7.351,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我对这一说法深表怀疑。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 25,
       "start": 7.351,
       "end": 8.175,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "合同确实规定，一年内任何一次欠费都会影响保险合同的条款和条件，并可能影响理赔。"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 17,
       "start": 8.175,
       "end": 8.736,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "当然，我可以把电话转给我的经理，让他和您进一步谈谈这件事。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 25,
       "start": 8.736,
       "end": 9.56,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我已经和他谈过了，你可以告诉他我现在非常愤怒，你们公司就要吃官司了。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 7,
       "start": 9.56,
       "end": 9.819,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "我的律师会联系你们的。"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 1,
       "start": 9.819,
       "end": 9.967,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "再见。"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 6,
       "start": 9.967,
       "end": 10.521,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这位女士在抱怨什么？"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 9,
       "start": 10.521,
       "end": 11.187,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这位女士的家庭遇到了什么问题？"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 13,
       "start": 11.187,
       "end": 12.0,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "根据男子的说法，是什么导致了所谓的“奇怪的技术细节”？"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 14,
       "start": 12.0,
       "end": 316.6,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "在对话结束时，这位女士说她会做什么？"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 10,
       "start": 316.6,
       "end": 343.295,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "你对人工智能的未来怎么看？"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 7,
       "start": 343.295,
       "end": 361.981,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "就我个人而言，我对此相当乐观。"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 1,
       "start": 361.981,
       "end": 372.659,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "人工智能？"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 6,
       "start": 372.659,
       "end": 388.676,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "事实上，我并没那么乐观。"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 10,
       "start": 388.676,
       "end": 415.371,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "事实上，这是我们应该担心的事情。"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 9,
       "start": 415.371,
       "end": 439.396,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "嗯，它将帮助我们人类更好地了解自己。"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 14,
       "start": 439.396,
       "end": 476.768,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "而且，当我们对自己有了更好的理解，我们就能改善世界。"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 16,
       "start": 476.768,
       "end": 519.48,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "嗯，有一件事是肯定的：技术进化的速度超过了我们的理解能力。"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 11,
       "start": 519.48,
       "end": 605.18,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "在未来，人工智能将使工作变得毫无意义。"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 28,
       "start": 605.18,
       "end": 823.325,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我认为人工智能实际上将有助于创造新型工作，这些工作需要我们投入的时间更少，并能让我们专注于创造性任务。"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 5,
       "start": 823.325,
       "end": 862.28,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我对此深表怀疑。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 12,
       "start": 862.28,
       "end": 872.18,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "可能剩下的最后一份工作将是编写人工智能软件。"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 10,
       "start": 872.18,
       "end": 1008.24,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "最终，人工智能会自己编写软件。"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 36,
       "start": 1008.24,
       "end": 1139.406,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "到那时，我们将会有很多没人愿意做的工作，所以我们需要人工智能让机器人来照顾像我们这样的老家伙。"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 4,
       "start": 1139.406,
       "end": 1153.98,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我不知道。"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 17,
       "start": 1153.98,
       "end": 1215.92,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "人类文明有被一种更高级的数字生命取代的风险。"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 13,
       "start": 1215.92,
       "end": 1247.927,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "人工智能将能够以各种可能的方式完全模拟一个人。"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 12,
       "start": 1247.927,
       "end": 1277.472,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "事实上，有些人认为我们现在就处于模拟之中。"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 3,
       "start": 1277.472,
       "end": 1287.32,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "那不可能。"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 7,
       "start": 1287.32,
       "end": 1306.7,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "人类甚至连一只蚊子都造不出来。"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 4,
       "start": 1306.7,
       "end": 1312.325,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "计算机只有芯片。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 11,
       "start": 1312.325,
       "end": 1327.795,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "人有大脑，那是智慧的源泉。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 15,
       "start": 1327.795,
       "end": 1348.891,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "一旦人工智能发展成熟，它就会厌倦与人类交流。"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 9,
       "start": 1348.891,
       "end": 1361.548,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "因为相比之下，我们的思维速度要慢得多。"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 5,
       "start": 1361.548,
       "end": 1368.58,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我不太确定。"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 12,
       "start": 1368.58,
       "end": 1417.639,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "电脑就是电脑，电脑只是个玩具。"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 16,
       "start": 1417.639,
       "end": 1483.05,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "计算机可以轻松地进行极速交流，所以计算机会对与人类交谈失去耐心。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 8,
       "start": 1483.05,
       "end": 1515.756,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "它几乎无法从人类那里获得任何信息。"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 10,
       "start": 1515.756,
       "end": 1556.638,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "嗯，我相信人工智能会有一个仁慈的未来。"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 10,
       "start": 1556.638,
       "end": 1597.52,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我也觉得你科幻电影看多了。"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 10,
       "start": 1597.52,
       "end": 1598.03,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "从对话中我们了解到了说话者的什么信息？"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 12,
       "start": 1598.03,
       "end": 1598.593,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "根据这位女士的说法，新型工作会是什么样子的？"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 7,
       "start": 1598.593,
       "end": 1599.022,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "男子预见的风险是什么？"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 9,
       "start": 1599.022,
       "end": 1599.505,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "男子对人工智能技术的担忧是什么？"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 22,
       "start": 1599.505,
       "end": 1600.096,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "要实现财务安全，存多少钱总是比赚多少钱或投资多精明更重要。"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 21,
       "start": 1600.096,
       "end": 1600.659,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "如果你未满30岁，你的目标应该是每月税后收入的20%存起来。"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 8,
       "start": 1600.659,
       "end": 1600.874,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这与你赚多少钱无关。"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 12,
       "start": 1600.874,
       "end": 1601.196,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "大约50%应该留作必需品支出，如食物和住宿。"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 8,
       "start": 1601.196,
       "end": 1601.41,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "剩下的30%用于休闲和娱乐。"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 20,
       "start": 1601.41,
       "end": 1601.947,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "但对许多年轻人来说，将收入中如此大的比例用于储蓄是很困难的。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 33,
       "start": 1601.947,
       "end": 1602.832,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "如果你觉得根本存不下钱，先从削减所有不必要的开支开始，拨出1%或2%的一小部分钱用于储蓄，然后逐渐增加这个数额。"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 13,
       "start": 1602.832,
       "end": 1603.181,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "始终牢记20%的目标，以防自己变得自满。"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 11,
       "start": 1603.181,
       "end": 1603.476,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "坚持这样一个严格的计划可能很有挑战性。"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 17,
       "start": 1603.476,
       "end": 1603.932,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "但如果你心态正确，你应该能让它为你发挥作用。"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 13,
       "start": 1603.932,
       "end": 1604.281,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "那么，你应该如何处理你存下来的钱呢？"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 15,
       "start": 1604.281,
       "end": 1604.683,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "必须留出一部分方便取用，以备急需现金的情况。"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 15,
       "start": 1604.683,
       "end": 1605.086,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "最大比例的资金应该投资于退休计划，无论是通过雇主还是私人方式。"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 13,
       "start": 1605.086,
       "end": 1605.434,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "你也可以留一部分钱用于高风险但可能有丰厚回报的投资。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 11,
       "start": 1605.434,
       "end": 1605.73,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "股息可以再投资，或者用来购买你喜欢的东西。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 22,
       "start": 1605.73,
       "end": 1606.32,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "通过遵循这个计划，你希望能够享受当下的生活，同时在未来仍然拥有财务安全。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 12,
       "start": 1606.32,
       "end": 1606.883,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "为了实现财务安全，30岁以下的人被建议做什么？"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 19,
       "start": 1606.883,
       "end": 1607.634,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "如果人们发现很难遵循演讲者关于其财务计划的建议，该怎么办？"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 11,
       "start": 1607.634,
       "end": 1608.171,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "演讲者认为实现财务安全重要的是什么？"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 26,
       "start": 1608.171,
       "end": 1608.868,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我在广告行业工作，我喜欢紧跟潮流，主要是因为我意识到我们生活在一个痴迷于形象的世界里。"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 28,
       "start": 1608.868,
       "end": 1609.62,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "然而，当我刚开始工作时，偶尔会在电梯里瞥见自己，并觉得自己看起来一团糟。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 10,
       "start": 1609.62,
       "end": 1609.888,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我的着装选择是否阻碍了我的发展？"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 20,
       "start": 1609.888,
       "end": 1610.425,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "简短的回答是肯定的，尤其是当客户很快根据你的风格而不是你的工作来评价你时。"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 11,
       "start": 1610.425,
       "end": 1610.72,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "但没有人能每天都穿得独一无二。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 8,
       "start": 1610.72,
       "end": 1610.934,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我的意思是，这就是发明制服的原因。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 6,
       "start": 1610.934,
       "end": 1611.095,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "所以，这就是我所做的。"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 5,
       "start": 1611.095,
       "end": 1611.229,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我创建了自己的制服。"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 8,
       "start": 1611.229,
       "end": 1611.444,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "为此，我选择了一套合适的服装。"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 12,
       "start": 1611.444,
       "end": 1611.766,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "然后我买了多件款式相同但色调不同的单品。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 27,
       "start": 1611.766,
       "end": 1612.49,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "现在，我早上再也不用担心穿什么了，即使我对总是穿同样的经典款式感到有点厌倦。"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 21,
       "start": 1612.49,
       "end": 1613.054,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "总的来说，谈到工作时，你必须问自己：看起来更干练会增强我的工作能力吗？"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 11,
       "start": 1613.054,
       "end": 1613.349,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "对一些人来说，这个问题可能根本不是问题。"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 15,
       "start": 1613.349,
       "end": 1613.751,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "特别是如果你远程工作，很少与同事或客户面对面接触。"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 16,
       "start": 1613.751,
       "end": 1614.181,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "但如果你的工作涉及与他人互动，答案通常是肯定的。"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 21,
       "start": 1614.181,
       "end": 1614.744,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "所以，与其与现行制度抗争，我认为我们应该做任何有助于我们实现工作目标的事情。"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 14,
       "start": 1614.744,
       "end": 1615.12,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "如果这意味着在形象上打安全牌，那我们就面对现实吧。"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 5,
       "start": 1615.12,
       "end": 1615.254,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这可能是值得的。"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 13,
       "start": 1615.254,
       "end": 1615.844,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "关于演讲者刚开始工作时的情况，我们了解到了什么？"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 8,
       "start": 1615.844,
       "end": 1616.3,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "根据演讲者的说法，制服为什么要被发明？"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 8,
       "start": 1616.3,
       "end": 1616.523,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "演讲者关于看起来更干练说了什么？"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 13,
       "start": 1616.523,
       "end": 1616.811,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "在一个痴迷形象的世界里，演讲者建议人们怎么做？"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 18,
       "start": 1616.811,
       "end": 1617.047,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "你知道吗，美国人拥有的空间大约是50年前的三倍？"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 12,
       "start": 1617.047,
       "end": 1617.204,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "因此，你会认为我们有足够的空间存放我们所有的财产。"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 12,
       "start": 1617.204,
       "end": 1617.361,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "相反，个人仓储业务现在是一个不断增长的行业。"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 16,
       "start": 1617.361,
       "end": 1617.57,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我们的空间增加了三倍，但我们成了如此热衷的消费者，以至于我们需要更多的空间。"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 28,
       "start": 1617.57,
       "end": 1617.937,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这种现象导致了巨额信用卡债务、巨大的环境足迹，而且也许并非巧合，在这半个世纪里，我们的幸福感并未提升。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 15,
       "start": 1617.937,
       "end": 1618.134,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我在这里是想建议另一种选择——拥有更少的东西实际上可能是一个更好的决定。"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 13,
       "start": 1618.134,
       "end": 1618.304,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我们中的许多人在某个阶段都经历过拥有更少东西的快乐。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 19,
       "start": 1618.304,
       "end": 1618.553,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我建议，更少的物品和更小的空间不仅可以帮助你节约，还可以简化你的生活。"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 17,
       "start": 1618.553,
       "end": 1618.775,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我最近开始了一个创新项目，以寻找一些能提供我所需一切的创意解决方案。"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 17,
       "start": 1618.775,
       "end": 1618.998,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "通过购买一套40平方米而不是60平方米的公寓，我确实节省了20万美元。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 13,
       "start": 1618.998,
       "end": 1619.168,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "更小的空间意味着更少的水电费支出，以及更小的碳足迹。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 21,
       "start": 1619.168,
       "end": 1619.443,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "因为它围绕着精选的财物而设计，仅限于我最喜欢的东西，所以我真的很兴奋能住在那里。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 6,
       "start": 1619.443,
       "end": 1619.522,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我们如何能生活得更简约？"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 12,
       "start": 1619.522,
       "end": 1619.679,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "首先，我们必须无情地将生活中不必要的物品剔除。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 18,
       "start": 1619.679,
       "end": 1619.915,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "为了遏制消费，我们应该在购买前思考，问问自己：“它真的会让我更快乐吗？”"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 18,
       "start": 1619.915,
       "end": 1620.15,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "显然，我们应该拥有一些好东西，但我们想要的是能让我们喜爱多年的财物。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 5,
       "start": 1620.15,
       "end": 1620.216,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "其次，我们需要空间效率。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 16,
       "start": 1620.216,
       "end": 1620.426,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我们想要的电器是设计用于大部分时间的，而不是偶尔使用的。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 13,
       "start": 1620.426,
       "end": 1620.596,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "当你很少使用三个燃烧器时，为什么要拥有一个六头炉灶？"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 7,
       "start": 1620.596,
       "end": 1620.687,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "最后，我们需要多功能空间和家居用品。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 16,
       "start": 1620.687,
       "end": 1620.897,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我将活动墙与多功能家具结合在一起，以充分利用我有限的空间。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 4,
       "start": 1620.897,
       "end": 1620.949,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "看看我的咖啡桌。"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 7,
       "start": 1620.949,
       "end": 1621.041,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "它可以变大以容纳十个人。"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 7,
       "start": 1621.041,
       "end": 1621.133,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我的办公室是收纳式的，很容易藏起来。"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 8,
       "start": 1621.133,
       "end": 1621.238,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我的床直接从墙里弹出来。"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 16,
       "start": 1621.238,
       "end": 1621.447,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "对于客人，我可以移动活动墙，并使用我安装的可折叠客床。"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 19,
       "start": 1621.447,
       "end": 1621.696,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我不是说我们都应该住在更小的公寓里，而是考虑一下精简生活的益处。"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 24,
       "start": 1621.696,
       "end": 1622.01,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "当你回到家穿过正门时，花点时间问问自己：“我也能进行一点生活精简吗？"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 9,
       "start": 1622.01,
       "end": 1622.128,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这会给我带来更多的自由和时间吗？”"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 8,
       "start": 1622.128,
       "end": 1622.351,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "是什么阻碍了美国人幸福感的提升？"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 9,
       "start": 1622.351,
       "end": 1622.587,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "根据演讲者的说法，我们应该拥有什么样的东西？"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 11,
       "start": 1622.587,
       "end": 1622.848,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "关于演讲者家中的物品，我们了解到了什么？"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 24,
       "start": 1622.848,
       "end": 1623.163,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "现在，信不信由你，人们有时为了维持良好、诚实的声誉而撒谎——即使这样做会伤害到他们。"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 16,
       "start": 1623.163,
       "end": 1623.372,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "至少，这是一个科学家团队提出的建议，并有证据证明这一点。"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 19,
       "start": 1623.372,
       "end": 1623.621,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "设想这样一个场景：你经常开车工作，每月最多可以获得400英里的补偿。"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 11,
       "start": 1623.621,
       "end": 1623.765,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "你公司的大多数人每月开车约300英里。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 7,
       "start": 1623.765,
       "end": 1623.857,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "但这个月，你开了400英里。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 12,
       "start": 1623.857,
       "end": 1624.014,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "你认为在报销单上你会报多少英里？"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 15,
       "start": 1624.014,
       "end": 1624.211,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "作为我们今天讨论的研究的一部分，科学家们提出了正是这个问题。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 27,
       "start": 1624.211,
       "end": 1624.564,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "令人惊讶的是，他们发现12%的受访者报告的行驶距离少于实际数字，平均答案为384英里。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 19,
       "start": 1624.564,
       "end": 1624.813,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "换句话说，他们在英里数上撒了谎，尽管他们会因此损失应得的钱。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 22,
       "start": 1624.813,
       "end": 1625.101,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "研究人员认为这样做是为了显得诚实，前提是假设别人会对高额的报销申请产生怀疑。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 10,
       "start": 1625.101,
       "end": 1625.232,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "但为什么人们会捏造数字而损害自己的利益呢？"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 21,
       "start": 1625.232,
       "end": 1625.507,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "研究人员解释说，许多人非常在意自己的名声以及他人对自己的评价。"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 26,
       "start": 1625.507,
       "end": 1625.848,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "如果他们足够在意，那么他们对显得诚实和不失去他人尊重的担忧可能大于他们对真正诚实的渴望。"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 35,
       "start": 1625.848,
       "end": 1626.306,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "研究人员断言，他们的发现表明，当人们获得非常有利的结果时，他们会预料到他人的怀疑反应，并宁愿撒谎以显得诚实，也不愿说实话而显得像个自私的骗子。"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 6,
       "start": 1626.306,
       "end": 1626.385,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "那么，这项研究为什么重要呢？"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 21,
       "start": 1626.385,
       "end": 1626.66,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "嗯，专家们普遍认为谎言主要有两种：自私的谎言和旨在造福他人的谎言。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 47,
       "start": 1626.66,
       "end": 1627.275,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "第一种，正如你可能预料到的，是为了个人利益，例如向保险公司提交虚假理赔；而第二种则是为了帮助他人或不冒犯他人而撒谎，例如告诉一个你并不喜欢其着装的朋友，她看起来很棒。"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 16,
       "start": 1627.275,
       "end": 1627.485,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "但研究人员提出了第三种撒谎类型：为了维持良好声誉而撒谎。"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 19,
       "start": 1627.485,
       "end": 1627.734,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "现在这个假设是全新的，一些怀疑论者认为这并不是一个全新的谎言类别。"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 6,
       "start": 1627.734,
       "end": 1627.812,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "在我看来，这些发现很直观。"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 31,
       "start": 1627.812,
       "end": 1628.218,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "毕竟，撒谎的主要动机之一是增加我们在他人眼中的价值，所以人们为了显得诚实而撒谎似乎很有可能。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 10,
       "start": 1628.218,
       "end": 1628.467,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "科学家团队在他们的研究中发现了什么？"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 13,
       "start": 1628.467,
       "end": 1628.755,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "根据研究人员的说法，为什么人们会捏造数字而损害自己的利益？"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 9,
       "start": 1628.755,
       "end": 1628.991,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "说话者如何看待研究人员的发现？"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 7,
       "start": 1628.991,
       "end": 1629.083,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "为什么老年人不喜欢新音乐？"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 25,
       "start": 1629.083,
       "end": 1629.41,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "随着年龄的增长，我经常听到同龄人说这样的话：“现在的音乐不像以前做得那么好了。”"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 4,
       "start": 1629.41,
       "end": 1629.462,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "为什么会这样？"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 10,
       "start": 1629.462,
       "end": 1629.593,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "幸运的是，心理学可以为这个谜团提供一些见解。"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 12,
       "start": 1629.593,
       "end": 1629.75,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "音乐品味早在13或14岁就开始成形了。"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 17,
       "start": 1629.75,
       "end": 1629.973,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "到我们20岁出头的时候，这些品味就基本定型了。"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 21,
       "start": 1629.973,
       "end": 1630.248,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "事实上，研究发现，到我们33岁的时候，大多数人已经停止听新音乐了。"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 27,
       "start": 1630.248,
       "end": 1630.602,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "与此同时，在你十几岁出头时发行的流行歌曲，在你的余生中可能在你的同龄人中依然很受欢迎。"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 30,
       "start": 1630.602,
       "end": 1630.995,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "对此可能有一种生物学解释，因为有证据表明，大脑分辨不同和弦、节奏和旋律之间细微差别的能力会随着年龄的增长而退化。"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 13,
       "start": 1630.995,
       "end": 1631.165,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "所以对于老年人来说，较新的、不太熟悉的歌曲听起来可能都“一样”。"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 1,
       "start": 1631.165,
       "end": 1631.217,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "”"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 15,
       "start": 1631.217,
       "end": 1631.414,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "但也可能有一些简单的原因可以解释老年人对新音乐的反感。"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 35,
       "start": 1631.414,
       "end": 1631.872,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "社会心理学研究最多的规律之一是所谓的“多看效应”，本质上是指我们接触某样东西越多，就越倾向于喜欢它。"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 16,
       "start": 1631.872,
       "end": 1632.082,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这种情况发生在我们认识的人、看到的广告和听到的歌曲上。"
     },
     {
       "id": "line-171",
@@ -2130,7 +2301,8 @@
       "words": 22,
       "start": 1632.082,
       "end": 1632.37,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "当你十几岁出头的时候，你可能会花相当多的时间听音乐或看音乐录影带。"
     },
     {
       "id": "line-172",
@@ -2142,7 +2314,8 @@
       "words": 12,
       "start": 1632.37,
       "end": 1632.527,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "你最喜欢的歌曲和艺术家变成了你日常生活中熟悉的、令人宽慰的一部分。"
     },
     {
       "id": "line-173",
@@ -2154,7 +2327,8 @@
       "words": 20,
       "start": 1632.527,
       "end": 1632.789,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "对于许多30岁以上的人来说，工作和家庭责任增加了，因此发现新音乐的时间就少了。"
     },
     {
       "id": "line-174",
@@ -2166,7 +2340,8 @@
       "words": 21,
       "start": 1632.789,
       "end": 1633.064,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "相反，许多人只是听他们生命中那个拥有更多闲暇时光时期的熟悉的旧曲。"
     },
     {
       "id": "line-175",
@@ -2178,7 +2353,8 @@
       "words": 9,
       "start": 1633.064,
       "end": 1633.182,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "当然，那些青少年时期并不一定无忧无虑。"
     },
     {
       "id": "line-176",
@@ -2190,7 +2366,8 @@
       "words": 18,
       "start": 1633.182,
       "end": 1633.418,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "它们是出了名的令人困惑，这就是为什么这么多电视剧和电影都围绕着高中的混乱生活展开。"
     },
     {
       "id": "line-177",
@@ -2202,7 +2379,8 @@
       "words": 20,
       "start": 1633.418,
       "end": 1633.68,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "心理学研究表明，我们在青少年时期经历的情感似乎比后来的情感更强烈。"
     },
     {
       "id": "line-178",
@@ -2214,7 +2392,8 @@
       "words": 14,
       "start": 1633.68,
       "end": 1633.863,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我们也知道，强烈的情感与更强的记忆和偏好有关。"
     },
     {
       "id": "line-179",
@@ -2226,7 +2405,8 @@
       "words": 19,
       "start": 1633.863,
       "end": 1634.112,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这两点都可以解释为什么我们在此期间听的歌曲变得如此令人难忘和深受喜爱。"
     },
     {
       "id": "line-180",
@@ -2238,7 +2418,8 @@
       "words": 15,
       "start": 1634.112,
       "end": 1634.308,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "所以，你父母不喜欢你的音乐并没什么错。"
     },
     {
       "id": "line-181",
@@ -2250,7 +2431,8 @@
       "words": 11,
       "start": 1634.308,
       "end": 1634.452,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "相反，这都是自然规律的一部分。"
     },
     {
       "id": "line-182",
@@ -2262,7 +2444,8 @@
       "words": 9,
       "start": 1634.452,
       "end": 1634.688,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "演讲者在这次演讲中主要讨论了什么？"
     },
     {
       "id": "line-183",
@@ -2274,7 +2457,8 @@
       "words": 13,
       "start": 1634.688,
       "end": 1634.976,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "研究发现大多数人到33岁时的情况是什么？"
     },
     {
       "id": "line-184",
@@ -2286,7 +2470,8 @@
       "words": 14,
       "start": 1634.976,
       "end": 1635.277,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "从社会心理学研究最多的规律之一中我们了解到了什么？"
     },
     {
       "id": "line-185",
@@ -2298,7 +2483,8 @@
       "words": 18,
       "start": 1635.277,
       "end": 1635.327,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "什么可以解释人们在青少年时期听的歌曲令人难忘且深受喜爱这一事实？"
     },
     {
       "id": "line-186",
@@ -2310,7 +2496,8 @@
       "words": 1,
       "start": 1635.327,
       "end": 1635.631,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "---"
     }
   ]
 }

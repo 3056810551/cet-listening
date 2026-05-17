@@ -78,7 +78,8 @@
       "words": 5,
       "start": 36.12,
       "end": 38.4,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "欢迎来到读书俱乐部。"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 22,
       "start": 38.4,
       "end": 47.62,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "今天的嘉宾是苏珊·莱恩，她的一本关于个人理财的新书已经售出了50万册。"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 7,
       "start": 47.62,
       "end": 51.54,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "你好，苏珊，你的书非常成功。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 6,
       "start": 51.54,
       "end": 52.66,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "你认为这是为什么呢？"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 15,
       "start": 52.66,
       "end": 59.78,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "我认为是因为我的理念，即把幸福置于金钱之上。"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 25,
       "start": 59.78,
       "end": 69.88,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "我们这一代人中有很多人花了数十年的时间试图赚更多的钱，只是为了消费更多，但这让我们更加痛苦。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 24,
       "start": 69.88,
       "end": 79.2,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "你自己也曾陷入那个循环，做了20年的高管，拿着高薪，却依然债台高筑。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 4,
       "start": 79.2,
       "end": 81.36,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "确实如此。"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 23,
       "start": 81.36,
       "end": 90.04,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "我曾赚过几百万美元，但四年前我辞职成为作家时，我欠了3万多美元的债。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 7,
       "start": 90.04,
       "end": 92.6,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "那么你是如何摆脱这种模式的呢？"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 9,
       "start": 92.6,
       "end": 95.28,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "你会建议其他人怎么做？"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 8,
       "start": 95.28,
       "end": 98.12,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "第一个改变在于我们的价值观。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 18,
       "start": 98.12,
       "end": 106.34,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "我们需要强调那些真正让我们快乐的事情，比如人际关系、环境甚至是我们的爱好。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 18,
       "start": 106.34,
       "end": 113.44,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "一旦我们将正确的事情作为首要任务，我们的目标就会改变，我们的财务行为也会随之改变。"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 7,
       "start": 113.44,
       "end": 116.88,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "这如何转化为实际行动呢？"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 15,
       "start": 116.88,
       "end": 121.8,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "你能给我们的观众举一些日常生活中你所说的例子吗？"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 11,
       "start": 121.8,
       "end": 127.66,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "行动的主要领域通常是住房、食物和交通。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 32,
       "start": 127.66,
       "end": 139.5,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "例如，人们可以和朋友合租，而不是独自居住；从家里带午餐，而不是去餐厅吃；使用公共交通工具，而不是拥有一辆私家车。"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 5,
       "start": 139.5,
       "end": 142.18,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "听起来像是很大的牺牲。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 6,
       "start": 142.18,
       "end": 144.34,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我永远无法忍受合租。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 5,
       "start": 144.34,
       "end": 146.3,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "我需要自己的空间。"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 4,
       "start": 146.3,
       "end": 148.28,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "但这些并不是牺牲。"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 8,
       "start": 148.28,
       "end": 151.8,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "当人们改变价值观时，他们的欲望也会随之改变。"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 31,
       "start": 151.8,
       "end": 163.58,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "以住房为例，如果我们重视人际关系，合租就不是剥夺我们的空间，而是给了我们一个与亲人共度更多时间的机会。"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 3,
       "start": 163.58,
       "end": 172.18,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "确实如此。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 9,
       "start": 172.18,
       "end": 189.98,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "这位女性在她的书中传达了什么信息？"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 12,
       "start": 189.98,
       "end": 208.0,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "关于这位女性在成为作家之前的经历，我们了解到了什么？"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 9,
       "start": 208.0,
       "end": 226.02,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "关于一个人的财务行为，这位女性说了什么？"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 9,
       "start": 226.02,
       "end": 244.08,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "关于合租，这位男性说了什么？"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 9,
       "start": 244.08,
       "end": 247.5,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "谢谢你邀请我来画廊，克里斯托弗。"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 9,
       "start": 247.5,
       "end": 251.62,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "自从你前任的退休会后，我就没来过这里。"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 13,
       "start": 251.62,
       "end": 255.82,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "凯瑟琳，你想先看看我们收藏的新藏品吗？"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 7,
       "start": 255.82,
       "end": 258.86,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "那是丹尼尔·格雷戈里的风景画吗？"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 5,
       "start": 258.86,
       "end": 261.78,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "我非常喜欢她的作品。"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 17,
       "start": 261.78,
       "end": 267.24,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "第一件作品是艺术家本人赠送给画廊的礼物，非常精美。"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 8,
       "start": 267.24,
       "end": 271.04,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "我喜欢她描绘荒凉景观的方式。"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 6,
       "start": 271.04,
       "end": 274.18,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "色彩搭配得非常完美。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 8,
       "start": 274.18,
       "end": 277.24,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "你能从画中感受到那种荒凉感。"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 12,
       "start": 277.24,
       "end": 281.7,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这件作品的灵感来自格雷戈里最近在戈壁沙漠的徒步旅行。"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 10,
       "start": 281.7,
       "end": 285.14,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "那你又是如何得到她那边的另一件作品的呢？"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 17,
       "start": 285.14,
       "end": 291.88,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "那是一位匿名收藏家在拍卖会上购买的，他将其借给画廊展出。"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 9,
       "start": 291.88,
       "end": 295.52,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "这幅构图是她最著名的画作之一。"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 12,
       "start": 295.52,
       "end": 299.78,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "买下这幅画肯定花了那位收藏家不少钱。"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 13,
       "start": 299.78,
       "end": 305.36,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "显然，我不能透露他支付的确切金额，但数额巨大。"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 7,
       "start": 305.36,
       "end": 308.16,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "这幅画的细节太丰富了。"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 11,
       "start": 308.16,
       "end": 311.4,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我觉得我真的可以沉浸在场景之中。"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 15,
       "start": 311.4,
       "end": 316.76,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "我特别喜欢湖中大山倒影所形成的对称感。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 13,
       "start": 316.76,
       "end": 321.22,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这件作品曾获得门户奖提名。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 12,
       "start": 321.22,
       "end": 326.9,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "我有幸作为格雷戈里的客人参加了颁奖典礼。"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 5,
       "start": 326.9,
       "end": 328.68,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "这么说你认识她本人。"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 6,
       "start": 328.68,
       "end": 331.46,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我想她一定是个古怪的艺术家。"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 3,
       "start": 331.46,
       "end": 332.44,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "恰恰相反。"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 7,
       "start": 332.44,
       "end": 335.68,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "事实上，她一点也不古怪。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 14,
       "start": 335.68,
       "end": 340.16,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "我会说她是我认识的最随和、最聪明的人之一。"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 8,
       "start": 340.16,
       "end": 342.18,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "我很想能见到她。"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 9,
       "start": 342.18,
       "end": 344.8,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "我有太多的问题想问她。"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 3,
       "start": 344.8,
       "end": 346.24,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "真巧！"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 6,
       "start": 346.24,
       "end": 348.6,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我今晚要和她共进晚餐。"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 6,
       "start": 348.6,
       "end": 349.54,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "你想一起来吗？"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 3,
       "start": 349.54,
       "end": 350.88,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "我很乐意。"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 2,
       "start": 350.88,
       "end": 358.98,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "谢谢。"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 14,
       "start": 358.98,
       "end": 378.68,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "关于画廊的新藏品之一，我们了解到了什么？"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 15,
       "start": 378.68,
       "end": 398.58,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "关于丹尼尔·格雷戈里最著名的画作之一，这位男性说了什么？"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 15,
       "start": 398.58,
       "end": 416.78,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "这位女性为什么说她能沉浸在画作的场景中？"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 7,
       "start": 416.78,
       "end": 462.66,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "这位男性如何描述丹尼尔·格雷戈里？"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 8,
       "start": 462.66,
       "end": 466.5,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "宽恕是放下怨恨或愤怒。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 4,
       "start": 466.5,
       "end": 469.4,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "宽恕并不意味着和解。"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 22,
       "start": 469.4,
       "end": 477.32,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "我们不必回到原有的关系中，也不必接受来自冒犯者的同样伤害行为。"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 11,
       "start": 477.32,
       "end": 482.4,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "宽恕对于某些受害者的心理健康至关重要。"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 15,
       "start": 482.4,
       "end": 490.02,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "它推动人们前进，而不是让他们在情感上纠缠于不公或创伤中。"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 15,
       "start": 490.02,
       "end": 495.96,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "带着被冒犯的伤害或愤怒，会导致身体释放压力化学物质。"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 16,
       "start": 495.96,
       "end": 503.12,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "消除这些化学物质的持续流动，也可能解释了为什么宽恕对身体健康有益。"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 11,
       "start": 503.12,
       "end": 508.8,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "在某些情况下，宽恕并不是最好的选择。"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 14,
       "start": 508.8,
       "end": 514.7,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "有时，当受害者允许自己不宽恕时，他们会变得更有力量。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 4,
       "start": 514.7,
       "end": 516.84,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "宽恕可能具有挑战性。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 20,
       "start": 516.84,
       "end": 525.98,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "当冒犯方提供的道歉不真诚，或者根本没有道歉时，情况尤其如此。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 7,
       "start": 525.98,
       "end": 530.52,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "然而，这通常是向前迈进的最健康路径。"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 33,
       "start": 530.52,
       "end": 545.14,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "培养宽恕很重要，可以通过对冒犯者产生同情心来实现，反思该行为是出于恶意还是由冒犯者生活中具有挑战性的环境造成的。"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 4,
       "start": 545.14,
       "end": 547.92,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "那么宽恕我们自己呢？"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 21,
       "start": 547.92,
       "end": 555.9,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "我们有时需要为错误承担责任，但从长远来看，强烈的内疚和羞耻并不是一个理想的结果。"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 8,
       "start": 555.9,
       "end": 560.7,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "宽恕自己似乎是一个模糊的过程。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 10,
       "start": 560.7,
       "end": 564.74,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "你可以从承认自己的错误开始。"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 14,
       "start": 564.74,
       "end": 571.34,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "为造成的伤害承担责任，然后反思事件发生的原因。"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 16,
       "start": 571.34,
       "end": 584.02,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "吸取教训，并努力在未来避免犯类似的错误。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 7,
       "start": 584.02,
       "end": 601.4,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "关于宽恕，这篇文章说了什么？"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 5,
       "start": 601.4,
       "end": 618.8,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "宽恕在什么时候尤其具有挑战性？"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 10,
       "start": 618.8,
       "end": 636.86,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "为了宽恕冒犯者，一个人应该做什么？"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 12,
       "start": 636.86,
       "end": 643.02,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "格拉斯哥地铁最初于1896年作为缆索牵引系统开放。"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 14,
       "start": 643.02,
       "end": 649.54,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "它被公认为继伦敦和布达佩斯之后世界第三长的地下铁路。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 20,
       "start": 649.54,
       "end": 658.28,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "在漫长的历史中，它从未扩建，一直作为单一的环线运行，仅有15个站。"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 15,
       "start": 658.28,
       "end": 663.9,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "在鼎盛时期，它主要服务于城市南侧的造船厂工人。"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 18,
       "start": 663.9,
       "end": 671.94,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "20世纪60年代，造船业出现衰退，私家车交通的普及率增长。"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 11,
       "start": 671.94,
       "end": 677.08,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "结果，地铁的乘客量迅速下降。"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 18,
       "start": 677.08,
       "end": 687.42,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "它几乎没有进一步的变化，直到1977年，由于重大的现代化投资，新的运营商将其关闭。"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 25,
       "start": 687.42,
       "end": 699.98,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "车厢被更换，通风设施得到改善，主车库也进行了翻新，并安装了连接轨道以取代过时的起重机转移机制。"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 12,
       "start": 699.98,
       "end": 706.24,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "目前形式的地铁于1980年4月重新开放运营。"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 12,
       "start": 706.24,
       "end": 711.98,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "自重新推出以来，地铁的命运出现了复苏。"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 25,
       "start": 711.98,
       "end": 721.16,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "它作为其他交通形式的可行替代方案，在缓解市中心交通拥堵方面发挥了很大作用。"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 10,
       "start": 721.16,
       "end": 727.46,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "1996年，该系统达到了一个重要的里程碑——100周年。"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 14,
       "start": 727.46,
       "end": 733.24,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "为了纪念这一特殊事件，火车车厢的配色方案进行了更新。"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 18,
       "start": 733.24,
       "end": 743.38,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "最近，所有地铁站都使用了高科技系统，如智能卡售票机和智能闸机。"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 23,
       "start": 743.38,
       "end": 753.06,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "智能卡提供了更方便的出行，乘客只需充值并在进出地铁时刷卡即可。"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 15,
       "start": 753.06,
       "end": 767.9,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "自推出以来，这项技术已被超过10万名地铁客户采用。"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 12,
       "start": 767.9,
       "end": 787.02,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "关于20世纪60年代的格拉斯哥地铁，这篇文章说了什么？"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 8,
       "start": 787.02,
       "end": 805.7,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "格拉斯哥地铁为什么在1977年关闭？"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 10,
       "start": 805.7,
       "end": 822.78,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "格拉斯哥地铁给城市带来了什么好处？"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 11,
       "start": 822.78,
       "end": 877.78,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于现在的格拉斯哥地铁站，这篇文章说了什么？"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 15,
       "start": 877.78,
       "end": 880.027,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "除了非洲、澳大利亚和南极洲外，世界大部分地区都有熊的身影。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 17,
       "start": 880.027,
       "end": 882.573,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "它们是体型巨大、力量强壮的动物，大多数种类是杂食动物，这意味着它们既吃植物也吃动物。"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 15,
       "start": 882.573,
       "end": 884.819,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "近年来，关于熊与人类接触的报告越来越多。"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 18,
       "start": 884.819,
       "end": 887.515,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这是因为人口正在向熊的栖息地扩张，而熊正在失去其天然食物来源。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 22,
       "start": 887.515,
       "end": 890.81,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "结果，熊变得越来越大胆，经常可以看到它们在垃圾箱和垃圾堆中翻找食物。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 19,
       "start": 890.81,
       "end": 893.656,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "熊通常对人类没有攻击性，大多数袭击发生在熊感到意外或受到威胁时。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 17,
       "start": 893.656,
       "end": 896.202,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "然而，重要的是要记住熊是野生动物，如果被激怒，它们可能会很危险。"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 21,
       "start": 896.202,
       "end": 899.348,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "如果你在野外遇到熊，最好的做法是保持冷静并缓慢退后。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 11,
       "start": 899.348,
       "end": 900.995,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "不要跑，因为这可能会触发熊的捕食本能。"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 15,
       "start": 900.995,
       "end": 903.242,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "如果熊冲向你，保持原地不动，如果有防熊喷雾就使用它。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 8,
       "start": 903.242,
       "end": 904.44,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "在某些地区，严禁喂熊。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 21,
       "start": 904.44,
       "end": 966.08,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "这是因为喂熊会让它们失去对人类的天然恐惧，它们可能会变得依赖人类的食物。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 21,
       "start": 966.08,
       "end": 1027.72,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这可能导致熊与人类之间更频繁地接触，对熊本身也可能很危险。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 22,
       "start": 1027.72,
       "end": 1034.99,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "如果你住在熊常见的地区，采取预防措施以避免将熊吸引到你家是很重要的。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 22,
       "start": 1034.99,
       "end": 1042.26,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这包括保持垃圾箱紧闭，不把宠物食物留在外面，以及移除任何可能吸引熊的喂鸟器。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 10,
       "start": 1042.26,
       "end": 1061.7,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "说话者关于近年来的熊说了什么？"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 11,
       "start": 1061.7,
       "end": 1079.232,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "说话者关于某些地区喂熊的行为说了什么？"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 18,
       "start": 1079.232,
       "end": 1102.9,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "对于住在熊常见地区的人们，说话者有什么建议？"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 17,
       "start": 1102.9,
       "end": 1109.96,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "为什么我们在并不真正了解某人或某事的情况下，就会对其产生看法或态度呢？"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 23,
       "start": 1109.96,
       "end": 1126.02,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "仅仅听到关于一个人、一个地方或一件事的好坏，就可能在不知不觉中影响我们的看法。"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 14,
       "start": 1126.02,
       "end": 1137.6,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "在真正了解某人或某事之前就对其产生看法，这被称为偏见。"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 5,
       "start": 1137.6,
       "end": 1143.283,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "偏见意味着“预先判断”某事。"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 13,
       "start": 1143.283,
       "end": 1158.06,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这意味着在掌握所有事实之前就对某事做出判断。"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 12,
       "start": 1158.06,
       "end": 1165.12,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "偏见态度通常基于神话、半真半假的事实或错误的信息。"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 18,
       "start": 1165.12,
       "end": 1171.4,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这是危险的，因为它们会阻碍我们了解关于某人或某事的真相。"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 20,
       "start": 1171.4,
       "end": 1176.372,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "它们还可能导致歧视，即由于种族、宗教、性别或其他特征而对人们不公平。歧视就是不公平地对待他人。"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 15,
       "start": 1176.372,
       "end": 1180.102,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "偏见存在于所有社会中，并且会影响所有年龄段的人。"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 21,
       "start": 1180.102,
       "end": 1185.323,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "它可以代代相传，并可能因媒体和同龄人的影响而得到强化。"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 9,
       "start": 1185.323,
       "end": 1187.561,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "那么我们什么时候开始产生偏见态度的呢？"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 16,
       "start": 1187.561,
       "end": 1191.539,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "研究表明，三岁大的孩子就可以开始产生偏见。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 17,
       "start": 1191.539,
       "end": 1195.765,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这是因为他们受到父母和周围其他成年人态度的影响。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 11,
       "start": 1195.765,
       "end": 1198.5,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "随着我们长大，我们的偏见会变得更加根深蒂固。"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 15,
       "start": 1198.5,
       "end": 1199.368,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我们可能会开始认为自己的群体或文化优于他人。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 4,
       "start": 1199.368,
       "end": 1199.6,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这被称为民族中心主义（或种族优越感）。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 24,
       "start": 1199.6,
       "end": 1287.24,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "当我们对自己群体的自豪感转变为优越感时，我们就开始产生偏见态度，这可能对他人有害。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 7,
       "start": 1287.24,
       "end": 1304.46,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "关于偏见，说话者说了什么？"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 9,
       "start": 1304.46,
       "end": 1323.18,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "说话者为什么说偏见态度是危险的？"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 11,
       "start": 1323.18,
       "end": 1342.96,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "说话者说我们什么时候开始产生偏见态度？"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 9,
       "start": 1342.96,
       "end": 1346.24,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "当我开始读高中时，那简直是一个打击。"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 20,
       "start": 1346.24,
       "end": 1351.9,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "我花了八年的时间，努力让自己成为这所天主教学校学生中最受欢迎的孩子。"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 29,
       "start": 1351.9,
       "end": 1364.2,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "我原本是一个高大强壮的八年级学生，突然间我就成了一个卑微的九年级学生，被那些管理高中的高大强壮的12年级毕业生欺负。"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 27,
       "start": 1364.2,
       "end": 1374.36,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "那时我意识到，为某事而奋斗是好事，但你也必须享受当下的时刻，并在所处的位置感到快乐。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 12,
       "start": 1374.36,
       "end": 1377.56,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "摇滚乐一直是我生活中重要的一部分。"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 26,
       "start": 1377.56,
       "end": 1386.84,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "我记得我和朋友们以前经常开车兜风直到深夜，听着摇滚传奇人物的音乐。"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 14,
       "start": 1386.84,
       "end": 1392.92,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "在那些青少年时期，我建立了我觉得会持续一辈子的友谊。"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 12,
       "start": 1392.92,
       "end": 1398.88,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "大多数那个年纪的人都这么想，但人们会渐行渐远。"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 10,
       "start": 1398.88,
       "end": 1404.7,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "工作、家庭和悲剧会让人们与那些长久的友谊分开。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 13,
       "start": 1404.7,
       "end": 1411.24,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "让我和朋友们永远分开的悲剧是越南战争。"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 12,
       "start": 1411.24,
       "end": 1416.06,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "高中毕业一年后，我动身去了越南。"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 21,
       "start": 1416.06,
       "end": 1424.84,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "我回来时精疲力竭，疲惫不堪，仿佛在短短14个月的时间里经历了10辈子。"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 20,
       "start": 1424.84,
       "end": 1430.54,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "在战争中的那14个月里，我无法与高中时的朋友产生共鸣。"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 13,
       "start": 1430.54,
       "end": 1436.54,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "他们似乎仍然很幼稚，关心着那些对我来说并不重要的幼稚事情。"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 17,
       "start": 1436.54,
       "end": 1443.32,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "我仍然在努力应对我在越南看到的死亡、毁灭和邪恶。"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 24,
       "start": 1443.32,
       "end": 1451.56,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "我觉得我们对那里的无辜人民做了可怕的事情，反过来，我也看到了可怕的事情发生在我朋友身上。"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 17,
       "start": 1451.56,
       "end": 1457.92,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "我疏远了朋友，开始读大学，然后我退学了，做了很多不同的工作。"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 14,
       "start": 1457.92,
       "end": 1464.44,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我把很多时间和金钱花在酒精和其他药物上。"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 32,
       "start": 1464.44,
       "end": 1476.0,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "最后，为了让我的生活重新回到正确的轨道上，我卖掉了一切，带着我仅有的一点钱，买了一张去以色列的机票。"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 6,
       "start": 1476.0,
       "end": 1478.54,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我去那里学习历史。"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 15,
       "start": 1478.54,
       "end": 1485.78,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "在海法大学学习期间，我遇到了我的妻子，她也是一名美国学生。"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 10,
       "start": 1485.78,
       "end": 1489.38,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我现在回到美国的一所高中教书。"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 21,
       "start": 1489.38,
       "end": 1496.1,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "我看着我的学生，看到他们正在为许多我多年前奋斗过的事情而挣扎。"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 16,
       "start": 1496.1,
       "end": 1510.02,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "作为一名老师，我尽我所能帮助他们度过难关。"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 10,
       "start": 1510.02,
       "end": 1527.5,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "说话者开始读高中时感觉如何？"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 9,
       "start": 1527.5,
       "end": 1547.76,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "说话者曾经如何看待青少年时期的友谊？"
     },
     {
       "id": "line-171",
@@ -2130,7 +2301,8 @@
       "words": 14,
       "start": 1547.76,
       "end": 1566.92,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "关于说话者从越战归来时的情形，我们了解到了什么？"
     },
     {
       "id": "line-172",
@@ -2142,7 +2314,8 @@
       "words": 10,
       "start": 1566.92,
       "end": 1586.024,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "作为一名老师，说话者试图做什么？"
     }
   ]
 }

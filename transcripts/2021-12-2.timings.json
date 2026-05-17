@@ -78,7 +78,8 @@
       "words": 9,
       "start": 47.02,
       "end": 50.58,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "早上好，欢迎收看《新闻人物》节目。"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 18,
       "start": 50.58,
       "end": 60.84,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "今天和我在一起的是梅根·布朗，她是一位环保活动家，她极具争议的新书《超越回收》正成为各大媒体的头条。"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 7,
       "start": 60.84,
       "end": 63.52,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "嗨，布莱恩，谢谢你今天的邀请。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 13,
       "start": 63.52,
       "end": 68.5,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "我很兴奋能向观众解释我的书到底在讲什么。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 16,
       "start": 68.5,
       "end": 73.98,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "你这本书的批评者断言，你正试图强迫整个国家发生激进的变革。"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 18,
       "start": 73.98,
       "end": 82.0,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "有些人声称你想强迫每个人都吃素，并宣布私人交通工具为非法。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 10,
       "start": 82.0,
       "end": 86.16,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我知道那些说法，但它们根本不是真的。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 12,
       "start": 86.16,
       "end": 90.9,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "没读过这本书的人正在对我的论点做出臆断。"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 38,
       "start": 90.9,
       "end": 107.68,
-      "matchedWords": 38
+      "matchedWords": 38,
+      "translation": "他们知道我是素食主义者，不穿皮革或皮草，总是使用公共交通工具，所以他们把我描绘成一个激进的动物权利活动家和环保主义者，一心要将自己的信仰强加于人。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 9,
       "start": 107.68,
       "end": 110.88,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "但难道你不想让别人也采取你的做法吗？"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 10,
       "start": 110.88,
       "end": 114.66,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "你已经为动物权利和环境奔走了几十年。"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 32,
       "start": 114.66,
       "end": 126.08,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "如果人们选择像我一样生活，我会很高兴，但我的生活选择是基于我个人的信念，它们并不是我对那些不持有相同信念的人的建议。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 33,
       "start": 126.08,
       "end": 140.32,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "好吧，在你书中的这段摘录中，你认为肉类消费和私人交通正在破坏环境，对地球来说，最好的选择是素食和公共交通。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 19,
       "start": 140.32,
       "end": 147.66,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "我确实那样写了，但那些是我所说的“最佳实践”的例子，而不是我实际建议的做法。"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 19,
       "start": 147.66,
       "end": 156.32,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "在我的拯救环境指南中，我建议进行一些温和的改变，比如每周吃两天的素食。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 16,
       "start": 156.32,
       "end": 163.18,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "你还支持对肉类和其他动物产品征收高额税，并增加汽油税。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 11,
       "start": 163.18,
       "end": 168.1,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "这些税收可能会迫使穷人接受你的生活选择。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 12,
       "start": 168.1,
       "end": 173.52,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "但我建议的税率并不高，仅不到 3%。"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 13,
       "start": 173.52,
       "end": 186.44,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "此外，由此产生的资金将用于环境保护，这对每个人都有利。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 9,
       "start": 186.44,
       "end": 203.123,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "关于这位女士的新书，我们了解到了什么？"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 11,
       "start": 203.123,
       "end": 221.66,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "一些批评家对这本书的作者评价如何？"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 11,
       "start": 221.66,
       "end": 239.98,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "关于她建议的饮食改变，这位女士声称了什么？"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 10,
       "start": 239.98,
       "end": 258.8,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "关于她建议的增税，这位女士说了什么？"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 18,
       "start": 258.8,
       "end": 267.04,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "今天在演播室和我在一起的是简·洛根小姐，她是新书《成功的秘密》的作者。"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 9,
       "start": 267.04,
       "end": 271.94,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "她声称已经揭示了人们如何获得成功。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 16,
       "start": 271.94,
       "end": 277.8,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "那么，洛根小姐，你在书中声称成功人士有许多共同点。"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 10,
       "start": 277.8,
       "end": 281.76,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "例如，他们在追求目标时了解自己的优势。"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 2,
       "start": 281.76,
       "end": 283.04,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "没错。"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 13,
       "start": 283.04,
       "end": 288.3,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "他们也往往会受到生活中消极或积极事件的激励。"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 14,
       "start": 288.3,
       "end": 293.08,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "他们将自己的成功归功于生命中有人相信他们。"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 14,
       "start": 293.08,
       "end": 298.72,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "你也写道，有许多不同的因素与成功有关。"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 17,
       "start": 298.72,
       "end": 306.2,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "虽然成功人士受到实现目标的驱动，但极度成功的人拥有更大的雄心。"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 21,
       "start": 306.2,
       "end": 314.56,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "是的，更大的雄心以及成为出类拔萃者的强烈渴望也是一个共同特征。"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 22,
       "start": 314.56,
       "end": 326.0,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "对，所以那些意志坚定的人不会把障碍看作阻碍成功的东西，而只是需要克服的不便。"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 1,
       "start": 326.0,
       "end": 326.94,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "绝对是这样。"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 25,
       "start": 326.94,
       "end": 337.92,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "成功人士也是乐观的，因为在意识到可能阻碍我们实现目标的障碍的同时保持积极态度是非常重要的。"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 4,
       "start": 337.92,
       "end": 339.44,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "说得好。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 10,
       "start": 339.44,
       "end": 343.28,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "人们常常在遇到第一个障碍时就放弃了。"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 13,
       "start": 343.28,
       "end": 347.42,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "那么，你会说大多数成功人士都是靠自己成功的吗？"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 2,
       "start": 347.42,
       "end": 349.5,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "不完全是这样。"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 14,
       "start": 349.5,
       "end": 355.22,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "他们通常善于与人合作并理解他人的需求。"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 10,
       "start": 355.22,
       "end": 358.36,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我想，所以人们会愿意帮助他们。"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 24,
       "start": 358.36,
       "end": 368.18,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "没错，这往往会带来大量的相互尊重，无论是与同事、助手还是接待员。"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 11,
       "start": 368.18,
       "end": 372.52,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我认识的大多数成功人士都对他们的工作充满热情。"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 12,
       "start": 372.52,
       "end": 376.14,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "你会说热情是通往成功的最大单一秘诀吗？"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 2,
       "start": 376.14,
       "end": 378.3,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "不完全是。"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 15,
       "start": 378.3,
       "end": 384.7,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "有一个前提条件，那就是你必须在一个能够培养热情的环境中工作。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 6,
       "start": 384.7,
       "end": 391.545,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "如果存在这样的环境，成功自然会随之而来。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 8,
       "start": 391.545,
       "end": 410.94,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这位女士在她的书中透露了什么？"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 8,
       "start": 410.94,
       "end": 429.2,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "成功人士将他们的成就归功于什么？"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 9,
       "start": 429.2,
       "end": 459.809,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "成功人士面对困难时会怎么做？"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 11,
       "start": 459.809,
       "end": 493.82,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "根据这位女士的说法，充满热情地工作的一个前提条件是什么？"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 9,
       "start": 493.82,
       "end": 498.2,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "常言道“像蝙蝠一样瞎”其实并不正确。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 27,
       "start": 498.2,
       "end": 510.46,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "事实是，所有 1,100 种蝙蝠都有视力，而且视力通常相当不错，尽管不如其他夜间狩猎动物那么出色。"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 23,
       "start": 510.46,
       "end": 519.34,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "蝙蝠主要分为两大类，据信它们是独立进化的，但都源于共同的祖先。"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 24,
       "start": 519.34,
       "end": 529.62,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "第一类被称为大蝙蝠，大多是中型或大型蝙蝠，吃水果、花朵，有时也吃小型动物或鱼类。"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 9,
       "start": 529.62,
       "end": 534.1,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "这些物种具有独特的视觉中心和大眼睛。"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 11,
       "start": 534.1,
       "end": 538.14,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "它们利用视觉和嗅觉来捕获猎物。"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 15,
       "start": 538.14,
       "end": 544.72,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "例如，狐蝠不仅在白天视力良好，而且还能辨别颜色。"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 16,
       "start": 544.72,
       "end": 552.1,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "它们实际上依赖于白天的视力，在没有月光的夜晚无法飞行。"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 14,
       "start": 552.1,
       "end": 558.42,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "第二类被称为小蝙蝠，体型较小，大多吃昆虫。"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 11,
       "start": 558.42,
       "end": 564.16,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "这些物种利用回声定位来寻找方向和识别食物。"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 18,
       "start": 564.16,
       "end": 571.5,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "科学家已经证明，尽管这些蝙蝠的小眼睛发育不良，但它们在白天仍然可以看到东西。"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 22,
       "start": 571.5,
       "end": 580.46,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "当我们考虑这些蝙蝠的夜间生活方式时，我们会看到它们必须对光线水平的变化保持敏感。"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 10,
       "start": 580.46,
       "end": 584.46,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "因为这是它们感知何时开始狩猎的方式。"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 29,
       "start": 584.46,
       "end": 597.02,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "此外，小蝙蝠利用视觉在回声定位范围之外进行远距离飞行，所以事实是，没有任何蝙蝠天生就是瞎子。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 26,
       "start": 597.02,
       "end": 617.882,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "由于对特定生活方式的适应，一些物种使用听觉多于使用眼睛，但它们的眼睛仍然具有功能。"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 7,
       "start": 617.882,
       "end": 630.72,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "关于大蝙蝠我们了解到了什么？"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 10,
       "start": 630.72,
       "end": 649.28,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "小蝙蝠如何寻找方向和识别食物？"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 15,
       "start": 649.28,
       "end": 670.2,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "为什么某些种类的蝙蝠使用听觉多于使用眼睛？"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 18,
       "start": 670.2,
       "end": 677.22,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "一项研究发现，教育类电视节目附带了一项影响孩子行为的额外课程。"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 14,
       "start": 677.22,
       "end": 685.8,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "花更多时间观看教育节目的孩子，对其他孩子的情感攻击性会增加。"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 12,
       "start": 685.8,
       "end": 690.58,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这表明孩子们可以学到预期的教育课程。"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 9,
       "start": 690.58,
       "end": 695.18,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "然而，在此过程中他们也在学习其他东西。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 21,
       "start": 695.18,
       "end": 704.48,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "这种意想不到的影响与媒体中冲突的描绘以及学龄前儿童如何理解这些冲突有关。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 11,
       "start": 704.48,
       "end": 710.42,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "电视和电影制片人经常加入不良行为的元素。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 13,
       "start": 710.42,
       "end": 715.06,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这是为了在节目结束时给孩子们一个教训。"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 9,
       "start": 715.06,
       "end": 720.42,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "教育类节目具有支持教育和支持社交的目标。"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 14,
       "start": 720.42,
       "end": 727.46,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "然而，角色之间的冲突往往被描绘成彼此之间不友善。"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 10,
       "start": 727.46,
       "end": 732.12,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "或者他们可能会对彼此使用情感攻击策略。"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 10,
       "start": 732.12,
       "end": 736.76,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "学龄前儿童真的理解不了故事的寓意。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 16,
       "start": 736.76,
       "end": 742.7,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "那是因为这要求他们理解节目的所有部分是如何结合在一起的。"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 15,
       "start": 742.7,
       "end": 748.58,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "你需要相当复杂的认知技能和记忆技能才能做到这一点。"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 7,
       "start": 748.58,
       "end": 752.2,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "年幼的孩子这些技能仍在发展中。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 7,
       "start": 752.2,
       "end": 755.88,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "然而，家长不应该完全限制孩子看电视。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 14,
       "start": 755.88,
       "end": 762.76,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "相反，家长应该和孩子一起看，帮助他们理解剧情。"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 14,
       "start": 762.76,
       "end": 768.24,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "家长可以边看边评论，然后在结束时解释其中的信息。"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 11,
       "start": 768.24,
       "end": 773.68,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "他们应该解释某些类型的行为是不妥当的。"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 20,
       "start": 773.68,
       "end": 788.62,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "这将帮助孩子们解释并获取信息，并帮助他们学会为了这些信息而观看节目。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 10,
       "start": 788.62,
       "end": 808.36,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "关于观看教育节目的孩子，文章说了什么？"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 12,
       "start": 808.36,
       "end": 828.6,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "为什么学龄前儿童无法理解电视节目传达的寓意？"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 7,
       "start": 828.6,
       "end": 846.7,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "文章建议父母怎么做？"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 10,
       "start": 846.7,
       "end": 891.08,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "看完电视节目后，父母应该立即做什么？"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 26,
       "start": 891.08,
       "end": 900.66,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "虽然亚洲国家长期以来一直有这种做法，但许多西方国家的人尚未接受进屋脱鞋的规定。"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 15,
       "start": 900.66,
       "end": 907.6,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "对于这些国家的许多人来说，进屋前擦擦鞋就被认为是足够了。"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 30,
       "start": 907.6,
       "end": 919.64,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "毕竟，他们可能认为一点泥土不会伤害任何人，但我可以给你几个很好的理由，说明为什么人们在进入家门之前应该脱鞋。"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 3,
       "start": 919.64,
       "end": 921.6,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "细菌无处不在。"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 17,
       "start": 921.6,
       "end": 928.46,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "当你走过人行道、公共厕所地面甚至办公室地毯时，细菌就会聚集在你的鞋子上。"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 14,
       "start": 928.46,
       "end": 937.06,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "在美国一所大学进行的一项研究中，研究人员从鞋类中收集了微观细菌。"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 19,
       "start": 937.06,
       "end": 945.5,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "他们发现一只鞋的外面可以聚集多达 421,000 个细菌单位。"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 14,
       "start": 945.5,
       "end": 949.92,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "而且只需一点点污垢就能损坏你的木地板。"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 18,
       "start": 949.92,
       "end": 955.66,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "你带进来的污垢越多，划痕就越多，你也必须更频繁地清洁。"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 9,
       "start": 955.66,
       "end": 960.26,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "随着时间的推移，额外的擦洗会损坏你的地板。"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 19,
       "start": 960.26,
       "end": 967.98,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "鞋子也会在地板上留下痕迹和划痕，尤其是高跟鞋或带有尖锐或坚硬部分的鞋子。"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 7,
       "start": 967.98,
       "end": 970.74,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "这些会使你的地板产生凹痕和划痕。"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 25,
       "start": 970.74,
       "end": 981.14,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "如果你住在公寓楼里，出于对楼下邻居的考虑，脱掉发出噪音的鞋子是礼貌的做法。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 11,
       "start": 981.14,
       "end": 984.58,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "赤脚走动实际上对你的脚更好。"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 20,
       "start": 984.58,
       "end": 992.84,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "虽然许多人习惯在醒着的每一刻都穿着鞋，但赤脚可以增强脚部肌肉。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 19,
       "start": 992.84,
       "end": 1000.22,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "你穿鞋的时间越长，就越有可能因此导致脚部受伤。"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 15,
       "start": 1000.22,
       "end": 1005.74,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "如果人们还没被我的论点说服，我可以给出最后一个理由。"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 21,
       "start": 1005.74,
       "end": 1015.28,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "你通过鞋子带进屋内的灰尘和有毒化学物质会恶化你家里的空气质量。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 23,
       "start": 1015.28,
       "end": 1025.16,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "有毒化学物质在我们的生活中无处不在：公共草坪上使用的杀虫化学品，公共区域地面上的清洁化学品。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 18,
       "start": 1025.16,
       "end": 1031.9,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "通过在进入家门前踢掉鞋子，你正在拒绝这些有害化学物质进入。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 37,
       "start": 1031.9,
       "end": 1051.26,
-      "matchedWords": 37
+      "matchedWords": 37,
+      "translation": "考虑到我们在教室里度过的时间以及每天穿过教室的鞋子数量，如果我提议在教室内禁止穿鞋，你大概能理解我。"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 11,
       "start": 1051.26,
       "end": 1070.34,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "为什么许多西方人在进屋前不脱鞋？"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 13,
       "start": 1070.34,
       "end": 1090.42,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "美国一所大学研究人员的一项研究发现了什么？"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 15,
       "start": 1090.42,
       "end": 1111.02,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "说话者给出的进屋脱鞋的最后一个理由是什么？"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 10,
       "start": 1111.02,
       "end": 1115.9,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "情感是我们意识中必不可少且不可分割的一部分。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 25,
       "start": 1115.9,
       "end": 1122.62,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "它们是内置机制的一部分，让我们能够在生理和心理上应对生活的起伏。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 19,
       "start": 1122.62,
       "end": 1131.36,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "当我们隐藏自己的情绪和真实感受时，我们在人际关系中就不再真诚、自然和真实。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 19,
       "start": 1131.36,
       "end": 1138.12,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "当我们在他人面前戴上矫饰的面具时，我们就背离了真实的自我。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 23,
       "start": 1138.12,
       "end": 1145.14,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "从社交角度看，隐藏真实情感可能是一种好策略，但从道德角度看，这也是对忠诚和信任的破坏。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 21,
       "start": 1145.14,
       "end": 1155.46,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "虽然人类更先进、更聪明，但动物在行为和反应上比人类更真诚、更真实。"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 12,
       "start": 1155.46,
       "end": 1160.68,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "我们受的教育程度越高，我们就变得越不透明、越不可靠。"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 11,
       "start": 1160.68,
       "end": 1164.98,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我们被宠物吸引是因为宠物不会撒谎。"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 22,
       "start": 1164.98,
       "end": 1171.44,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "处理愤怒或恐惧等情绪的首要步骤之一，就是承认它们是正常的、人类共有的。"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 20,
       "start": 1171.44,
       "end": 1180.92,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "情绪化并没有什么罪恶或不道德，除非你的情绪让你变得不近人情、冷漠和残忍。"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 17,
       "start": 1180.92,
       "end": 1188.26,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "与情绪相关的负罪感比情绪体验本身更具毁灭性和破坏性。"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 33,
       "start": 1188.26,
       "end": 1198.48,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "因此，当你处理情绪问题时，不仅要学习如何控制它们，还要学习如何接受它们，并处理由此产生的负罪感和痛苦。"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 18,
       "start": 1198.48,
       "end": 1206.72,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "我们的脑由原始的内层核心和更进化的、理性的外层核心组成。"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 32,
       "start": 1206.72,
       "end": 1217.26,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "大多数时候，思维的理性部分控制着来自原始核心的信息，并自行决定做什么以及如何反应。"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 29,
       "start": 1217.26,
       "end": 1229.82,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "然而，在危急情况下，特别是当感知到威胁时，外层核心会失去控制，无法调节来自原始大脑的冲动和本能反应。"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 19,
       "start": 1229.82,
       "end": 1237.64,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "结果，我们让干扰性的想法和情绪在意识中产生，并屈从于我们的原始行为。"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 28,
       "start": 1237.64,
       "end": 1249.88,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "在情绪动荡时期，请记住，情绪的产生是因为你的感官连接到了思维中原始的部分，而该部分是自我调节、自主且自发的。"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 14,
       "start": 1249.88,
       "end": 1254.02,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "你的理性思维并不总能有效处理来自它的信息。"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 22,
       "start": 1254.02,
       "end": 1264.1,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "这些信息是你生存机制的一部分，不应仅仅因为情绪不健康且暴露了你的弱点而将其扼杀。"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 22,
       "start": 1264.1,
       "end": 1272.4,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "当情绪产生时，不要扼杀它们，而是要关注它们，并试着理解它们试图传递的信息。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 15,
       "start": 1272.4,
       "end": 1286.1,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "这样你就可以利用自己的情绪，同时又不会失去平衡和内在的稳定。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 9,
       "start": 1286.1,
       "end": 1304.8,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "关于隐藏自己的情感，说话者说了什么？"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 9,
       "start": 1304.8,
       "end": 1323.08,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "在处理情感时，我们首先应该做什么？"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 9,
       "start": 1323.08,
       "end": 1341.9,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "当情感产生时，我们被建议怎么做？"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 3,
       "start": 1341.9,
       "end": 1343.12,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "同学们，早上好。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 10,
       "start": 1343.12,
       "end": 1346.32,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我今天的课题是如何养活一个饥饿的世界。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 9,
       "start": 1346.32,
       "end": 1350.32,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "世界人口预计将从6"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 5,
       "start": 1350.32,
       "end": 1352.62,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "8亿增长到9"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 4,
       "start": 1352.62,
       "end": 1355.26,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "1亿（到2050年）。"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 14,
       "start": 1355.26,
       "end": 1364.5,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "与此同时，在 1961 年至 2007 年间，世界人口从 30 亿翻了一番还多。"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 12,
       "start": 1364.5,
       "end": 1370.16,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "与此同时，粮食生产由于缺乏科学研究而受到限制。"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 13,
       "start": 1370.16,
       "end": 1378.2,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "尽管如此，到 2050 年养活世界人口的任务似乎“很容易实现”。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 8,
       "start": 1378.2,
       "end": 1381.8,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "需要的是第二次绿色革命。"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 14,
       "start": 1381.8,
       "end": 1388.68,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "这被描述为全球农业可持续增长的方法。"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 13,
       "start": 1388.68,
       "end": 1396.04,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这样一场革命将要求农业研究的优先事项发生大规模转变。"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 9,
       "start": 1396.04,
       "end": 1399.26,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "迫切需要新的作物品种。"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 15,
       "start": 1399.26,
       "end": 1407.82,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "它们必须提供更高的产量，但使用更少的水、富氮肥料或其他投入。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 13,
       "start": 1407.82,
       "end": 1413.5,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这些新作物还必须具有更强的抗旱、耐热和抗病虫害能力。"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 22,
       "start": 1413.5,
       "end": 1423.56,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "同样至关重要的是对基础知识的低技术研究，如小农场动物和植物的轮作和混养。"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 17,
       "start": 1423.56,
       "end": 1433.74,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "发展中国家可以通过更好地利用现代技术和实践，在生产力方面取得重大进步。"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 4,
       "start": 1433.74,
       "end": 1435.72,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "但这需要钱。"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 19,
       "start": 1435.72,
       "end": 1444.98,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "据估计，为了应对 2050 年的挑战，每年的投资必须翻一番，达到 830 亿美元。"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 11,
       "start": 1444.98,
       "end": 1450.08,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "大部分资金需要用于改善农业基础设施。"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 9,
       "start": 1450.08,
       "end": 1454.96,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "从生产到储存和加工的一切都必须改进。"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 18,
       "start": 1454.96,
       "end": 1463.02,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "然而，研究议程需要聚焦于最贫困和资源最有限的国家的需要。"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 25,
       "start": 1463.02,
       "end": 1471.88,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "世界上大部分人口居住在那里，而且未来几十年那里的人口增长也将是最大的。"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 13,
       "start": 1471.88,
       "end": 1477.66,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "值得称赞的是，全世界的农业科学家都在接受这样一种广阔的视野。"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 34,
       "start": 1477.66,
       "end": 1492.84,
-      "matchedWords": 34
+      "matchedWords": 34,
+      "translation": "例如，今年 3 月，他们汇聚在首届全球农业研究会议上，开始商讨如何改变研究议程，以帮助满足贫困国家农民的需求。"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 16,
       "start": 1492.84,
       "end": 1500.18,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "但这些计划除非得到决策者的大力支持，否则不会取得成果。"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 17,
       "start": 1500.18,
       "end": 1508.3,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "公共农业研究支出的增长在 20 世纪 70 年代达到顶峰，此后一直萎缩。"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 16,
       "start": 1508.3,
       "end": 1515.7,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "一个巨大的例外是中国，在过去十年里，中国的支出已远远超过其他国家。"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 18,
       "start": 1515.7,
       "end": 1523.16,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "中国似乎准备转型成为向较贫穷国家提供相关科技的关键供应商。"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 8,
       "start": 1523.16,
       "end": 1528.38,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "但发达国家也负有人道主义责任。"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 21,
       "start": 1528.38,
       "end": 1545.24,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "科学家呼吁大幅增加用于公共农业研究支出的拨款，这是非常有理由的。"
     },
     {
       "id": "line-171",
@@ -2130,7 +2301,8 @@
       "words": 16,
       "start": 1545.24,
       "end": 1565.52,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "根据说话者的说法，到 2050 年养活世界人口的紧迫需求是什么？"
     },
     {
       "id": "line-172",
@@ -2142,7 +2314,8 @@
       "words": 14,
       "start": 1565.52,
       "end": 1585.58,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "为了养活不断增长的人口，大部分资金应该投资在哪里？"
     },
     {
       "id": "line-173",
@@ -2154,7 +2327,8 @@
       "words": 11,
       "start": 1585.58,
       "end": 1605.44,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "为什么说话者称赞全世界的农业科学家？"
     },
     {
       "id": "line-174",
@@ -2166,7 +2340,8 @@
       "words": 12,
       "start": 1605.44,
       "end": 1626.604,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "与世界其他地方相比，中国有什么特别之处？"
     }
   ]
 }

@@ -2478,13 +2478,13 @@
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "It's for employees for flexible work arrangements.",
+      "text": "It's for this reason that managers should never discriminate when it comes to requests from employees for flexible work arrangements",
       "type": "narration",
       "words": 7,
       "start": 1534.64,
       "end": 1544.2,
       "matchedWords": 7,
-      "translation": "这是针对那些寻求弹性工作安排的员工。"
+      "translation": "正因如此，管理者在受理员工提出的弹性工作制申请时，绝不能区别对待。"
     },
     {
       "id": "line-186",
@@ -2575,7 +2575,7 @@
       "start": 1632.14,
       "end": 1652.715,
       "matchedWords": 7,
-      "translation": "演讲者建议经理们做什么？"
+      "translation": "演讲者建议管理者做什么？"
     }
   ]
 }

@@ -78,7 +78,8 @@
       "words": 9,
       "start": 40.56,
       "end": 43.68,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "嘿，我刚读了一本关于物理的好书。"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 5,
       "start": 43.68,
       "end": 45.12,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "我觉得你会喜欢的。"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 7,
       "start": 45.12,
       "end": 47.52,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "书名叫做《世界物理》。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 8,
       "start": 47.52,
       "end": 50.54,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "作者是一位名叫西尔维娅·门德斯的科学家。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 5,
       "start": 50.54,
       "end": 51.98,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "哦，我看过那本书。"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 3,
       "start": 51.98,
       "end": 53.2,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "那本书非常棒。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 13,
       "start": 53.2,
       "end": 57.46,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "作者是一位亲切且称职的向导，带领读者探索物理的奥秘。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 19,
       "start": 57.46,
       "end": 64.72,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "我认为从科学门外汉到职业物理学家，任何读者都能从中受益匪浅。"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 27,
       "start": 64.72,
       "end": 74.72,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "看到一位坚强、好奇且聪颖的女性在传统上由男性主导的科学领域发表见解，真是令人耳目一新。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 19,
       "start": 74.72,
       "end": 81.44,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "我认为她致力于加入那些鲜为人知的女性科学家的轶事，这一点非常值得称赞。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 19,
       "start": 81.44,
       "end": 88.0,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "你知道，她们往往是那个坚信“女性应回归家庭”的时代的受害者。"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 19,
       "start": 88.0,
       "end": 94.8,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "我喜欢这本书清晰的写法，每一章都通过迷人的知识点变得生动有趣。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 17,
       "start": 94.8,
       "end": 101.6,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "例如，在其中一章里，她揭穿了一个我曾听大学物理教授讲过的神话。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 18,
       "start": 101.6,
       "end": 108.74,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "我经常听说中世纪的玻璃窗底部更厚，是因为玻璃像流体一样流动。"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 6,
       "start": 108.74,
       "end": 110.62,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "她指出，这其实并非事实。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 12,
       "start": 110.62,
       "end": 117.48,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "这种变形实际上是由于玻璃制造工艺的特殊性造成的。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 37,
       "start": 117.48,
       "end": 132.76,
-      "matchedWords": 37
+      "matchedWords": 37,
+      "translation": "是的，我喜欢她通过提供大量“动手做”实验来培养科学参与感，这些实验展示了统治从太阳系到餐桌万物的经典物理学基本原理。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 24,
       "start": 132.76,
       "end": 142.08,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "从利用复杂的物理定律测试旋转的鸡蛋是否煮熟，到通过举起一张纸板来测量大气压力。"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 11,
       "start": 142.08,
       "end": 147.08,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "她那些亲身实践的例子使她的书成为一种真正的互动阅读体验。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 27,
       "start": 147.08,
       "end": 165.88,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "是的，我必须说，这本没有公式的书是各行各业的科学家、科学教师，甚至是那些讨厌物理的人的理想读物。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 11,
       "start": 165.88,
       "end": 184.1,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "关于男子推荐的那本书，女子说了什么？"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 10,
       "start": 184.1,
       "end": 201.9,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "在男子推荐的那本书里我们能发现什么？"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 9,
       "start": 201.9,
       "end": 219.52,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "作者是如何让她的书变得生动的？"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 9,
       "start": 219.52,
       "end": 238.38,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "这本书是如何培养读者对物理的兴趣的？"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 2,
       "start": 238.38,
       "end": 241.34,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "您好，教授。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 16,
       "start": 241.34,
       "end": 245.3,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "如果您不忙的话，我希望能占用您一点时间。"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 23,
       "start": 245.3,
       "end": 251.88,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "我的论文开题遇到了一些问题，希望能得到您关于如何开始的建议。"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 1,
       "start": 251.88,
       "end": 252.72,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "当然可以。"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 7,
       "start": 252.72,
       "end": 254.64,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "不过我带的学生挺多的。"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 9,
       "start": 254.64,
       "end": 258.06,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "你能提醒我一下你的课题是什么吗？"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 23,
       "start": 258.06,
       "end": 265.36,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "我选的大方向是美学，但我目前只进展到这一步，不知道接下去该怎么走。"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 7,
       "start": 265.36,
       "end": 268.0,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "是的，那个课题太宏大了。"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 14,
       "start": 268.0,
       "end": 271.88,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "你确实需要缩小范围，使其更具可行性。"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 6,
       "start": 271.88,
       "end": 274.52,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "否则你就是在写一本书了。"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 1,
       "start": 274.52,
       "end": 275.48,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "确实如此。"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 8,
       "start": 275.48,
       "end": 277.56,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "这正是我想要请教您的。"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 12,
       "start": 277.56,
       "end": 281.12,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "我在想是否可以更换课题。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 8,
       "start": 281.12,
       "end": 283.88,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "相比于美，我其实对自然更感兴趣。"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 10,
       "start": 283.88,
       "end": 286.76,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "恐怕你必须坚持既定的课题。"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 15,
       "start": 286.76,
       "end": 293.26,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "不过，如果你对自然感兴趣，那当然可以融入到你的论文中。"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 8,
       "start": 293.26,
       "end": 296.28,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "我们之前在课上讲过休谟，对吧。"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 15,
       "start": 296.28,
       "end": 301.32,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "哦是的，他就是那位论述美感来源的哲学家。"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 1,
       "start": 301.32,
       "end": 302.14,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "确实如此。"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 14,
       "start": 302.14,
       "end": 306.2,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我建议你去图书馆找一本他的传记。"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 3,
       "start": 306.2,
       "end": 307.22,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "从那里开始。"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 10,
       "start": 307.22,
       "end": 310.9,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "但记得不要超出作业的范围。"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 10,
       "start": 310.9,
       "end": 314.36,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "这篇论文在你的总评成绩中占很大比重。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 7,
       "start": 314.36,
       "end": 317.28,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "所以请务必遵循要求。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 8,
       "start": 317.28,
       "end": 319.34,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "如果你看看他的传记。"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 33,
       "start": 319.34,
       "end": 331.44,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "你就能很好地了解他的生活经历是如何体现在他的美学理论中的，特别是他如何将自然视为我们所发现的美的源泉。"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 1,
       "start": 331.44,
       "end": 332.54,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "太好了。"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 10,
       "start": 332.54,
       "end": 336.02,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "谢谢您抽时间回答我的问题，教授。"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 8,
       "start": 336.02,
       "end": 337.38,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "那我不打扰您上课了。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 15,
       "start": 337.38,
       "end": 349.56,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "如果你还有其他需要，请随时来我办公室找我。"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 5,
       "start": 349.56,
       "end": 366.14,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "那个男学生遇到了什么问题？"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 9,
       "start": 366.14,
       "end": 384.44,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "教授如何看待该学生的课题？"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 7,
       "start": 384.44,
       "end": 401.82,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "该学生实际上对什么更感兴趣？"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 10,
       "start": 401.82,
       "end": 452.07,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "教授说该学生必须做什么？"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 22,
       "start": 452.07,
       "end": 461.89,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "在10月至次年3月的北极冬季，寒冷北方的平均气温通常在零下20摄氏度左右波动。"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 10,
       "start": 461.89,
       "end": 466.98,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "但今年北极地区的气温要高得多。"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 23,
       "start": 466.98,
       "end": 476.7,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "2月20日，格陵兰岛的气温升至冰点或零摄氏度以上，并保持了24小时以上。"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 15,
       "start": 476.7,
       "end": 484.08,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "随后在2月24日，格陵兰岛北端的气温达到了6摄氏度。"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 7,
       "start": 484.08,
       "end": 487.8,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "气候科学家将这一现象描述为“令人震惊”。"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 13,
       "start": 487.8,
       "end": 493.44,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "导致这种异常气温激增的天气条件以前也曾出现在北极。"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 8,
       "start": 493.44,
       "end": 496.6,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "它们通常每十年出现一次。"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 12,
       "start": 496.6,
       "end": 501.54,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "然而，上一次这样的气温升高发生在两年前。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 27,
       "start": 501.54,
       "end": 513.36,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "这令人担忧，因为北极气温的升高加上海冰的快速流失，正在创造一种新型的气候反馈循环，可能会加速北极变暖。"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 12,
       "start": 513.36,
       "end": 518.26,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "事实上，北极的海冰覆盖层融化速度超出了预期。"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 22,
       "start": 518.26,
       "end": 526.76,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "由于失去了那些起到冷却作用的大量海冰，带入北极的暖空气可以比以往任何时候都更深入内陆。"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 7,
       "start": 526.76,
       "end": 529.72,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "空气也能保持更长时间的温暖。"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 4,
       "start": 529.72,
       "end": 532.34,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "这反过来导致了进一步的融化。"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 8,
       "start": 532.34,
       "end": 536.5,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "总体而言，地球正以飞快的速度变暖。"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 24,
       "start": 536.5,
       "end": 546.54,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "2014年至2017年是有记录以来最热的年份，而北极变暖的速度是地球上其他任何地方的两倍。"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 17,
       "start": 546.54,
       "end": 555.28,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "这给依赖北极生态系统生存的野生动物和原住民带来了独特的挑战。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 33,
       "start": 555.28,
       "end": 578.12,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "此前的气候预测认为北极夏季冰层将在2060年左右完全消失，但根据科学家目前的观察，北极可能在20年内面临没有冰的夏天。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 7,
       "start": 578.12,
       "end": 596.36,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "气候科学家将什么描述为令人震惊？"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 12,
       "start": 596.36,
       "end": 615.24,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "关于北极的气温激增，文章说了什么？"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 11,
       "start": 615.24,
       "end": 634.78,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "根据科学家的最新观察，20年内可能会发生什么？"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 25,
       "start": 634.78,
       "end": 644.6,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "要完成任何任务，通常都需要大量的意志力，无论是坚持开支计划还是写完一部伟大的小说。"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 8,
       "start": 644.6,
       "end": 646.4,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "如果你想增强这种意志力。"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 13,
       "start": 646.4,
       "end": 652.12,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "一项新研究表明，你只需要简单地相信自己拥有它。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 14,
       "start": 652.12,
       "end": 657.74,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "根据这项研究，最重要的是我们如何看待自己的意志力。"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 21,
       "start": 657.74,
       "end": 666.36,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "如果我们认为它是一种有限的资源，我们的行为就会如此，我们会感到疲惫，并在高要求的脑力任务之间需要休息。"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 13,
       "start": 666.36,
       "end": 673.34,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "然而，那些将意志力视为无限资源的人反而会变得精力充沛。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 14,
       "start": 673.34,
       "end": 680.4,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "研究人员使用心理评估工具测试了该研究的有效性。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 45,
       "start": 680.4,
       "end": 700.88,
-      "matchedWords": 43
+      "matchedWords": 43,
+      "translation": "他们要求1100名美国人和1600名欧洲人对不同的陈述进行评分，例如“在具有挑战性的脑力活动之后，我的能量会耗尽，我必须休息才能重新补充能量”或“我可以长时间专注于一项脑力任务而不会感到疲倦”。"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 10,
       "start": 700.88,
       "end": 705.26,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "虽然男女之间总体上差别不大。"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 27,
       "start": 705.26,
       "end": 717.18,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "美国人更有可能承认在完成极具挑战性的脑力任务后需要休息，而欧洲参与者则声称他们能够继续坚持。"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 25,
       "start": 717.18,
       "end": 726.12,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "根据调查结果，研究人员建议，增强意志力的关键在于相信自己拥有充足的意志力供应。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 10,
       "start": 726.12,
       "end": 730.12,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "你对意志力的感觉会影响你的行为方式。"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 7,
       "start": 730.12,
       "end": 733.64,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "但他们说，这些感觉是可以改变的。"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 17,
       "start": 733.64,
       "end": 740.78,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "改变你对自我控制本质的信念，可以对性格发展产生积极影响。"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 10,
       "start": 740.78,
       "end": 753.06,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "这会导致更健康的行为和对他人的看法。"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 9,
       "start": 753.06,
       "end": 771.58,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "完成一项任务通常需要什么？"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 8,
       "start": 771.58,
       "end": 789.72,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "这项新研究的发现是什么？"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 13,
       "start": 789.72,
       "end": 811.34,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "与美国参与者相比，我们对欧洲参与者有什么了解？"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 10,
       "start": 811.34,
       "end": 859.54,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "关于人们对意志力的感觉，研究说了什么？"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 6,
       "start": 859.54,
       "end": 862.18,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "这是我的小侄女莎拉。"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 11,
       "start": 862.18,
       "end": 865.96,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "她的妈妈是医生，爸爸是律师。"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 18,
       "start": 865.96,
       "end": 871.84,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "到莎拉上大学时，她父母所从事的工作将发生翻天覆地的变化。"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 14,
       "start": 871.84,
       "end": 880.06,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "2013年，牛津大学的研究人员对未来的工作进行了一项研究。"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 18,
       "start": 880.06,
       "end": 887.56,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "他们的结论是，几乎每两份工作中就有一份面临被机器自动化的巨大风险。"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 12,
       "start": 887.56,
       "end": 893.26,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "机器学习是造成这种颠覆的主要技术。"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 8,
       "start": 893.26,
       "end": 896.58,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "它是人工智能最强大的分支。"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 17,
       "start": 896.58,
       "end": 903.78,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "它允许机器从数据中学习，并模仿人类可以做的一些事情。"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 11,
       "start": 903.78,
       "end": 908.88,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我的公司Kaggle处于机器学习的最前沿。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 16,
       "start": 908.88,
       "end": 916.24,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "我们汇集了数十万名专家，为工业界和学术界解决重要问题。"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 23,
       "start": 916.24,
       "end": 924.48,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "这为我们提供了一个独特的视角，让我们了解机器能做什么，不能做什么，以及哪些工作可能被自动化或受到威胁。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 12,
       "start": 924.48,
       "end": 931.18,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "机器学习在90年代初开始进入工业领域。"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 6,
       "start": 931.18,
       "end": 934.22,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "它始于相对简单的任务。"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 19,
       "start": 934.22,
       "end": 943.7,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "它始于诸如根据贷款申请评估信用风险、通过读取手写的邮政编码对邮件进行分类等事情。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 10,
       "start": 943.7,
       "end": 948.38,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "在过去的几年里，我们取得了重大的突破。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 11,
       "start": 948.38,
       "end": 952.46,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "机器学习现在能够胜任复杂得多的任务。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 16,
       "start": 952.46,
       "end": 961.38,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "2012年，Kaggle向其社区发起挑战，要求构建一个能够给高中作文打分的程序。"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 13,
       "start": 961.38,
       "end": 966.4,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "获胜的程序能够给出与人类教师相同的分数。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 15,
       "start": 966.4,
       "end": 973.02,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "现在，有了合适的数据，机器在处理此类任务时的表现将优于人类。"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 11,
       "start": 973.02,
       "end": 978.34,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "一位教师在40年的职业生涯中可能会阅读1万篇作文。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 9,
       "start": 978.34,
       "end": 981.28,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "而机器可以在几分钟内阅读数百万篇作文。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 23,
       "start": 981.28,
       "end": 991.88,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "在频繁、高负荷的任务上，我们没有机会与机器竞争，但有些事情我们可以做而机器不能做。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 12,
       "start": 991.88,
       "end": 997.66,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "机器在应对新情况方面进展甚微。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 10,
       "start": 997.66,
       "end": 1001.92,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "机器无法处理它们之前未曾多次见过的事情。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 18,
       "start": 1001.92,
       "end": 1008.42,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "机器学习的根本局限在于它需要从大量的历史数据中学习。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 3,
       "start": 1008.42,
       "end": 1010.68,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "但人类不需要。"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 16,
       "start": 1010.68,
       "end": 1027.795,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "我们有能力将看似不同的线索联系起来，以解决我们从未见过的问题。"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 8,
       "start": 1027.795,
       "end": 1045.98,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "牛津大学的研究人员得出了什么结论？"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 9,
       "start": 1045.98,
       "end": 1065.56,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于Kaggle公司获胜的程序，我们了解到了什么？"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 8,
       "start": 1065.56,
       "end": 1085.98,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "机器学习的根本局限是什么？"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 9,
       "start": 1085.98,
       "end": 1090.64,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "我们最近谈到了可持续能源的重要性。"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 13,
       "start": 1090.64,
       "end": 1095.0,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "我们还讨论了如何实现这一目标的不同理论。"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 8,
       "start": 1095.0,
       "end": 1099.44,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "到目前为止，我们的讨论都是理论性的。"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 9,
       "start": 1099.44,
       "end": 1102.0,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "现在我有一个实际的问题要问大家。"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 16,
       "start": 1102.0,
       "end": 1110.46,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "你能仅靠太阳能产生的蒸汽来驱动一辆重达14万公斤的火车吗？"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 8,
       "start": 1110.46,
       "end": 1115.84,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "嗯，有一位工程师蒂姆·卡塞尔曼认为这是可能的。"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 22,
       "start": 1115.84,
       "end": 1124.54,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "他的家乡加利福尼亚州萨克拉门托将见证该技术的首次测试，这也是其铁路枢纽升级的一部分。"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 44,
       "start": 1124.54,
       "end": 1143.8,
-      "matchedWords": 44
+      "matchedWords": 44,
+      "translation": "卡塞尔曼是一位发明家，自封为“蒸汽愿景家”，他正在游说引入一种无火运行的新型蒸汽火车，该火车可以在现有的10公里线路上运行，吸引游客，并可能为城市通勤者提供一种替代汽车的绿色出行方案。"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 25,
       "start": 1143.8,
       "end": 1152.1,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "卡塞尔曼想在铁路线的一端建造一组太阳能放大镜阵列，以收集热量并将其聚焦在充满水的管道上。"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 21,
       "start": 1152.1,
       "end": 1159.9,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "这将产生蒸汽，可用于在不使用火的情况下为小型蒸汽火车的储气罐充气。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 25,
       "start": 1159.9,
       "end": 1170.18,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "他说，以这种方式为火车提供动力，可以提供从能源产地到车轮的最短距离，且能量损失最小。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 45,
       "start": 1170.18,
       "end": 1190.82,
-      "matchedWords": 43
+      "matchedWords": 43,
+      "translation": "根据研究现代蒸汽技术的加拿大工程师哈里·范伦丁的说法，一个2乘10米的特制储罐可以以高压蒸汽的形式储存超过750千瓦时的能量，足以驱动一列两节车厢的火车运行大约一小时。"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 35,
       "start": 1190.82,
       "end": 1205.9,
-      "matchedWords": 35
+      "matchedWords": 35,
+      "translation": "驱动蒸汽机车的能量除了储存在水中，还可以储存在其他材料中，例如，日本东北大学的一个团队研究了在加热时可以储存大量热量的材料。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 15,
       "start": 1205.9,
       "end": 1212.5,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "这些材料从固体变成液体，在相变过程中吸收能量。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 29,
       "start": 1212.5,
       "end": 1224.02,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "液体保持在熔点以上，直到需要蒸汽时，再让液体变回固体，释放出储存的能量。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 16,
       "start": 1224.02,
       "end": 1233.52,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "日本名古屋大学的另一个团队测试了钙化合物作为储能材料。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 12,
       "start": 1233.52,
       "end": 1240.68,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "加热这种化合物会排出二氧化碳气体，留下氧化钙。"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 13,
       "start": 1240.68,
       "end": 1245.76,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "该气体可以在压力下储存，并随后回收能量。"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 9,
       "start": 1245.76,
       "end": 1249.34,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "气体被重新输送到氧化钙上。"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 15,
       "start": 1249.34,
       "end": 1265.792,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "范伦丁说，理论上这可以产生足够高的温度来生成过热蒸汽。"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 7,
       "start": 1265.792,
       "end": 1283.34,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "演讲者之前谈论过什么？"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 9,
       "start": 1283.34,
       "end": 1301.92,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "蒂姆·卡塞尔曼在萨克拉门托试图做什么？"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 9,
       "start": 1301.92,
       "end": 1322.26,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "一个日本研究小组尝试做了什么？"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 13,
       "start": 1322.26,
       "end": 1328.3,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "如今英格兰老年人看护危机有两个主要原因。"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 11,
       "start": 1328.3,
       "end": 1333.28,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "首先，人们活得更久了，需求也变得复杂得多。"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 22,
       "start": 1333.28,
       "end": 1342.9,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "其次，他们依赖的系统长期以来一直以国家医疗和社区护理服务之间糟糕的关系为特征。"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 7,
       "start": 1342.9,
       "end": 1346.18,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "目前的服务源于两项关键措施。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 12,
       "start": 1346.18,
       "end": 1351.88,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "它们是国家医疗服务体系（NHS）和1948年的《国家援助法案》。"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 19,
       "start": 1351.88,
       "end": 1362.42,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "该法案要求地方政府为老年人提供住所，并监督由独立机构运营的养老院。"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 18,
       "start": 1362.42,
       "end": 1372.54,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "他们还提供居家和社区服务，包括餐饮、日间看护中心、家庭助手以及其他补贴服务。"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 10,
       "start": 1372.54,
       "end": 1377.54,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "国家医疗服务体系是免费的，完全由公共资金提供。"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 8,
       "start": 1377.54,
       "end": 1380.44,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "它为所有人提供最好的医疗保健。"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 9,
       "start": 1380.44,
       "end": 1384.72,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "然而，没有任何类似的愿景来指导住所和社区护理。"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 23,
       "start": 1384.72,
       "end": 1395.92,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "看护服务主要由志愿服务提供，这些服务长期以来一直与地方当局合作，资格基于收入确定。"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 18,
       "start": 1395.92,
       "end": 1404.58,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "如今，男性的平均预期寿命已从1948年的66岁提高到了现在的80岁左右。"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 13,
       "start": 1404.58,
       "end": 1410.58,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "此外，整体健康水平提高，医学知识和护理技术也得到了改进。"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 15,
       "start": 1410.58,
       "end": 1419.4,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "这意味着前所未有数量的人在需要专业支持的情况下存活得更久。"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 11,
       "start": 1419.4,
       "end": 1423.32,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "家庭提供的看护至少和以前一样多。"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 12,
       "start": 1423.32,
       "end": 1430.66,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "即便如此，如果没有补贴支持，他们也很难满足严重的个人需求。"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 12,
       "start": 1430.66,
       "end": 1436.9,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "随着这些趋势变得明显，对老年人看护的批评也一直不断。"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 14,
       "start": 1436.9,
       "end": 1444.0,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "从20世纪60年代初开始，地方当局被要求规划卫生和福利服务。"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 35,
       "start": 1444.0,
       "end": 1458.06,
-      "matchedWords": 35
+      "matchedWords": 35,
+      "translation": "其目的是使老年人能够尽可能长时间地留在自己家里，但这增加了人们对免费医疗和付费社会护理之间缺乏协调的担忧。"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 11,
       "start": 1458.06,
       "end": 1463.14,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "在整个70年代，许多措施试图改善这种情况。"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 12,
       "start": 1463.14,
       "end": 1469.58,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "然而，在财政危机时期，资金减少，情况几乎没有改变。"
     },
     {
       "id": "line-171",
@@ -2130,7 +2301,8 @@
       "words": 7,
       "start": 1469.58,
       "end": 1473.6,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "在80年代，政府削减了支出。"
     },
     {
       "id": "line-172",
@@ -2142,7 +2314,8 @@
       "words": 12,
       "start": 1473.6,
       "end": 1480.82,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "与此同时，对私立服务优于公立服务的偏好使管理变得更加困难。"
     },
     {
       "id": "line-173",
@@ -2154,7 +2327,8 @@
       "words": 8,
       "start": 1480.82,
       "end": 1485.58,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "与此同时，患病老人的数量在增加。"
     },
     {
       "id": "line-174",
@@ -2166,7 +2340,8 @@
       "words": 7,
       "start": 1485.58,
       "end": 1489.0,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "各国政府强调需要改善服务。"
     },
     {
       "id": "line-175",
@@ -2178,7 +2353,8 @@
       "words": 14,
       "start": 1489.0,
       "end": 1494.58,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "虽然他们这么说了，但却几乎没有采取任何措施来阻止可用援助的减少。"
     },
     {
       "id": "line-176",
@@ -2190,7 +2366,8 @@
       "words": 5,
       "start": 1494.58,
       "end": 1498.9,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "各地方当局的服务参差不齐。"
     },
     {
       "id": "line-177",
@@ -2202,7 +2379,8 @@
       "words": 19,
       "start": 1498.9,
       "end": 1507.12,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "除非你准备付钱，否则除了最严重的残疾人外，其他人越来越难获得这些服务。"
     },
     {
       "id": "line-178",
@@ -2214,7 +2392,8 @@
       "words": 10,
       "start": 1507.12,
       "end": 1512.28,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "为什么60年的批评只带来了如此微小的改变？"
     },
     {
       "id": "line-179",
@@ -2226,7 +2405,8 @@
       "words": 8,
       "start": 1512.28,
       "end": 1515.78,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "对老年人的歧视有着悠久的历史。"
     },
     {
       "id": "line-180",
@@ -2238,7 +2418,8 @@
       "words": 23,
       "start": 1515.78,
       "end": 1535.237,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "此外，那些受医疗和社会护理不足影响的人太脆弱了，无法发起像解决其他形式歧视那样的抗议。"
     },
     {
       "id": "line-181",
@@ -2250,7 +2431,8 @@
       "words": 15,
       "start": 1535.237,
       "end": 1555.54,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "英格兰当前的老年人看护危机的一个原因是什么？"
     },
     {
       "id": "line-182",
@@ -2262,7 +2444,8 @@
       "words": 10,
       "start": 1555.54,
       "end": 1575.08,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "关于住所和社区护理，演讲者说了什么？"
     },
     {
       "id": "line-183",
@@ -2274,7 +2457,8 @@
       "words": 13,
       "start": 1575.08,
       "end": 1595.04,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "20世纪80年代，是什么让老年人看护的管理变得更加困难？"
     },
     {
       "id": "line-184",
@@ -2286,7 +2470,8 @@
       "words": 10,
       "start": 1595.04,
       "end": 1616.162,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "演讲者关于英格兰的老年人说了什么？"
     }
   ]
 }

@@ -78,7 +78,8 @@
       "words": 16,
       "start": 36.64,
       "end": 44.62,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "今天的特别嘉宾是布莱克威尔勋爵，他是我国最有经验、最杰出的职业外交官之一。"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 1,
       "start": 44.62,
       "end": 45.64,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "欢迎你！"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 3,
       "start": 45.64,
       "end": 47.3,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "这是我的荣幸。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 15,
       "start": 47.3,
       "end": 52.56,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "我们的观众会非常感兴趣了解外交工作的职业生涯。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 24,
       "start": 52.56,
       "end": 61.8,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "不过，在谈论这个话题之前，我想问问你关于今天有关维诺皮亚共和国的新闻动态。"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 5,
       "start": 61.8,
       "end": 63.4,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "你能告诉我们些什么？"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 14,
       "start": 63.4,
       "end": 67.46,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "恐怕除了我们在新闻上看到的之外，我了解得并不多。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 33,
       "start": 67.46,
       "end": 79.68,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "看起来维诺皮亚政府似乎正在经历某种合法性危机，在就国家元首达成一致之前，已经临时建立了一个过渡政府。"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 25,
       "start": 79.68,
       "end": 90.08,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "但我的职业工作主要集中在欧洲和美洲大陆领域，因此我从未参与过与维诺皮亚的关系。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 21,
       "start": 90.08,
       "end": 96.14,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "正是由于这个原因，除了我们都能在报纸上读到的内容外，我对这件事一无所知。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 3,
       "start": 96.14,
       "end": 97.62,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "哦，我明白了。"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 31,
       "start": 97.62,
       "end": 110.32,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "尽管如此，请放心，我们在那里的领事馆的专家使节将密切关注局势，我预计我们与该国的双边关系不会受到影响。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 10,
       "start": 110.32,
       "end": 113.54,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "那么，一个人如何进入外交关系领域工作呢？"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 8,
       "start": 113.54,
       "end": 117.08,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "有很多不同的途径可以走。"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 6,
       "start": 117.08,
       "end": 119.16,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "所有的外交官都有自己的故事。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 20,
       "start": 119.16,
       "end": 126.18,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "但就我而言，我获得了电气工程学位，然后在空军服役了六年。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 26,
       "start": 126.18,
       "end": 134.58,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "然后我去了法学院，在获得国际法学位后，我加入了外交使团，在那待了22年。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 13,
       "start": 134.58,
       "end": 138.32,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "你认为这份工作需要哪些关键技能？"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 4,
       "start": 138.32,
       "end": 140.62,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "有很多。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 10,
       "start": 140.62,
       "end": 143.56,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "努力工作和做个好学生很重要。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 4,
       "start": 143.56,
       "end": 145.06,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "你永远不会停止学习。"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 14,
       "start": 145.06,
       "end": 150.02,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "此外，外交官需要非常善于表达他们的论述和修辞。"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 14,
       "start": 150.02,
       "end": 162.5,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "无论是化解注意力还是实施政策，人际交往和沟通技巧都至关重要。"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 10,
       "start": 162.5,
       "end": 179.98,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "从对话中我们了解到关于这个男人的什么？"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 12,
       "start": 179.98,
       "end": 198.94,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这个男人说维诺皮亚政府可能正在经历什么？"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 13,
       "start": 198.94,
       "end": 217.62,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "根据这个男人的说法，一个人如何获得外交关系的职业生涯？"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 12,
       "start": 217.62,
       "end": 237.2,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "在对话结束时，说话者主要讨论了什么？"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 10,
       "start": 237.2,
       "end": 241.28,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "时间不早了，我们都表现出了疲惫的迹象。"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 13,
       "start": 241.28,
       "end": 244.1,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "我想我们今天就到此为止，明天早上再见面。"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 4,
       "start": 244.1,
       "end": 245.48,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "哦，得了吧，杰夫。"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 4,
       "start": 245.48,
       "end": 247.0,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我们离成功这么近！"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 7,
       "start": 247.0,
       "end": 248.94,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "你不觉得我们快做完了吗？"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 6,
       "start": 248.94,
       "end": 251.9,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "请再多做两个小时吧。"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 6,
       "start": 251.9,
       "end": 254.4,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "一小时，然后我就回家。"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 2,
       "start": 254.4,
       "end": 255.12,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "好，行吧。"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 19,
       "start": 255.12,
       "end": 261.68,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "我认为我们取得了不错的进展，再做一些修改，我们就大功告成了。"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 6,
       "start": 261.68,
       "end": 263.64,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我真的很期待。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 6,
       "start": 263.64,
       "end": 265.78,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我厌倦了这个项目。"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 4,
       "start": 265.78,
       "end": 267.1,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "别误会我的意思。"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 19,
       "start": 267.1,
       "end": 273.28,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "这对我来说是一个很好的职业机会，也是公司的一个里程碑，但它已经持续太久了。"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 1,
       "start": 273.28,
       "end": 274.54,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "是的。"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 13,
       "start": 274.54,
       "end": 278.9,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "两个月只研究同一份合同确实有点辛苦。"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 15,
       "start": 278.9,
       "end": 283.66,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "尽管如此，我认为运气好的话，我们下周就能做完。"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 5,
       "start": 283.66,
       "end": 286.12,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "哈，你一定是在产生幻觉。"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 4,
       "start": 286.12,
       "end": 287.48,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "你不这么认为吗？"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 2,
       "start": 287.48,
       "end": 289.16,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "没机会。"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 15,
       "start": 289.16,
       "end": 294.24,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "第4、5、8和9节仍需与新框架保持一致。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 16,
       "start": 294.24,
       "end": 299.76,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "然后我们需要校对整个文件，确保所有的卖点都无懈可击。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 12,
       "start": 299.76,
       "end": 302.52,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "但那最多也只要几天时间。"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 3,
       "start": 302.52,
       "end": 304.52,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "我还没说完。"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 16,
       "start": 304.52,
       "end": 308.82,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "等我们做完了送上去，你觉得会发生什么？"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 1,
       "start": 308.82,
       "end": 309.44,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "什么？"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 8,
       "start": 309.44,
       "end": 312.18,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "他们会为此争论一个月左右。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 16,
       "start": 312.18,
       "end": 317.52,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "总会有那么几个古怪的董事会成员介入并要求做出整改。"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 15,
       "start": 317.52,
       "end": 322.22,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "他们可能认为这很有帮助，但实际上这是在阻挠和妨碍进度。"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 7,
       "start": 322.22,
       "end": 326.32,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "哦，杰夫，你太焦虑、太愤世嫉俗了。"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 8,
       "start": 326.32,
       "end": 328.18,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "情况不会那么糟糕的。"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 26,
       "start": 328.18,
       "end": 338.98,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "你会看到的，整个管理层都希望看到这个项目尽快实施，而且董事会也几乎一致支持。"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 13,
       "start": 338.98,
       "end": 350.42,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "那就这样吧，今天停在这里，明天同一时间再见面。"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 10,
       "start": 350.42,
       "end": 367.3,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "为什么这个男人建议他们今天就到此为止？"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 9,
       "start": 367.3,
       "end": 383.98,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "这个女人说什么是有点辛苦的？"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 16,
       "start": 383.98,
       "end": 402.98,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "这个男人说这个女人在想下周能做完时一定是在想什么？"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 13,
       "start": 402.98,
       "end": 450.54,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "根据这个女人的说法，整个管理层想要看到什么？"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 35,
       "start": 450.54,
       "end": 463.6,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "在四分之一个世纪的管理生涯中，我学到的一件事是，人类行为中存在大量的灰色地带，员工争议可能并不总是有明确的对错解决方案。"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 19,
       "start": 463.6,
       "end": 470.62,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "当两个人对同一事件有不同的说法时，很难知道该相信谁。"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 8,
       "start": 470.62,
       "end": 473.58,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "这种情况总会浮现在我的脑海中。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 32,
       "start": 473.58,
       "end": 484.8,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "它发生在很多年前，衡量这场冲突被遗忘程度的一个标准是，我甚至不再记得争议是关于什么的，但我肯定记得解决方案。"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 28,
       "start": 484.8,
       "end": 495.1,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "两位才华横溢的年轻高管，其中一位由我管理，他们对同一事件的描述大相径庭，看起来我们似乎永远无法查明真相。"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 24,
       "start": 495.1,
       "end": 503.4,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "我们陷入了僵局，另一位个人的经理说：“这是我从曾经工作过的一位优秀经理那里学到的一点。"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 10,
       "start": 503.4,
       "end": 508.26,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "他常说，‘有疑问时，假设动机是好的。’"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 9,
       "start": 508.26,
       "end": 511.34,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "“就这样，我们有了前进的方向。"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 26,
       "start": 511.34,
       "end": 522.0,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "我和我的同事都同意，我们可能永远无法确定事情的实际真相；很可能两位员工的故事中都有真实的成分。"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 15,
       "start": 522.0,
       "end": 527.88,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "我们同意在此后监测他们的行为和关系，但不再进一步干预。"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 11,
       "start": 527.88,
       "end": 531.2,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我们对他们两个人都做了最好的假设，然后继续前进。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 13,
       "start": 531.2,
       "end": 534.9,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "结果是，我们能够把冲突抛在脑后。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 6,
       "start": 534.9,
       "end": 537.14,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "事实上，他们的问题没有再发生。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 9,
       "start": 537.14,
       "end": 541.42,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "多年来，这种通用方法已被证明很有用。"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 18,
       "start": 541.42,
       "end": 555.02,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "每当真相不明时，假设动机良好并同意继续前进可能是一个建设性的决定。"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 10,
       "start": 555.02,
       "end": 572.46,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "什么时候很难知道该相信谁？"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 13,
       "start": 572.46,
       "end": 591.96,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "关于作为例子提到的那场争议，说话者肯定记得什么？"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 19,
       "start": 591.96,
       "end": 612.7,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "当两名员工对同一事件给出不同的描述时，说话者和他的同事是怎么做的？"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 14,
       "start": 612.7,
       "end": 618.78,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "对于一些美国人来说，出去吃晚饭是一种享受，是经过计划和预算的。"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 7,
       "start": 618.78,
       "end": 622.0,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "对于其他人来说，这只是家常便饭。"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 20,
       "start": 622.0,
       "end": 628.22,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "随着享受烹饪的美国人数量正在下降，第二组人正在成为大多数。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 16,
       "start": 628.22,
       "end": 637.9,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "在21世纪初，研究员艾迪·尹进行了一项调查，以确定美国人对烹饪的态度。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 21,
       "start": 637.9,
       "end": 649.36,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "调查发现，15%的美国人喜欢烹饪，50%的人说他们讨厌烹饪，35%的人报告说心情矛盾。"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 28,
       "start": 649.36,
       "end": 664.16,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "当尹在15年后进行同样的调查时，只有10%的受访者表示热爱烹饪，45%的人说他们讨厌烹饪，45%的人心情矛盾。"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 7,
       "start": 664.16,
       "end": 667.28,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "尹断言烹饪类似于缝纫。"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 13,
       "start": 667.28,
       "end": 673.28,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "就在20世纪初，许多美国人还自己缝制衣服。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 22,
       "start": 673.28,
       "end": 682.44,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "今天，绝大多数美国人购买衣服；只有极少数人仍然在缝纫，而且他们主要是将其作为一种爱好。"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 13,
       "start": 682.44,
       "end": 687.92,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "尹相信家庭厨师的数量将以类似的方式减少。"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 14,
       "start": 687.92,
       "end": 694.74,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "目前，平均每个美国大家庭每年在外面吃饭的花费超过3000美元。"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 10,
       "start": 694.74,
       "end": 699.5,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "然而，人们在便利上节省下来的，在现金上却损失了。"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 7,
       "start": 699.5,
       "end": 703.0,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "以工作日买午餐为例。"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 11,
       "start": 703.0,
       "end": 707.5,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "人们买午餐时平均每顿饭花费10美元。"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 8,
       "start": 707.5,
       "end": 709.98,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "与此同时，自己做午餐花费更少。"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 9,
       "start": 709.98,
       "end": 714.3,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "一项调查发现，人们平均只花费6美元。"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 8,
       "start": 714.3,
       "end": 718.54,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "30当他们带在家里准备的午餐时。"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 18,
       "start": 718.54,
       "end": 725.94,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "美国人越来越厌恶在厨房花时间，这标志着杂货业面临的一系列挑战。"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 9,
       "start": 725.94,
       "end": 737.06,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "这也可能对家庭财务产生不利影响。"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 12,
       "start": 737.06,
       "end": 755.68,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "根据文章，越来越多的美国人在做什么？"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 9,
       "start": 755.68,
       "end": 773.18,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "艾迪·尹认为烹饪类似于什么？"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 12,
       "start": 773.18,
       "end": 790.98,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "通过自己做午餐，美国人将能够做什么？"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 14,
       "start": 790.98,
       "end": 836.12,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "文章说什么是美国杂货业面临一系列挑战的标志？"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 7,
       "start": 836.12,
       "end": 838.04,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "每年，在超过2."
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 26,
       "start": 838.04,
       "end": 849.18,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "在全球范围内办理登机手续的50亿个托运袋子中，有2600万个失踪——在这2600万个中，有100万个再也没有回到原来的主人手中。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 26,
       "start": 849.18,
       "end": 858.6,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "恶劣的天气和航班延误、目的地标签代码错误以及有些人仅仅是忘记取走其中一个袋子，这些都是其中的一些原因。"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 25,
       "start": 858.6,
       "end": 867.38,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "但是，一个袋子最终丢失的首要原因是它没有身份标签，航空公司不知道它属于谁。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 20,
       "start": 867.38,
       "end": 873.86,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "将行李从值机柜台转移到登机口、到达口、再到行李领取处，是一个精密的时间控制过程。"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 12,
       "start": 873.86,
       "end": 879.4,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "如果系统移动太慢，袋子就赶不上转机航班。"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 17,
       "start": 879.4,
       "end": 885.44,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "如果太快，袋子可能赶上了转机，但乘客可能错过了航班。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 18,
       "start": 885.44,
       "end": 891.46,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "每个机场都有自己分配行李在中转过程中移动所需时间的方式。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 33,
       "start": 891.46,
       "end": 906.9,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "一些机场拥有先进的自动化系统，包括读取行李标签的扫描仪、无需停留即可装卸袋子的带有目的地代码的车辆，以及将行李运送到相应登机口的分类机。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 29,
       "start": 906.9,
       "end": 917.38,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "即便如此，所有这些技术也可能无法挽救你的行李标签不被传送带撕掉，让你成为一个没有名字的袋子的主人。"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 19,
       "start": 917.38,
       "end": 923.8,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "一旦袋子失踪且乘客提出索赔，承运商就会宣布该袋子为“处理不当”。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 12,
       "start": 923.8,
       "end": 930.0,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "处理不当是指延迟、丢失、被盗或损坏的袋子。"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 17,
       "start": 930.0,
       "end": 936.34,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "大多数延迟的袋子只比它们的主人晚一个航班，可以在24小时内送达。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 15,
       "start": 936.34,
       "end": 942.46,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "其他的袋子则由航空公司员工检查，以寻找关于其归属和目的地的线索。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 17,
       "start": 942.46,
       "end": 948.5,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "如果谜团解开，这些袋子会在四五天内归还给主人。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 26,
       "start": 948.5,
       "end": 961.24,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "没有目的地代码或识别标签的袋子被运往中央仓库，并在接下来的90天内接受全面的行李追踪程序。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 17,
       "start": 961.24,
       "end": 967.98,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "航空公司对处理不当的行李进行清点，许多航空公司使用数据库将内容物与主人的描述进行比对。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 14,
       "start": 967.98,
       "end": 972.38,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "从“下落不明”到“无法找回的丢失”大约需要三个月的时间。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 23,
       "start": 972.38,
       "end": 981.76,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "一旦发生这种情况，这些袋子会被捐赠给慈善机构、在拍卖会上出售，或由一家公司购买后卖给公众。"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 11,
       "start": 981.76,
       "end": 985.94,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "所以，永远不要在托运的行李中装入任何真正有价值的东西。"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 20,
       "start": 985.94,
       "end": 998.48,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "并确保你的名字在袋子上，还有你的电话号码，这样工作人员就能联系到你。"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 15,
       "start": 998.48,
       "end": 1017.64,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "根据这个谈话，一个袋子最终丢失的首要原因是什么？"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 13,
       "start": 1017.64,
       "end": 1037.26,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "即使有先进的自动化系统，你的行李也可能发生什么？"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 14,
       "start": 1037.26,
       "end": 1055.64,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "在谈话结束时，说话者建议我们做什么？"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 15,
       "start": 1055.64,
       "end": 1061.72,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "你可能曾和某人在一起，而他或她在摆弄智能手机时忽略了你。"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 8,
       "start": 1061.72,
       "end": 1065.12,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "你可能自己也做过这种行为。"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 20,
       "start": 1065.12,
       "end": 1073.62,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "在最近的一项调查中，十分之九的受访者表示他们在最近的一次社交活动中使用过智能手机。"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 9,
       "start": 1073.62,
       "end": 1077.5,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "还有证据表明这种行为在社交上是有害的。"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 12,
       "start": 1077.5,
       "end": 1081.2,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "它会让人对面对面的互动感到不那么满意。"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 9,
       "start": 1081.2,
       "end": 1086.92,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "它还会产生怨恨和嫉妒的感觉。"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 18,
       "start": 1086.92,
       "end": 1094.88,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "现在，《应用社会心理学杂志》发表了一项探索这些影响原因的新研究。"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 8,
       "start": 1094.88,
       "end": 1100.32,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "这项研究包括了128名主要是女学生的参与者。"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 18,
       "start": 1100.32,
       "end": 1107.12,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "参与者观看了一段三分钟的动画，其中两个卡通人物互动并进行交谈。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 12,
       "start": 1107.12,
       "end": 1114.18,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "对话听不见，但可以通过嘴部的动作察觉到。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 27,
       "start": 1114.18,
       "end": 1124.84,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "参与者必须把自己想象成视频中最近的人物，然后对对话做出判断，以及他们对对话伙伴的感觉。"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 21,
       "start": 1124.84,
       "end": 1132.86,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "在实验的一个版本中，参与者的对话伙伴的手机在整个对话过程中一直放在桌子上没动。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 26,
       "start": 1132.86,
       "end": 1142.64,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "在另一个版本中，他们伙伴的注意力很快被手机上的东西吸引，他们在剩下的时间里都在摆弄手机。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 22,
       "start": 1142.64,
       "end": 1152.52,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "第三个版本涉及参与者的伙伴在摆弄手机的时间段和忽略手机的时间段之间交替。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 17,
       "start": 1152.52,
       "end": 1158.94,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "如果你经历过类似的情况，你可能不会对实验结果感到惊讶。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 12,
       "start": 1158.94,
       "end": 1164.92,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "参与者对社交互动期间使用手机持否定态度。"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 21,
       "start": 1164.92,
       "end": 1172.94,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "它出现的次数越多，他们认为互动的质量和关系的质量就越差。"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 27,
       "start": 1172.94,
       "end": 1183.44,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "研究人员认为，专注于自己的手机而不是陪伴的人之所以会产生这种影响，是因为这被视为一种社交排斥的形式。"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 21,
       "start": 1183.44,
       "end": 1191.48,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "他们断言，这种行为类似于人们别无选择只能在学校食堂独自吃饭的情况。"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 16,
       "start": 1191.48,
       "end": 1199.04,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "出人意料的是，这种排斥发生正在身体接触和交谈的过程中。"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 19,
       "start": 1199.04,
       "end": 1206.88,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "研究人员发现，这种行为对参与者的归属感、对意义的需求和自尊心产生了不利影响。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 14,
       "start": 1206.88,
       "end": 1214.34,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "这些负面影响类似于传统形式的社交排斥所造成的影响。"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 20,
       "start": 1214.34,
       "end": 1222.2,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "新发现很重要，因为它们详尽阐述了我们对日常体验中一个微妙但常见的方面的理解。"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 17,
       "start": 1222.2,
       "end": 1236.6,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "即使在努力与他人建立联系时，这种常见的行为也会造成疏离的恶性循环。"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 15,
       "start": 1236.6,
       "end": 1256.16,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "说话者关于在面对面交谈中使用智能手机说了什么？"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 15,
       "start": 1256.16,
       "end": 1276.84,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "这项新研究的参与者对社交互动期间使用手机是如何反应的？"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 19,
       "start": 1276.84,
       "end": 1298.34,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "说话者说在面对面交谈中使用手机这种常见行为会导致什么结果？"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 10,
       "start": 1298.34,
       "end": 1301.88,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "越来越多的人出于各种原因旅行。"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 12,
       "start": 1301.88,
       "end": 1307.2,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "许多人是游客，但许多人是为了个人或职业事务而外出冒险。"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 16,
       "start": 1307.2,
       "end": 1314.32,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "无论旅行的原因是什么，旅行者一个共同的抱怨是他们发现的冷冰冰的住宿。"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 57,
       "start": 1314.32,
       "end": 1336.26,
-      "matchedWords": 55
+      "matchedWords": 55,
+      "translation": "在五家类似的酒店连续住了五个晚上后，商务旅行者可能会发现很难记住每天发生了什么，甚至很难记住访问过哪些城镇，而游客可能会产生一种错误的印象，认为所有的城市都差不多，至少在装饰、食物和服务方面是这样。"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 20,
       "start": 1336.26,
       "end": 1344.92,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "为了消除这种冷冰冰的雷同感，旅行者正在利用居家款待或民宿（B&B）安排。"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 22,
       "start": 1344.92,
       "end": 1354.86,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "B&Bs，我的意思是民宿安排，是提供住宿和早餐的私人住宅，环境非常个性化、友好。"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 16,
       "start": 1354.86,
       "end": 1359.98,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "几十年来，民宿一直是访问欧洲的经典方式，尤其是英伦三岛。"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 12,
       "start": 1359.98,
       "end": 1363.8,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "事实上，这在美国并不是什么新想法。"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 32,
       "start": 1363.8,
       "end": 1373.76,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "这一传统可以追溯到殖民时代，当时客栈很少且相隔甚远，疲惫的旅行者不得不依靠陌生人的善意来获得一顿饭和一张床。"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 14,
       "start": 1373.76,
       "end": 1380.24,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "但民宿作为理想住宿的复兴是相当近期的现象。"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 22,
       "start": 1380.24,
       "end": 1387.6,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "如果经营民宿的想法引起了你的兴趣，在投入这项业务之前有几个因素需要考虑。"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 14,
       "start": 1387.6,
       "end": 1393.1,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "首先要考虑的是你的房产，不仅是建筑本身，还有位置。"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 36,
       "start": 1393.1,
       "end": 1405.26,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "如果你住在著名的历史遗迹附近或热门目的地，如纽约市或华盛顿特区，你的家可以相当简单，但作为民宿仍然可以经营得很好。"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 37,
       "start": 1405.26,
       "end": 1418.4,
-      "matchedWords": 36
+      "matchedWords": 36,
+      "translation": "另一方面，如果你的家在建筑上很独特，或者有为旅行者提供的设施，如私人入口、私人浴室或游泳池，人们可能愿意走一段路去找你。"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 11,
       "start": 1418.4,
       "end": 1423.26,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "另一个重要因素是你和家人的生活方式。"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 39,
       "start": 1423.26,
       "end": 1438.9,
-      "matchedWords": 38
+      "matchedWords": 38,
+      "translation": "你必须考虑到所有的家庭成员是否真的喜欢访客，是否愿意反复讨论当地的景点和活动，是否有时间和精力来处理额外的烹饪、打扫、洗衣服和涉及的记账工作。"
     },
     {
       "id": "line-171",
@@ -2130,7 +2301,8 @@
       "words": 18,
       "start": 1438.9,
       "end": 1447.1,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "最后要考虑的是财务方面的，潜在的民宿主人必须对收入机会持现实态度。"
     },
     {
       "id": "line-172",
@@ -2142,7 +2314,8 @@
       "words": 29,
       "start": 1447.1,
       "end": 1465.98,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "虽然民宿的初始成本通常较低，但专家估计，主人至少需要定期租出五间房才能以经营民宿为生。"
     },
     {
       "id": "line-173",
@@ -2154,7 +2327,8 @@
       "words": 9,
       "start": 1465.98,
       "end": 1484.28,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "说话者说旅行者通常抱怨什么？"
     },
     {
       "id": "line-174",
@@ -2166,7 +2340,8 @@
       "words": 8,
       "start": 1484.28,
       "end": 1502.54,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于民宿安排是怎么说的？"
     },
     {
       "id": "line-175",
@@ -2178,7 +2353,8 @@
       "words": 18,
       "start": 1502.54,
       "end": 1521.68,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "如果你想开始民宿生意，你首先要考虑的是什么？"
     },
     {
       "id": "line-176",
@@ -2190,7 +2366,8 @@
       "words": 13,
       "start": 1521.68,
       "end": 1543.93,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "说话者说潜在的民宿主人必须对什么持现实态度？"
     }
   ]
 }

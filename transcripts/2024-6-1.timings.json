@@ -78,7 +78,8 @@
       "words": 2,
       "start": 44.88,
       "end": 48.02,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "早上好。"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 4,
       "start": 48.02,
       "end": 49.069,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "有什么可以帮您的吗？"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 14,
       "start": 49.069,
       "end": 52.74,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "是的，我正在找一本关于美国爵士乐历史的书。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 9,
       "start": 52.74,
       "end": 55.1,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我正在为我的音乐鉴赏课写一篇论文。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 7,
       "start": 55.1,
       "end": 76.16,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "我们有几本关于那个主题的书。"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 11,
       "start": 76.16,
       "end": 109.48,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "它们在四楼的音乐区，4C号书架。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 4,
       "start": 109.48,
       "end": 111.9,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "让我带您去。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 2,
       "start": 111.9,
       "end": 114.32,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "谢谢。"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 4,
       "start": 114.32,
       "end": 120.546,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "那太好了。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 3,
       "start": 120.546,
       "end": 126.772,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "到了。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 9,
       "start": 126.772,
       "end": 140.78,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "杰弗里·C·"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 8,
       "start": 140.78,
       "end": 142.774,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "沃德和肯·伯恩斯写的《爵士乐：美国音乐史》是一本综合性的概述。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 14,
       "start": 142.774,
       "end": 146.263,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "它涵盖了从新奥尔良爵士乐起源到今天的发展。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 3,
       "start": 146.263,
       "end": 147.26,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "那看起来不错。"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 6,
       "start": 147.26,
       "end": 148.756,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "您还有其他推荐吗？"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 12,
       "start": 148.756,
       "end": 151.747,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "有的，泰德·乔亚写的《爵士乐史》也非常受欢迎。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 17,
       "start": 151.747,
       "end": 155.984,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "它更偏学术性，但有很多关于不同爵士风格和音乐家的详细信息。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 7,
       "start": 155.984,
       "end": 157.729,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我想这两本我都要了。"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 10,
       "start": 157.729,
       "end": 160.221,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我的论文需要尽可能多的信息。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 1,
       "start": 160.221,
       "end": 161.218,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "当然可以。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 6,
       "start": 161.218,
       "end": 162.713,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "您有借书证吗？"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 4,
       "start": 162.713,
       "end": 163.71,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "有的，给您。"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 9,
       "start": 163.71,
       "end": 165.954,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "好的，这些书要在三周内归还。"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 10,
       "start": 165.954,
       "end": 168.446,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "如果您需要更多时间，可以在线续借。"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 2,
       "start": 168.446,
       "end": 169.443,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "谢谢。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 4,
       "start": 169.443,
       "end": 170.44,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "感谢您的帮助。"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 8,
       "start": 170.44,
       "end": 208.12,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "男的为什么要来图书馆？"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 8,
       "start": 208.12,
       "end": 234.94,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "关于爵士乐的书放在哪里？"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 9,
       "start": 234.94,
       "end": 247.88,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "《爵士乐：美国音乐史》是关于什么的？"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 8,
       "start": 247.88,
       "end": 257.795,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "男的可以把书借走多长时间？"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 2,
       "start": 257.795,
       "end": 260.128,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "嗨，珍妮弗。"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 6,
       "start": 260.128,
       "end": 263.627,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "你的巴黎之旅怎么样？"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 3,
       "start": 263.627,
       "end": 265.96,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "太棒了！"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 6,
       "start": 265.96,
       "end": 273.94,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "我玩得很开心。"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 9,
       "start": 273.94,
       "end": 280.214,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "那座城市很美，食物也很好吃。"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 6,
       "start": 280.214,
       "end": 284.396,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "你参观了什么著名的景点吗？"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 14,
       "start": 284.396,
       "end": 294.156,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "是的，我去了埃菲尔铁塔、卢浮宫博物馆和巴黎圣母院。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 13,
       "start": 294.156,
       "end": 303.218,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "埃菲尔铁塔在夜晚灯火辉煌的时候尤其令人印象深刻。"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 3,
       "start": 303.218,
       "end": 306.006,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "听起来太棒了。"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 7,
       "start": 306.006,
       "end": 310.886,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "你拍了很多照片吗？"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 6,
       "start": 310.886,
       "end": 315.068,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "是的，我拍了几百张照片。"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 5,
       "start": 315.068,
       "end": 318.554,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "等会儿我给你看一些。"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 10,
       "start": 318.554,
       "end": 325.524,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我还给家人和朋友买了一些纪念品。"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 4,
       "start": 325.524,
       "end": 328.313,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "你买了什么？"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 21,
       "start": 328.313,
       "end": 342.952,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我给妈妈买了一些法国香水，给爸爸买了一瓶酒，还给朋友买了一些巧克力。"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 2,
       "start": 342.952,
       "end": 345.74,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "那真不错。"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 8,
       "start": 345.74,
       "end": 346.258,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "旅行期间遇到什么麻烦了吗？"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 10,
       "start": 346.258,
       "end": 346.905,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "嗯，在语言方面确实遇到了一点小麻烦。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 15,
       "start": 346.905,
       "end": 347.876,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我的法语不太好，但大多数人都说英语，所以还好。"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 7,
       "start": 347.876,
       "end": 348.329,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "很高兴你玩得开心。"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 7,
       "start": 348.329,
       "end": 348.782,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我一直想去巴黎。"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 4,
       "start": 348.782,
       "end": 349.041,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "你一定要去看看。"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 4,
       "start": 349.041,
       "end": 349.3,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "那是一座美妙的城市。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 10,
       "start": 349.3,
       "end": 359.983,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "女的觉得她的巴黎之旅怎么样？"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 7,
       "start": 359.983,
       "end": 368.98,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "哪个景点在晚上尤其令人印象深刻？"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 8,
       "start": 368.98,
       "end": 463.092,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "女的给她的爸爸买了什么？"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 9,
       "start": 463.092,
       "end": 562.74,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "女的在旅行期间遇到了什么问题？"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 22,
       "start": 562.74,
       "end": 572.24,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "一项新研究发现，规律运动可以改善老年人的大脑功能，降低认知能力下降的风险。"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 24,
       "start": 572.24,
       "end": 728.874,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "这项由加州大学研究人员进行的研究，对1000名65岁以上的老年人进行了为期五年的追踪。"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 7,
       "start": 728.874,
       "end": 774.559,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "参与者被分为两组。"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 22,
       "start": 774.559,
       "end": 918.14,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "一组进行中等强度的运动，如散步或游泳，每周至少三次，每天至少30分钟。"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 10,
       "start": 918.14,
       "end": 1098.74,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "另一组不进行任何规律运动。"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 28,
       "start": 1098.74,
       "end": 1164.759,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "在五年结束时，研究人员发现，运动组的记忆力、注意力和解决问题的能力都优于非运动组。"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 9,
       "start": 1164.759,
       "end": 1185.98,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "他们患痴呆症的风险也较低。"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 24,
       "start": 1185.98,
       "end": 1297.264,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "研究人员解释说，运动增加了流向大脑的血液，这有助于滋养脑细胞并促进新神经元的生长。"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 14,
       "start": 1297.264,
       "end": 1362.18,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "它还能减少炎症和氧化应激，这两者都与认知能力下降有关。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 19,
       "start": 1362.18,
       "end": 1383.25,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "研究表明，规律运动是随着年龄增长维持大脑健康的一种简单有效的方法。"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 10,
       "start": 1383.25,
       "end": 1394.34,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "即使是像散步这样的中等强度运动，也能产生显著的益处。"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 10,
       "start": 1394.34,
       "end": 1395.993,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "加州大学的研究人员发现了什么？"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 6,
       "start": 1395.993,
       "end": 1397.298,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这项研究持续了多久？"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 6,
       "start": 1397.298,
       "end": 1398.603,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "为什么运动能改善大脑功能？"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 33,
       "start": 1398.603,
       "end": 1401.474,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "物联网（IoT）是一个由物理设备、车辆、家用电器以及其他嵌入了电子设备、软件、传感器和连接能力的物品组成的网络，这使得这些物体能够连接并交换数据。"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 12,
       "start": 1401.474,
       "end": 1402.518,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "物联网有潜力改变我们生活的许多方面。"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 21,
       "start": 1402.518,
       "end": 1404.345,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "例如，智能家居可以根据我们的偏好自动调节温度、开灯和锁门。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 18,
       "start": 1404.345,
       "end": 1405.911,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "智能汽车可以相互通信，并与交通信号灯通信，以减少事故并改善交通流量。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 7,
       "start": 1405.911,
       "end": 1406.52,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "然而，物联网也引发了一些担忧。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 7,
       "start": 1406.52,
       "end": 1436.88,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "主要的担忧之一是安全性。"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 15,
       "start": 1436.88,
       "end": 1442.376,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "随着越来越多的设备连接到互联网，它们变得容易受到黑客攻击和网络攻击。"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 17,
       "start": 1442.376,
       "end": 1448.605,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "黑客可能会获取我们的个人信息，控制我们的设备，甚至造成人身伤害。"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 4,
       "start": 1448.605,
       "end": 1450.07,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "另一个担忧是隐私。"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 12,
       "start": 1450.07,
       "end": 1454.467,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "物联网会产生大量关于我们日常生活的数据。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 19,
       "start": 1454.467,
       "end": 1461.428,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这些数据可能会被公司用来向我们投放针对性广告，或被政府用来监控我们的活动。"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 17,
       "start": 1461.428,
       "end": 1467.657,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "为了解决这些担忧，我们需要制定更好的安全措施和隐私法律来保护用户。"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 17,
       "start": 1467.657,
       "end": 1473.886,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我们还需要教育人们了解物联网的风险以及如何保护自己。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 6,
       "start": 1473.886,
       "end": 1479.382,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "什么是物联网？"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 10,
       "start": 1479.382,
       "end": 1486.343,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "物联网的潜在益处之一是什么？"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 10,
       "start": 1486.343,
       "end": 1493.305,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "关于物联网，主要的担忧之一是什么？"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 13,
       "start": 1493.305,
       "end": 1501.365,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我们需要做什么来解决关于物联网的担忧？"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 13,
       "start": 1501.365,
       "end": 1506.129,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "气候变化是当今世界面临的最紧迫问题之一。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 16,
       "start": 1506.129,
       "end": 1511.991,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "它是由向大气中排放二氧化碳等温室气体引起的。"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 13,
       "start": 1511.991,
       "end": 1516.754,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这些气体吸收太阳的热量，导致地球温度升高。"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 12,
       "start": 1516.754,
       "end": 1521.151,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "气候变化的影响已经席卷全球。"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 12,
       "start": 1521.151,
       "end": 1525.547,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我们正看到更频繁、更严重的热浪、干旱、洪水和风暴。"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 21,
       "start": 1525.547,
       "end": 1533.242,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这些极端天气事件可能对财产、基础设施和农业造成重大破坏，还可能导致生命损失。"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 10,
       "start": 1533.242,
       "end": 1536.906,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "气候变化还对人类健康产生负面影响。"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 24,
       "start": 1536.906,
       "end": 1545.699,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "随着蚊子和其他携带疾病的昆虫扩大活动范围，它可能会增加疟疾和登革热等传染病的传播。"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 12,
       "start": 1545.699,
       "end": 1550.096,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "它还可能因空气污染和野火引发呼吸道问题。"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 12,
       "start": 1550.096,
       "end": 1554.493,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "为了应对气候变化，我们需要减少温室气体排放。"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 23,
       "start": 1554.493,
       "end": 1562.92,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这包括转向太阳能和风能等可再生能源，提高能源效率，并减少我们对化石燃料的依赖。"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 28,
       "start": 1562.92,
       "end": 1573.179,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我们还需要适应已经发生的改变，例如建造海堤以防御海平面上升，以及开发抗旱作物。"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 16,
       "start": 1573.179,
       "end": 1579.041,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "此外，我们需要提高人们对气候变化的认识，并鼓励人们采取行动。"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 22,
       "start": 1579.041,
       "end": 1587.102,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "每个人都可以通过减少碳足迹来尽自己的一份力量，例如少开车、使用节能电器和少吃肉。"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 4,
       "start": 1587.102,
       "end": 1591.865,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "什么引起了气候变化？"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 9,
       "start": 1591.865,
       "end": 1598.46,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "气候变化的一些影响是什么？"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 9,
       "start": 1598.46,
       "end": 1599.19,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "我们可以做些什么来减少温室气体排放？"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 12,
       "start": 1599.19,
       "end": 1599.676,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "人工智能（AI）正在迅速改变我们的生活和工作方式。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 18,
       "start": 1599.676,
       "end": 1600.406,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "它被广泛应用于从医疗保健、金融到交通、教育的各个行业。"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 16,
       "start": 1600.406,
       "end": 1601.055,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "在医疗保健领域，人工智能被用于诊断疾病、开发新药和制定个性化治疗方案。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 24,
       "start": 1601.055,
       "end": 1602.028,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "例如，人工智能算法可以分析X光和核磁共振等医学图像，在早期发现癌症和其他疾病。"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 15,
       "start": 1602.028,
       "end": 1602.636,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "在金融领域，人工智能被用于检测欺诈、管理风险和提供财务建议。"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 18,
       "start": 1602.636,
       "end": 1603.366,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "人工智能算法可以分析大量的财务数据，以识别出人类可能会忽略的模式和趋势。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 13,
       "start": 1603.366,
       "end": 1603.893,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "在交通领域，人工智能被用于开发自动驾驶汽车和卡车。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 17,
       "start": 1603.893,
       "end": 1604.582,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "自动驾驶车辆有潜力减少事故、改善交通流量并提高交通效率。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 9,
       "start": 1604.582,
       "end": 1604.947,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "然而，人工智能也引发了一些伦理和社会问题。"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 21,
       "start": 1604.947,
       "end": 1605.799,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "例如，人们担心工作岗位会被取代，因为人工智能系统可以执行许多目前由人类完成的任务。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 20,
       "start": 1605.799,
       "end": 1606.609,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "人们还担心人工智能算法中的偏见，这可能导致对某些人群的不公平对待。"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 22,
       "start": 1606.609,
       "end": 1607.501,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "为了确保人工智能造福人类，我们需要制定其使用的伦理准则和法规。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 18,
       "start": 1607.501,
       "end": 1608.231,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我们还需要投资于教育和培训，帮助人们适应不断变化的就业市场。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 8,
       "start": 1608.231,
       "end": 1608.92,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "人工智能在医疗保健领域被用来做什么？"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 11,
       "start": 1608.92,
       "end": 1609.731,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "自动驾驶车辆的潜在益处之一是什么？"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 12,
       "start": 1609.731,
       "end": 1610.583,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "人工智能引发了哪些伦理和社会问题？"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 12,
       "start": 1610.583,
       "end": 1611.069,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "阅读是一项基本技能，对人生的成功至关重要。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 19,
       "start": 1611.069,
       "end": 1611.84,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "它不仅为我们提供知识和信息，还帮助我们培养批判性思维、同理心和想象力。"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 9,
       "start": 1611.84,
       "end": 1612.205,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "阅读让我们接触到不同的想法、文化和观点。"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 20,
       "start": 1612.205,
       "end": 1613.015,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "它让我们了解来自世界各地、不同时期的人们的经历。"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 9,
       "start": 1613.015,
       "end": 1613.38,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这有助于我们培养对他人的同理心和理解。"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 8,
       "start": 1613.38,
       "end": 1613.705,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "阅读还有助于培养批判性思维能力。"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 15,
       "start": 1613.705,
       "end": 1614.313,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "当我们阅读时，我们必须分析和评估所呈现的信息。"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 17,
       "start": 1614.313,
       "end": 1615.002,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我们必须区分事实和观点，并识别作者的意图和立场。"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 11,
       "start": 1615.002,
       "end": 1615.448,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "此外，阅读可以提高我们的词汇量、语法和写作技巧。"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 17,
       "start": 1615.448,
       "end": 1616.137,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "它让我们接触到不同的写作风格，并帮助我们学习如何更有效地表达自己。"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 13,
       "start": 1616.137,
       "end": 1616.664,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "不幸的是，现在的许多人不像以前那样读那么多书了。"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 25,
       "start": 1616.664,
       "end": 1617.678,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "随着社交媒体和数字技术的兴起，人们花在看视频和刷社交媒体上的时间比看书的时间还多。"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 15,
       "start": 1617.678,
       "end": 1618.286,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "为了鼓励更多人阅读，我们需要让阅读变得更便捷、更有趣。"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 20,
       "start": 1618.286,
       "end": 1619.097,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这包括在学校、图书馆和社区提供获取书籍的渠道，并将阅读作为一项有趣且有意义的活动来推广。"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 8,
       "start": 1619.097,
       "end": 1619.786,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "阅读的一些益处是什么？"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 7,
       "start": 1619.786,
       "end": 1620.435,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "阅读如何帮助我们培养同理心？"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 8,
       "start": 1620.435,
       "end": 1620.485,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "是什么导致了阅读量的下降？"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 10,
       "start": 1620.485,
       "end": 1621.124,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我们可以做些什么来鼓励更多人阅读？"
     }
   ]
 }

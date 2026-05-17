@@ -78,7 +78,8 @@
       "words": 7,
       "start": 38.2,
       "end": 41.06,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "我得说，我非常喜欢我们的食堂！"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 6,
       "start": 41.06,
       "end": 43.2,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "它真是一个很棒的聚会点！"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 9,
       "start": 43.2,
       "end": 46.94,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "是的，确实如此，对学生和老师来说都是如此。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 4,
       "start": 46.94,
       "end": 48.28,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "可惜食物不太行。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 4,
       "start": 48.28,
       "end": 49.22,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "你什么意思？"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 6,
       "start": 49.22,
       "end": 51.14,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我觉得食物还行啊。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 13,
       "start": 51.14,
       "end": 55.4,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "我想说食物也就那样，但价格太离谱了。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 3,
       "start": 55.4,
       "end": 56.54,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "你不觉得吗？"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 3,
       "start": 56.54,
       "end": 58.08,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "实际上，我不这么认为。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 6,
       "start": 58.08,
       "end": 61.52,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我个人觉得价格完全合适。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 12,
       "start": 61.52,
       "end": 66.32,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "如果价格过高，为什么午饭时间会忙得不可开交？"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 6,
       "start": 66.32,
       "end": 68.86,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "嗯，你说得有道理。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 14,
       "start": 68.86,
       "end": 72.82,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我想其中很多东西物有所值，甚至大部分都是。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 17,
       "start": 72.82,
       "end": 79.06,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "但是，你不觉得一块苹果碎饼要6块钱超出了大多数学生的预算吗？"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 5,
       "start": 79.06,
       "end": 81.48,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "嗯，是的，甜点价格过高了。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 4,
       "start": 81.48,
       "end": 82.84,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "这一点我承认。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 12,
       "start": 82.84,
       "end": 86.3,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "老实说，我都忘了那些了，因为我从来不吃甜点。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 10,
       "start": 86.3,
       "end": 91.94,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我从来不怎么渴望甜食或任何高档美食。"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 9,
       "start": 91.94,
       "end": 95.08,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "我总是点他们的炒蛋。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 6,
       "start": 95.08,
       "end": 97.68,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "他们的品种非常丰富。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 4,
       "start": 97.68,
       "end": 99.7,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "是的，那些很不错。"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 6,
       "start": 99.7,
       "end": 102.12,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "而且出餐也很快。"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 12,
       "start": 102.12,
       "end": 106.66,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "实际上，这是食堂最棒的一点之一——速度。"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 25,
       "start": 106.66,
       "end": 114.42,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "如果我想吃点比三明治更管饱的东西，但午餐时间又不多，大学食堂总是一个不错的选择。"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 9,
       "start": 114.42,
       "end": 118.08,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "厨房工作人员的工作节奏非常快。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 8,
       "start": 118.08,
       "end": 120.84,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "他们确实值得为此受到称赞。"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 8,
       "start": 120.84,
       "end": 124.02,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "完全同意，而且环境也非常棒。"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 6,
       "start": 124.02,
       "end": 126.56,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "就像整栋建筑都很漂亮一样。"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 4,
       "start": 126.56,
       "end": 127.86,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "确实非常好。"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 8,
       "start": 127.86,
       "end": 130.8,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "巨大的玻璃窗让一切都变得不同。"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 5,
       "start": 130.8,
       "end": 132.58,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "我觉得它们太酷了。"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 10,
       "start": 132.58,
       "end": 136.04,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "显然，他们在几年前进行了一次大规模翻修。"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 6,
       "start": 136.04,
       "end": 137.94,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "花了不少钱。"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 4,
       "start": 137.94,
       "end": 139.32,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "是的，我不奇怪。"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 11,
       "start": 139.32,
       "end": 143.56,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "这是一个功能非常齐全的空间，既适合用餐也适合放松。"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 3,
       "start": 143.56,
       "end": 145.26,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "还适合工作。"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 4,
       "start": 145.26,
       "end": 147.4,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "你说得对，也适合工作。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 8,
       "start": 147.4,
       "end": 149.82,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "我在那里用过一两次笔记本电脑。"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 14,
       "start": 149.82,
       "end": 160.48,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "而且远端总是有小组项目或会议在进行。"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 11,
       "start": 160.48,
       "end": 178.66,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "关于食堂的食物，这个女人说了什么？"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 13,
       "start": 178.66,
       "end": 198.64,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这个女人对食堂的甜食或高档美食感觉如何？"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 14,
       "start": 198.64,
       "end": 217.24,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "这个男人说食堂最棒的一点之一是什么？"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 9,
       "start": 217.24,
       "end": 235.8,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "几年前食堂经历了什么？"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 17,
       "start": 235.8,
       "end": 241.92,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "嗨，托尼，今天我们要谈谈经理们如何能在工作中与年轻人相处得更好。"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 11,
       "start": 241.92,
       "end": 246.14,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我们经常听说现在的年轻人职业道德很差。"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 7,
       "start": 246.14,
       "end": 249.22,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "但那其实并不公平，不是吗？"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 2,
       "start": 249.22,
       "end": 250.3,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "确实不是。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 17,
       "start": 250.3,
       "end": 256.94,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "事实上，这个年龄段的年轻人和其他任何一代人一样，也是多种多样、多方面的。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 18,
       "start": 256.94,
       "end": 262.58,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "是的，但如果你在工作空间中难以与年轻人共事，你能做些什么呢？"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 12,
       "start": 262.58,
       "end": 265.94,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "嗯，与他们建立联系以了解他们的价值观至关重要。"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 20,
       "start": 265.94,
       "end": 273.96,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "意识到年轻人想要平衡工作与个人生活的方式也非常重要。"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 13,
       "start": 273.96,
       "end": 279.64,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "所以他们通常不想为了职业晋升而推迟幸福？"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 1,
       "start": 279.64,
       "end": 280.58,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "绝对如此。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 26,
       "start": 280.58,
       "end": 288.64,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "他们不愿意为了工作牺牲个人生活，这导致人们将其等同于不愿意努力工作。"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 1,
       "start": 288.64,
       "end": 289.3,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "对。"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 10,
       "start": 289.3,
       "end": 292.04,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "但这与事实相去甚远，不是吗？"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 26,
       "start": 292.04,
       "end": 301.9,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "年轻人在规定的工作时间内会非常努力地工作，但他们希望拥有自己的休息时间，比如周末和晚上不工作。"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 10,
       "start": 301.9,
       "end": 307.04,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "那么经理们应该如何评估年轻人的生产力呢？"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 34,
       "start": 307.04,
       "end": 317.0,
-      "matchedWords": 34
+      "matchedWords": 34,
+      "translation": "通常，年轻人认为他们的生产力不应该由工作小时数来衡量，因为有人可能工作八小时却没能为公司完成任何有意义的事情。"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 15,
       "start": 317.0,
       "end": 323.7,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "相反，年轻人通过他们所做工作的质量来衡量他们的生产力水平。"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 20,
       "start": 323.7,
       "end": 329.68,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "但我们经常听说，年轻人希望感受到的不仅仅是成为一台大机器的一部分。"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 10,
       "start": 329.68,
       "end": 333.54,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "这种观点很难被否定，不是吗？"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 6,
       "start": 333.54,
       "end": 336.52,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "赋予他们工作的正当性很重要。"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 18,
       "start": 336.52,
       "end": 342.32,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "年轻员工希望从事对他们自己、公司或整个世界都有意义的项目。"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 17,
       "start": 342.32,
       "end": 347.78,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "他们必须感到有必要留在一家价值观与自己相符的公司工作。"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 4,
       "start": 347.78,
       "end": 357.76,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "谢谢你的建议。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 14,
       "start": 357.76,
       "end": 378.04,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "根据这个女人的说法，关于当今年轻人的什么观点是不太公平的？"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 16,
       "start": 378.04,
       "end": 397.98,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "这个男人说经理们为了与年轻员工相处得更好，什么很重要？"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 12,
       "start": 397.98,
       "end": 417.38,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "根据这个男人的说法，年轻人如何衡量他们的生产力水平？"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 11,
       "start": 417.38,
       "end": 465.98,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "这个男人认为什么样的公司会吸引年轻工人？"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 20,
       "start": 465.98,
       "end": 476.18,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "许多餐馆正试图说服顾客吃得更具可持续性，从对环境不友好的肉类转向更环保的菜肴。"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 26,
       "start": 476.18,
       "end": 489.5,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "一项新研究表明，虽然听起来有悖常理，但在菜单中包含特定素食部分的餐厅可能会无意中鼓励顾客吃肉。"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 32,
       "start": 489.5,
       "end": 505.08,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "该研究的作者之一、行为科学家琳达·培根说：“餐厅可以通过鼓励顾客选择更多植物性食物和更少肉类，对环境产生积极影响。"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 28,
       "start": 505.08,
       "end": 518.48,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "然而，我们的研究结果表明，虽然某些餐厅菜单设计可以鼓励一些消费者做出有利于环境的食物选择，但它们对其他消费者可能会产生相反的效果。”"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 19,
       "start": 518.48,
       "end": 527.04,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "这项研究涉及750人，其中一半经常吃素食，另一半很少吃。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 4,
       "start": 527.04,
       "end": 530.14,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "研究中没有包括素食主义者。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 19,
       "start": 530.14,
       "end": 536.24,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "他们拿到了不同的菜单，并被要求选择一顿饭，就像他们和朋友出去吃饭一样。"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 22,
       "start": 536.24,
       "end": 545.46,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "将素食菜肴放在一个单独的部分对不常吃素食的人的选择没有显著影响。"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 21,
       "start": 545.46,
       "end": 554.82,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "但它对经常吃素食的人确实有显著影响，使他们选择素食选项的机会降低了65%。"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 37,
       "start": 554.82,
       "end": 572.48,
-      "matchedWords": 37
+      "matchedWords": 37,
+      "translation": "研究人员还发现，将素食菜肴作为厨师推荐，或对非肉类膳食进行更吸引人的描述，会导致更大比例的不常吃素食的人选择素食选项。"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 26,
       "start": 572.48,
       "end": 590.76,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "但同样地，这些改变后的菜单设计对那些更频繁吃素食的人产生了适得其反的效果，导致他们不太可能选择素食菜肴。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 14,
       "start": 590.76,
       "end": 612.773,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "关于餐厅在菜单中包含素食部分，一项新研究暗示了什么？"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 9,
       "start": 612.773,
       "end": 630.0,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这项针对750名参与者的研究是如何进行的？"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 11,
       "start": 630.0,
       "end": 650.18,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "改变后的菜单设计如何影响经常吃素食的人？"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 25,
       "start": 650.18,
       "end": 660.52,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "诺丁汉特伦特大学和中国科学院一直在努力寻找一种方法，防止致命的室外空气污染渗透到室内。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 31,
       "start": 660.52,
       "end": 673.28,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "他们发现，如果在冷凝管中将污染物冷冻到零下18摄氏度左右，颗粒物就会聚集并沉降到底部，让新鲜洁净的空气通过。"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 9,
       "start": 673.28,
       "end": 677.04,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "他们的方法能够去除99%的污染物。"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 26,
       "start": 677.04,
       "end": 686.82,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "人们希望这项工作能为对空调机组进行简单改造铺平道路，使其也能净化受污染的室内空气。"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 26,
       "start": 686.82,
       "end": 697.88,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "城市室外空气污染是一个全球性问题，无论是困扰加尔各答的雾霾，还是影响伦敦学校儿童健康的恶劣空气。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 20,
       "start": 697.88,
       "end": 706.98,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "虽然现有的一些净化室内空气的技术，但它们可能效率低下、昂贵或产生有害的副产品。"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 14,
       "start": 706.98,
       "end": 711.82,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "当室外空气质量较差时，人们往往会在室内花更多时间。"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 12,
       "start": 711.82,
       "end": 718.14,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "但室外污染也会导致室内污染，人们仍然受苦。"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 17,
       "start": 718.14,
       "end": 724.4,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "据估计，英国每年有超过4万人的过早死亡与污染有关。"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 38,
       "start": 724.4,
       "end": 738.3,
-      "matchedWords": 37
+      "matchedWords": 37,
+      "translation": "中国科学院的潘刚教授说：“我们在实验中表明，只要让受污染的空气流经一个小型冷冻室，我们就能去除大部分细微颗粒和气体污染物。"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 23,
       "start": 738.3,
       "end": 747.96,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "我们的研究使得在可能经历极端恶劣空气条件的地区的家用电器中增加空气净化器选项成为可能。"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 21,
       "start": 747.96,
       "end": 763.78,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "“通过这种方式控制室内空气污染并改善空气质量，这项工作可能对公共卫生产生巨大益处。”"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 15,
       "start": 763.78,
       "end": 785.04,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "关于诺丁汉特伦特大学和中国科学院，这篇文章说了什么？"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 14,
       "start": 785.04,
       "end": 805.76,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "从文章中我们能了解到关于现有的室内空气净化技术的什么信息？"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 12,
       "start": 805.76,
       "end": 824.7,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "当室外空气质量较差时，人们往往会怎么做？"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 15,
       "start": 824.7,
       "end": 871.28,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "中国科学院的潘纲教授对他们的研究说了什么？"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 14,
       "start": 871.28,
       "end": 877.42,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我团队最近进行的研究表明，鱼类可能有自我意识。"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 12,
       "start": 877.42,
       "end": 882.28,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "某种鱼最近通过了著名的镜子测试。"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 10,
       "start": 882.28,
       "end": 887.72,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "这是一项证明动物具有自我识别能力的测试。"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 18,
       "start": 887.72,
       "end": 895.62,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "只有少数动物，如人类、猿类、海豚和某些鸟类，能在镜子中认出自己。"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 23,
       "start": 895.62,
       "end": 905.62,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "只有这些具有自我识别能力的动物，在注意到镜中映像上的标记后，才会尝试清除自己皮肤上的标记。"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 10,
       "start": 905.62,
       "end": 909.62,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "这种能力暗示了一种更高水平的智力和意识。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 10,
       "start": 909.62,
       "end": 915.4,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "儿童直到18个月左右才会表现出这种能力。"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 8,
       "start": 915.4,
       "end": 919.04,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "到目前为止，还没有鱼类表现出这种能力。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 30,
       "start": 919.04,
       "end": 931.82,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "但我们的实验表明，所研究的鱼在照镜子后，会摩擦坚硬的表面，以清除研究人员在它身上留下的标记。"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 22,
       "start": 931.82,
       "end": 943.04,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "我们观察到的行为毫无疑问地证明，这条鱼在行为上符合最初设定的镜子测试的所有标准。"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 26,
       "start": 943.04,
       "end": 951.76,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "在我们的研究中，当没有镜子或标记只是放在镜子上时，鱼从不尝试清除标记。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 24,
       "start": 951.76,
       "end": 960.44,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "未做标记的鱼在与窗户另一侧已做标记的鱼互动时，也没有尝试清除自己身上的标记。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 31,
       "start": 960.44,
       "end": 973.32,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "这些结果要么表明鱼类具有自我意识，要么表明被视为衡量高级智力“金标准”的镜子测试可能存在缺陷。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 37,
       "start": 973.32,
       "end": 986.86,
-      "matchedWords": 37
+      "matchedWords": 37,
+      "translation": "尚不明确的是，这些行为是否应被视为鱼类具有自我意识的证据，尽管过去同样的行为在许多其他动物身上被解释为自我意识。"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 21,
       "start": 986.86,
       "end": 995.48,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "取决于你的立场，你可能会完全拒绝“鱼的这些行为满足通过测试条件”的解释。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 28,
       "start": 995.48,
       "end": 1005.14,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "但是，当它们表现出的行为在功能上与那些已通过测试的其他物种的行为如此相似时，你又有什么客观依据来拒绝呢？"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 9,
       "start": 1005.14,
       "end": 1009.38,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "我们的研究结果提出的问题比解决的还要多。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 18,
       "start": 1009.38,
       "end": 1017.04,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "如果自我意识像洋葱一样层层建立，而不是一下子全部显现呢？"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 21,
       "start": 1017.04,
       "end": 1025.14,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "也许为了进一步探索自我意识，我们应该停止将对镜子的反应视为决定性的测试。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 33,
       "start": 1025.14,
       "end": 1046.08,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "只有拥有更丰富的自我理论和更广泛的一系列测试，我们才能确定自我意识的所有不同水平，包括鱼类究竟处于什么位置。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 10,
       "start": 1046.08,
       "end": 1063.94,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "关于著名的镜子测试我们了解到了什么？"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 15,
       "start": 1063.94,
       "end": 1084.02,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "演讲者团队的研究显示了关于他们实验用的鱼的什么信息？"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 11,
       "start": 1084.02,
       "end": 1102.26,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "演讲者关于他们的研究结果说了什么？"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 7,
       "start": 1102.26,
       "end": 1105.2,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "与幼儿一起阅读很重要。"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 14,
       "start": 1105.2,
       "end": 1110.02,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "但是，读电子书还是传统的纸质书，这有关系吗？"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 11,
       "start": 1110.02,
       "end": 1114.58,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "正如任何家长都知道的，小孩通常对屏幕很感兴趣。"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 45,
       "start": 1114.58,
       "end": 1133.78,
-      "matchedWords": 45
+      "matchedWords": 45,
+      "translation": "因此，一项新研究发现，年幼的儿童更喜欢电子书而非印制的图画书，这可能并不令人感到意外——但接下来的其他发现可能会让你惊讶：家长和孩子在阅读电子书和纸质图画书时表现各异。"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 10,
       "start": 1133.78,
       "end": 1138.52,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "而且阅读电子书的孩子学到的更多。"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 28,
       "start": 1138.52,
       "end": 1150.16,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "此前针对幼儿的研究表明，包含字典、描绘故事情节的图像等额外功能的电子书，可能比纸质书更有优势。"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 22,
       "start": 1150.16,
       "end": 1161.8,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "事实上，多项研究发现，电子书在支持故事理解和词汇量增长方面的作用超过了纸质书。"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 28,
       "start": 1161.8,
       "end": 1173.86,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "但也有研究表明，孩子们在通过电子书学习时有时投入的精力较少，而且父母在分享这类书籍时对内容的讨论也较少。"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 22,
       "start": 1173.86,
       "end": 1181.92,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "我们今天关注的这项研究旨在让我们更好地了解电子书对幼儿有多大好处。"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 17,
       "start": 1181.92,
       "end": 1189.78,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "在这项研究中，研究人员录制了17到26个月大的孩子与父母之一共同阅读的视频。"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 22,
       "start": 1189.78,
       "end": 1199.98,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "每对父母和孩子被随机分配阅读两本教育电子书或两本内容相同的纸质书。"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 22,
       "start": 1199.98,
       "end": 1208.42,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "虽然父母大声朗读纸质书中的文字，但电子书有配音演员朗读文本的音频。"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 22,
       "start": 1208.42,
       "end": 1217.16,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "研究人员发现，阅读纸质书的父母比阅读电子书的父母更频繁地指向书页。"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 8,
       "start": 1217.16,
       "end": 1220.16,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "但对孩子来说情况正好相反。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 24,
       "start": 1220.16,
       "end": 1229.66,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "阅读电子书的孩子比阅读纸质书的孩子对内容的评论也更多，学到的新词也更多。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 12,
       "start": 1229.66,
       "end": 1236.02,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这种更多的学习归功于对电子书更多的参与度。"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 13,
       "start": 1236.02,
       "end": 1240.22,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "需要注意的是，研究中的电子书很简单。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 15,
       "start": 1240.22,
       "end": 1247.28,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "虽然它们包含背景音乐、动画和音效，但没有其他额外功能。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 19,
       "start": 1247.28,
       "end": 1255.88,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "同样需要注意的是，有针对年龄较大儿童的研究发现，电子书并不总是能促进学习。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 6,
       "start": 1255.88,
       "end": 1257.88,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "父母和教育工作者需要提防。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 30,
       "start": 1257.88,
       "end": 1282.456,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "电子书中的额外功能可能会增加儿童对它们的参与；然而，如果这些功能不能将注意力吸引到教育内容上，它们可能无法起到支持作用。"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 12,
       "start": 1282.456,
       "end": 1299.66,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这项新研究的哪个发现可能会让人感到非常惊讶？"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 13,
       "start": 1299.66,
       "end": 1320.02,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "关于以往幼儿阅读电子书的研究，我们了解到了什么？"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 13,
       "start": 1320.02,
       "end": 1341.48,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "电子书中应该包含哪些额外功能来促进儿童的学习？"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 6,
       "start": 1341.48,
       "end": 1343.72,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "让我对你说实话吧。"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 12,
       "start": 1343.72,
       "end": 1348.48,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "如果你的一生都充满了遗憾，那你是在浪费时间。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 17,
       "start": 1348.48,
       "end": 1353.88,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "你为什么要终生遗憾那些让你成就了今天自己的决定呢？"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 16,
       "start": 1353.88,
       "end": 1359.62,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "我们做过很多不利的决定，但那是否意味着我们应该后悔呢？"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 1,
       "start": 1359.62,
       "end": 1360.9,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "不！"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 20,
       "start": 1360.9,
       "end": 1366.8,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "我有过很多次坐在那里思考所有我希望可以用不同方式完成的事情。"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 15,
       "start": 1366.8,
       "end": 1373.12,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "然而，仅仅因为事情可能会有所不同，并不一定意味着它们会变得更好。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 21,
       "start": 1373.12,
       "end": 1379.76,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "你不必一直思考你过去所有的决定，以及你是否做出了正确的决定。"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 15,
       "start": 1379.76,
       "end": 1385.06,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "你无法回到过去改变任何事情，所以担心它有什么意义呢？"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 17,
       "start": 1385.06,
       "end": 1391.92,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "你做过的每一个决定，无论是积极的还是消极的，都造就了今天的你。"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 19,
       "start": 1391.92,
       "end": 1397.38,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "我们想回到过去改变我们过去的一部分，但那会有什么好处呢？"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 12,
       "start": 1397.38,
       "end": 1402.26,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "我们会失去从所学到的教训中获得的宝贵知识。"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 17,
       "start": 1402.26,
       "end": 1407.84,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "你做出这些选择是有原因的，那告诉了我们你是谁。"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 12,
       "start": 1407.84,
       "end": 1412.68,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "所以，当涉及到生活中的任何决定时，都要理直气壮地做你自己。"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 14,
       "start": 1412.68,
       "end": 1417.24,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "因为归根结底，是你做出了那个决定。"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 20,
       "start": 1417.24,
       "end": 1425.0,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "花在遗憾上的时间少了，你终于有时间去关注生活中更重要的事情了。"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 14,
       "start": 1425.0,
       "end": 1430.52,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "在任何情况下，你每做一个决定，作为一个人就会成长得更多。"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 17,
       "start": 1430.52,
       "end": 1436.6,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "生活充满了需要学习的教训，所以我们不能让遗憾阻止我们前进。"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 27,
       "start": 1436.6,
       "end": 1445.94,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "直到决定做出之后，我们才知道自己做出了正确还是错误的选，所以很容易开始后悔你的决定。"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 15,
       "start": 1445.94,
       "end": 1451.12,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "但如果决定已经做出了，纠结于此又有什么目的呢？"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 3,
       "start": 1451.12,
       "end": 1452.78,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "没有意义。"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 7,
       "start": 1452.78,
       "end": 1455.36,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "你所能做的就是前进。"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 12,
       "start": 1455.36,
       "end": 1459.24,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "你不能让自己坐在那里担心过去的每一个选择。"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 4,
       "start": 1459.24,
       "end": 1461.96,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我们都不是完美的。"
     },
     {
       "id": "line-171",
@@ -2130,7 +2301,8 @@
       "words": 22,
       "start": 1461.96,
       "end": 1469.5,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "每当你做一个决定，以后总会有后悔的可能，但生活本来就是这样的。"
     },
     {
       "id": "line-172",
@@ -2142,7 +2314,8 @@
       "words": 21,
       "start": 1469.5,
       "end": 1477.62,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "你在生活中会做出糟糕的决定——我们都会——但重要的是你如何利用学到的教训。"
     },
     {
       "id": "line-173",
@@ -2154,7 +2327,8 @@
       "words": 7,
       "start": 1477.62,
       "end": 1480.2,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "想一想你做过的每一个决定。"
     },
     {
       "id": "line-174",
@@ -2166,7 +2340,8 @@
       "words": 5,
       "start": 1480.2,
       "end": 1481.74,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "它们总是最好的吗？"
     },
     {
       "id": "line-175",
@@ -2178,7 +2353,8 @@
       "words": 3,
       "start": 1481.74,
       "end": 1482.94,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "当然不是。"
     },
     {
       "id": "line-176",
@@ -2190,7 +2366,8 @@
       "words": 9,
       "start": 1482.94,
       "end": 1487.54,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "但看看从那以后你走了多远。"
     },
     {
       "id": "line-177",
@@ -2202,7 +2379,8 @@
       "words": 1,
       "start": 1487.54,
       "end": 1495.18,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "**问题：**"
     },
     {
       "id": "line-178",
@@ -2214,7 +2392,8 @@
       "words": 10,
       "start": 1495.18,
       "end": 1513.84,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我们应该如何对待我们所做的不利决定？"
     },
     {
       "id": "line-179",
@@ -2226,7 +2405,8 @@
       "words": 12,
       "start": 1513.84,
       "end": 1532.96,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "说话者关于我们做过的每一个决定说了什么？"
     },
     {
       "id": "line-180",
@@ -2238,7 +2418,8 @@
       "words": 9,
       "start": 1532.96,
       "end": 1551.22,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "根据说话者的说法，生活充满了什么？"
     },
     {
       "id": "line-181",
@@ -2250,7 +2431,8 @@
       "words": 15,
       "start": 1551.22,
       "end": 1572.408,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "当我们在生活中做出糟糕的决定时，什么被说成是真正重要的？"
     }
   ]
 }

@@ -78,7 +78,8 @@
       "words": 2,
       "start": 40.42,
       "end": 41.92,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "你好，医生。"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 5,
       "start": 41.92,
       "end": 43.42,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "你好，请坐。"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 10,
       "start": 43.42,
       "end": 46.48,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我这里有你的化验结果，是个好消息。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 6,
       "start": 46.48,
       "end": 48.56,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "验血结果显示一切正常。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 8,
       "start": 48.56,
       "end": 52.08,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "没有任何迹象表明有消化系统问题。"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 11,
       "start": 52.08,
       "end": 55.18,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "那么，为什么我总是感觉很不舒服呢？"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 7,
       "start": 55.18,
       "end": 57.76,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "这可能是由于过度劳累和压力造成的。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 4,
       "start": 57.76,
       "end": 59.84,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "不，不可能。"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 10,
       "start": 59.84,
       "end": 63.34,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我一直工作很努力，但我从未感到过压力。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 10,
       "start": 63.34,
       "end": 66.42,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "其他人为此感到痛苦并抱怨，但我没有。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 5,
       "start": 66.42,
       "end": 68.06,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "一定是别的原因。"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 9,
       "start": 68.06,
       "end": 71.48,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "你刚才描述的是一种很普遍的情感。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 10,
       "start": 71.48,
       "end": 75.26,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "许多承受压力的人都未能意识到这一点。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 11,
       "start": 75.26,
       "end": 78.5,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "你告诉我你经常工作到深夜，对吧？"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 5,
       "start": 78.5,
       "end": 80.88,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "是的，事实上大多数日子都是这样。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 10,
       "start": 80.88,
       "end": 83.64,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "但我这样做已经大约 20 年了。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 3,
       "start": 83.64,
       "end": 85.38,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "那没关系。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 13,
       "start": 85.38,
       "end": 89.34,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "你可能在不知不觉中承受了 20 年的压力。"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 7,
       "start": 89.34,
       "end": 91.42,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "而现在它开始影响到你了。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 18,
       "start": 91.42,
       "end": 96.42,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "但我一直感到疲倦，而且晚上睡不好觉，这又是怎么回事呢？"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 6,
       "start": 96.42,
       "end": 99.32,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "这些都是压力的常见后果。"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 13,
       "start": 99.32,
       "end": 103.42,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "如果你睡眠不好，当然会感到疲劳。"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 10,
       "start": 103.42,
       "end": 106.3,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我准备给你开一些特殊的安眠药。"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 12,
       "start": 106.3,
       "end": 110.76,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "它们药效温和，由天然成分制成。"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 15,
       "start": 110.76,
       "end": 116.02,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "所以你的胃应该能很好地适应，而且不应该有任何负面副作用。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 12,
       "start": 116.02,
       "end": 119.22,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "晚餐时吃一颗，一个月后再来找我。"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 10,
       "start": 119.22,
       "end": 122.62,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "如果没有好转，我会给你开点药效更强的。"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 3,
       "start": 122.62,
       "end": 123.82,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "谢谢你，医生。"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 3,
       "start": 123.82,
       "end": 124.96,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "还没完呢。"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 6,
       "start": 124.96,
       "end": 126.88,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "你应该尝试减少工作量。"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 9,
       "start": 126.88,
       "end": 129.66,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "有什么办法可以减轻你的工作负担吗？"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 7,
       "start": 129.66,
       "end": 132.34,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "嗯，我得考虑一下。"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 10,
       "start": 132.34,
       "end": 135.88,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我是一名餐厅经理，这个行业的竞争非常激烈。"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 13,
       "start": 135.88,
       "end": 138.88,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "有很多事情需要追踪和掌握。"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 11,
       "start": 138.88,
       "end": 143.3,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我建议你考虑将一些职责委托给其他人。"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 12,
       "start": 143.3,
       "end": 146.64,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "我不是要求你退休，只是让你慢下来一点。"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 5,
       "start": 146.64,
       "end": 154.88,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "这是为了你自己的健康。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 11,
       "start": 154.88,
       "end": 173.44,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "从化验结果中我们了解到了关于这名男子的什么信息？"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 12,
       "start": 173.44,
       "end": 192.12,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这位女士认为许多人中常见的现象是什么？"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 11,
       "start": 192.12,
       "end": 209.58,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "这位女士说她会为这名男子做什么？"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 12,
       "start": 209.58,
       "end": 229.54,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这名男子关于他所从事的行业说了什么？"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 11,
       "start": 229.54,
       "end": 233.18,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "今天的《新闻人物》节目，我们的嘉宾是约翰·威廉姆斯。"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 16,
       "start": 233.18,
       "end": 240.8,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "这个名字对你来说可能听起来并不熟悉，但约翰曾是一位广受赞誉的篮球运动员。"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 11,
       "start": 240.8,
       "end": 245.64,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "约翰，你在年仅 25 岁时离开这项运动，令球迷们感到震惊。"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 6,
       "start": 245.64,
       "end": 248.28,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "你为什么这么早退休？"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 13,
       "start": 248.28,
       "end": 252.84,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "梅格，我热爱当一名运动员，但我不喜欢当一个名人。"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 25,
       "start": 252.84,
       "end": 260.92,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "我还在读高中的时候就成了公众关注的焦点，高中毕业后就转为职业球员，这是一个错误。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 14,
       "start": 260.92,
       "end": 265.3,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我曾是个害羞的孩子，还没准备好接受媒体的所有关注。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 13,
       "start": 265.3,
       "end": 269.52,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "但在你事业巅峰时期放弃数百万美元？"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 14,
       "start": 269.52,
       "end": 273.94,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "大多数人都无法抵挡如此高薪的诱惑。"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 20,
       "start": 273.94,
       "end": 280.64,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "当你离开这项运动时，有人猜测你与队友之间存在问题，甚至是受伤了。"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 3,
       "start": 280.64,
       "end": 281.78,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "完全不是。"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 5,
       "start": 281.78,
       "end": 283.28,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "退出是很艰难的。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 17,
       "start": 283.28,
       "end": 288.4,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "我很想留在比赛中，因为我热爱篮球，也热爱我的球队。"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 25,
       "start": 288.4,
       "end": 297.0,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "至于钱，我 18 岁就转职业了，所以我实际上赚了很多钱，并存下了大部分，因为我有出色的财务顾问。"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 14,
       "start": 297.0,
       "end": 300.96,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我知道篮球对于大多数球员来说并不是一个能长久从事的职业。"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 11,
       "start": 300.96,
       "end": 305.22,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "所以我想趁年轻的时候换个职业。"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 12,
       "start": 305.22,
       "end": 309.3,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "好的，那是 20 年前的事了，现在你又回到了新闻中。"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 13,
       "start": 309.3,
       "end": 314.2,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "你创建了一个基金会，致力于让更多的孩子参加团体运动。"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 1,
       "start": 314.2,
       "end": 314.54,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "为什么？"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 26,
       "start": 314.54,
       "end": 325.96,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "我上了大学，学习了公共卫生，了解到了肥胖流行病的严重性，特别是在贫困社区的儿童和青少年中。"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 11,
       "start": 325.96,
       "end": 329.72,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "在过去的二十年里，我一直试图缓解这个问题。"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 7,
       "start": 329.72,
       "end": 332.42,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "基金会只是最近的一次尝试。"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 17,
       "start": 332.42,
       "end": 339.5,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "该基金会利用私人捐款来支持小学男女篮球队，对吗？"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 9,
       "start": 339.5,
       "end": 343.58,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "事实上，我们也支持中学学生的球队。"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 6,
       "start": 343.58,
       "end": 353.66,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "同时也有一些公共资金。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 12,
       "start": 353.66,
       "end": 372.48,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "为什么约翰·威廉姆斯在年仅 25 岁时离开了篮球运动？"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 13,
       "start": 372.48,
       "end": 390.58,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这名男子关于篮球作为大多数球员的职业说了什么？"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 13,
       "start": 390.58,
       "end": 409.24,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "20 年后，我们从这位女士那里了解到了关于约翰·威廉姆斯的什么信息？"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 12,
       "start": 409.24,
       "end": 457.24,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "在过去的二十年里，这名男子一直试图做什么？"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 9,
       "start": 457.24,
       "end": 462.0,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "凯特·阿特金森 1951 年出生于英国约克。"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 10,
       "start": 462.0,
       "end": 465.34,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "她努力工作以获得作为作家的资历。"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 8,
       "start": 465.34,
       "end": 469.26,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "她在苏格兰的一所大学学习英国文学。"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 11,
       "start": 469.26,
       "end": 475.62,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "1974 年毕业后，她研究了关于美国文学的博士学位。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 16,
       "start": 475.62,
       "end": 483.06,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "后来，她在毕业的大学任教，并于 1981 年开始创作短篇小说。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 15,
       "start": 483.06,
       "end": 491.02,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "在赢得 1986 年《女性自我》短篇小说大赛后，她开始为女性杂志撰稿。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 18,
       "start": 491.02,
       "end": 498.74,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "她的第一部小说《博物馆幕后》获得了 1995 年英国年度图书奖。"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 15,
       "start": 498.74,
       "end": 504.64,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "这本书的故事背景设定在约克郡，并已被改编成广播剧、戏剧和电视节目。"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 10,
       "start": 504.64,
       "end": 508.48,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "她为爱丁堡的一家剧院写了两部剧本。"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 19,
       "start": 508.48,
       "end": 517.32,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "第一部叫《抛弃》，第二部叫《美好》，于 2000 年 8 月作为爱丁堡艺术节的一部分演出。"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 20,
       "start": 517.32,
       "end": 524.7,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "无论阿特金森创作什么类型，她的书都会触及爱与失去以及如何继续生活的主题。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 12,
       "start": 524.7,
       "end": 527.86,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "它们总是以独创性和一种冷幽默感呈现出来。"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 24,
       "start": 527.86,
       "end": 539.66,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "她的书中往往充满了古怪、有时甚至有罪、且通常有缺陷的怪人，由于刻画得非常充分而变得可信。"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 10,
       "start": 539.66,
       "end": 543.42,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "她的书经常被描述为世态喜剧。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 28,
       "start": 543.42,
       "end": 555.68,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "也就是说，这些喜剧表现了当前上流社会社交圈中复杂而深奥的行为准则，在那里外表比真实的道德品质更重要。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 18,
       "start": 555.68,
       "end": 564.6,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "世态喜剧往往奖赏那些聪明且欺诈的角色，而不是惩罚他们的恶行。"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 14,
       "start": 564.6,
       "end": 578.084,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "世态喜剧的幽默依赖于言语上的机智和俏皮的戏弄。"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 9,
       "start": 578.084,
       "end": 595.42,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "凯特·阿特金森什么时候开始为女性杂志撰稿？"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 9,
       "start": 595.42,
       "end": 611.78,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "凯特·阿特金森的书触及了哪些共同主题？"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 13,
       "start": 611.78,
       "end": 631.64,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "文章关于世态喜剧中的人物说了什么？"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 11,
       "start": 631.64,
       "end": 636.48,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "为什么适应能力是在职场中运用的一项重要技能？"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 11,
       "start": 636.48,
       "end": 643.24,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "简单来说，适应能力是雇主日益看重的一项技能。"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 16,
       "start": 643.24,
       "end": 648.88,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "当你花时间学习一项新任务而不是抵制它时，你的生产力就会提高。"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 23,
       "start": 648.88,
       "end": 657.34,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "你也可以作为那些可能在适应方面有困难的同事的榜样，并帮助带领你的团队前进。"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 42,
       "start": 657.34,
       "end": 675.8,
-      "matchedWords": 41
+      "matchedWords": 41,
+      "translation": "战略顾问多莉·克拉克这样向我们解释：“我想说，适应能力在职场中是一项重要的技能，因为坦率地说，情况在变化——竞争对手推出新产品，经济可能会进入衰退，客户偏好随着时间的推移而不同，等等。"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 16,
       "start": 675.8,
       "end": 679.44,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "如果你对着天空挥舞拳头说，‘为什么它不能保持不变？！’"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 8,
       "start": 679.44,
       "end": 681.96,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "，那不会起多大作用。"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 28,
       "start": 681.96,
       "end": 691.32,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "相反，你需要意识到情况何时发生了变化，这样你就可以根据现状，而不是你希望世界变成的样子，来采取适当的行动。"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 11,
       "start": 691.32,
       "end": 696.62,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "这使你能够做出更准确、明智和有效的选择。”"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 7,
       "start": 696.62,
       "end": 699.96,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "此外，职场本身也在不断演变。"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 16,
       "start": 699.96,
       "end": 706.42,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "当今的工作文化和管理风格通常基于团队合作，而不是僵化的等级制度。"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 14,
       "start": 706.42,
       "end": 713.46,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "头脑风暴需要创造力、灵活性和情商，是一种典型的问题解决技术。"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 16,
       "start": 713.46,
       "end": 721.82,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "无法或不愿参与的员工在公司中将很难前进。"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 8,
       "start": 721.82,
       "end": 725.24,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "具有灵活性的员工也展示了其他技能。"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 16,
       "start": 725.24,
       "end": 733.0,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "当变化发生时，他们可以快速重新排列优先顺序，并在某些事情不起作用时建议进行额外的修改。"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 18,
       "start": 733.0,
       "end": 748.56,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "当挫折发生时，他们也可以快速重组，自信地适应新情况而不会反应过度。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 11,
       "start": 748.56,
       "end": 772.2,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "演讲者关于适应能力作为一项职场技能说了什么？"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 13,
       "start": 772.2,
       "end": 791.0,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "根据多莉·克拉克的说法，识别变化了的情况能使人们做什么？"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 9,
       "start": 791.0,
       "end": 808.94,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "文章关于当今的工作文化说了什么？"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 11,
       "start": 808.94,
       "end": 854.94,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "具有适应能力的员工在变化发生时能够做什么？"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 7,
       "start": 854.94,
       "end": 858.6,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "是什么让计划人类与其他物种不同？"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 16,
       "start": 858.6,
       "end": 866.74,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "一些哲学家认为是道德或伦理，而一些科学家断言是我们更高程度的认知发展。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 13,
       "start": 866.74,
       "end": 871.76,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "但我认为主要的区别在于我们对抗常规的欲望。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 23,
       "start": 871.76,
       "end": 882.84,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "这使得创造力成为一种生理使命，因为我们在艺术和技术中寻求的是惊喜，而不仅仅是期望的实现。"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 50,
       "start": 882.84,
       "end": 906.24,
-      "matchedWords": 50
+      "matchedWords": 50,
+      "translation": "因此，丰富的想象力成为了我们物种历史的特征：我们建造复杂的栖息地，为我们的食物设计复杂的配方，穿着反映时尚不断变化的衣服，用精巧的标志、符号和声音进行交流，并在我们自己设计的机翼和轮子上往返于栖息地之间。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 9,
       "start": 906.24,
       "end": 911.64,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "为了满足我们对新奇事物的胃口，创新是关键。"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 3,
       "start": 911.64,
       "end": 913.74,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "但是谁在创新呢？"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 12,
       "start": 913.74,
       "end": 920.26,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "现在，许多人，无论是外行还是专家，都相信只有天才才会创新。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 14,
       "start": 920.26,
       "end": 925.02,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "但我相信创新并不是只有少数人才会做的事情。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 28,
       "start": 925.02,
       "end": 936.56,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "创新的动力存在于每个人的大脑中，而随之而来的对抗重复的战争正是推动区分一代与下一代的巨大变革的力量。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 12,
       "start": 936.56,
       "end": 940.64,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "创造新事物的动力是作为人类的一个特质。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 13,
       "start": 940.64,
       "end": 945.3,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "我们建立了成百上千种文化，讲述了数以百万计的新故事。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 16,
       "start": 945.3,
       "end": 952.8,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "我们创造并用以前从未存在过的事物包围自己，而动物则不会。"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 8,
       "start": 952.8,
       "end": 955.62,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "但是我们的新想法从哪里来呢？"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 12,
       "start": 955.62,
       "end": 961.52,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "根据许多人的说法，新想法似乎是从无到有，出现在伟大的思想家脑中。"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 9,
       "start": 961.52,
       "end": 965.62,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "从这个角度来看，新想法几乎就像魔法。"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 11,
       "start": 965.62,
       "end": 969.66,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "它们在灵光一现中出现在少数被选中的人身上。"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 17,
       "start": 969.66,
       "end": 978.54,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "然而，现实情况是，在人类活动的各个领域，之前的工作都在推动着创造过程。"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 25,
       "start": 978.54,
       "end": 988.52,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "我们可能认为创新是灵感或天才的结果，但它实际上是进一步发展他人想法的结果。"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 12,
       "start": 988.52,
       "end": 994.48,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这发生在技术领域，一项发明促成或启发了进一步的发明。"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 21,
       "start": 994.48,
       "end": 1003.1,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "这发生在艺术领域，作家、作曲家和画家在他们自己的作品中使用前人艺术家的作品。"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 6,
       "start": 1003.1,
       "end": 1006.14,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "人类大脑是根据先例工作的。"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 14,
       "start": 1006.14,
       "end": 1010.88,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我们接受继承的想法，并将它们组合成一些新的形状。"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 5,
       "start": 1010.88,
       "end": 1012.9,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "什么是真正的创造者？"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 11,
       "start": 1012.9,
       "end": 1016.66,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "创造者是无中生有的天才吗？"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 21,
       "start": 1016.66,
       "end": 1026.48,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "不。创造者只是利用他们继承的东西、吸收过去并操纵它来创造可能未来的普通人。"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 12,
       "start": 1026.48,
       "end": 1038.023,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "因此，人类作为通例而非例外都是创造者。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 11,
       "start": 1038.023,
       "end": 1057.26,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "演讲者试图回答的主要问题是什么？"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 7,
       "start": 1057.26,
       "end": 1077.16,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "演讲者关于创新说了什么？"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 11,
       "start": 1077.16,
       "end": 1093.6,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "根据演讲者的说法，新想法实际上是从哪里来的？"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 29,
       "start": 1093.6,
       "end": 1105.42,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "许多狗主人会告诉你，他们的狗不知怎么地就知道他们什么时候生病或难过，而根据研究狗认知的研究人员的说法，这些宠物主人是对的。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 12,
       "start": 1105.42,
       "end": 1110.64,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "狗确实知道他们的人类伙伴什么时候处境艰难。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 31,
       "start": 1110.64,
       "end": 1122.4,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "你的狗不仅能感觉到你感冒了，而且家犬还表现出一种检测微小情绪波动和更严重身体状况的才能。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 19,
       "start": 1122.4,
       "end": 1129.1,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "这是因为狗对他们熟悉的人的变化极其敏感，而疾病会导致变化。"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 42,
       "start": 1129.1,
       "end": 1144.9,
-      "matchedWords": 40
+      "matchedWords": 40,
+      "translation": "例如，如果一个人感染了病毒或细菌，他们的气味就会异常，狗能够闻到那种变化，即使人类闻不到，因为狗的嗅觉比人类强大得多。"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 23,
       "start": 1144.9,
       "end": 1153.34,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "研究人员还发现，一个人的情绪（这可能是大病的一个指标）会触发狗的嗅觉。"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 22,
       "start": 1153.34,
       "end": 1162.16,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "人类的情绪通过身体排出的化学信号在生理上表现出来，狗也能闻到这些信号。"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 14,
       "start": 1162.16,
       "end": 1168.08,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "除了嗅觉之外，狗还从一个人的声音中收集信息，以便感知变化。"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 43,
       "start": 1168.08,
       "end": 1184.46,
-      "matchedWords": 43
+      "matchedWords": 43,
+      "translation": "2014 年，研究人员发现，狗的大脑中有一个区域，与人类的相似，允许它们理解说话者声音语调中的情感暗示，超出了它们仅从熟悉的单词中能获取的信息。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 9,
       "start": 1184.46,
       "end": 1188.82,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "一个人的声音也可以携带疾病的指标。"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 13,
       "start": 1188.82,
       "end": 1194.3,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "目前还不十分清楚的是，狗对这些变化的理解程度如何。"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 18,
       "start": 1194.3,
       "end": 1201.2,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "人类发出了很多线索，但狗是否知道其中一些线索意味着“疾病”尚不清楚。"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 38,
       "start": 1201.2,
       "end": 1214.84,
-      "matchedWords": 38
+      "matchedWords": 38,
+      "translation": "我们认为的狗的关心可能更像是好奇心增加或怀疑我们出了什么问题，而紧跟在身边是收集有关情况更多信息的好方法。"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 32,
       "start": 1214.84,
       "end": 1229.4,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "一些研究人员断言，狗总有一天会帮助医生诊断疾病，因为一些狗已经展示了检测各种疾病的能力，包括糖尿病和某些类型的癌症。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 10,
       "start": 1229.4,
       "end": 1233.42,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "但这些研究人员承认，这可能是遥远的未来的事情。"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 16,
       "start": 1233.42,
       "end": 1240.16,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "目前，研究表明养狗本身就有一系列的好处。"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 13,
       "start": 1240.16,
       "end": 1244.74,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "养宠物狗已被证明能增强健康并提升情绪。"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 17,
       "start": 1244.74,
       "end": 1258.22,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "狗还能帮助人们放松，它们可以为患有慢性病的人提供特别的安慰。"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 8,
       "start": 1258.22,
       "end": 1279.0,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "研究狗认知的研究人员确认了什么？"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 11,
       "start": 1279.0,
       "end": 1298.3,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "为什么狗能够检测到疾病引起的异常气味？"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 8,
       "start": 1298.3,
       "end": 1318.52,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "文章关于养狗说了什么？"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 29,
       "start": 1318.52,
       "end": 1330.66,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "本月初，名为 Onward 的智库发表了一份报告《学位的疑问》，认为创意艺术领域的学位物非所值。"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 43,
       "start": 1330.66,
       "end": 1349.9,
-      "matchedWords": 42
+      "matchedWords": 42,
+      "translation": "根据 Onward 的说法，部长们应该“严厉打击那些在毕业十年后为学生提供的性价比极低的课程”，如果平均毕业生收入低于助学贷款还款门槛，就限制这些课程招收新生的能力。"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 19,
       "start": 1349.9,
       "end": 1358.26,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "像科学、技术、工程和数学以及经济学这类毕业生平均收入很高的课程，应该受到青睐。"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 26,
       "start": 1358.26,
       "end": 1367.96,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "该报告提供了对政府审查的见解，该审查着眼于如何改革技术教育以及如何确保学生获得物有所值的教育。"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 12,
       "start": 1367.96,
       "end": 1373.26,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "乍一看，Onward 似乎甚至有点道理。"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 21,
       "start": 1373.26,
       "end": 1382.24,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "根据他们的数据，大多数创意艺术专业的学生在毕业十年后年薪不到 25,000 英镑。"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 21,
       "start": 1382.24,
       "end": 1390.96,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "事实上，创意艺术专业的男性毕业生显然比他们根本没上过大学时的收入要少得多。"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 34,
       "start": 1390.96,
       "end": 1402.78,
-      "matchedWords": 34
+      "matchedWords": 34,
+      "translation": "这对任何人都没有好处——对毕业生来说当然也没有好处，他们被迫忍受一种永远无法攒钱、永远买不起房、永远没指望退休的生活方式。"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 6,
       "start": 1402.78,
       "end": 1405.92,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "Onward 发现了一个真实的问题。"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 43,
       "start": 1405.92,
       "end": 1424.58,
-      "matchedWords": 42
+      "matchedWords": 42,
+      "translation": "来自牛津等顶尖大学、且私立学校教育背景学生比例较高的创意艺术毕业生，工作前景相当不错，而所有毕业生中（无论其学位如何）有 40% 在毕业五年后的年薪低于 25,000 英镑。"
     },
     {
       "id": "line-171",
@@ -2130,7 +2301,8 @@
       "words": 23,
       "start": 1424.58,
       "end": 1434.32,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "这表明问题其实并不在于特定学生学习特定学位，而在于整个经济。"
     },
     {
       "id": "line-172",
@@ -2142,7 +2314,8 @@
       "words": 23,
       "start": 1434.32,
       "end": 1442.58,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "无论他们学什么，年轻人发现很难出人头地，除非他们足够幸运，出生在成功的家庭。"
     },
     {
       "id": "line-173",
@@ -2154,7 +2327,8 @@
       "words": 23,
       "start": 1442.58,
       "end": 1450.9,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "如果部长们想让教育对年轻人有所回报，他们需要将目光投向高等教育部门以外更广阔的世界。"
     },
     {
       "id": "line-174",
@@ -2166,7 +2340,8 @@
       "words": 20,
       "start": 1450.9,
       "end": 1460.48,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "教育给予我们的回报是无法衡量的——它们并不总是显而易见的，当然也并不总是直接的。"
     },
     {
       "id": "line-175",
@@ -2178,7 +2353,8 @@
       "words": 19,
       "start": 1460.48,
       "end": 1465.86,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "教育让你成为了一个与未接受教育时完全不同的人。"
     },
     {
       "id": "line-176",
@@ -2190,7 +2366,8 @@
       "words": 21,
       "start": 1465.86,
       "end": 1471.78,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "我们需要从生活的角度来看待教育的价值，而不是银行存款余额。"
     },
     {
       "id": "line-177",
@@ -2202,7 +2379,8 @@
       "words": 24,
       "start": 1471.78,
       "end": 1487.28,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "如果我们继续让自己被“物有所值”的言论分散注意力，结果我们都会变得更加贫穷。"
     },
     {
       "id": "line-178",
@@ -2214,7 +2392,8 @@
       "words": 6,
       "start": 1487.28,
       "end": 1506.32,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "Onward 的报告主张什么？"
     },
     {
       "id": "line-179",
@@ -2226,7 +2405,8 @@
       "words": 8,
       "start": 1506.32,
       "end": 1521.64,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "演讲者如何看待 Onward 的论点？"
     },
     {
       "id": "line-180",
@@ -2238,7 +2418,8 @@
       "words": 12,
       "start": 1521.64,
       "end": 1544.04,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "关于英国大学毕业生在毕业五年后的情况，我们了解到了什么？"
     },
     {
       "id": "line-181",
@@ -2250,7 +2431,8 @@
       "words": 13,
       "start": 1544.04,
       "end": 1564.821,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "演讲者说实际上是什么导致了 Onward 发现的问题？"
     }
   ]
 }

@@ -78,7 +78,8 @@
       "words": 7,
       "start": 44.16,
       "end": 47.56,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "明天是我上班的最后一天。"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 8,
       "start": 47.56,
       "end": 49.84,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我两周后就开始新工作了。"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 14,
       "start": 49.84,
       "end": 54.12,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我的人力资源经理想在离职前对我进行一次访谈。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 4,
       "start": 54.12,
       "end": 56.82,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "啊，离职面谈。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 6,
       "start": 56.82,
       "end": 58.42,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "你期待吗？"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 8,
       "start": 58.42,
       "end": 60.82,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "我也说不清是什么感觉。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 26,
       "start": 60.82,
       "end": 68.4,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "我辞职是因为在那家公司很不开心已经很久了，但我不知道是否应该告诉他们我的真实感受。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 24,
       "start": 68.4,
       "end": 77.66,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "依我看，在离职面谈中宣泄一番激烈的真相，主要有两个潜在的好处。"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 4,
       "start": 77.66,
       "end": 79.78,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "第一个是释放。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 21,
       "start": 79.78,
       "end": 88.84,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "向一个既不是朋友也不是亲近同事的人倾诉你的沮丧，甚至可能是愤怒，会让人感到无比轻松自在。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 3,
       "start": 88.84,
       "end": 90.0,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "让我猜猜。"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 29,
       "start": 90.0,
       "end": 101.06,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "第二个是，从理论上讲，这些批评会帮助我即将离开的机构进行改进，确保未来的员工不太可能遇到我所经历的事情？"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 2,
       "start": 101.06,
       "end": 102.04,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "没错。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 15,
       "start": 102.04,
       "end": 107.44,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "但公司改进部分的问题在于，这种情况往往并不会发生。"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 11,
       "start": 107.44,
       "end": 111.86,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "离职面谈本应该是隐私的，但往往并非如此。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 13,
       "start": 111.86,
       "end": 117.46,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "在我们公司，从这些面谈中获得的信息通常是不保密的。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 16,
       "start": 117.46,
       "end": 124.06,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "这些信息会被用作针对另一位经理的黑料，或者在高级经理之间进行交换。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 11,
       "start": 124.06,
       "end": 128.36,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "现在你让我重新考虑在面谈中要透露什么了。"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 19,
       "start": 128.36,
       "end": 133.82,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "总有一种可能，这会影响我的声誉和我在行业内建立人脉的能力。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 8,
       "start": 133.82,
       "end": 137.54,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "毕竟这个行业相当小。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 26,
       "start": 137.54,
       "end": 146.74,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "你最初从实话实说中获得的快感，可能会因为损害了未来的职业前景而在以后损失掉。"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 1,
       "start": 146.74,
       "end": 147.84,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "没错。"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 20,
       "start": 147.84,
       "end": 154.1,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "也许我去那种评价雇主的网站上倾诉会更好。"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 2,
       "start": 154.1,
       "end": 154.78,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "你可以那样做。"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 7,
       "start": 154.78,
       "end": 157.34,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "而且根本不去参加面试。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 5,
       "start": 157.34,
       "end": 166.26,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "离职面谈并不是强制性的。"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 10,
       "start": 166.26,
       "end": 183.8,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "从对话中我们能了解到关于这名男子的什么？"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 13,
       "start": 183.8,
       "end": 203.68,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这名女士如何看待从离职面谈中获得的信息？"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 16,
       "start": 203.68,
       "end": 224.34,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "为什么这名男子想重新考虑他在即将到来的离职面谈中要说的话？"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 9,
       "start": 224.34,
       "end": 242.46,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "这名男子认为他最好怎么做？"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 9,
       "start": 242.46,
       "end": 246.66,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "今天，我将采访著名的植物学家简·福斯特。"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 12,
       "start": 246.66,
       "end": 250.96,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "谢谢你邀请我参加节目，亨利。"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 14,
       "start": 250.96,
       "end": 257.34,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "简，自从你最新的纪录片上映以来，你最近成了一位名人。"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 8,
       "start": 257.34,
       "end": 259.48,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "你能告诉我们一些关于它的情况吗？"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 20,
       "start": 259.48,
       "end": 268.58,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "嗯，它记录了我去研究东南亚赤道地区雨林原生植被的探险过程。"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 10,
       "start": 268.58,
       "end": 272.5,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "你确实能去一些非常有异国情调的地方旅行。"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 8,
       "start": 272.5,
       "end": 276.02,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "说实话，那一点也不光鲜。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 22,
       "start": 276.02,
       "end": 284.34,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "我们访问的地区只能乘独木舟到达，而且小屋里的生活条件往好里说也是很原始的。"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 4,
       "start": 284.34,
       "end": 286.1,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "那里没有电。"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 7,
       "start": 286.1,
       "end": 289.1,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "我们的水源是附近的一条溪流。"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 9,
       "start": 289.1,
       "end": 291.88,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "你在那里的时候天气状况如何？"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 15,
       "start": 291.88,
       "end": 297.8,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "天气一点也不利于工作，因为湿度几乎让人无法忍受。"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 10,
       "start": 297.8,
       "end": 300.96,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "中午，我们待在小屋里，什么也不做。"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 9,
       "start": 300.96,
       "end": 304.32,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "太潮湿了，既没法工作也没法睡觉。"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 9,
       "start": 304.32,
       "end": 306.94,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "你的团队在丛林里待了多久？"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 9,
       "start": 306.94,
       "end": 309.52,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "最初，我们计划在那里待一个月。"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 10,
       "start": 309.52,
       "end": 312.96,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "但最终，我们只待了两周。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 7,
       "start": 312.96,
       "end": 315.74,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "你为什么要缩短探险时间？"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 12,
       "start": 315.74,
       "end": 320.32,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "旅途进行到一半时，我们收到了飓风即将来袭的消息。"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 8,
       "start": 320.32,
       "end": 323.18,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "我们必须在极短的时间内撤离。"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 6,
       "start": 323.18,
       "end": 325.54,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "这听起来是一个迷人的轶事。"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 3,
       "start": 325.54,
       "end": 327.66,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "那是很吓人的。"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 7,
       "start": 327.66,
       "end": 331.88,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "最快的撤离路线是河流急流。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 10,
       "start": 331.88,
       "end": 335.38,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我们不得不带着所有的设备在急流中航行。"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 6,
       "start": 335.38,
       "end": 338.7,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "那么总的来说，这次旅程是不成功的吗？"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 2,
       "start": 338.7,
       "end": 340.04,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "绝对不是。"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 12,
       "start": 340.04,
       "end": 344.14,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "我们收集了大量关于当地植物生活的资料。"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 9,
       "start": 344.14,
       "end": 347.92,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "你为什么要忍受如此不利的条件？"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 6,
       "start": 347.92,
       "end": 350.52,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "植物学对我来说是一种痴迷。"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 9,
       "start": 350.52,
       "end": 354.0,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "我访问的许多目的地都有迷人的风景。"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 13,
       "start": 354.0,
       "end": 358.12,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "我可以遇到来自世界各地的各种人。"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 7,
       "start": 358.12,
       "end": 360.74,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "那么你的下一个目的地是哪里？"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 4,
       "start": 360.74,
       "end": 363.08,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我还没决定。"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 8,
       "start": 363.08,
       "end": 365.64,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "那么我们可以留到下次度假再说。"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 1,
       "start": 365.64,
       "end": 370.259,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "谢谢。"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 10,
       "start": 370.259,
       "end": 392.2,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "男士想让简·福斯特谈论什么？"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 11,
       "start": 392.2,
       "end": 411.56,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "为什么女士将她的经历描述为一点也不光鲜？"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 14,
       "start": 411.56,
       "end": 429.98,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "为什么女士和同行的人半途结束了他们的旅行？"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 8,
       "start": 429.98,
       "end": 479.0,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "女士如何看待这次旅程？"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 10,
       "start": 479.0,
       "end": 483.34,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "科学家在与外行交流时经常使用专业术语。"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 11,
       "start": 483.34,
       "end": 488.68,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "他们中的大多数人没有意识到这种做法的有害影响。"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 41,
       "start": 488.68,
       "end": 504.7,
-      "matchedWords": 40
+      "matchedWords": 40,
+      "translation": "在项新研究中，人们在阅读关于自动驾驶汽车和手术机器人等主题的内容时接触到了术语，后来他们表示，与阅读相同主题但未使用专业术语的人相比，他们对科学的兴趣更低。"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 14,
       "start": 504.7,
       "end": 510.98,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "他们还觉得自己对科学了解较少，也没有资格讨论科学话题。"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 16,
       "start": 510.98,
       "end": 518.5,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "值得注意的是，即使在文中对术语进行了定义，结果也没有区别。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 22,
       "start": 518.5,
       "end": 527.9,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "即使定义了术语，读者仍然感到同样的缺乏参与感，就像阅读未解释术语的读者一样。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 15,
       "start": 527.9,
       "end": 536.76,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "问题在于，术语的存在本身就向读者传递了一种令人沮丧的信息。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 14,
       "start": 536.76,
       "end": 542.48,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "该研究的作者希拉里·舒尔曼断言，专业词汇是一种信号。"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 9,
       "start": 542.48,
       "end": 547.28,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "术语告诉人们，这些信息不适合他们。"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 11,
       "start": 547.28,
       "end": 551.58,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "人们对术语的反应还有一个更阴暗的一面。"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 18,
       "start": 551.58,
       "end": 560.7,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "在另一项研究中，研究人员发现，阅读含有术语的科学文章会导致人们怀疑科学本身。"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 16,
       "start": 560.7,
       "end": 570.16,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "他们发现了相反的情况，即当文章更容易阅读时，人们更容易被说服。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 12,
       "start": 570.16,
       "end": 577.4,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "因此，在谈论复杂的科学课题时，清晰地沟通非常重要。"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 21,
       "start": 577.4,
       "end": 588.6,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "对于与公共卫生相关的问题尤其如此，例如新药物的安全性和疫苗的好处。"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 12,
       "start": 588.6,
       "end": 594.64,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "舒尔曼承认，在科学受众中使用术语是合适的。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 15,
       "start": 594.64,
       "end": 600.68,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "但想要与普通公众交流的科学家需要调整他们的语言。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 5,
       "start": 600.68,
       "end": 610.4,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "他们需要消除术语。"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 13,
       "start": 610.4,
       "end": 630.28,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "关于专家使用术语，文章说了什么？"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 12,
       "start": 630.28,
       "end": 650.7,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "关于阅读含有术语的科学文章的人，研究人员发现了什么？"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 12,
       "start": 650.7,
       "end": 672.66,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "在与普通公众交流时，舒尔曼建议科学家怎么做？"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 36,
       "start": 672.66,
       "end": 687.14,
-      "matchedWords": 34
+      "matchedWords": 34,
+      "translation": "20 世纪初，在美国德克萨斯州墨西哥湾沿岸，有一座小山，那里的气体泄漏非常明显，以至于男学生有时会点燃小山。"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 16,
       "start": 687.14,
       "end": 695.38,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "帕蒂奥·希金斯，一个名声不佳的当地商人，坚信这座冒气的小山下面有石油。"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 10,
       "start": 695.38,
       "end": 700.5,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "当时的油井并不是钻出来的，基本上是挖出来的。"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 16,
       "start": 700.5,
       "end": 707.12,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "小山下的沙子使希金斯的工人几次打井的尝试都失败了。"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 13,
       "start": 707.12,
       "end": 712.94,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "希金斯曾预测在 1,000 英尺处有石油，这是一个完全杜撰出来的数字。"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 9,
       "start": 712.94,
       "end": 718.38,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "希金斯随后聘请了一位采矿工程师，安东尼·卢卡斯上尉。"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 20,
       "start": 718.38,
       "end": 727.9,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "在遇到几次挫折后，卢卡斯上尉决定使用钻头，他的创新创造了现代石油钻探工业。"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 36,
       "start": 727.9,
       "end": 746.32,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "1901 年 1 月，在 1,020 英尺深处，几乎正是希金斯凭空猜测的深度，油井发出了轰鸣声，突然从地下喷出了泥浆和 6 吨钻杆，吓坏了在场的人。"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 23,
       "start": 746.32,
       "end": 755.18,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "在接下来的 9 天里，直到油井被封上，这口井喷出的石油比全美所有油井的总和还要多。"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 16,
       "start": 755.18,
       "end": 762.94,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "在那个年代，德克萨斯州几乎完全是农村，没有大城市，也几乎没有工业。"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 9,
       "start": 762.94,
       "end": 766.18,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "棉花和牛肉是经济的基础。"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 4,
       "start": 766.18,
       "end": 768.76,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "希金斯的油井改变了这一点。"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 19,
       "start": 768.76,
       "end": 777.46,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "石油繁荣使一些勘探者成了百万富翁，但石油的突然过剩对德克萨斯州来说并不完全是一件好事。"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 20,
       "start": 777.46,
       "end": 785.5,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "在 20 世纪 30 年代，价格暴跌，以至于在全国一些地区，石油比水还便宜。"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 13,
       "start": 785.5,
       "end": 797.8,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这将成为德克萨斯州经济繁荣或萧条的熟悉模式。"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 7,
       "start": 797.8,
       "end": 817.12,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "德克萨斯州商人帕蒂奥·希金斯相信什么？"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 13,
       "start": 817.12,
       "end": 836.42,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "是什么阻止了希金斯的工人挖出合适的井来获取石油？"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 10,
       "start": 836.42,
       "end": 855.44,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "关于卢卡斯上尉的钻井方法，文章说了什么？"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 9,
       "start": 855.44,
       "end": 902.92,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于德克萨斯州石油工业的繁荣，我们能了解到什么？"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 5,
       "start": 902.92,
       "end": 906.0,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "大多数人都不喜欢他们的工作。"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 6,
       "start": 906.0,
       "end": 909.96,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "这是一个令人惊讶但有据可查的事实。"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 18,
       "start": 909.96,
       "end": 918.38,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "根据最新的研究，员工不满的主要原因是许多人认为他们遇到了糟糕的经理。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 18,
       "start": 918.38,
       "end": 928.08,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "虽然恶意或操纵型的经理确实存在，但很少有人这样描述他们的经理，他们只是少数。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 10,
       "start": 928.08,
       "end": 932.68,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "大多数经理似乎只是不知道有更好的管理方式。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 10,
       "start": 932.68,
       "end": 936.5,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "他们通常在模仿自己过去遇到过的糟糕经理。"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 13,
       "start": 936.5,
       "end": 941.68,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "他们可能从未读过管理类书籍，也从未参加过管理课程。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 21,
       "start": 941.68,
       "end": 950.82,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "他们甚至可能从未思考过什么是好的管理，以及它会如何影响自己的管理风格。"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 19,
       "start": 950.82,
       "end": 958.98,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "研究人员采访了员工关于他们的经理的情况，首先问的是他们遇到过的最糟糕的经理。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 23,
       "start": 958.98,
       "end": 967.82,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "由此，研究人员总结出了为什么有些经理被认为在工作中表现很糟糕的四个主要原因。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 16,
       "start": 967.82,
       "end": 975.96,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "第一个原因是公司文化，员工认为这导致了糟糕的管理行为。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 21,
       "start": 975.96,
       "end": 986.2,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "具体而言，压力巨大的工作环境、极少的培训以及缺乏问责制被认为是最应受指责的。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 19,
       "start": 986.2,
       "end": 994.3,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "通常，当经理的上司未能对该人的错误行为进行惩戒时，他们实际上是在鼓励经理令人反感的行为。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 7,
       "start": 994.3,
       "end": 999.62,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "这样的工作场所被描述为“有毒的”。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 39,
       "start": 999.62,
       "end": 1017.9,
-      "matchedWords": 39
+      "matchedWords": 39,
+      "translation": "第二个原因归结为经理的个人特征：那些被认为最具破坏性的人是古怪的人、缺乏动力的人、将个人问题带入工作场所的人，以及通常脾气或性格不好的人。"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 13,
       "start": 1017.9,
       "end": 1022.82,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "第三个糟糕管理的原因与他们缺乏资质有关。"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 24,
       "start": 1022.82,
       "end": 1034.88,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "这指的不是从大学获得的正式学历，而是来自可靠工作经验和职业成就的非正式资历。"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 13,
       "start": 1034.88,
       "end": 1041.64,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "第四个原因涉及那些因为潜力以外的其他原因而被提拔的经理。"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 18,
       "start": 1041.64,
       "end": 1047.4,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "这些人被提拔的一个特别原因是因为他们任职时间最长。"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 16,
       "start": 1047.4,
       "end": 1055.2,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "让他们获得这份工作的不是他们的技能组合或其他优点，而是他们的任期。"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 16,
       "start": 1055.2,
       "end": 1061.78,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "值得注意的一点是，这项研究仅基于员工的角度。"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 14,
       "start": 1061.78,
       "end": 1068.74,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "研究人员没有询问高级领导对一线经理的看法。"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 43,
       "start": 1068.74,
       "end": 1098.0,
-      "matchedWords": 43
+      "matchedWords": 43,
+      "translation": "很有可能他们对自己提拔的人目前的表现感到满意，却浑然不知他们实际上造成的损害，这也许可以解释为什么研究人员得出结论，那些中层经理通常意识不到自己是一个糟糕的经理。"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 12,
       "start": 1098.0,
       "end": 1119.56,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "根据最近的研究，员工不满的主要原因是什么？"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 10,
       "start": 1119.56,
       "end": 1138.64,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "导致糟糕管理行为的原因之一是什么？"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 10,
       "start": 1138.64,
       "end": 1158.46,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "关于这项关于工作不满的研究，我们能了解到什么？"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 24,
       "start": 1158.46,
       "end": 1170.18,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "随着无人驾驶车辆的使用似乎已不可避免，位于澳大利亚广阔沙漠州西澳大利亚州的矿业公司无疑正处于领先地位。"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 9,
       "start": 1170.18,
       "end": 1173.68,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "铁矿石是炼钢的关键成分。"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 14,
       "start": 1173.68,
       "end": 1179.94,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "这里的矿业公司每年生产近 3 亿吨铁矿石。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 29,
       "start": 1179.94,
       "end": 1192.74,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "在西澳大利亚矿区使用的 240 辆巨型自动驾驶卡车在满载时可重达 400 吨，行驶速度最高可达每小时 60 公里。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 21,
       "start": 1192.74,
       "end": 1202.24,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "它们是一项技术飞跃，沿着从矿山到目的地的数百公里路线运输铁矿石。"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 19,
       "start": 1202.24,
       "end": 1209.3,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "在这里，当卡车到达目的地时，操作中心的工作人员会指示它在精确的位置卸货。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 14,
       "start": 1209.3,
       "end": 1217.2,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "随后，大量的铁矿石由自动驾驶火车运往海港。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 9,
       "start": 1217.2,
       "end": 1221.98,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "倡导者认为，这些自动化车辆将永远改变采矿业。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 18,
       "start": 1221.98,
       "end": 1229.56,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "也许再过五年，自动化技术的使用就会催生一个全机器人的矿井。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 17,
       "start": 1229.56,
       "end": 1236.52,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "一系列因素促使西澳大利亚沙漠地区在这场自动化革命中处于领先地位。"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 21,
       "start": 1236.52,
       "end": 1244.52,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "其中包括矿山的巨大规模、设备的量级以及某些工作的重复性质。"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 18,
       "start": 1244.52,
       "end": 1253.68,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "此外，该地区地处偏远，面积达 50.2 万平方公里，有时会使招聘员工成为一项挑战。"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 11,
       "start": 1253.68,
       "end": 1258.66,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "另一个考虑因素是人类与大型机械互动时的风险。"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 6,
       "start": 1258.66,
       "end": 1261.86,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "还有财务上的紧迫性。"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 22,
       "start": 1261.86,
       "end": 1271.64,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "矿业公司不断推动提高生产率和效率，是拥抱自动化技术的另一个强大驱动力。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 15,
       "start": 1271.64,
       "end": 1276.92,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "然而，“全自动矿井”的概念有点误导。"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 22,
       "start": 1276.92,
       "end": 1285.04,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "这是因为投入该领域的技术越多，就需要越多的人来部署、维护和改进它。"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 14,
       "start": 1285.04,
       "end": 1290.1,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "该行业的自动化和数字化正在创造对不同工作的需求。"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 11,
       "start": 1290.1,
       "end": 1297.6,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "其中包括数据科学家以及自动化和人工智能领域的工程师。"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 16,
       "start": 1297.6,
       "end": 1306.02,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "矿业公司声称，自动化和机器人技术为使采矿业更可持续、更安全提供了机会。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 14,
       "start": 1306.02,
       "end": 1312.06,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "员工将获得一个更充实、更有回报的职业生涯。"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 23,
       "start": 1312.06,
       "end": 1322.28,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "工会已经接受了引进新技术的必然性，但他们对自动化技术的兴起仍持保留意见。"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 10,
       "start": 1322.28,
       "end": 1326.86,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "他们最担心的是对偏远社区的潜在影响。"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 19,
       "start": 1326.86,
       "end": 1335.74,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "随着自动化的进一步普及，问题在于，当旧的工作岗位被消除时，这些偏远社区将如何生存。"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 20,
       "start": 1335.74,
       "end": 1349.6,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "而这很可能被证明是机器人技术在世界许多地方产生的最重大影响。"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 12,
       "start": 1349.6,
       "end": 1369.56,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "关于西澳大利亚的采矿业，文章说了什么？"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 11,
       "start": 1369.56,
       "end": 1389.08,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "采矿业数字化的影响是什么？"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 13,
       "start": 1389.08,
       "end": 1409.3,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "工会对引进新技术的态度是什么？"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 15,
       "start": 1409.3,
       "end": 1418.1,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "根据官方统计，泰国的年度道路死亡率几乎是全球平均水平的两倍。"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 17,
       "start": 1418.1,
       "end": 1425.94,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "泰国人知道他们的道路很危险，但他们不知道这可以很容易地改变。"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 12,
       "start": 1425.94,
       "end": 1432.72,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "在全球范围内，每年死于交通事故的人数超过任何传染病。"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 19,
       "start": 1432.72,
       "end": 1440.72,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "美国健康指标与评估研究所的研究人员将2017年的死亡人数定为1"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 2,
       "start": 1440.72,
       "end": 1443.2,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "2400万。"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 21,
       "start": 1443.2,
       "end": 1450.86,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "根据该研究所的数据，自本世纪初以来，死亡总数或多或少保持不变。"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 10,
       "start": 1450.86,
       "end": 1456.48,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "但这掩盖了各个国家的许多变化。"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 13,
       "start": 1456.48,
       "end": 1462.52,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "在许多贫穷国家，死于交通事故的人数比以往任何时候都多。"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 20,
       "start": 1462.52,
       "end": 1472.16,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "这些国家拥有不断增长的年轻人口、快速增长的汽车和摩托车数量，以及有限的外科医生供应。"
     },
     {
       "id": "line-171",
@@ -2130,7 +2301,8 @@
       "words": 13,
       "start": 1472.16,
       "end": 1477.38,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "由于官方统计数据非常不足，不可能确切知道。"
     },
     {
       "id": "line-172",
@@ -2142,7 +2314,8 @@
       "words": 16,
       "start": 1477.38,
       "end": 1485.58,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "但据认为，自 1990 年以来，许多低收入国家的死亡人数增加了 40%。"
     },
     {
       "id": "line-173",
@@ -2154,7 +2327,8 @@
       "words": 11,
       "start": 1485.58,
       "end": 1490.68,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "相比之下，在许多富裕国家，道路变得更加安全。"
     },
     {
       "id": "line-174",
@@ -2166,7 +2340,8 @@
       "words": 20,
       "start": 1490.68,
       "end": 1500.68,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "例如，在爱沙尼亚和爱尔兰，自 20 世纪 90 年代后期以来，死亡人数下降了约三分之二。"
     },
     {
       "id": "line-175",
@@ -2178,7 +2353,8 @@
       "words": 29,
       "start": 1500.68,
       "end": 1513.64,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "但最重要和最耐人寻味的变化发生在拥有世界大部分人口和一些最危险道路的中等收入国家。"
     },
     {
       "id": "line-176",
@@ -2190,7 +2366,8 @@
       "words": 29,
       "start": 1513.64,
       "end": 1528.1,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "据中国和南非的研究人员称，自 2000 年以来，交通死亡人数一直在下降，印度自 2012 年以来也在下降，而菲律宾在四年前达到了峰值。"
     },
     {
       "id": "line-177",
@@ -2202,7 +2379,8 @@
       "words": 9,
       "start": 1528.1,
       "end": 1533.7,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "问题是泰国是否能很快效仿。"
     },
     {
       "id": "line-178",
@@ -2214,7 +2392,8 @@
       "words": 19,
       "start": 1533.7,
       "end": 1543.28,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "国际道路评估计划负责人罗布·麦金尼表示，所有国家往往都会经历三个阶段。"
     },
     {
       "id": "line-179",
@@ -2226,7 +2405,8 @@
       "words": 6,
       "start": 1543.28,
       "end": 1546.76,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "它们从破旧、缓慢的道路开始。"
     },
     {
       "id": "line-180",
@@ -2238,7 +2418,8 @@
       "words": 23,
       "start": 1546.76,
       "end": 1556.0,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "在第二个阶段，随着国家变得更加富裕，它们铺设道路，使车辆行驶更快，从而推高了死亡率。"
     },
     {
       "id": "line-181",
@@ -2250,7 +2431,8 @@
       "words": 12,
       "start": 1556.0,
       "end": 1560.92,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "最后，在第三个阶段，国家采取行动使道路更加安全。"
     },
     {
       "id": "line-182",
@@ -2262,7 +2444,8 @@
       "words": 19,
       "start": 1560.92,
       "end": 1572.0,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "那么，窍门就是通过更早、更密切地关注致命事故，更早地达到第三个阶段。"
     },
     {
       "id": "line-183",
@@ -2274,7 +2457,8 @@
       "words": 4,
       "start": 1572.0,
       "end": 1573.32,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "如何做到这一点？"
     },
     {
       "id": "line-184",
@@ -2286,7 +2470,8 @@
       "words": 13,
       "start": 1573.32,
       "end": 1580.48,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "解决方案不仅在于更好的基础设施，还在于更好的社会激励。"
     },
     {
       "id": "line-185",
@@ -2298,7 +2483,8 @@
       "words": 14,
       "start": 1580.48,
       "end": 1586.16,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "安全驾驶习惯是人们知道应该遵守但往往不遵守的做法。"
     },
     {
       "id": "line-186",
@@ -2310,7 +2496,8 @@
       "words": 11,
       "start": 1586.16,
       "end": 1593.42,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "危险驾驶并不像一些人想象的那样是一种固定的文化特征。"
     },
     {
       "id": "line-187",
@@ -2322,7 +2509,8 @@
       "words": 12,
       "start": 1593.42,
       "end": 1606.38,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "人们对激励措施做出反应，例如实际执行的交通法规。"
     },
     {
       "id": "line-188",
@@ -2334,7 +2522,8 @@
       "words": 10,
       "start": 1606.38,
       "end": 1626.9,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "说话者关于泰国的交通事故说了什么？"
     },
     {
       "id": "line-189",
@@ -2346,7 +2535,8 @@
       "words": 12,
       "start": 1626.9,
       "end": 1647.18,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "从美国一家研究所关于道路死亡的统计数据中，我们能了解到什么？"
     },
     {
       "id": "line-190",
@@ -2358,7 +2548,8 @@
       "words": 7,
       "start": 1647.18,
       "end": 1665.28,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "关于中等收入国家说了什么？"
     },
     {
       "id": "line-191",
@@ -2370,7 +2561,8 @@
       "words": 15,
       "start": 1665.28,
       "end": 1690.135,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "除了更安全的道路之外，还可以采取什么措施来减少致命的道路交通事故？"
     }
   ]
 }

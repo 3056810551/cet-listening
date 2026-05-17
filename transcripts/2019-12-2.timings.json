@@ -78,7 +78,8 @@
       "words": 2,
       "start": 39.78,
       "end": 41.72,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "打扰一下。"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 6,
       "start": 41.72,
       "end": 44.24,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "你们的摇滚乐区域在哪里？"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 2,
       "start": 44.24,
       "end": 45.94,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "摇滚乐？"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 8,
       "start": 45.94,
       "end": 48.14,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "抱歉，我们是一家爵士乐店。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 8,
       "start": 48.14,
       "end": 50.78,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我们这里没有任何摇滚乐。"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 8,
       "start": 50.78,
       "end": 56.04,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "哦，你们只有爵士乐，没有别的。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 3,
       "start": 56.04,
       "end": 56.96,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "没错。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 12,
       "start": 56.96,
       "end": 62.1,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我们是伦敦唯一一家专门经营爵士乐的唱片店。"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 9,
       "start": 62.1,
       "end": 64.98,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "实际上，我们不仅仅是一家唱片店。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 28,
       "start": 64.98,
       "end": 75.08,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "我们楼上有咖啡馆和图书馆，走廊尽头有一个售票处，你可以在那里买到市内所有主要爵士音乐会的门票。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 16,
       "start": 75.08,
       "end": 81.44,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "此外，我们隔壁还有自己的录音室，为崭露头角的艺术家制作专辑。"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 8,
       "start": 81.44,
       "end": 85.42,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "我们致力于培养新的音乐人才。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 5,
       "start": 85.42,
       "end": 87.62,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "哇，太酷了。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 11,
       "start": 87.62,
       "end": 90.86,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "我想现在爵士乐已经不多见了。"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 6,
       "start": 90.86,
       "end": 92.46,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "不像以前那样了。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 11,
       "start": 92.46,
       "end": 96.04,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "但在这里，你们正在努力推广这种伟大的音乐流派。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 1,
       "start": 96.04,
       "end": 96.6,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "是的。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 12,
       "start": 96.6,
       "end": 102.22,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "确实，现在大多数人喜欢听流行音乐和摇滚乐。"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 12,
       "start": 102.22,
       "end": 106.84,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "来自美国的嘻哈音乐也越来越受欢迎。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 22,
       "start": 106.84,
       "end": 115.84,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "因此，爵士乐的听众越来越少，这真是一件憾事，因为它是一种极其丰富的流派。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 19,
       "start": 115.84,
       "end": 121.7,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "但并不是说现在就没有好的新爵士乐作品了。"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 3,
       "start": 121.7,
       "end": 123.28,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "远非如此。"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 8,
       "start": 123.28,
       "end": 126.34,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "只是现在的市场小了很多。"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 6,
       "start": 126.34,
       "end": 129.92,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "那么，你会如何定义爵士乐呢？"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 10,
       "start": 129.92,
       "end": 134.6,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "有趣的是，爵士乐并没有一个统一的定义。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 15,
       "start": 134.6,
       "end": 140.82,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "事实上，爵士乐有很多不同的风格，有些有演唱，但大多数没有。"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 7,
       "start": 140.82,
       "end": 143.28,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "有些是电子的，有些则不是。"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 7,
       "start": 143.28,
       "end": 147.36,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "有些包含现场实验，但并非总是如此。"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 8,
       "start": 147.36,
       "end": 150.44,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "虽然它没有简单的定义。"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 8,
       "start": 150.44,
       "end": 152.88,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "虽然，爵士乐有很多不同的风格。"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 8,
       "start": 152.88,
       "end": 155.78,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "你只要一听就能辨认出来。"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 1,
       "start": 155.78,
       "end": 156.5,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "诚实地说。"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 12,
       "start": 156.5,
       "end": 160.7,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "了解什么是爵士乐的唯一方法，就是亲自去听。"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 5,
       "start": 160.7,
       "end": 162.1,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "正如伟大的小号手。"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 13,
       "start": 162.1,
       "end": 174.52,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "路易斯·阿姆斯特朗所说，如果你非要问，你永远不会明白。"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 9,
       "start": 174.52,
       "end": 191.06,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "关于这位女士的店，我们了解到了什么？"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 8,
       "start": 191.06,
       "end": 209.56,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于爵士乐，这位男士说了什么？"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 7,
       "start": 209.56,
       "end": 227.12,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "关于爵士乐，这位女士说了什么？"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 14,
       "start": 227.12,
       "end": 247.2,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "根据这位女士的说法，你应该怎么做来欣赏不同风格的爵士乐？"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 9,
       "start": 247.2,
       "end": 250.96,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "今天早上在银行的情况怎么样？"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 2,
       "start": 250.96,
       "end": 252.04,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "不太好。"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 4,
       "start": 252.04,
       "end": 254.44,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我的提议被拒绝了。"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 1,
       "start": 254.44,
       "end": 255.24,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "真的吗？"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 2,
       "start": 255.24,
       "end": 256.44,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "但为什么呢？"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 3,
       "start": 256.44,
       "end": 257.78,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "有很多原因。"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 11,
       "start": 257.78,
       "end": 262.16,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "首先，他们说我的信用记录不够好。"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 8,
       "start": 262.16,
       "end": 264.98,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "他们有没有说你可以如何改善？"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 24,
       "start": 264.98,
       "end": 274.7,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "是的，他们说再还五年房贷后，我将成为更有希望获得商业贷款的人选。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 13,
       "start": 274.7,
       "end": 278.7,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "但现在对他们来说，借钱给我太冒险了。"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 12,
       "start": 278.7,
       "end": 283.34,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "他们担心我会拖欠任何发给我的商业贷款。"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 5,
       "start": 283.34,
       "end": 285.06,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "这听起来不公平。"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 5,
       "start": 285.06,
       "end": 287.22,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "你的商业点子很棒。"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 7,
       "start": 287.22,
       "end": 289.24,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "你给他们看你的商业计划书了吗？"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 4,
       "start": 289.24,
       "end": 290.54,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "他们怎么说？"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 12,
       "start": 290.54,
       "end": 295.9,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "他们并没有真正就实际的商业计划发表任何看法。"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 14,
       "start": 295.9,
       "end": 300.18,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "他们只是看了我的信用记录，就认定不够好。"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 17,
       "start": 300.18,
       "end": 306.38,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "他们说银行对于可以放贷的对象有严格的指导方针和要求。"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 9,
       "start": 306.38,
       "end": 310.86,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "而我根本没有达到他们的财务门槛。"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 8,
       "start": 310.86,
       "end": 313.2,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "如果你申请小一点的金额呢？"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 13,
       "start": 313.2,
       "end": 318.7,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "或许你可以从其他渠道筹集资金，从更多的贷款机构获得小额贷款。"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 5,
       "start": 318.7,
       "end": 320.26,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "你不明白。"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 19,
       "start": 320.26,
       "end": 326.76,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "无论我申请多大的贷款，或者我提议什么样的业务，这都不重要。"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 4,
       "start": 326.76,
       "end": 328.18,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "那都是无关紧要的。"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 32,
       "start": 328.18,
       "end": 339.74,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "每家银行首先要做的是研究我有多少钱以及我有多少债务，然后再决定是否再借钱给我。"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 19,
       "start": 339.74,
       "end": 346.32,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "如果我想继续实现拥有自己事业的梦想，我别无选择。"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 19,
       "start": 346.32,
       "end": 354.8,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "除了增强我自己的财力，我还需要增加大约20%的个人储蓄，并减少50%的债务。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 7,
       "start": 354.8,
       "end": 356.18,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "事情就是这样。"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 3,
       "start": 356.18,
       "end": 358.18,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "我明白了。"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 16,
       "start": 358.18,
       "end": 363.48,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "嗯，他们拒绝了你的请求真是非常遗憾，但不要失去希望。"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 18,
       "start": 363.48,
       "end": 379.998,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "我仍然认为你的点子很棒，你会把它变成巨大的成功。"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 7,
       "start": 379.998,
       "end": 394.68,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这位女士今天早上做了什么？"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 7,
       "start": 394.68,
       "end": 412.42,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "为什么这位女士的提议被拒绝了？"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 7,
       "start": 412.42,
       "end": 430.14,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "这位女士计划做什么？"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 8,
       "start": 430.14,
       "end": 478.07,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "这位男士建议这位女士做什么？"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 13,
       "start": 478.07,
       "end": 482.15,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "有很多关于里奥·桑切斯和他位于加利福尼亚州萨利纳斯的农场的信息。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 3,
       "start": 482.15,
       "end": 484.21,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "那看起来很不寻常。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 15,
       "start": 484.21,
       "end": 492.87,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "全国平均农场面积约为440英亩，但他的只有1英亩。"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 15,
       "start": 492.87,
       "end": 500.31,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "农民的平均年龄在58岁左右，而他只有26岁。"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 23,
       "start": 500.31,
       "end": 510.53,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "桑切斯不断尝试改进每一项工作，从田间的播种技术到农产品的在线推广和销售。"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 7,
       "start": 510.53,
       "end": 516.19,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "这就是实验性方法的证据。"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 18,
       "start": 516.19,
       "end": 525.87,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "这种方法不受国际公司主导的传统大规模农业的限制。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 32,
       "start": 525.87,
       "end": 541.22,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "虽然务农往往对身心都是一种挑战，但桑切斯说，他和许多年轻同仁都是受建立农业新标准的愿望所驱使。"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 16,
       "start": 541.22,
       "end": 549.18,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "他们中的许多人正在使用多种技术，有些是新的，有些则不那么新。"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 14,
       "start": 549.18,
       "end": 556.6,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "最近，桑切斯购买了一种用于除草和松土的手动工具。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 8,
       "start": 556.6,
       "end": 561.18,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "它实际上至少可以追溯到1701年。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 18,
       "start": 561.18,
       "end": 571.0,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "这与桑切斯的另一个装置形成了鲜明对比，那是一个发明于1997年的燃气火焰除草机。"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 13,
       "start": 571.0,
       "end": 576.0,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "在工具的新旧程度上，他完全没有偏见。"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 5,
       "start": 576.0,
       "end": 578.6,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "只要管用就行。"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 12,
       "start": 578.6,
       "end": 583.7,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "农民有着悠久的发明历史，今天也不例外。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 23,
       "start": 583.7,
       "end": 595.06,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "年轻农民在对农业的热爱指引下，并借助他们的技术知识，寻找廉价且尺寸合适的工具。"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 4,
       "start": 595.06,
       "end": 598.52,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "他们合作并创新。"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 10,
       "start": 598.52,
       "end": 611.82,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "有时候，老式的东西反而效果更好或效率更高。"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 9,
       "start": 611.82,
       "end": 630.04,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "关于里奥·桑切斯的农场，我们了解到了什么？"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 14,
       "start": 630.04,
       "end": 650.58,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "是什么激励里奥·桑切斯和他的年轻同仁从事农业？"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 10,
       "start": 650.58,
       "end": 669.44,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "为什么里奥·桑切斯买了一个手动除草工具？"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 24,
       "start": 669.44,
       "end": 679.78,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "Eat Grub是英国第一家打破西方饮食界限，引入食用昆虫作为新食物来源的新型食品公司。"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 16,
       "start": 679.78,
       "end": 688.48,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "Sainsbury’s是英国第一家进货该公司松脆烤蟋蟀的超市。"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 18,
       "start": 688.48,
       "end": 696.32,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "Sainsbury’s坚持认为这种食物不是玩笑，它可能是一种新型的、可持续的蛋白质来源。"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 26,
       "start": 696.32,
       "end": 706.4,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "出于好奇，我去了Sainsbury’s，当我把手伸进一包长着细小眼睛和腿的蟋蟀时。"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 14,
       "start": 706.4,
       "end": 711.1,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "想到要把一只放进嘴里，我就感到有点恶心。"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 27,
       "start": 711.1,
       "end": 722.84,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "但第一口却是个惊喜，虽然有点干且缺乏味道，但至少翅膀没卡在我的嗓子里。"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 15,
       "start": 722.84,
       "end": 731.6,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "烧烤调味料很大程度上掩盖了其他任何味道，尽管还有一点点苦的余味。"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 11,
       "start": 731.6,
       "end": 736.28,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "口感很脆，但闻起来有点像猫粮。"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 14,
       "start": 736.28,
       "end": 743.38,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "Eat Grub还推荐将蟋蟀作为面条、汤和沙拉的配料。"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 23,
       "start": 743.38,
       "end": 753.92,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "该公司吹嘘其干蟋蟀所含的蛋白质比牛肉、鸡肉和猪肉还要多，此外还含有铁和钙等矿物质。"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 17,
       "start": 753.92,
       "end": 761.68,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "与肉类生产不同，昆虫不会消耗大量的土地、水或饲料。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 9,
       "start": 761.68,
       "end": 768.18,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "而且昆虫养殖产生的温室气体也少得多。"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 22,
       "start": 768.18,
       "end": 780.38,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "然而，尽管全球已有20亿人在饮食中补充昆虫，但在许多西方国家，消费者的厌恶情绪仍然是一个巨大的障碍。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 19,
       "start": 780.38,
       "end": 795.92,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我不确定昆虫是否会很快成为流行零食，但它们绝对值得思考。"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 13,
       "start": 795.92,
       "end": 815.5,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "关于Eat Grub食品公司，我们从短文中了解到了什么？"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 12,
       "start": 815.5,
       "end": 835.06,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "关于第一口烤蟋蟀，说话者说了什么？"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 9,
       "start": 835.06,
       "end": 853.52,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "Eat Grub关于其干蟋蟀说了什么？"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 8,
       "start": 853.52,
       "end": 899.8,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "短文关于昆虫养殖说了什么？"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 17,
       "start": 899.8,
       "end": 906.26,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "你是否曾遇到过有人试图向你解释某件事十几次，你却还是不明白？"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 11,
       "start": 906.26,
       "end": 912.16,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "但当你看到一张图片时，你就恍然大悟了。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 12,
       "start": 912.16,
       "end": 918.18,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "如果这听起来很熟悉，也许你会认为自己是一个视觉型学习者。"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 17,
       "start": 918.18,
       "end": 924.9,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "或者，如果阅读或聆听奏效了，也许你觉得你是一个言语型学习者。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 6,
       "start": 924.9,
       "end": 928.04,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我们将这些标签称为学习风格。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 12,
       "start": 928.04,
       "end": 933.52,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "但真的有办法将不同类型的学生分类吗？"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 19,
       "start": 933.52,
       "end": 942.92,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "嗯，事实上，多种呈现形式（尤其是其中一种是视觉形式）似乎能帮助大多数人学习。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 30,
       "start": 942.92,
       "end": 958.24,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "当心理学家和教育工作者测试学习风格时，他们是想弄清楚这些是否是影响学生学习效果的内在特征，而不仅仅是一种偏好。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 20,
       "start": 958.24,
       "end": 966.92,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "通常他们先进行调查，以确定学生偏爱哪种风格，比如视觉型或言语型学习。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 29,
       "start": 966.92,
       "end": 980.76,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "然后，他们尝试用特定的呈现风格（如使用视觉辅助工具）教学生一些东西，并进行后续测试以查看他们学到了多少。"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 24,
       "start": 980.76,
       "end": 991.98,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "通过这种方式，研究人员可以看到，例如，当信息只是被大声朗读出来时，自认为言语型学习者的人是否真的学得更好。"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 23,
       "start": 991.98,
       "end": 1004.1,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "但根据2008年的一项回顾研究，只有一项遵循这种设计的实验发现，学生在采用其偏好的风格时确实学得最好。"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 7,
       "start": 1004.1,
       "end": 1006.9,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "但那项研究有一些重大缺陷。"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 26,
       "start": 1006.9,
       "end": 1016.3,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "研究人员排除了三分之二的原始参与者，因为在开始的调查中，他们似乎没有任何明确的学习风格。"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 14,
       "start": 1016.3,
       "end": 1022.24,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "而且他们甚至没有在最终论文中报告实际的测试分数。"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 17,
       "start": 1022.24,
       "end": 1029.62,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "所以，学习风格似乎并不像我们都有的一种遗传特质。"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 22,
       "start": 1029.62,
       "end": 1037.98,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "但这并不意味着，如果所有的学生只是花所有时间阅读教科书，他们都会表现得非常出色。"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 19,
       "start": 1037.98,
       "end": 1046.76,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "相反，如果以多种方式教学（尤其是其中一种是视觉形式），大多数人似乎学得更好。"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 20,
       "start": 1046.76,
       "end": 1056.8,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "在一项研究中，研究人员测试了学生通过听、看、或两者兼有的方式，是否能更好地记住单词表。"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 15,
       "start": 1056.8,
       "end": 1061.82,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "而且，如果能看到印刷出来的单词，每个人的表现似乎都更好。"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 13,
       "start": 1061.82,
       "end": 1067.48,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "即使是自认为听觉型学习者的人，他们的偏好似乎也无关紧要。"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 29,
       "start": 1067.48,
       "end": 1089.18,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "类似的研测试了学生通过阅读纯文本或查看图片，是否能更好地学习物理和化学的基本概念，结果每个人在图片的帮助下都表现得更好。"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 8,
       "start": 1089.18,
       "end": 1108.8,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "为什么心理学家和教育工作者要研究学习风格？"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 13,
       "start": 1108.8,
       "end": 1129.22,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "关于2008年回顾研究中提到的一项研究，发言者说了什么？"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 16,
       "start": 1129.22,
       "end": 1149.7,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "在演讲结束时，发言者想传达关于学习的什么信息？"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 7,
       "start": 1149.7,
       "end": 1153.08,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "自由市场资本主义并没有解放我们。"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 4,
       "start": 1153.08,
       "end": 1154.86,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "它困住了我们。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 10,
       "start": 1154.86,
       "end": 1158.8,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "我们必须拥抱一场职场革命。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 22,
       "start": 1158.8,
       "end": 1166.28,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "我们不太可能在生命的最后时刻后悔自己没有花足够的时间在工作上当牛做马。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 36,
       "start": 1166.28,
       "end": 1179.58,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "相反，我们可能会对自己没有花时间陪伴孩子成长、陪伴爱人、旅行，或者追求能带来快乐的文化或休闲活动而感到愧疚。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 14,
       "start": 1179.58,
       "end": 1186.02,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "不幸的是，世界上全职员工平均每周工作42小时。"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 9,
       "start": 1186.02,
       "end": 1188.94,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "超过我们清醒时间的三分之一。"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 10,
       "start": 1188.94,
       "end": 1192.8,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我们一些极其宝贵的时间正在被偷走。"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 12,
       "start": 1192.8,
       "end": 1197.56,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "办公室职员每年无偿加班时长约为20亿小时。"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 21,
       "start": 1197.56,
       "end": 1206.04,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "因此，一些政府联盟已经开始研究可能将每周工作时间削减至四天，这非常受欢迎。"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 22,
       "start": 1206.04,
       "end": 1213.86,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "自由市场资本主义的拥护者承诺他们的生活方式会给我们带来自由，但那根本不是自由。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 19,
       "start": 1213.86,
       "end": 1222.52,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "从缺乏安全且负担得起的住房，到日益严重的工作不安全感和不断上升的个人债务，个人被困住了。"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 24,
       "start": 1222.52,
       "end": 1234.02,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "九十年前，顶尖经济学家预测，技术进步和生产力的提高意味着我们现在每周只需工作15小时。"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 6,
       "start": 1234.02,
       "end": 1237.58,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "这个目标在某种程度上落空了。"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 43,
       "start": 1237.58,
       "end": 1256.14,
-      "matchedWords": 43
+      "matchedWords": 43,
+      "translation": "这就是对我们个人自由最恶毒的威胁，特别是在职场权力天平如此剧烈地从工人向老板倾斜的情况下：我们生命中的很大一部分涉及到放弃自由和个人自主权。"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 24,
       "start": 1256.14,
       "end": 1264.3,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "在这些时间里，我们受制于他人的需求和欲望，并被剥夺了做出自己选择的权利。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 5,
       "start": 1264.3,
       "end": 1265.12,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "那对我们不利。"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 18,
       "start": 1265.12,
       "end": 1273.6,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "每年有超过50万工人患有与工作相关的心理健康疾病，这并不奇怪。"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 3,
       "start": 1273.6,
       "end": 1274.5,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "所有这些15。"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 18,
       "start": 1274.5,
       "end": 1282.96,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "去年因工作压力损失了400万个工作日——增加了近四分之一。"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 30,
       "start": 1282.96,
       "end": 1297.2,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "是的，有些人远非过度劳累，实际上还在寻求更多的工作时长，但缩短每周工作时间将使我们能够将工时从过度劳累的人手中重新分配给工作不足的人。"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 15,
       "start": 1297.2,
       "end": 1303.08,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "我们需要寻找在不降低生活水平的情况下缩短每周工作时间的方法。"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 19,
       "start": 1303.08,
       "end": 1310.46,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "毕竟，全世界的工人们已经遭受了自19世纪初以来最严重的工资削减。"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 23,
       "start": 1310.46,
       "end": 1330.336,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "而且缩短每周工作时间对个人有利，能让数百万工人有更多时间按自己的意愿安排生活。"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 11,
       "start": 1330.336,
       "end": 1347.62,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "根据发言者的说法，人们经常对什么感到愧疚？"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 8,
       "start": 1347.62,
       "end": 1366.6,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "90年前，顶尖经济学家预测了什么？"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 13,
       "start": 1366.6,
       "end": 1382.8,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "剥夺工人做出自己选择的权利会导致什么结果？"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 11,
       "start": 1382.8,
       "end": 1390.9,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "今天我要谈谈德国柏林的梦幻机场。"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 17,
       "start": 1390.9,
       "end": 1400.22,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "除了一个大问题外，这座机场看起来与欧洲其他所有主要现代机场完全一样。"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 15,
       "start": 1400.22,
       "end": 1407.12,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "在原定开放时间过去七年多后，它仍然空空如也。"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 27,
       "start": 1407.12,
       "end": 1420.46,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "德国以其效率和精湛的工程技术而闻名，但当谈到这座新的“幽灵机场”时，这种名声与事实相去甚远。"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 33,
       "start": 1420.46,
       "end": 1438.4,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "由于长期的延误、长期的管理不善以及不断飙升的成本，这座机场已成为德国人的笑柄，也是当地政界人士、商业领袖和居民沮丧的根源。"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 8,
       "start": 1438.4,
       "end": 1442.66,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "新机场的规划始于1989年。"
     },
     {
       "id": "line-171",
@@ -2130,7 +2301,8 @@
       "words": 24,
       "start": 1442.66,
       "end": 1454.64,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "当时人们已经清楚，新统一的柏林需要一座比现有机场容量大得多的现代化机场。"
     },
     {
       "id": "line-172",
@@ -2142,7 +2314,8 @@
       "words": 10,
       "start": 1454.64,
       "end": 1459.72,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "该市于2006年开始动工兴建新机场。"
     },
     {
       "id": "line-173",
@@ -2154,7 +2327,8 @@
       "words": 23,
       "start": 1459.72,
       "end": 1471.84,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "问题的第一个主要迹象出现在2010年夏天，当时建筑公司将开业时间从2011年10月推迟到2012年6月。"
     },
     {
       "id": "line-174",
@@ -2166,7 +2340,8 @@
       "words": 8,
       "start": 1471.84,
       "end": 1476.84,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "2012年，该市计划举行开幕式。"
     },
     {
       "id": "line-175",
@@ -2178,7 +2353,8 @@
       "words": 24,
       "start": 1476.84,
       "end": 1489.58,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "但在开幕前不到一个月，检查员发现消防系统存在重大问题，并将开业时间再次推迟到2013年。"
     },
     {
       "id": "line-176",
@@ -2190,7 +2366,8 @@
       "words": 12,
       "start": 1489.58,
       "end": 1495.5,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "不仅仅是排烟系统，随后又出现了许多其他重大问题。"
     },
     {
       "id": "line-177",
@@ -2202,7 +2379,8 @@
       "words": 9,
       "start": 1495.5,
       "end": 1501.82,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "超过90米的电缆安装错误。"
     },
     {
       "id": "line-178",
@@ -2214,7 +2392,8 @@
       "words": 5,
       "start": 1501.82,
       "end": 1505.08,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "4000扇门编号错误。"
     },
     {
       "id": "line-179",
@@ -2226,7 +2405,8 @@
       "words": 4,
       "start": 1505.08,
       "end": 1507.06,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "自动扶梯太短了。"
     },
     {
       "id": "line-180",
@@ -2238,7 +2418,8 @@
       "words": 9,
       "start": 1507.06,
       "end": 1510.92,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "而且值机柜台不足。"
     },
     {
       "id": "line-181",
@@ -2250,7 +2431,8 @@
       "words": 7,
       "start": 1510.92,
       "end": 1514.08,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "那么，为什么会发现这么多问题呢？"
     },
     {
       "id": "line-182",
@@ -2262,7 +2444,8 @@
       "words": 14,
       "start": 1514.08,
       "end": 1519.66,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "难道机场公司没有决定放弃这个项目并重新开始吗？"
     },
     {
       "id": "line-183",
@@ -2274,7 +2457,8 @@
       "words": 4,
       "start": 1519.66,
       "end": 1520.82,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "原因很简单。"
     },
     {
       "id": "line-184",
@@ -2286,7 +2470,8 @@
       "words": 27,
       "start": 1520.82,
       "end": 1533.5,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "当人们已经在某个项目上投入了时间或资源时，往往会犹豫是否要终止它，即使这样做在逻辑上是合理的。"
     },
     {
       "id": "line-185",
@@ -2298,7 +2483,8 @@
       "words": 10,
       "start": 1533.5,
       "end": 1539.08,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "延误持续的时间越长，检查员发现的问题就越多。"
     },
     {
       "id": "line-186",
@@ -2310,7 +2496,8 @@
       "words": 20,
       "start": 1539.08,
       "end": 1546.76,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "规划公司的领导层更迭的次数几乎与开业日期推迟的次数一样多。"
     },
     {
       "id": "line-187",
@@ -2322,7 +2509,8 @@
       "words": 18,
       "start": 1546.76,
       "end": 1556.56,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "最初，公司并没有聘请总承包商来运营该项目，而是决定由他们自己管理。"
     },
     {
       "id": "line-188",
@@ -2334,7 +2522,8 @@
       "words": 10,
       "start": 1556.56,
       "end": 1561.62,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "尽管缺乏这种规模项目的经验。"
     },
     {
       "id": "line-189",
@@ -2346,7 +2535,8 @@
       "words": 12,
       "start": 1561.62,
       "end": 1568.32,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "雪上加霜的是，未使用的机场导致了巨大的成本。"
     },
     {
       "id": "line-190",
@@ -2358,7 +2548,8 @@
       "words": 12,
       "start": 1568.32,
       "end": 1574.16,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "由于尚未开放，每月要花费900万到1000万欧元。"
     },
     {
       "id": "line-191",
@@ -2370,7 +2561,8 @@
       "words": 35,
       "start": 1574.16,
       "end": 1602.88,
-      "matchedWords": 35
+      "matchedWords": 35,
+      "translation": "假设一切顺利，机场应该在2020年10月开放，但这座仍然空空如也的机场不仅是德国效率声誉的最大尴尬，也持续消耗着城市和国家的资源。"
     },
     {
       "id": "line-192",
@@ -2382,7 +2574,8 @@
       "words": 11,
       "start": 1602.88,
       "end": 1622.18,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "关于柏林的梦幻机场，发言者说了什么？"
     },
     {
       "id": "line-193",
@@ -2394,7 +2587,8 @@
       "words": 11,
       "start": 1622.18,
       "end": 1640.3,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "为什么柏林需要一座新机场？"
     },
     {
       "id": "line-194",
@@ -2406,7 +2600,8 @@
       "words": 13,
       "start": 1640.3,
       "end": 1660.16,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "为什么柏林一次又一次推迟梦幻机场的开放？"
     },
     {
       "id": "line-195",
@@ -2418,7 +2613,8 @@
       "words": 7,
       "start": 1660.16,
       "end": 1681.006,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "在机场闲置期间发生了什么？"
     }
   ]
 }

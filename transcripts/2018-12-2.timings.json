@@ -78,7 +78,8 @@
       "words": 11,
       "start": 37.56,
       "end": 40.5,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "你介意帮我和那边的雕像拍张照吗？"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 8,
       "start": 40.5,
       "end": 42.62,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "我觉得拍出来的效果会很棒。"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 3,
       "start": 42.62,
       "end": 44.06,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "当然可以，没问题。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 4,
       "start": 44.06,
       "end": 46.12,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "你总是在拍照。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 10,
       "start": 46.12,
       "end": 48.94,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "你拍这么多照片都用来做什么？"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 3,
       "start": 48.94,
       "end": 50.36,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "好吧，别笑我。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 10,
       "start": 50.36,
       "end": 54.12,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我的梦想是成为某种网络红人。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 6,
       "start": 54.12,
       "end": 55.5,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "你不是认真的吧？"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 3,
       "start": 55.5,
       "end": 57.78,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "我是认真的，非常认真。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 19,
       "start": 57.78,
       "end": 64.4,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "几个月前，我在社交媒体账户上发布了一些度假照片后，萌生了这个想法。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 14,
       "start": 64.4,
       "end": 68.86,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "很多人喜欢我的照片，并开始向我询问旅游攻略。"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 8,
       "start": 68.86,
       "end": 71.56,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "所以我想我应该试一试。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 8,
       "start": 71.56,
       "end": 74.14,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "反正我平时也在社交媒体上发很多东西。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 6,
       "start": 74.14,
       "end": 76.16,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "所以对我来说没什么损失。"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 4,
       "start": 76.16,
       "end": 77.96,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我想确实如此。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 11,
       "start": 77.96,
       "end": 82.04,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "那么，要成为网红需要做些什么呢？"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 10,
       "start": 82.04,
       "end": 85.8,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "令人惊讶的是，这比我把它当作爱好时要做的事情多得多。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 18,
       "start": 85.8,
       "end": 92.56,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "最近，我花了更多的时间在修图、发布动态和清理手机存储空间上。"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 4,
       "start": 92.56,
       "end": 94.32,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "现在手机内存总是满的。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 7,
       "start": 94.32,
       "end": 96.98,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "听起来活儿也不是很多。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 5,
       "start": 96.98,
       "end": 98.64,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "噢，不只这些。"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 21,
       "start": 98.64,
       "end": 106.86,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "上周末我花了一整天时间研究热门话题、文案该用哪些词，以及关注类似的账号。"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 8,
       "start": 106.86,
       "end": 108.56,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "确实有很多东西需要学习。"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 7,
       "start": 108.56,
       "end": 111.92,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "我熬夜一直到过了午夜。"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 6,
       "start": 111.92,
       "end": 114.06,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "不过我想这些努力是有回报的。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 12,
       "start": 114.06,
       "end": 118.44,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "我的账号粉丝数量已经增长了15%。"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 3,
       "start": 118.44,
       "end": 120.2,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "那真的很令人印象深刻。"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 13,
       "start": 120.2,
       "end": 124.92,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "我想我从未想过幕后付出的这些努力。"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 22,
       "start": 124.92,
       "end": 134.02,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "现在回想起来，我拍的照片总是有各种瑕疵——笑了一半、闭着眼、头发乱糟糟。"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 9,
       "start": 134.02,
       "end": 136.54,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "希望你的运气比我好。"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 14,
       "start": 136.54,
       "end": 148.6,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "话说回来，我觉得唯一对我照片感兴趣的人就是我妈了。"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 9,
       "start": 148.6,
       "end": 165.8,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "男子请求女子做什么？"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 6,
       "start": 165.8,
       "end": 182.4,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "男子的梦想是什么？"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 8,
       "start": 182.4,
       "end": 200.38,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "男子最近一直忙于做什么？"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 8,
       "start": 200.38,
       "end": 219.0,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于自己的照片，女子说了什么？"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 7,
       "start": 219.0,
       "end": 221.98,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "晚上好，欢迎来到《今日物理》。"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 22,
       "start": 221.98,
       "end": 229.64,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "在这里，我们将采访一些物理学界最伟大的思想家，请他们帮助我们理解一些最复杂的理论。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 13,
       "start": 229.64,
       "end": 236.4,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "今天，我非常荣幸地邀请到了理论物理学教授梅丽莎·菲利普斯博士。"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 13,
       "start": 236.4,
       "end": 240.66,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "她将向我们介绍一些她的研究内容。"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 7,
       "start": 240.66,
       "end": 243.64,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "菲利普斯博士，您似乎什么都研究。"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 25,
       "start": 243.64,
       "end": 251.44,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "我想这么说也算客观，我大部分时间都在研究大爆炸理论以及宇宙的起源。"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 8,
       "start": 251.44,
       "end": 252.94,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "您能给我们讲讲这方面的情况吗？"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 11,
       "start": 252.94,
       "end": 257.52,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "嗯，我非常感兴趣的是宇宙为何会存在。"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 35,
       "start": 257.52,
       "end": 268.76,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "这听起来可能有点奇怪，但事实是，在大爆炸发生的那一刻，物质和反物质在极短的时间内同时产生，我指的是只有几分之一秒。"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 14,
       "start": 268.76,
       "end": 274.9,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "整个宇宙就像一锅充满这些粒子的极热辐射汤。"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 15,
       "start": 274.9,
       "end": 281.16,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "所以长期以来困扰科学家的问题是：“为什么宇宙竟然存在？”"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 12,
       "start": 281.16,
       "end": 285.82,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "那是因为物质和反物质基本上是互相对立的。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 11,
       "start": 285.82,
       "end": 290.58,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "它们完全一样，只是电荷相反。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 8,
       "start": 290.58,
       "end": 293.5,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "所以当它们相撞时，会互相毁灭吗？"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 1,
       "start": 293.5,
       "end": 294.72,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "完全正确。"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 18,
       "start": 294.72,
       "end": 301.78,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "所以在大爆炸发生的最初阶段，宇宙极其炎热且非常微小。"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 17,
       "start": 301.78,
       "end": 308.02,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "物质和现在看来更加奇异的反物质几乎没有空间避开彼此。"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 16,
       "start": 308.02,
       "end": 314.32,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "这意味着它们本该完全抵消，使宇宙变得一片荒芜。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 36,
       "start": 314.32,
       "end": 325.36,
-      "matchedWords": 36
+      "matchedWords": 36,
+      "translation": "但最近的一项研究似乎表明，当物质和反物质最初产生时，物质粒子的数量略多一些，正是这一点让我们生活的宇宙得以形成？"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 1,
       "start": 325.36,
       "end": 326.48,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "完全正确。"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 26,
       "start": 326.48,
       "end": 344.94,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "由于物质略多，碰撞迅速耗尽了所有反物质，并留下了足够的物质来创造恒星、行星，以及最终的我们。"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 8,
       "start": 344.94,
       "end": 362.8,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于《今日物理》，男子说了什么？"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 8,
       "start": 362.8,
       "end": 381.0,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "这位女物理学家的主要研究领域是什么？"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 6,
       "start": 381.0,
       "end": 397.14,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "这位女子对什么感兴趣？"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 10,
       "start": 397.14,
       "end": 447.34,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "最近的一项研究结果似乎是什么？"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 21,
       "start": 447.34,
       "end": 456.58,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "在本周的“奇异病症”特别系列节目中，有一篇关于米歇尔·迈尔斯案例的报告。"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 26,
       "start": 456.58,
       "end": 465.92,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "迈尔斯是一位美国女性，尽管她一生都住在美国，但有一天醒来后却操着一口英国口音说话。"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 10,
       "start": 465.92,
       "end": 470.86,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "2015年，迈尔斯带着剧烈的头痛入睡。"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 8,
       "start": 470.86,
       "end": 474.04,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "她醒来时听起来就像个英国人。"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 10,
       "start": 474.04,
       "end": 478.2,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "在过去的两年里，她的英国口音一直保持着。"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 11,
       "start": 478.2,
       "end": 484.14,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "此前，迈尔斯醒来时曾说过爱尔兰口音和澳大利亚口音。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 13,
       "start": 484.14,
       "end": 490.16,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "然而，在这两次情况下，口音都只持续了一周。"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 8,
       "start": 490.16,
       "end": 494.0,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "迈尔斯被诊断患有“外国口音综合征”。"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 25,
       "start": 494.0,
       "end": 502.38,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "这是一种患者言语发生突然改变，听起来像是在说外国口音的疾病。"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 13,
       "start": 502.38,
       "end": 507.48,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这种病症通常由中风或创伤性脑损伤引起。"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 26,
       "start": 507.48,
       "end": 518.18,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "虽然患有该综合征的人言语清晰，但他们在说话节奏和舌头位置方面发生了改变，这可能会扭曲他们的发音。"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 13,
       "start": 518.18,
       "end": 522.92,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "结果就是，他们在说母语时听起来像是在说外语。"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 33,
       "start": 522.92,
       "end": 537.42,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "目前尚不清楚迈尔斯是否经历过中风或其他脑损伤，但她还患有另一种独立的病症，这可能导致关节松动、皮肤容易瘀伤等问题。"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 15,
       "start": 537.42,
       "end": 544.1,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "外国口音综合征非常罕见，在过去一个世纪里仅报道了约60例。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 23,
       "start": 544.1,
       "end": 561.42,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "不过据报道，另一位美国女性在2010年从楼梯上摔下来并撞伤头部后，说话带有了俄罗斯口音。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 7,
       "start": 561.42,
       "end": 579.14,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "米歇尔·迈尔斯有一天发生了什么事？"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 9,
       "start": 579.14,
       "end": 597.76,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "关于外国口音综合征，文章说了什么？"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 12,
       "start": 597.76,
       "end": 618.08,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "另一位美国女性在头部受伤后说话带有什么口音？"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 13,
       "start": 618.08,
       "end": 622.48,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "水在某些方面是生活的极佳隐喻。"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 18,
       "start": 622.48,
       "end": 628.92,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "这也许是为什么这么多人在生活陷入困境时通过游泳寻求慰藉的原因之一。"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 33,
       "start": 628.92,
       "end": 644.0,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "这在一定程度上解释了为什么最近关于游泳的书籍如此受欢迎，书中人们在挑战冰湖、河流竞速、征服海洋的同时反思人生。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 25,
       "start": 644.0,
       "end": 654.76,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "这些书反映了一种趋势，这种趋势在英国尤为强劲：尽管在泳池游泳的人数在减少，但越来越多的人选择户外水域。"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 9,
       "start": 654.76,
       "end": 658.98,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "“野泳”似乎在女性中特别受欢迎。"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 13,
       "start": 658.98,
       "end": 664.14,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "珍妮·兰德雷斯最近出版了一本伦敦最佳游泳地点指南。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 25,
       "start": 664.14,
       "end": 675.88,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "她的新书《涌动》将她自己的故事与完成卓越壮举并为后代铺平道路的女性先驱者的历史交织在一起。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 13,
       "start": 675.88,
       "end": 681.68,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "维多利亚时代的谦逊观念限制了女性，但她们依然游泳。"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 17,
       "start": 681.68,
       "end": 687.86,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "当时的人们会将一种“洗澡机”滚到海边，这样女性穿泳装的样子就不会被看到。"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 22,
       "start": 687.86,
       "end": 699.86,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "1892年的《名媛运动之书》描述了一位女性穿着厚重的裙子、靴子，戴着帽子和手套，甚至还打着伞在游泳。"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 4,
       "start": 699.86,
       "end": 702.28,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "最终，游泳变得更加自由了。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 9,
       "start": 702.28,
       "end": 706.9,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "1901年，英国海滩允许男女同浴。"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 23,
       "start": 706.9,
       "end": 717.46,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "女性赢得了在公共泳池游泳的权利，学会了正确的游泳姿势，设计了合适的泳装，后来甚至可以与男性竞争。"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 13,
       "start": 717.46,
       "end": 723.5,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "1926年，格特鲁德·埃德勒成为第一位横渡英吉利海峡的女性。"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 18,
       "start": 723.5,
       "end": 736.82,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "她将纪录打破了近两小时，她的父亲奖励了她一辆红色跑车。"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 6,
       "start": 736.82,
       "end": 754.42,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "最近什么变得如此流行？"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 6,
       "start": 754.42,
       "end": 772.3,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "珍妮·兰德雷斯最近做了什么？"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 10,
       "start": 772.3,
       "end": 790.5,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "关于维多利亚时代的女性，我们了解到了什么？"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 8,
       "start": 790.5,
       "end": 836.26,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "关于格特鲁德·埃德勒，文章说了什么？"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 12,
       "start": 836.26,
       "end": 840.48,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "今天我要讲的是一种非常特殊的人。"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 24,
       "start": 840.48,
       "end": 852.52,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "心理学家称他们为“欺骗大师”，即那些极少数拥有天赋，能够自信地辨别某人是否在撒谎的人。"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 19,
       "start": 852.52,
       "end": 860.26,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "几十年来，研究人员和执法机构一直试图制造出一台具有同样功能的机器。"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 24,
       "start": 860.26,
       "end": 872.2,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "现在，马萨诸塞州的一家公司表示，通过使用磁力大脑扫描，他们可以以97%的准确率确定某人是否在说真话。"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 17,
       "start": 872.2,
       "end": 878.3,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "他们希望这项技术能在明年年初获准在美国法院使用。"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 13,
       "start": 878.3,
       "end": 883.92,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "但这真的是为你们——未来的律师们准备的终极工具吗？"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 9,
       "start": 883.92,
       "end": 887.88,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "你不会看到很多大脑科学家在庆祝这项突破。"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 20,
       "start": 887.88,
       "end": 896.7,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "该公司可能非常乐观，但他们的机器检测欺骗的能力尚未提供可信的证据。"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 13,
       "start": 896.7,
       "end": 902.48,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这是因为该技术尚未在现实情况中得到妥善测试。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 15,
       "start": 902.48,
       "end": 908.78,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "在生活中，有各种各样的谎言，谎言的背景也各不相同。"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 7,
       "start": 908.78,
       "end": 913.2,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "这些差异可能会引起不同的大脑反应。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 10,
       "start": 913.2,
       "end": 917.76,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "测试背后的假设是否适用于每种情况？"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 19,
       "start": 917.76,
       "end": 925.06,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "我们不知道答案，因为关于这台机器可靠性的研究尚未被复制验证。"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 6,
       "start": 925.06,
       "end": 928.58,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "迫切需要更多的研究。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 18,
       "start": 928.58,
       "end": 936.34,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "该技术最终是否被认为足够可靠以供法庭使用，将最终由法官决定。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 23,
       "start": 936.34,
       "end": 943.54,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "让我们希望他们足够明智，不会被一台声称只需轻轻一按开关就能判定真伪的机器所愚弄。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 24,
       "start": 943.54,
       "end": 952.6,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "他们还应该对一种日益增长的倾向保持警惕，即试图将所有人类特征和行为都简化为大脑活动水平。"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 7,
       "start": 952.6,
       "end": 956.1,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "通常情况下，它们之间的映射并没有那么简单。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 12,
       "start": 956.1,
       "end": 961.8,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "此外，了解大脑并不等同于了解思想。"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 13,
       "start": 961.8,
       "end": 968.36,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "一些研究人员认为，思维不能被恰当地视为纯粹“内在”的。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 12,
       "start": 968.36,
       "end": 974.9,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "相反，思维只有在参考个人的外部世界时才有意义。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 28,
       "start": 974.9,
       "end": 987.2,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "因此，虽然将行为与大脑活动相匹配可能会获得一些启发，但这些启发并不一定会导致法庭上的公正。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 17,
       "start": 987.2,
       "end": 994.82,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "使用机器识别欺骗存在诸多问题，至少在经过严格测试之前是这样。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 21,
       "start": 994.82,
       "end": 1002.22,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "一个能辨别某人何时没说真话的高科技测试听起来好得令人难以置信。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 12,
       "start": 1002.22,
       "end": 1014.863,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "而当某件事听起来好得难以置信时，它往往就是不可信的。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 10,
       "start": 1014.863,
       "end": 1034.88,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "研究人员和执法机构一直在尝试做什么？"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 14,
       "start": 1034.88,
       "end": 1057.58,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "对于马萨诸塞州公司的所谓技术突破，许多大脑科学家是如何回应的？"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 20,
       "start": 1057.58,
       "end": 1079.02,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "演讲者如何看待使用高科技测试来判断一个人是否在说真话？"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 14,
       "start": 1079.02,
       "end": 1085.46,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "上周，我参加了在南太平洋一个岛屿上举办的研究研讨会。"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 19,
       "start": 1085.46,
       "end": 1093.64,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "共有30人出席，除我之外，所有人都来自瓦努阿图的马凯鲁阿岛。"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 11,
       "start": 1093.64,
       "end": 1099.06,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "他们生活在16个不同的社区，说着16种不同的语言。"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 20,
       "start": 1099.06,
       "end": 1105.66,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "在很多情况下，你站在一个村庄的边缘就能看到下一个社区的郊区。"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 11,
       "start": 1105.66,
       "end": 1110.32,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "然而，每个村庄的居民都说着完全不同的语言。"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 38,
       "start": 1110.32,
       "end": 1127.46,
-      "matchedWords": 36
+      "matchedWords": 36,
+      "translation": "根据我马克斯·普朗克人类历史科学研究所同事们的最新研究，这个仅长100公里、宽20公里的岛屿，居住着使用多达40种不同土著语言的人群。"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 3,
       "start": 1127.46,
       "end": 1129.06,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "为什么会有这么多语言？"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 10,
       "start": 1129.06,
       "end": 1133.04,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "我们可以对整个地球提出同样的问题。"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 10,
       "start": 1133.04,
       "end": 1136.92,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "人们并不只说一种通用的语言，甚至不仅仅是少数几种。"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 21,
       "start": 1136.92,
       "end": 1148.66,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "相反，如今我们这个物种集体使用的语言超过7000种，而且这些语言并非随机分布在全球各地。"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 15,
       "start": 1148.66,
       "end": 1155.3,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "例如，热带地区的语言种类远多于温带地区。"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 12,
       "start": 1155.3,
       "end": 1160.24,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "热带岛屿新几内亚拥有900多种语言。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 8,
       "start": 1160.24,
       "end": 1165.4,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "俄罗斯的国土面积是新几内亚的20倍，却只有105种土著语言。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 8,
       "start": 1165.4,
       "end": 1170.94,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "即使在热带地区，语言多样性也有很大差异。"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 28,
       "start": 1170.94,
       "end": 1188.04,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "例如，居住在瓦努阿图80个岛屿上的25万人讲110种不同的语言，但在人口规模是其600倍的孟加拉国，人们只讲41种语言。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 7,
       "start": 1188.04,
       "end": 1190.46,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "人类为什么会讲这么多语言？"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 10,
       "start": 1190.46,
       "end": 1195.44,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "为什么它们在全球的分布如此不平衡？"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 17,
       "start": 1195.44,
       "end": 1203.24,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "事实证明，对于这些关于人类如何沟通的根本问题，我们几乎没有明确的答案。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 11,
       "start": 1203.24,
       "end": 1209.26,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "大多数人可以很容易地针对这些引人入胜的问题集思广益，想出可能的答案。"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 16,
       "start": 1209.26,
       "end": 1218.5,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "他们假设语言多样性一定与历史、文化差异、分隔人群的山脉或海洋有关。"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 44,
       "start": 1218.5,
       "end": 1237.86,
-      "matchedWords": 44
+      "matchedWords": 44,
+      "translation": "但是，当我们由来自6个不同学科和8个不同国家的成员组成的多样化研究团队开始回顾已知信息时，我们震惊地发现，此前仅开展过十几项研究，其中包括我们自己完成的一项关于太平洋语言多样性的研究。"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 26,
       "start": 1237.86,
       "end": 1250.56,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "这些之前的研究都考查了不同的环境、社会和地理变量与特定地点发现的语言数量之间的相关程度。"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 15,
       "start": 1250.56,
       "end": 1256.44,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "各研究结果差异巨大，没有出现明显的规律。"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 24,
       "start": 1256.44,
       "end": 1276.68,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "这些研究还遇到了许多方法论上的挑战，其中最大的挑战集中在古老的统计学名言上——相关性并不等于因果关系。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 10,
       "start": 1276.68,
       "end": 1295.08,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "演讲者关于马凯鲁阿岛说了什么？"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 12,
       "start": 1295.08,
       "end": 1314.02,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "从这次关于世界语言的谈话中我们了解到了什么？"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 15,
       "start": 1314.02,
       "end": 1335.68,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "关于此前对语言多样性的研究，多元化的研究团队发现了什么？"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 25,
       "start": 1335.68,
       "end": 1346.44,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "我们常听人们说美国是机会之地，是一个建立在希望之上、追求美国梦伟业的国家。"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 10,
       "start": 1346.44,
       "end": 1350.18,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "但我们曾经熟知的那个梦想正在消逝吗？"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 25,
       "start": 1350.18,
       "end": 1361.3,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "今天的人口统计数据显示，中产阶级正在消失，目前最富有的1%人口掌握的财富比底层90%的人口还要多。"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 24,
       "start": 1361.3,
       "end": 1371.32,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "曾几何时，美国人认为只要足够努力，即使面对逆境，也会获得成功的回报。"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 16,
       "start": 1371.32,
       "end": 1377.8,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "然而现在，贫富差距比以往任何时候都要大。"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 12,
       "start": 1377.8,
       "end": 1382.52,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "问题是，要怎样才能改变这种现状？"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 19,
       "start": 1382.52,
       "end": 1388.38,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "也许不久后的某一天，我们的国家会发生真正的变革，这种差距将被消除。"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 6,
       "start": 1388.38,
       "end": 1391.88,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "但在此期间会发生什么？"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 12,
       "start": 1391.88,
       "end": 1395.3,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "有什么是我们可以做来帮助缩小差距的吗？"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 17,
       "start": 1395.3,
       "end": 1400.22,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "有什么是我们能做，来证明一点点同情心就能产生巨大影响的吗？"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 17,
       "start": 1400.22,
       "end": 1405.84,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "如果我们想解决收入差距问题，首先必须了解它。"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 26,
       "start": 1405.84,
       "end": 1416.16,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "这是一个残酷的现实：一个人年收入可能只有1.3万美元左右，而在城镇的另一头，另一个人却在赚数百万美元。"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 7,
       "start": 1416.16,
       "end": 1419.3,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "对我来说，这有点令人吃惊。"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 22,
       "start": 1419.3,
       "end": 1426.78,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "如果你问低收入者哪件事能改变他们的生活，他们会说是“一份全职工作”。"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 5,
       "start": 1426.78,
       "end": 1429.44,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "这就是他们所有的抱负。"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 13,
       "start": 1429.44,
       "end": 1434.32,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "那么，为什么这么多人难以找到工作呢？"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 24,
       "start": 1434.32,
       "end": 1443.6,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "部分原因归结为以低薪工作和不提供福利的兼职工作为核心的利润驱动型商业模式。"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 13,
       "start": 1443.6,
       "end": 1450.46,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "企业为了提高利润，只招聘兼职员工。"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 22,
       "start": 1450.46,
       "end": 1459.58,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "这意味着他们只拿最低法定工资，且不享受提供给全职员工的医疗保险或其他福利。"
     },
     {
       "id": "line-171",
@@ -2130,7 +2301,8 @@
       "words": 22,
       "start": 1459.58,
       "end": 1469.48,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "与此同时，技术进步和全球经济减少了美国对高薪蓝领工作的需求。"
     },
     {
       "id": "line-172",
@@ -2142,7 +2314,8 @@
       "words": 26,
       "start": 1469.48,
       "end": 1479.92,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "这两个因素的累累积效应是，许多美国人被迫做两份或两份以上的兼职工作，仅仅为了维持生计。"
     },
     {
       "id": "line-173",
@@ -2154,7 +2327,8 @@
       "words": 46,
       "start": 1479.92,
       "end": 1502.58,
-      "matchedWords": 46
+      "matchedWords": 46,
+      "translation": "说到收入差距，我深有感触的一点是：需要给底层人群一个机会，让他们重新振作，并进入中产阶级，给他们的生活带来希望。"
     },
     {
       "id": "line-174",
@@ -2166,7 +2340,8 @@
       "words": 11,
       "start": 1502.58,
       "end": 1522.12,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "根据演讲者的说法，调查显示了关于美国的什么情况？"
     },
     {
       "id": "line-175",
@@ -2178,7 +2353,8 @@
       "words": 6,
       "start": 1522.12,
       "end": 1540.12,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "美国人过去相信什么？"
     },
     {
       "id": "line-176",
@@ -2190,7 +2366,8 @@
       "words": 7,
       "start": 1540.12,
       "end": 1558.08,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "低收入人群向往什么？"
     },
     {
       "id": "line-177",
@@ -2202,7 +2379,8 @@
       "words": 8,
       "start": 1558.08,
       "end": 1580.434,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "企业为了增加收入会做什么？"
     }
   ]
 }

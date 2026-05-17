@@ -78,7 +78,8 @@
       "words": 27,
       "start": 53.1,
       "end": 62.74,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "一个职位只剩下两名候选人，我们需要在今天结束前做出决定，以完成整个程序。"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 9,
       "start": 62.74,
       "end": 65.74,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "是的，但这不是一个容易做出的选择。"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 5,
       "start": 65.74,
       "end": 68.28,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "两名申请人都很强。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 5,
       "start": 68.28,
       "end": 69.98,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "那我们开始吧。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 15,
       "start": 69.98,
       "end": 75.24,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "他们都上过很好的大学，而且都学过与商务相关的科目。"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 9,
       "start": 75.24,
       "end": 78.98,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "所以，在学术上，我想说他们几乎是一样的。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 4,
       "start": 78.98,
       "end": 79.6,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "你觉得呢？"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 3,
       "start": 79.6,
       "end": 81.02,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "我同意。"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 1,
       "start": 81.02,
       "end": 81.56,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "是的。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 21,
       "start": 81.56,
       "end": 89.7,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "唯一值得注意的区别可能是，雷切尔在高中和大学期间的成绩似乎稍微好一些。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 11,
       "start": 89.7,
       "end": 93.1,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "但正如我所说，只比彼得高出那么一点点。"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 5,
       "start": 93.1,
       "end": 95.02,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "这确实值得注意。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 2,
       "start": 95.02,
       "end": 95.96,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "谢谢。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 6,
       "start": 95.96,
       "end": 98.68,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "此外，雷切尔面试表现得很好。"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 9,
       "start": 98.68,
       "end": 101.6,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "我觉得她给人一种聪明伶俐的感觉。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 1,
       "start": 101.6,
       "end": 102.54,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "是的。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 23,
       "start": 102.54,
       "end": 108.14,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "她问了一些关于职位和公司的很好问题，这让我觉得她对这份工作非常感兴趣。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 4,
       "start": 108.14,
       "end": 110.1,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我也这么想。"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 7,
       "start": 110.1,
       "end": 113.02,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "现在让我们看看彼得的面试表现。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 7,
       "start": 113.02,
       "end": 115.06,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "我觉得他也做得很好。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 7,
       "start": 115.06,
       "end": 118.12,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "他给人一种恭敬且专业的印象。"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 3,
       "start": 118.12,
       "end": 119.48,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "你不觉得吗？"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 8,
       "start": 119.48,
       "end": 122.82,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "沉着冷静，以他的年纪来说非常成熟。"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 1,
       "start": 122.82,
       "end": 123.8,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "没错。"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 15,
       "start": 123.8,
       "end": 128.52,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "在我的笔记中，我写道他看起来很镇定，能控制自己的情绪。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 9,
       "start": 128.52,
       "end": 130.84,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "我觉得他肯定看起来比雷切尔更成熟。"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 1,
       "start": 130.84,
       "end": 132.72,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "有意思。"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 26,
       "start": 132.72,
       "end": 144.3,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "所以我们都同意雷切尔显得缺乏经验，不如彼得成熟，尽管两位候选人年龄相同，而且几乎都没有工作经验。"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 13,
       "start": 144.3,
       "end": 149.4,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "当并排比较他们时，是的，彼得不知何故显得更自信。"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 8,
       "start": 149.4,
       "end": 151.94,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "也许是关于他们的肢体语言。"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 1,
       "start": 151.94,
       "end": 152.62,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "当然。"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 6,
       "start": 152.62,
       "end": 155.04,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "也许他只是没那么紧张。"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 1,
       "start": 155.04,
       "end": 155.92,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "也许吧。"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 2,
       "start": 155.92,
       "end": 156.88,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "谁知道呢？"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 9,
       "start": 156.88,
       "end": 159.26,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "老实说，我觉得我更喜欢雷切尔。"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 2,
       "start": 159.26,
       "end": 161.24,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "嗯，真的吗？"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 5,
       "start": 161.24,
       "end": 162.88,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "我觉得我喜欢彼得。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 26,
       "start": 162.88,
       "end": 177.42,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "啊，好吧，如果出现了平局且我们无法达成一致，那我们就把它交给约翰，让他投下决定性的一票。"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 12,
       "start": 177.42,
       "end": 195.48,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "为什么这个男人认为很难做出决定？"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 9,
       "start": 195.48,
       "end": 212.94,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "说话者说什么是值得注意的？"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 16,
       "start": 212.94,
       "end": 232.94,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "根据这个男人的说法，什么可能解释彼得显得比雷切尔更自信？"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 14,
       "start": 232.94,
       "end": 251.34,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这个男人说如果他们不能达成一致，他们会怎么做？"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 18,
       "start": 251.34,
       "end": 260.12,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "我们在这里采访私人时尚品牌L'Orange的首席设计师克莱门汀·奥尔特加，讨论她的最新系列。"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 9,
       "start": 260.12,
       "end": 263.98,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "奥尔特加女士，你会如何描述这一季的造型？"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 22,
       "start": 263.98,
       "end": 272.02,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "老实说，我喜欢的风格一直偏向模棱两可，我认为这个系列更是如此。"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 10,
       "start": 272.02,
       "end": 275.86,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我试着不墨守社会规范和期望。"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 12,
       "start": 275.86,
       "end": 282.1,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "相反，我总是尝试在我的美学中融入一些略显荒诞的东西。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 14,
       "start": 282.1,
       "end": 287.16,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这一系列中的配饰组合对评论家产生了相当大的影响。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 17,
       "start": 287.16,
       "end": 293.26,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "例如，在秀末展示的那件夺目的披肩让台下的许多观众感到困惑。"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 7,
       "start": 293.26,
       "end": 295.98,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "这件作品的灵感来源是什么？"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 21,
       "start": 295.98,
       "end": 303.68,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "夏天，我游历了亚洲各地的农村山村，寻找手工艺品来装饰我的新工作室。"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 13,
       "start": 303.68,
       "end": 308.36,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "某个村庄妇女们做的刺绣非常精美。"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 6,
       "start": 308.36,
       "end": 311.28,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我忍不住一直想着它。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 9,
       "start": 311.28,
       "end": 314.52,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "尝试重现他们的设计本来会是徒劳的。"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 8,
       "start": 314.52,
       "end": 318.46,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "所以相反，我采用了自己古怪的方法。"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 11,
       "start": 318.46,
       "end": 323.84,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我用闪粉在天鹅绒披肩上画了类似、复杂的图案。"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 12,
       "start": 323.84,
       "end": 327.76,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这最终形成了结束秀的那个迷人、闪耀的造型。"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 14,
       "start": 327.76,
       "end": 333.48,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "它确实非常庄严，而且我敢说同时还带有一种阳刚之气。"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 2,
       "start": 333.48,
       "end": 334.24,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "嗯，是的。"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 3,
       "start": 334.24,
       "end": 335.42,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "那是故意的。"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 15,
       "start": 335.42,
       "end": 340.46,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "我喜欢将通常处于时尚光谱两端的风格融合在一起。"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 19,
       "start": 340.46,
       "end": 347.9,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "因此，这件闪亮的披肩搭配了一套你通常在商务场合看到的传统权力套装。"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 9,
       "start": 347.9,
       "end": 351.24,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "如果不谦虚地说，这真是引起了轰动。"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 3,
       "start": 351.24,
       "end": 353.34,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "确实很壮观。"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 5,
       "start": 353.34,
       "end": 355.78,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "这是一场全方位令人惊叹的秀。"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 22,
       "start": 355.78,
       "end": 365.56,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "打破刻板印象，融入本土元素以及你潜在的标志性笔触，使这个系列成为了本季的宣言。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 21,
       "start": 365.56,
       "end": 379.16,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "你已经证明了自己是一位令人敬畏的年轻设计师，我们迫不及待想看到你接下来会有什么样的创作。"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 7,
       "start": 379.16,
       "end": 396.34,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "说话者主要在谈论什么？"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 13,
       "start": 396.34,
       "end": 414.98,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这个女人说她总是尝试在她的美学中融入什么？"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 9,
       "start": 414.98,
       "end": 432.02,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "这个女人说她喜欢做什么？"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 7,
       "start": 432.02,
       "end": 478.42,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "这个男人期待什么？"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 15,
       "start": 478.42,
       "end": 484.56,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "宠物狗通常能轻易理解主人的各种命令和手势。"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 12,
       "start": 484.56,
       "end": 490.44,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "但这些能力是天生的，还是仅仅通过训练学到的？"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 14,
       "start": 490.44,
       "end": 496.4,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "为了找出答案，一项新研究调查了流浪狗是否能理解人类的手势。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 22,
       "start": 496.4,
       "end": 508.08,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "研究显示，80%的参与犬只尽管从未接受过事先训练，但仍成功地跟随指向手势到达了特定位置。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 13,
       "start": 508.08,
       "end": 514.78,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "结果表明，狗只需观察人类就能理解复杂的手势。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 12,
       "start": 514.78,
       "end": 521.36,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这可能对减少流浪狗与人类之间的冲突具有重要意义。"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 10,
       "start": 521.36,
       "end": 526.14,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "狗在1万到1.5万年前被驯化。"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 12,
       "start": 526.14,
       "end": 531.68,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这意味着它们可能是地球上最古老的驯化动物。"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 20,
       "start": 531.68,
       "end": 539.8,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "人类随后培育出具有最理想和有用特征的狗，以便它们能充当伴侣和劳动者。"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 14,
       "start": 539.8,
       "end": 546.6,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "这导致了对人类命令和手势高度反应的驯化犬。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 19,
       "start": 546.6,
       "end": 555.08,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "然而，目前尚不清楚狗是仅通过训练理解我们，还是这是一种固有的能力。"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 4,
       "start": 555.08,
       "end": 557.3,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "这为什么重要？"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 11,
       "start": 557.3,
       "end": 560.94,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "流浪狗是世界各地城市的常见特征。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 19,
       "start": 560.94,
       "end": 570.0,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "它们可能会观察并偶尔与人互动，但这些狗从未接受过训练，行为上是“野生的”。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 9,
       "start": 570.0,
       "end": 574.96,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "流浪狗与人类之间的冲突是一个问题。"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 12,
       "start": 574.96,
       "end": 581.5,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "了解人类如何塑造流浪狗的行为可能有助于缓解这一问题。"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 13,
       "start": 581.5,
       "end": 586.84,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "根据这项新研究的研究人员，流浪狗是聪明的生物。"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 14,
       "start": 586.84,
       "end": 592.92,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "它们密切观察人类，并利用对我们的理解来做出决定。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 18,
       "start": 592.92,
       "end": 607.5,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "研究人员断言：“以敏感和尊重的态度对待流浪狗，并给它们空间，可以减少很多冲突。”"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 14,
       "start": 607.5,
       "end": 628.36,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "文章关于这项新研究中80%的参与犬只说了什么？"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 10,
       "start": 628.36,
       "end": 646.64,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "什么可能有助于缓解由流浪狗引起的问题？"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 15,
       "start": 646.64,
       "end": 667.46,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "研究人员建议我们做什么来减少流浪狗与人类之间的冲突？"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 12,
       "start": 667.46,
       "end": 672.0,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "认为你的冰箱只是一个装着均匀冷空气的大盒子吗？"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 2,
       "start": 672.0,
       "end": 673.2,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "并非如此！"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 19,
       "start": 673.2,
       "end": 681.36,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "普通冰箱内部的温度实际上从前到后、从下到上以及其间的每个角落都在变化。"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 17,
       "start": 681.36,
       "end": 688.92,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "正因为如此，在电器中放置食品的位置比你可能意识到的要重要得多。"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 20,
       "start": 688.92,
       "end": 696.94,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "现代冰箱的全部目的是减缓细菌的生长，细菌在4摄氏度的温度下茁壮成长。"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 4,
       "start": 696.94,
       "end": 700.46,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "4到60摄氏度。"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 18,
       "start": 700.46,
       "end": 709.3,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "因此，冰箱通常设置为等于或低于该下限，以保护食品免受细菌侵害。"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 30,
       "start": 709.3,
       "end": 721.76,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "虽然花时间整理冰箱似乎会破坏你的一天，但这样做实际上会让它更人性化、更容易清洁，并更注重食品安全。"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 27,
       "start": 721.76,
       "end": 733.34,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "冰箱门内侧的那些小格子很方便，但它们无法保持恒定的温度，所以绝对不要把易腐食品放在那里。"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 25,
       "start": 733.34,
       "end": 741.72,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "顶部区域没有冰箱底部那么冷，所以把它留给不需要额外低温的食物。"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 14,
       "start": 741.72,
       "end": 746.82,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "将即食或已煮熟的食物存放在顶层架子上。"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 16,
       "start": 746.82,
       "end": 753.28,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "中间架子是冰箱中温度控制最稳定的部分，所以把鸡蛋放在这里。"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 19,
       "start": 753.28,
       "end": 760.02,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "如果你顶层空间不够了，饮料和预制食品也可以放在中间架子上。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 24,
       "start": 760.02,
       "end": 769.1,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "底层架子的后部是冰箱中最冷的地方，所以在这里存放易腐烂的乳制品，可以延长它们的保质期。"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 20,
       "start": 769.1,
       "end": 784.0,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "永远不要在这里存放含水量高的食物，因为其中的水分可以而且一定会结冰，实际上会毁掉它们。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 10,
       "start": 784.0,
       "end": 803.6,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "为什么在冰箱内放置食品的位置非常重要？"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 13,
       "start": 803.6,
       "end": 822.7,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "文章说现代冰箱的全部目的是什么？"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 10,
       "start": 822.7,
       "end": 841.06,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我们应该把已经煮熟的食物存放在冰箱的哪里？"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 17,
       "start": 841.06,
       "end": 887.26,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "为什么我们永远不应该在底层架子的后部存放含水量高的食物？"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 18,
       "start": 887.26,
       "end": 894.38,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "我目前的研究主要关注压力等因素及其对我们免疫系统的影响。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 22,
       "start": 894.38,
       "end": 901.68,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "所以我目前非常兴奋的项目是关于老年人以及对他们很重要的因素。"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 27,
       "start": 901.68,
       "end": 910.8,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "在一个项目中，我们正在研究老年人的髋部骨折（这是一种常见事件），并试图了解抑郁症的影响。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 28,
       "start": 910.8,
       "end": 921.36,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "髋部骨折住院的人通常会产生抑郁，这些人随后会比其他人更快地变得虚弱。"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 9,
       "start": 921.36,
       "end": 925.84,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "他们会受到感染；通常，这些感染会导致死亡。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 10,
       "start": 925.84,
       "end": 930.04,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "所以我们正试图减缓向虚弱发展的进程。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 19,
       "start": 930.04,
       "end": 937.22,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "因此，如果我们能更好地理解这些因素是如何相互作用的，那么我们实际上就可以开始采取行动了。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 30,
       "start": 937.22,
       "end": 949.32,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "我的研究在伯明翰产生的影响，首先显然是针对老年人的，因为正是这些人正在经历髋部骨折并产生抑郁。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 12,
       "start": 949.32,
       "end": 953.64,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "我们正在努力改善他们的健康和生活质量。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 13,
       "start": 953.64,
       "end": 958.44,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "但这不仅仅是伯明翰甚至英国的问题。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 5,
       "start": 958.44,
       "end": 959.94,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "这是一个全球性的问题。"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 3,
       "start": 959.94,
       "end": 962.32,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "人口正在老龄化。"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 26,
       "start": 962.32,
       "end": 971.32,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "老一代的人活得更长了，但在生命的大部分时间里并不一定保持健康。"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 30,
       "start": 971.32,
       "end": 981.94,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "因此，他们生命的最后一部分往往充满了疾病，而我们正在努力理解有助于晚年生活质量的因素。"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 18,
       "start": 981.94,
       "end": 987.62,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "我想，关于我的研究，最让我兴奋的是它感觉很真实且息息相关。"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 21,
       "start": 987.62,
       "end": 998.787,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "许多学者可能对他们的研究感到非常兴奋，但它可能不会对人们的生活产生立竿见影的影响。"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 24,
       "start": 998.787,
       "end": 1011.549,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "而我们的研究，如果我们能找到行之有效的方法，我们实际上可以实施它并很快改变人们的生活。"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 6,
       "start": 1011.549,
       "end": 1014.74,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这就是真正驱使我的动力。"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 42,
       "start": 1014.74,
       "end": 1036.174,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "我还认为，通过结合多种视角——我们的项目中医生、心理学、社会学和工程学的人员共同工作——我们能比仅在单一学科工作更好地理解问题。"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 9,
       "start": 1036.174,
       "end": 1045.36,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "说话者目前的研究主要关注什么？"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 8,
       "start": 1045.36,
       "end": 1082.06,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "关于她的研究，什么让说话者最兴奋？"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 12,
       "start": 1082.06,
       "end": 1129.12,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "说话者的团队如何能更好地理解这个问题？"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 20,
       "start": 1129.12,
       "end": 1146.632,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "烹饪学校擅长教你如何做出美味佳肴，但它们不教你基本的组织能力。"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 14,
       "start": 1146.632,
       "end": 1158.89,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这是一个问题，因为有条理对于成为一名出色的厨师至关重要。"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 16,
       "start": 1158.89,
       "end": 1172.9,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "当你井井有条时，你可以更高效地工作，避免错误，并更享受烹饪过程。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 9,
       "start": 1172.9,
       "end": 1178.32,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "对于专业厨师来说，有条理是一种生活方式。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 12,
       "start": 1178.32,
       "end": 1183.996,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "他们称之为“mise en place”，意思是“一切就绪”。"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 20,
       "start": 1183.996,
       "end": 1193.456,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "在开始烹饪之前，他们准备好所有的配料，称量好，并按使用顺序排列。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 16,
       "start": 1193.456,
       "end": 1201.024,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这使他们能够快速顺畅地工作，而不必停下来寻找东西。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 9,
       "start": 1201.024,
       "end": 1205.281,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "家庭厨师也可以从采用同样的方法中受益。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 24,
       "start": 1205.281,
       "end": 1216.633,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "在开始烹饪之前花几分钟整理配料和工具，可以节省大量时间并减少挫败感。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 13,
       "start": 1216.633,
       "end": 1222.782,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "你也不太可能忘记某种配料或犯错。"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 15,
       "start": 1222.782,
       "end": 1229.877,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "除了组织能力，烹饪还教会你如何明智地利用时间和资源。"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 18,
       "start": 1229.877,
       "end": 1238.391,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "在烹饪时，你必须提前计划，确定任务优先级，并充分利用现有资源。"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 14,
       "start": 1238.391,
       "end": 1245.013,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这些都是宝贵的技能，可以应用到你生活的其他领域。"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 17,
       "start": 1245.013,
       "end": 1253.054,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "所以，如果你想成为一名更好的厨师，不要只专注于学习食谱和技巧。"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 18,
       "start": 1253.054,
       "end": 1261.568,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "花时间学习如何井井有条，以及如何明智地利用你的时间和资源。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 24,
       "start": 1261.568,
       "end": 1272.92,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这些技能不仅会让你成为一名更好的厨师，还会让你在总体上成为一个更高效、更成功的人。"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 8,
       "start": 1272.92,
       "end": 1295.86,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "说话者关于烹饪学校说了什么？"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 9,
       "start": 1295.86,
       "end": 1313.78,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "对于专业厨师来说，“mise en place”是什么意思？"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 11,
       "start": 1313.78,
       "end": 1334.24,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "根据说话者的说法，烹饪可以教会我们哪些宝贵的技能？"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 10,
       "start": 1334.24,
       "end": 1358.6,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "目标通常被视为自我提升的基础。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 16,
       "start": 1358.6,
       "end": 1374.293,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我们设定目标来减肥、获得晋升、学习新技能等等。"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 9,
       "start": 1374.293,
       "end": 1383.12,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "但如果目标实际上在阻碍我们呢？"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 17,
       "start": 1383.12,
       "end": 1428.7,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "如果设定目标本身正在阻止我们实现想要的东西呢？"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 11,
       "start": 1428.7,
       "end": 1431.416,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "目标的问题在于它们往往太死板了。"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 21,
       "start": 1431.416,
       "end": 1436.601,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我们设定了一个在三个月内减肥10磅的目标，如果我们没有实现，我们就会觉得自己很失败。"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 12,
       "start": 1436.601,
       "end": 1439.563,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "但生活是不可预测的，事情并不总是按计划进行。"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 14,
       "start": 1439.563,
       "end": 1443.02,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我们可能会生病，工作繁忙，或者仅仅是失去动力。"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 18,
       "start": 1443.02,
       "end": 1445.281,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "当这种情况发生时，我们的目标就变成了压力和挫败感的源泉，而不是动力的源泉。"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 16,
       "start": 1445.281,
       "end": 1447.29,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "目标的另一个问题是它们会让我们停止想象生活中进一步的进步。"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 18,
       "start": 1447.29,
       "end": 1449.551,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "一旦我们实现了一个目标，我们往往会觉得我们“成功了”，从而停止尝试进步。"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 10,
       "start": 1449.551,
       "end": 1450.807,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "但自我提升是一场终生的旅程，而不是终点。"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 17,
       "start": 1450.807,
       "end": 1452.942,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "即使在实现了目标之后，我们也应该始终寻找成长和发展的方法。"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 4,
       "start": 1452.942,
       "end": 1453.444,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "那么，有什么替代方案吗？"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 10,
       "start": 1453.444,
       "end": 1454.7,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "我们不应该专注于目标，而应该专注于进步。"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 15,
       "start": 1454.7,
       "end": 1469.328,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我们不应该根据一个固定的目标来衡量自己，而应该衡量我们从哪里开始。"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 19,
       "start": 1469.328,
       "end": 1487.857,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "这让我们可以庆祝我们的成就，无论多么微小，并保持我们继续进步的动力。"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 16,
       "start": 1487.857,
       "end": 1503.46,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "它还允许我们适应生活中的变化，并相应地调整我们的期望。"
     },
     {
       "id": "line-171",
@@ -2130,7 +2301,8 @@
       "words": 10,
       "start": 1503.46,
       "end": 1522.46,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "根据说话者的说法，目标通常被看作是什么？"
     },
     {
       "id": "line-172",
@@ -2142,7 +2314,8 @@
       "words": 8,
       "start": 1522.46,
       "end": 1539.276,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "一旦我们实现了一个目标，可能会发生什么？"
     },
     {
       "id": "line-173",
@@ -2154,7 +2327,8 @@
       "words": 11,
       "start": 1539.276,
       "end": 1559.06,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "根据说话者的说法，死板的目标有什么问题？"
     },
     {
       "id": "line-174",
@@ -2166,7 +2340,8 @@
       "words": 12,
       "start": 1559.06,
       "end": 1580.669,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "说话者建议我们做些什么来代替专注于目标？"
     }
   ]
 }

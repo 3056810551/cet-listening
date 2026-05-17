@@ -78,7 +78,8 @@
       "words": 7,
       "start": 43.46,
       "end": 47.14,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "你觉得你的新工作怎么样？"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 4,
       "start": 47.14,
       "end": 48.66,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "到目前为止，一切都很好。"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 15,
       "start": 48.66,
       "end": 54.96,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "我不怀念那些打着效率旗号，给出生硬、严厉反馈的经理们。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 18,
       "start": 54.96,
       "end": 62.28,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "从你描述上家公司的方式来看，难怪他们会有员工流动率高的问题。"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 1,
       "start": 62.28,
       "end": 62.68,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "是的。"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 12,
       "start": 62.68,
       "end": 66.54,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "合同一到期，我就迫不及待地想离开那里。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 31,
       "start": 66.54,
       "end": 78.88,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "这种将直率置于一切之上的公司文化，其问题在于它创造了一种由“天才混蛋”构成的有毒文化，这会把人赶走，并从内部侵蚀公司。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 19,
       "start": 78.88,
       "end": 88.4,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "我公司的经理往往比较随和、友善，为了不伤害感情而忽视错误或问题。"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 14,
       "start": 88.4,
       "end": 93.0,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "在那儿，问题经常被忽视，直到积压到临界点。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 3,
       "start": 93.0,
       "end": 95.02,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "这并不奇怪。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 14,
       "start": 95.02,
       "end": 102.06,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我的新公司似乎采用了一种结合了同情心和直率的反馈政策。"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 16,
       "start": 102.06,
       "end": 109.22,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "员工有权实时发声、提供反馈、表达异议并讨论问题。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 23,
       "start": 109.22,
       "end": 118.66,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "这似乎有助于我们纠正航向、改进并应对挑战，同时也能建立起相互协作、关爱彼此的团队。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 13,
       "start": 118.66,
       "end": 123.18,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "但这需要建立在相互信任的氛围之上，不是吗？"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 11,
       "start": 123.18,
       "end": 127.76,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "否则，人们可能会将反馈解读为某种人身攻击。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 1,
       "start": 127.76,
       "end": 128.6,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "没错。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 12,
       "start": 128.6,
       "end": 133.84,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "如果没有信任的氛围，反馈会产生压力和自我怀疑。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 22,
       "start": 133.84,
       "end": 142.36,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "但我认为，当我们从信任的人那里得到反馈时，我们明白那并不是人身攻击。"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 16,
       "start": 142.36,
       "end": 148.34,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "这实际上是一种支持，因为它是本着帮助我们进步的精神提供的。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 14,
       "start": 148.34,
       "end": 154.24,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我认为有时人们需要转变对待接收反馈的心态。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 1,
       "start": 154.24,
       "end": 155.54,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "是的。"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 10,
       "start": 155.54,
       "end": 158.48,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "毕竟，建设性的反馈是我们学习和成长的方式。"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 14,
       "start": 158.48,
       "end": 166.82,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "它是健康育儿、持久友谊、职业发展等诸多方面的基础。"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 22,
       "start": 166.82,
       "end": 175.1,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "如果我们让孩子、朋友和同事避开那些可能丰富和提升他们生活的信息，我们并不是在关心他们。"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 6,
       "start": 175.1,
       "end": 177.06,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我们实际上是在伤害他们。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 3,
       "start": 177.06,
       "end": 185.34,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "完全正确。"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 9,
       "start": 185.34,
       "end": 203.44,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "这位女性如何描述她之前公司的文化？"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 9,
       "start": 203.44,
       "end": 221.4,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "关于他公司的经理，这位男性说了什么？"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 13,
       "start": 221.4,
       "end": 240.0,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "关于她新公司的员工能做什么，这位女性说了什么？"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 8,
       "start": 240.0,
       "end": 257.78,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于建设性反馈，这位男性说了什么？"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 4,
       "start": 257.78,
       "end": 259.98,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "你的假期过得怎么样？"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 8,
       "start": 259.98,
       "end": 263.6,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "周围游客不太多，对吧？"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 4,
       "start": 263.6,
       "end": 266.8,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "不，相对来说非常少。"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 16,
       "start": 266.8,
       "end": 273.58,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "但我发现自己不断地从一个住处搬到另一个住处，试图找到最完美的地方。"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 12,
       "start": 273.58,
       "end": 278.76,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这让我意识到，优柔寡断对我来说是个大问题。"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 10,
       "start": 278.76,
       "end": 283.72,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "我不是在放松，而是在寻找最好的地点。"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 9,
       "start": 283.72,
       "end": 287.34,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "看来你患有“优选恐惧症”。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 4,
       "start": 287.34,
       "end": 288.7,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我读过相关的文章。"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 11,
       "start": 288.7,
       "end": 293.02,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "它将这种优柔寡断的循环描述为我们本能程序的一部分。"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 13,
       "start": 293.02,
       "end": 298.62,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "本质上，我们有一种不断拉长决策过程的倾向。"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 10,
       "start": 298.62,
       "end": 303.14,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "因为作为人类，我们天生就追求优化。"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 19,
       "start": 303.14,
       "end": 309.58,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "作为一种适者生存的本能，我们总是寻求得到我们能得到的最好的东西。"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 12,
       "start": 309.58,
       "end": 314.26,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "优化本身不是问题，问题在于我们所经历的过程。"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 6,
       "start": 314.26,
       "end": 317.02,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "好吧，这让我感觉好多了。"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 20,
       "start": 317.02,
       "end": 324.54,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "但我认为，多亏了技术，我们可以更轻松地进行比较，并拥有更多的选择和定制空间。"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 21,
       "start": 324.54,
       "end": 332.86,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "我们现在可以看到我们可以拥有什么，如何得到它，以及别人拥有的、我们可能想要的东西。"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 13,
       "start": 332.86,
       "end": 338.58,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "我们不停地审视，一次又一次地回到相同的选项。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 1,
       "start": 338.58,
       "end": 339.6,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "是的。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 7,
       "start": 339.6,
       "end": 342.78,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "“优选恐惧症”几乎没什么好处。"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 5,
       "start": 342.78,
       "end": 344.88,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "这是一种“富足病”。"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 14,
       "start": 344.88,
       "end": 349.36,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "你必须有选择，才会产生担心错过更好选择的恐惧。"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 13,
       "start": 349.36,
       "end": 356.0,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "是的，我想我需要留意自己什么时候在为无关紧要的事情担心。"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 26,
       "start": 356.0,
       "end": 365.12,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "如果我花太多时间担心午饭吃什么，我就是在剥夺自己专注于重要事情的精力。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 1,
       "start": 365.12,
       "end": 366.36,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "没错。"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 12,
       "start": 366.36,
       "end": 371.46,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "但对于更重要的事情，我认为直觉可能被高估了。"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 12,
       "start": 371.46,
       "end": 376.72,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "当你有30多个选项时，相信直觉是不切实际的。"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 23,
       "start": 376.72,
       "end": 385.5,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "你需要做的是研究，有一个流程，投入时间探索你的选项，并尽可能多地排除选项。"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 17,
       "start": 385.5,
       "end": 399.2,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "决策过程中最有害的部分就是一次又一次地纠结于相同的选项。"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 8,
       "start": 399.2,
       "end": 417.44,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于他的假期，这位男性说了什么？"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 12,
       "start": 417.44,
       "end": 436.14,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "关于人们在做决定时的倾向，这位女性说了什么？"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 7,
       "start": 436.14,
       "end": 455.24,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "是什么让做决定变得越来越困难？"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 12,
       "start": 455.24,
       "end": 504.48,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "根据这位女性的说法，人们在做重要决定时应该怎么做？"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 11,
       "start": 504.48,
       "end": 510.58,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "课堂作业的角色并不是一个新的争论话题。"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 9,
       "start": 510.58,
       "end": 515.1,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "许多家长和老师都是家庭作业的坚定支持者。"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 7,
       "start": 515.1,
       "end": 518.5,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "但所有的学生都能从家庭作业中受益吗？"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 33,
       "start": 518.5,
       "end": 532.84,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "2006年的一篇研究论文指出，初中生和高中生的家庭作业量与未来的学业成就之间存在一定的相关性，但对于年幼的孩子来说则不那么明显。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 16,
       "start": 532.84,
       "end": 540.64,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "2014年斯坦福大学的一项研究表明，加州富裕社区的学生也是如此。"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 10,
       "start": 540.64,
       "end": 546.66,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "这些发现挑战了家庭作业“本质上是好的”这一观点。"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 32,
       "start": 546.66,
       "end": 557.84,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "研究人员得出结论，家庭作业与成就之间的相关性存在上限，建议高中生每晚做的家庭作业不应超过两小时。"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 16,
       "start": 557.84,
       "end": 565.66,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "而对于小学阶段的孩子来说，最有价值的家庭作业仅仅是被指派的自由阅读。"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 16,
       "start": 565.66,
       "end": 573.58,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "当我们谈论农村和城市社区之间的差距时，这个话题变得更加复杂。"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 33,
       "start": 573.58,
       "end": 589.58,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "研究发现，在偏远地区，网络接入质量差或缺乏网络会使学生处于劣势，因为这些地区70%的老师布置的作业都需要网络接入。"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 8,
       "start": 589.58,
       "end": 595.94,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "但三分之一的家庭没有网络。"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 8,
       "start": 595.94,
       "end": 601.52,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "专家声称，要求联网的家庭作业是不公平的。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 21,
       "start": 601.52,
       "end": 611.82,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "在关于家庭作业对学业成就影响的争论继续的同时，也有研究关注家庭作业的其他好处。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 28,
       "start": 611.82,
       "end": 632.34,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "德国的一项研究发现，家庭作业可能对学生的性格产生影响，表明做家庭作业可能有助于孩子们成为更认真、更独立的学习者。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 8,
       "start": 632.34,
       "end": 651.0,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "2006年的研究发现了关于家庭作业的什么？"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 9,
       "start": 651.0,
       "end": 670.18,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "专家如何看待需要联网的家庭作业？"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 10,
       "start": 670.18,
       "end": 688.4,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "从德国的研究中可以得出什么结论？"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 16,
       "start": 688.4,
       "end": 696.92,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "罗伯特·戈达德出生于1882年，是美国人，被广泛认为是世界上第一位火箭科学家。"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 22,
       "start": 696.92,
       "end": 706.66,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "27岁时，戈达德出版了他的第一本书，他在书中假设从地球发射的火箭可以到达月球。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 9,
       "start": 706.66,
       "end": 712.12,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "像许多远见卓识者一样，这位年轻的科学家遇到了无数的怀疑论者。"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 18,
       "start": 712.12,
       "end": 722.3,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "1920年1月，《纽约时报》嘲笑了戈达德关于火箭可以用于太空探索的理论。"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 17,
       "start": 722.3,
       "end": 728.98,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "49年后，“阿波罗11号”登上了月球，这家著名的报纸向戈达德发表了道歉声明。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 16,
       "start": 728.98,
       "end": 737.88,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "1926年3月，戈达德在他家乡马萨诸塞州的一个姨妈农场发射了他的第一枚火箭。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 9,
       "start": 737.88,
       "end": 741.8,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "他的处女航火箭航程仅持续了短短三秒钟。"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 8,
       "start": 741.8,
       "end": 745.24,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "它上升的高度只有12米。"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 8,
       "start": 745.24,
       "end": 749.28,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "尽管如此，这仍是火箭科学的一个里程碑。"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 22,
       "start": 749.28,
       "end": 757.62,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "戈达德后来咨询了一位气象专家，并确定新墨西哥州的气候非常适合全年进行火箭发射。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 18,
       "start": 757.62,
       "end": 767.12,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "1930年，戈达德和他的家人搬到了该国西南部的一个偏远山谷。"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 8,
       "start": 767.12,
       "end": 771.02,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "他在那里建立了一个实验室和试验场。"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 10,
       "start": 771.02,
       "end": 776.58,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "然而，这位雄心勃勃的科学家从政府那里得到的支持微乎其微。"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 19,
       "start": 776.58,
       "end": 786.32,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "四年来，富有商人丹尼尔·古根海姆每年向戈达德提供2.5万美元的资助，以追求他的梦想。"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 8,
       "start": 786.32,
       "end": 790.72,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "其他火箭爱好者也为他筹集了资金。"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 13,
       "start": 790.72,
       "end": 797.78,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "随着时间的推移，戈达德的火箭变得更加精密，并安装了仪器。"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 19,
       "start": 797.78,
       "end": 806.08,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "尽管取得了许多成功，戈达德从未能让美国军方对火箭推进武器产生兴趣。"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 17,
       "start": 806.08,
       "end": 821.36,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "他获得了200多项专利，并继续开拓火箭技术，直到1945年去世。"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 13,
       "start": 821.36,
       "end": 841.5,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "关于戈达德利用火箭进行太空探索的想法，我们了解到了什么？"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 10,
       "start": 841.5,
       "end": 860.54,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "关于戈达德的第一次火箭发射，这篇文章说了什么？"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 7,
       "start": 860.54,
       "end": 877.46,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "戈达德为什么要搬到新墨西哥州？"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 8,
       "start": 877.46,
       "end": 924.8,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于戈达德的成就，这篇文章说了什么？"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 26,
       "start": 924.8,
       "end": 934.96,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "为初创公司工作伴随着很多风险——也就是说，不稳定性、职责不明确以及需要成为全才。"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 19,
       "start": 934.96,
       "end": 945.22,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "但主要的好处通常是与在一家有前途的新公司任职相关的激情和兴奋。"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 14,
       "start": 945.22,
       "end": 951.24,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "要感谢那种激情和兴奋的人几乎总是企业家。"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 15,
       "start": 951.24,
       "end": 958.5,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "创始人的精力和热情总能感染团队的其他成员。"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 12,
       "start": 958.5,
       "end": 963.06,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "承担风险的意愿可能会激励他人变得更加勇敢。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 15,
       "start": 963.06,
       "end": 972.82,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "乐观和积极的态度可能会激励人们减少对琐碎且不重要事项的关注。"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 17,
       "start": 972.82,
       "end": 981.1,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "对里程碑的庆祝可能会促使员工对自己的成就和特权心存感激。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 23,
       "start": 981.1,
       "end": 990.88,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "企业文化中形成的这种极具感染力的肯定和积极情绪，通常会在团队中分享。"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 13,
       "start": 990.88,
       "end": 997.52,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "科学已经很好地证明了随之而来的结果。"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 12,
       "start": 997.52,
       "end": 1006.08,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这些包括更好的流程、更强的团队凝聚力、减少的冲突和更敏锐的警觉性。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 17,
       "start": 1006.08,
       "end": 1013.44,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "但尚未被证实的是，创始人的激情是否会导致团队绩效的提升。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 25,
       "start": 1013.44,
       "end": 1027.96,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "最近的一项研究对此进行了测试，该研究分析了涉及IT、医学和能源等一系列行业的73家新公司的团队。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 27,
       "start": 1027.96,
       "end": 1041.86,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "在最初分析几年后，研究人员再次咨询了这些CEO，大多数CEO分享了他们公司的业绩报告，以便更客观地衡量他们的成功。"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 7,
       "start": 1041.86,
       "end": 1046.94,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "创业团队通常经历三个阶段。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 32,
       "start": 1046.94,
       "end": 1060.3,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "第一阶段是发明产品或服务，第二阶段是创立企业来销售该产品或服务，第三阶段是发展公司使其继续增长。"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 22,
       "start": 1060.3,
       "end": 1068.94,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "研究人员发现，当团队对第三阶段——发展公司——充满激情时，与绩效之间存在明显的联系。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 26,
       "start": 1068.94,
       "end": 1081.1,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "但第一阶段——对发明的激情——并不是一个可靠的指标，说明公司几年后是否仍在营业。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 15,
       "start": 1081.1,
       "end": 1088.84,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "同样，第二阶段——对创立企业的激情——也不一定能转化为巨大的成功。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 27,
       "start": 1088.84,
       "end": 1102.5,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "提升团队绩效的解决方案源于愿意招聘那些能将激情投向创业第三阶段——发展业务——的人才。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 21,
       "start": 1102.5,
       "end": 1110.96,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "雇佣更多员工本身对企业家来说就是一种风险，给他们高薪来吸引他们也是如此。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 21,
       "start": 1110.96,
       "end": 1129.471,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "在许多情况下，企业家报告说，为了支付工资和开支，他们最初根本不给自己发工资。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 11,
       "start": 1129.471,
       "end": 1147.1,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "关于为初创公司工作，说话者说了什么？"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 12,
       "start": 1147.1,
       "end": 1166.52,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "关于初创公司的积极文化，科学已经证明了什么？"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 15,
       "start": 1166.52,
       "end": 1187.28,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "关于初创公司初期的企业家，说话者说了什么？"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 23,
       "start": 1187.28,
       "end": 1197.48,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "衰老是一件奇妙的事情，人们想要战胜衰老和死亡的欲望已经变成了一个价值数千亿美元的产业。"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 18,
       "start": 1197.48,
       "end": 1206.34,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "尽管在研究上投入巨大，但衰老在某种程度上仍然是个谜，尽管研究人员确实了解某些事情。"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 18,
       "start": 1206.34,
       "end": 1214.46,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "他们知道女性往往寿命更长，平均比男性多活六年。"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 29,
       "start": 1214.46,
       "end": 1225.5,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "没有人真正确定其中的原因，尽管推测集中在这样一个观点上：女性比男性更有能力在疾病中生存或应对疾病。"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 15,
       "start": 1225.5,
       "end": 1230.42,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "对于几乎每一种疾病，对男性的影响都比对女性大。"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 16,
       "start": 1230.42,
       "end": 1238.52,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "有人认为，女性的免疫系统受益于她们重视并培养社交关系的倾向。"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 8,
       "start": 1238.52,
       "end": 1243.22,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "但对我来说，这个解释很难令人信服。"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 9,
       "start": 1243.22,
       "end": 1248.06,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "研究人员在一定程度上也了解导致衰老的原因。"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 13,
       "start": 1248.06,
       "end": 1253.34,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "60年来，人们一直认为细胞会永远分裂下去。"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 21,
       "start": 1253.34,
       "end": 1262.46,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "直到相对最近的时期才发现，老年人的细胞分裂次数比年轻人的少。"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 10,
       "start": 1262.46,
       "end": 1267.94,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "事实上，只有癌细胞能够永远分裂。"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 7,
       "start": 1267.94,
       "end": 1271.58,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "人类细胞的繁殖能力有限。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 28,
       "start": 1271.58,
       "end": 1286.36,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "在一定程度上，我们可以通过营养、运动、良好的睡眠甚至放松技巧来推迟细胞分裂的最终停止，但我们无法阻止衰老过程。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 19,
       "start": 1286.36,
       "end": 1294.68,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "研究人员尚未回答关于衰老的终极问题：为什么身体最终会支离破碎？"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 34,
       "start": 1294.68,
       "end": 1306.42,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "在一些世界顶尖科学家的看来，我们还没有答案的部分原因是许多研究人员找错了方向。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 29,
       "start": 1306.42,
       "end": 1321.84,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "许多公共卫生决策者认为，解决与年龄相关的疾病将告诉我们关于衰老过程的一些根本性的东西，但一些顶尖科学家说，“这完全是错误的”。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 20,
       "start": 1321.84,
       "end": 1329.62,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "他们指出，当儿童疾病被消除时，这并没有提供任何关于儿童发育的见解。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 31,
       "start": 1329.62,
       "end": 1342.04,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "同样地，认为解决像心脏病和中风这样与年龄相关的疾病能让我们了解衰老的想法，也并非基于可靠的科学或逻辑。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 23,
       "start": 1342.04,
       "end": 1351.5,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "充其量，如果发达国家的主要死因被消除，这只会使平均预期寿命增加十年。"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 22,
       "start": 1351.5,
       "end": 1368.513,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "但只要还有钱可花，探索衰老奥秘的研究就会继续下去。"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 14,
       "start": 1368.513,
       "end": 1386.3,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "关于女性往往寿命更长的可能原因，我们了解到了什么？"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 8,
       "start": 1386.3,
       "end": 1404.2,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "关于人类细胞，最近的发现是什么？"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 7,
       "start": 1404.2,
       "end": 1418.664,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "许多公共卫生决策者相信什么？"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 2,
       "start": 1418.664,
       "end": 1422.28,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "下午好。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 17,
       "start": 1422.28,
       "end": 1430.74,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "在今天的演讲中，我们将讨论经理如何让员工按照要求行事。"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 17,
       "start": 1430.74,
       "end": 1438.54,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "令经理们沮丧的是，他们常常难以让员工遵守哪怕是最简单的指示。"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 19,
       "start": 1438.54,
       "end": 1446.52,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "通常，他们会责怪员工：“他们不看邮件，不听指挥，不关心工作”——诸如此类。"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 19,
       "start": 1446.52,
       "end": 1455.48,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "但根据最近在澳大利亚进行的研究，看起来这不关员工的事，而是经理的错。"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 10,
       "start": 1455.48,
       "end": 1461.54,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "很容易理解为什么人们有时会故意不遵守程序。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 11,
       "start": 1461.54,
       "end": 1466.28,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "偶尔，是因为他们迫于压力要在短时间内完成。"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 23,
       "start": 1466.28,
       "end": 1476.58,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "在其他时候，他们可能不同意程序的初衷——付出的努力、消耗的时间、缺乏潜在的有效性。"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 16,
       "start": 1476.58,
       "end": 1484.44,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "而且偶尔，他们就是不想遵守，也许是故意的，或者是出于固执。"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 13,
       "start": 1484.44,
       "end": 1490.18,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "那么除此以外，还有什么阻碍了对程序的遵守呢？"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 16,
       "start": 1490.18,
       "end": 1498.02,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "研究学者调查了来自采矿业两个不同地点的152名蓝领工人。"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 47,
       "start": 1498.02,
       "end": 1518.54,
-      "matchedWords": 47
+      "matchedWords": 47,
+      "translation": "他们问了工人们一系列与程序相关的问题，比如他们是否觉得程序有用，他们在工作中感到多自信，他们在工作场所敢于发声的程度，以及他们对经理制定的新程序的遵循程度如何。"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 17,
       "start": 1518.54,
       "end": 1524.62,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "他们还被要求对他们认为主管有多大帮助进行评分。"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 36,
       "start": 1524.62,
       "end": 1543.36,
-      "matchedWords": 36
+      "matchedWords": 36,
+      "translation": "最后一点最具启发性，因为正如研究人员发现的那样，主管被认为提供的帮助程度与员工遵循指示的可能性之间存在显著的正相关关系。"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 10,
       "start": 1543.36,
       "end": 1548.18,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "主管的帮助行为被发现具有激励性质。"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 29,
       "start": 1548.18,
       "end": 1562.76,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "它增加了员工对实现工作目标可能性的感知，因此培养了他们投入努力和能力到工作中的意愿。"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 11,
       "start": 1562.76,
       "end": 1568.1,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "简而言之，经理应该成为变革的持续榜样。"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 12,
       "start": 1568.1,
       "end": 1572.16,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "俗话说：听其言，观其行（Do as I do, not as I say）。"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 20,
       "start": 1572.16,
       "end": 1587.2,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "要实现行为改变，最需要的是互动和参与——人情味——以及自然而然的、能增加价值的流程。"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 27,
       "start": 1587.2,
       "end": 1598.96,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "尽管程序旨在引导和支持员工的工作，但似乎不能指望员工总是遵守那些被认为没用的程序。"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 8,
       "start": 1598.96,
       "end": 1605.32,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "当然，经理也不应该一直重发邮件。"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 27,
       "start": 1605.32,
       "end": 1623.66,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "邮件是共享数据报告的有效工具，但如果经理渴望的是行为上的改变，那它就是个毫无用处的工具。"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 8,
       "start": 1623.66,
       "end": 1642.82,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "为什么经理经常对他们的员工感到沮丧？"
     },
     {
       "id": "line-171",
@@ -2130,7 +2301,8 @@
       "words": 7,
       "start": 1642.82,
       "end": 1663.06,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "为什么员工有时会故意不遵守程序？"
     },
     {
       "id": "line-172",
@@ -2142,7 +2314,8 @@
       "words": 12,
       "start": 1663.06,
       "end": 1683.36,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "根据研究人员的说法，员工在什么时候更有可能听从指示？"
     },
     {
       "id": "line-173",
@@ -2154,7 +2327,8 @@
       "words": 7,
       "start": 1683.36,
       "end": 1702.161,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "关于电子邮件，说话者说了什么？"
     }
   ]
 }

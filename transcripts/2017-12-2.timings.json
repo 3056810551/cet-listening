@@ -78,7 +78,8 @@
       "words": 17,
       "start": 43.38,
       "end": 48.46,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "比尔，今晚你要为演讲者致简短的感谢词，对吧？"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 1,
       "start": 48.46,
       "end": 49.6,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "是的。"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 5,
       "start": 49.6,
       "end": 51.9,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "你听起来不太热衷。"
     },
     {
       "id": "line-3",
@@ -114,7 +117,8 @@
       "words": 6,
       "start": 51.9,
       "end": 53.88,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "没那么糟糕吧？"
     },
     {
       "id": "line-4",
@@ -126,7 +130,8 @@
       "words": 5,
       "start": 53.88,
       "end": 55.54,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "不，我其实并不介意。"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 12,
       "start": 55.54,
       "end": 59.38,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "但我永远忘不了我第一次致感谢词的情景。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 1,
       "start": 59.38,
       "end": 59.72,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "为什么？"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 2,
       "start": 59.72,
       "end": 61.06,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "发生什么了？"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 7,
       "start": 61.06,
       "end": 63.76,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "嗯，当时我二十出头。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 6,
       "start": 63.76,
       "end": 65.52,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我加入了当地的历史学会。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 1,
       "start": 65.52,
       "end": 66.52,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "是的。"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 11,
       "start": 66.52,
       "end": 69.98,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "总之，我去听了一位布莱小姐的讲座。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 1,
       "start": 69.98,
       "end": 70.56,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "哦。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 3,
       "start": 70.56,
       "end": 71.62,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "请继续说。"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 13,
       "start": 71.62,
       "end": 76.92,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "她打算用幻灯片讲解我们小镇在十八世纪中叶的情况。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 15,
       "start": 76.92,
       "end": 81.32,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "她刚出版了一本关于这个主题的书，评价相当不错。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 4,
       "start": 81.32,
       "end": 82.68,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "所以我去了。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 15,
       "start": 82.68,
       "end": 88.22,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "我到达时，秘书问我是否可以致感谢词。"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 5,
       "start": 88.22,
       "end": 90.98,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "我挺愚蠢地答应了。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 4,
       "start": 90.98,
       "end": 92.74,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我们都干过这种事。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 8,
       "start": 92.74,
       "end": 96.34,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "总之，从那时起，我就感到害怕了。"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 4,
       "start": 96.34,
       "end": 97.74,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我该说什么呢？"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 21,
       "start": 97.74,
       "end": 105.28,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "我决定在讲座期间做笔记，提到一些有趣的部分，并代表学会向她表示感谢。"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 16,
       "start": 105.28,
       "end": 109.46,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "事实上，到布莱小姐站起来讲话时，我觉得好多了。"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 19,
       "start": 109.46,
       "end": 117.16,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "但她非常紧张，不停地忘记要说什么，说话声音几乎像耳语一样。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 10,
       "start": 117.16,
       "end": 120.78,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "后面的人不断喊着“我们听不见”。"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 3,
       "start": 120.78,
       "end": 122.14,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "这太尴尬了。"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 4,
       "start": 122.14,
       "end": 123.78,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我可以想象。"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 15,
       "start": 123.78,
       "end": 128.98,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "至少幻灯片还不错，直到投影仪里的灯泡爆了。"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 10,
       "start": 128.98,
       "end": 131.62,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "于是她不得不在没有插图的情况下完成演讲。"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 10,
       "start": 131.62,
       "end": 134.82,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "那么你在感谢词里说了什么？"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 4,
       "start": 134.82,
       "end": 136.32,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "你能说什么呢？"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 5,
       "start": 136.32,
       "end": 137.38,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "你必须礼貌点。"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 28,
       "start": 137.38,
       "end": 148.14,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "我提到了有趣的事实，谈到了精彩的幻灯片，最后说道：“我们都要感谢布莱小姐‘吹爆’了她的幻灯片。”"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 2,
       "start": 148.14,
       "end": 149.64,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "噢，不。"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 3,
       "start": 149.64,
       "end": 151.32,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "我感觉糟透了。"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 7,
       "start": 151.32,
       "end": 154.72,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我试着道歉，但不太成功。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 7,
       "start": 154.72,
       "end": 157.1,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "那今晚的感谢词呢？"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 13,
       "start": 157.1,
       "end": 168.98,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "我会把我打算说的话准确地写下来，并仔细阅读。"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 9,
       "start": 168.98,
       "end": 186.16,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "男人今晚被要求做什么？"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 7,
       "start": 186.16,
       "end": 202.82,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "关于这个男人我们了解到了什么？"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 8,
       "start": 202.82,
       "end": 219.74,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "男人是怎么评价布莱小姐的？"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 15,
       "start": 219.74,
       "end": 239.05,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "男人关于他第一次致感谢词说了什么？"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 5,
       "start": 239.05,
       "end": 241.12,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "保罗，再来杯茶吗？"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 2,
       "start": 241.12,
       "end": 241.99,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "不了，谢谢。"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 4,
       "start": 241.99,
       "end": 244.2,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "嗯，有什么新鲜事吗，洛里？"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 2,
       "start": 244.2,
       "end": 245.06,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "没什么戏剧性的事。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 7,
       "start": 245.06,
       "end": 248.11,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "但有一件事你应该知道。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 2,
       "start": 248.11,
       "end": 249.12,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "什么事？"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 16,
       "start": 249.12,
       "end": 253.312,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "嗯，我们的竞争对手正在向该地区的一些零售商提供延长信用期限。"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 1,
       "start": 253.312,
       "end": 254.36,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "哦？"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 4,
       "start": 254.36,
       "end": 257.48,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "是哪家竞争对手？"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 4,
       "start": 257.48,
       "end": 259.14,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我们只有两个竞争对手。"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 2,
       "start": 259.14,
       "end": 260.15,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "巴雷特公司。"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 2,
       "start": 260.15,
       "end": 260.82,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "哦，他们啊。"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 5,
       "start": 260.82,
       "end": 262.84,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "嗯，他们几乎构不成威胁。"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 13,
       "start": 262.84,
       "end": 267.64,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "我知道他们规模比我们小，但我们不能忽视他们。"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 4,
       "start": 267.64,
       "end": 269.42,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "是的，你说得对，洛里。"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 6,
       "start": 269.42,
       "end": 271.64,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "但我不喜欢延长信用期限。"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 11,
       "start": 271.64,
       "end": 275.0,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "它占用了我们本来可以更好地用在别处的现金。"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 7,
       "start": 275.0,
       "end": 277.18,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "不过，我周一会调查一下。"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 1,
       "start": 277.18,
       "end": 277.82,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "是的。"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 4,
       "start": 277.82,
       "end": 279.66,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "还有别的事。"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 3,
       "start": 279.66,
       "end": 281.04,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "别告诉我！"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 7,
       "start": 281.04,
       "end": 283.2,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "是税务局寄来的信吗？"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 1,
       "start": 283.2,
       "end": 283.88,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "没错。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 4,
       "start": 283.88,
       "end": 285.46,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "你怎么知道的？"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 3,
       "start": 285.46,
       "end": 286.74,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "泰拉告诉我的。"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 3,
       "start": 286.74,
       "end": 288.0,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "出了什么问题？"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 19,
       "start": 288.0,
       "end": 296.4,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "嗯，汤姆昨天很晚才收到这封信，然后拼命寻找去年的账目副本。"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 4,
       "start": 296.4,
       "end": 297.38,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "他找到了吗？"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 13,
       "start": 297.38,
       "end": 301.56,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "没有。而且还没等我拿到那封信，他就走了。"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 9,
       "start": 301.56,
       "end": 303.54,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "现在开车去办公室怎么样？"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 7,
       "start": 303.54,
       "end": 306.4,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "我们去看看是否一切都好。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 12,
       "start": 306.4,
       "end": 309.8,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我想在周一之前和你聊聊还有另一个原因。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 4,
       "start": 309.8,
       "end": 311.16,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我就知道。"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 5,
       "start": 311.16,
       "end": 313.78,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "好吧，继续说，给我个惊喜吧。"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 10,
       "start": 313.78,
       "end": 318.06,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "把你那种新型摩托车卖到印度尼西亚怎么样？"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 1,
       "start": 318.06,
       "end": 318.7,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "什么？"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 3,
       "start": 318.7,
       "end": 320.64,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "你是说出口？"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 8,
       "start": 320.64,
       "end": 323.38,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "保罗，我想你离开太久了。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 4,
       "start": 323.38,
       "end": 325.48,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "这是贾亚尔汽车公司。"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 6,
       "start": 325.48,
       "end": 328.46,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我们从未在国外卖过摩托车。"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 3,
       "start": 328.46,
       "end": 329.76,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "别担心，洛里。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 3,
       "start": 329.76,
       "end": 331.34,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "我没疯。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 14,
       "start": 331.34,
       "end": 335.5,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我一直在研究这种可能性，我认为我们应该尝试一下。"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 9,
       "start": 335.5,
       "end": 337.8,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "不过这没那么容易，对吧？"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 7,
       "start": 337.8,
       "end": 340.74,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我们必须重组整个公司。"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 3,
       "start": 340.74,
       "end": 342.7,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "别傻了。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 6,
       "start": 342.7,
       "end": 345.04,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "我没打算下周就开始。"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 14,
       "start": 345.04,
       "end": 348.6,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "我们必须妥善规划，当然，也会有一些问题。"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 3,
       "start": 348.6,
       "end": 349.92,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "一些问题？"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 4,
       "start": 349.92,
       "end": 351.18,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我能看到几百个问题！"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 4,
       "start": 351.18,
       "end": 353.94,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "首先，运输问题。"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 17,
       "start": 353.94,
       "end": 360.76,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "要把摩托车送到只有40英里外的商店我都够麻烦了——更别提5000英里外了！"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 6,
       "start": 360.76,
       "end": 369.84,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "这就是货运代理的作用。"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 9,
       "start": 369.84,
       "end": 387.06,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "女人认为男人应该知道什么？"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 8,
       "start": 387.06,
       "end": 404.58,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "女人怎么看待巴雷特公司？"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 13,
       "start": 404.58,
       "end": 423.38,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "女人关于税务局的信说了什么？"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 7,
       "start": 423.38,
       "end": 471.29,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "男人正考虑做什么？"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 21,
       "start": 471.29,
       "end": 478.51,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "本月发布的一份关于睡眠与营养的报告发现，习惯在晚上11点前睡觉的人"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 1,
       "start": 478.51,
       "end": 479.21,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "（晚上11点）"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 9,
       "start": 479.21,
       "end": 483.75,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "摄入的热量更少，吃得也更健康。"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 11,
       "start": 483.75,
       "end": 487.71,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "相比之下，在晚上11点到凌晨3点之间睡觉的“夜猫子”"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 1,
       "start": 487.71,
       "end": 487.91,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "（晚上11点）"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 3,
       "start": 487.91,
       "end": 488.53,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "（凌晨3点）"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 1,
       "start": 488.53,
       "end": 489.25,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "（晚上11点）"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 14,
       "start": 489.25,
       "end": 497.13,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "往往比早起的人消耗更多的咖啡、酒精、精制糖和加工肉类。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 12,
       "start": 497.13,
       "end": 502.27,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这份报告与现有的关于就寝时间和健康的科学文献相符。"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 14,
       "start": 502.27,
       "end": 510.01,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "充足睡眠与做出更好的食物选择之间的关系有据可查。"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 33,
       "start": 510.01,
       "end": 522.99,
-      "matchedWords": 33
+      "matchedWords": 33,
+      "translation": "去年发表在《美国临床营养学杂志》上的一项研究发现，睡眠充足的人往往比那些休息不足的同龄人吃的不健康食物更少。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 29,
       "start": 522.99,
       "end": 533.49,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "加州大学伯克利分校2015年的一项研究发现，晚睡的青少年在五年内更有可能增加体重。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 21,
       "start": 533.49,
       "end": 542.29,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "作为一个群体，“夜猫子”类型的人往往比早起的人吃得更不健康，摄入的总热量也更多。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 14,
       "start": 542.29,
       "end": 547.95,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "一个人睡觉越晚，第二天记录的摄入热量就越多。"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 16,
       "start": 547.95,
       "end": 553.45,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "目前解释睡眠与营养之间的因果关系仍是一个挑战。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 26,
       "start": 553.45,
       "end": 563.49,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "可能存在第三种因素同时影响这两者，或者这种关系可能是相反的，也就是说，吃得少的人睡得更早。"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 29,
       "start": 563.49,
       "end": 581.75,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "尽管如此，如果习惯晚睡的人想要减轻几磅体重，他们可以比平时早点睡觉，从而减少睡前吃零食的机会。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 10,
       "start": 581.75,
       "end": 599.61,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "关于本月发布的报告，我们了解到了什么？"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 18,
       "start": 599.61,
       "end": 620.73,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "加州大学伯克利分校的研究发现晚睡的青少年会怎样？"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 12,
       "start": 620.73,
       "end": 640.45,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "“夜猫子”应该怎么做来减少不健康食物的消耗？"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 15,
       "start": 640.45,
       "end": 648.15,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "研究人员发现好莱坞不仅存在多样性问题，实际上还存在包容性危机。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 32,
       "start": 648.15,
       "end": 661.45,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "在因演员提名名单清一色白人而备受批评的奥斯卡颁奖典礼不到一周前，一项研究显示电影行业的情况比电视行业更糟。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 2,
       "start": 661.45,
       "end": 662.03,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "仅有3.4%"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 26,
       "start": 662.03,
       "end": 674.55,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "4%的电影导演是女性，只有7%的电影演职人员在种族和族裔平衡上反映了国家的多样性。"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 31,
       "start": 674.55,
       "end": 689.77,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "当研究人员调查所有电视节目时，他们还发现40岁以上的有色人种女性被视为“基本隐形”，只有22%的电视剧创作者是女性。"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 28,
       "start": 689.77,
       "end": 701.93,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "总的来说，研究发现一半的电影和电视节目中没有亚裔配音角色，超过五分之一的节目中没有黑人对话角色。"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 11,
       "start": 701.93,
       "end": 707.49,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "电影行业仍然像一个异性恋、白人、男性占主导的俱乐部。"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 36,
       "start": 707.49,
       "end": 723.41,
-      "matchedWords": 36
+      "matchedWords": 36,
+      "translation": "在观察女性形象的描绘时，研究发现女性角色穿性感衣服的可能性是男性的四倍，被描述为外貌出众的可能性也几乎是男性的四倍。"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 32,
       "start": 723.41,
       "end": 739.09,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "但他们的结果也表明，由女性或有色人种担任幕后重要职位（如导演、制片人或编剧）的电影和电视节目，其多样性数据往往更好。"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 14,
       "start": 739.09,
       "end": 747.11,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "在电视和电影中，非白人角色代表性不足的问题主要集中在拉美裔身上。"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 17,
       "start": 747.11,
       "end": 753.133,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "在超过1万个角色中，白人、黑人和亚裔角色的比例接近美国"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 1,
       "start": 753.133,
       "end": 754.55,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "美国"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 2,
       "start": 754.55,
       "end": 756.89,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "人口数据。"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 5,
       "start": 756.89,
       "end": 759.11,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "但拉美裔仅占5.8%"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 12,
       "start": 759.11,
       "end": 763.475,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "8%的角色，尽管他们约占美国人口的17%。"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 1,
       "start": 763.475,
       "end": 764.93,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "美国"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 1,
       "start": 764.93,
       "end": 774.99,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "人口。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 7,
       "start": 774.99,
       "end": 793.31,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "为什么奥斯卡颁奖典礼受到批评？"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 7,
       "start": 793.31,
       "end": 810.63,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "从这项研究中我们了解到了什么？"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 9,
       "start": 810.63,
       "end": 831.03,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "电视节目中哪些人被视为“基本隐形”？"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 7,
       "start": 831.03,
       "end": 876.59,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "说话者关于拉美裔说了什么？"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 36,
       "start": 876.59,
       "end": 892.21,
-      "matchedWords": 35
+      "matchedWords": 35,
+      "translation": "在购买人寿保险时，有许多重要因素需要考虑：应该购买以最低成本提供最大保障的保单，为合适的家庭成员投保，并考虑家庭的财务需求。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 21,
       "start": 892.21,
       "end": 900.03,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "从财务状况稳健且由诚实、训练有素的代理人代表的公司购买保险非常重要。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 17,
       "start": 900.03,
       "end": 908.05,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "在一个人生活的不同阶段，针对特定情况需要不同种类的人寿保险。"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 23,
       "start": 908.05,
       "end": 917.47,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "杰里单身且没有受抚养人，他唯一需要的人寿保险可能就是足以支付其债务和葬礼费用的保险。"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 28,
       "start": 917.47,
       "end": 925.99,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "年轻时购买保险的费率较低，但在年轻时购买，保费缴纳的时间会更长。"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 12,
       "start": 925.99,
       "end": 930.85,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "最后，支付的保费总额大体相当。"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 10,
       "start": 930.85,
       "end": 935.33,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "一个人不应该购买真正没必要的保险保障。"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 13,
       "start": 935.33,
       "end": 939.95,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "假设杰里娶了大学毕业且正在工作的珍妮特。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 13,
       "start": 939.95,
       "end": 944.89,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "也许需要足够的保险来支付他们的债务和葬礼费用。"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 13,
       "start": 944.89,
       "end": 949.95,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "现在，珍妮特已经辞职，他们的第一个孩子即将出生。"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 15,
       "start": 949.95,
       "end": 953.85,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "他们买了一套房子，付了少量首付款，办理了30年抵押贷款。"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 10,
       "start": 953.85,
       "end": 958.83,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "人寿保险的情况发生了变化。"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 7,
       "start": 958.83,
       "end": 961.85,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "有了需要财务保障的受抚养人。"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 5,
       "start": 961.85,
       "end": 964.07,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "需要多少保险？"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 20,
       "start": 964.07,
       "end": 971.71,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "随着家庭规模的扩大，有必要增加养家糊口者的保险额度，以保障受抚养人。"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 30,
       "start": 971.71,
       "end": 982.83,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "当孩子还小且在经济上依赖家庭时，收入适中的家庭很难提供足够的人寿保险来保障母亲和孩子。"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 11,
       "start": 982.83,
       "end": 989.11,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "收入适中的家庭应该首先为养家糊口的人投保。"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 30,
       "start": 989.11,
       "end": 1001.85,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "在考虑为有受抚养子女的母亲投保的金额时，应规划代育服务需求，直到孩子能够自理。"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 16,
       "start": 1001.85,
       "end": 1006.59,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "小孩的去世不会对家庭收入产生影响。"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 14,
       "start": 1006.59,
       "end": 1013.29,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "也许一份涵盖殡葬费用的保单对小孩来说就足够了。"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 12,
       "start": 1013.29,
       "end": 1017.85,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "尽管大多数人不会为年幼的孩子购买保险。"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 25,
       "start": 1017.85,
       "end": 1030.55,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "随着孩子在经济上独立于家庭，家庭财务安全的重点将从保障转向为退休后的生活储蓄。"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 20,
       "start": 1030.55,
       "end": 1048.111,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "每个家庭的情况都不同，但重要的是每个家庭都要充分考虑规划其财务未来。"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 12,
       "start": 1048.111,
       "end": 1066.55,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "根据说话者的观点，单身人士应该购买什么人寿保险？"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 10,
       "start": 1066.55,
       "end": 1085.81,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "随着家庭规模的扩大，人们应该怎么做？"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 7,
       "start": 1085.81,
       "end": 1103.97,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "什么时候应该更改人寿保险？"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 13,
       "start": 1103.97,
       "end": 1109.65,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "“刻板印象”听起来可能像个贬义词，但它本身并没有什么不好。"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 7,
       "start": 1109.65,
       "end": 1113.79,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "一方面，刻板印象往往是准确的。"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 15,
       "start": 1113.79,
       "end": 1119.93,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "当你询问人们对刻板印象的看法时，他们通常说得相当准确。"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 13,
       "start": 1119.93,
       "end": 1128.01,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "此外，刻板印象往往是积极的，特别是对我们自己所属的群体。"
     },
     {
       "id": "line-171",
@@ -2130,7 +2301,8 @@
       "words": 33,
       "start": 1128.01,
       "end": 1143.09,
-      "matchedWords": 32
+      "matchedWords": 32,
+      "translation": "一些统计学上的概括可能是积极的，因为某些群体以聪明、忠诚、勇敢等著称，这些根本不是负面的。"
     },
     {
       "id": "line-172",
@@ -2142,7 +2314,8 @@
       "words": 8,
       "start": 1143.09,
       "end": 1147.77,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "所以，刻板印象本身并没有错。"
     },
     {
       "id": "line-173",
@@ -2154,7 +2327,8 @@
       "words": 6,
       "start": 1147.77,
       "end": 1151.19,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "但刻板印象也存在问题。"
     },
     {
       "id": "line-174",
@@ -2166,7 +2340,8 @@
       "words": 12,
       "start": 1151.19,
       "end": 1158.17,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "一方面，只要它们是基于无偏样本的，就是可靠的。"
     },
     {
       "id": "line-175",
@@ -2178,7 +2353,8 @@
       "words": 22,
       "start": 1158.17,
       "end": 1167.77,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "但我们获得的关于人类群体的很多信息都是通过有偏差的渠道获得的，比如媒体对他们的描绘。"
     },
     {
       "id": "line-176",
@@ -2190,7 +2366,8 @@
       "words": 15,
       "start": 1167.77,
       "end": 1175.15,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "如果这些来源没有给你准确的描绘，你的刻板印象就不会准确。"
     },
     {
       "id": "line-177",
@@ -2202,7 +2379,8 @@
       "words": 12,
       "start": 1175.15,
       "end": 1181.61,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "例如，许多犹太人一直为莎士比亚对夏洛克的刻画感到困扰。"
     },
     {
       "id": "line-178",
@@ -2214,7 +2392,8 @@
       "words": 17,
       "start": 1181.61,
       "end": 1188.15,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "如果你认识的唯一犹太人就是莎士比亚笔下的夏洛克，那会产生非常糟糕的印象。"
     },
     {
       "id": "line-179",
@@ -2226,7 +2405,8 @@
       "words": 20,
       "start": 1188.15,
       "end": 1197.75,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "因此，刻板印象的一个问题是，虽然我们擅长从中得出结论，但我们的信息往往并不可靠。"
     },
     {
       "id": "line-180",
@@ -2238,7 +2418,8 @@
       "words": 25,
       "start": 1197.75,
       "end": 1208.31,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "第二个问题是，刻板印象无论是否准确，都会对被套用的人产生负面影响。"
     },
     {
       "id": "line-181",
@@ -2250,7 +2431,8 @@
       "words": 11,
       "start": 1208.31,
       "end": 1214.09,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "这就是心理学家克劳德·斯蒂尔所描述的“刻板印象威胁”。"
     },
     {
       "id": "line-182",
@@ -2262,7 +2444,8 @@
       "words": 7,
       "start": 1214.09,
       "end": 1217.75,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "他举了一个生动的例子。"
     },
     {
       "id": "line-183",
@@ -2274,7 +2457,8 @@
       "words": 12,
       "start": 1217.75,
       "end": 1222.67,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "这就是让非裔美国人在数学考试中表现更差的方法。"
     },
     {
       "id": "line-184",
@@ -2286,7 +2470,8 @@
       "words": 17,
       "start": 1222.67,
       "end": 1228.99,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "你在考试时，让他们在卷子上注明自己的种族。"
     },
     {
       "id": "line-185",
@@ -2298,7 +2483,8 @@
       "words": 33,
       "start": 1228.99,
       "end": 1244.43,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "在考试时承认自己是非裔美国人这一行为，会引发他们对自己群体的刻板印象，而这种印象在学术方面是负面的，从而导致他们表现得更差。"
     },
     {
       "id": "line-186",
@@ -2310,7 +2496,8 @@
       "words": 14,
       "start": 1244.43,
       "end": 1248.47,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "想知道如何让女性在数学考试中表现更差吗？"
     },
     {
       "id": "line-187",
@@ -2322,7 +2509,8 @@
       "words": 9,
       "start": 1248.47,
       "end": 1252.59,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "同样的方法，让她写下自己的性别。"
     },
     {
       "id": "line-188",
@@ -2334,7 +2522,8 @@
       "words": 11,
       "start": 1252.59,
       "end": 1257.13,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "最近的一项研究发现了一个有趣的转折。"
     },
     {
       "id": "line-189",
@@ -2346,7 +2535,8 @@
       "words": 24,
       "start": 1257.13,
       "end": 1266.77,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "当亚裔美国女性在考试中被要求标注种族时，她们的表现会比平时更好。"
     },
     {
       "id": "line-190",
@@ -2358,7 +2548,8 @@
       "words": 10,
       "start": 1266.77,
       "end": 1271.27,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "她们想到了积极的刻板印象，这提高了她们的士气。"
     },
     {
       "id": "line-191",
@@ -2370,7 +2561,8 @@
       "words": 22,
       "start": 1271.27,
       "end": 1281.17,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "另一方面，如果你让他们标注性别，她们的表现就会变差，因为她们想到了负面的刻板印象。"
     },
     {
       "id": "line-192",
@@ -2382,7 +2574,8 @@
       "words": 13,
       "start": 1281.17,
       "end": 1298.25,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这就是刻板印象对人具有潜在破坏性影响的一个例子。"
     },
     {
       "id": "line-193",
@@ -2394,7 +2587,8 @@
       "words": 7,
       "start": 1298.25,
       "end": 1316.77,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "说话者关于刻板印象说了什么？"
     },
     {
       "id": "line-194",
@@ -2406,7 +2600,8 @@
       "words": 7,
       "start": 1316.77,
       "end": 1335.17,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "什么导致了刻板印象的偏见？"
     },
     {
       "id": "line-195",
@@ -2418,7 +2613,8 @@
       "words": 10,
       "start": 1335.17,
       "end": 1354.23,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "说话者认为刻板印象的问题是什么？"
     },
     {
       "id": "line-196",
@@ -2430,7 +2626,8 @@
       "words": 8,
       "start": 1354.23,
       "end": 1374.43,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "最近的一项研究关于刻板印象发现了什么？"
     },
     {
       "id": "line-197",
@@ -2442,7 +2639,8 @@
       "words": 13,
       "start": 1374.43,
       "end": 1379.79,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "有时当你服用一种普通药物时，可能会产生副作用。"
     },
     {
       "id": "line-198",
@@ -2454,7 +2652,8 @@
       "words": 13,
       "start": 1379.79,
       "end": 1385.59,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "也就是说，药物可能会产生其预期效果以外的其他效果。"
     },
     {
       "id": "line-199",
@@ -2466,7 +2665,8 @@
       "words": 10,
       "start": 1385.59,
       "end": 1391.13,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "当这些副作用发生时，它们被称为“不良反应”。"
     },
     {
       "id": "line-200",
@@ -2478,7 +2678,8 @@
       "words": 14,
       "start": 1391.13,
       "end": 1396.73,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "无论何时出现不良反应，你都应该立即停止服药。"
     },
     {
       "id": "line-201",
@@ -2490,7 +2691,8 @@
       "words": 22,
       "start": 1396.73,
       "end": 1404.83,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "询问你的药剂师，他是否能推荐一种既能缓解症状又不会引起不良反应的药物。"
     },
     {
       "id": "line-202",
@@ -2502,7 +2704,8 @@
       "words": 16,
       "start": 1404.83,
       "end": 1412.07,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "如果对药物的不良反应严重，请立即咨询医生的建议。"
     },
     {
       "id": "line-203",
@@ -2514,7 +2717,8 @@
       "words": 18,
       "start": 1412.07,
       "end": 1418.69,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "标签上注明剂量安全的药物，在大剂量服用时可能会非常危险。"
     },
     {
       "id": "line-204",
@@ -2526,7 +2730,8 @@
       "words": 40,
       "start": 1418.69,
       "end": 1435.83,
-      "matchedWords": 39
+      "matchedWords": 39,
+      "translation": "例如，阿司匹林很少被认为是危险的，但有很多关于幼儿因服用过多阿司匹林而导致意外中毒的报道，以及患流感的儿童可能患上瑞氏综合征的报道。"
     },
     {
       "id": "line-205",
@@ -2538,7 +2743,8 @@
       "words": 13,
       "start": 1435.83,
       "end": 1442.33,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "在成人中，过度使用某些止痛药可能会导致严重的肾损伤。"
     },
     {
       "id": "line-206",
@@ -2550,7 +2756,8 @@
       "words": 17,
       "start": 1442.33,
       "end": 1451.29,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "一些缓解胃部不适的药物，如果过量服用，可能会导致严重的消化问题。"
     },
     {
       "id": "line-207",
@@ -2562,7 +2769,8 @@
       "words": 23,
       "start": 1451.29,
       "end": 1461.67,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "除非有医生的建议，否则你不应该定期、持续或大量使用任何非处方药。"
     },
     {
       "id": "line-208",
@@ -2574,7 +2782,8 @@
       "words": 13,
       "start": 1461.67,
       "end": 1466.63,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "你可能患有某种需要医生护理的严重疾病。"
     },
     {
       "id": "line-209",
@@ -2586,7 +2795,8 @@
       "words": 23,
       "start": 1466.63,
       "end": 1474.83,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "你服用的每种药物不仅作用于身体，还可能改变你正在服用的任何其他药物的效果。"
     },
     {
       "id": "line-210",
@@ -2598,7 +2808,8 @@
       "words": 9,
       "start": 1474.83,
       "end": 1480.09,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "有时这会导致危险甚至致命的反应。"
     },
     {
       "id": "line-211",
@@ -2610,7 +2821,8 @@
       "words": 16,
       "start": 1480.09,
       "end": 1489.41,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "例如，阿司匹林会增强给心脏病患者使用的药物的血液稀释效果。"
     },
     {
       "id": "line-212",
@@ -2622,7 +2834,8 @@
       "words": 22,
       "start": 1489.41,
       "end": 1498.25,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "因此，一直服用此类药物的患者如果因头痛服用阿司匹林，可能会有出血风险。"
     },
     {
       "id": "line-213",
@@ -2634,7 +2847,8 @@
       "words": 14,
       "start": 1498.25,
       "end": 1504.63,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "在同时使用多种药物之前，你应该询问医生并听从他的建议。"
     },
     {
       "id": "line-214",
@@ -2646,7 +2860,8 @@
       "words": 13,
       "start": 1504.63,
       "end": 1510.67,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "你的药剂师可以告诉你某些药物是否可以安全地同时服用。"
     },
     {
       "id": "line-215",
@@ -2658,7 +2873,8 @@
       "words": 18,
       "start": 1510.67,
       "end": 1520.25,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "酒精可能会增强药物的效果——安眠药与酒精结合会产生睡意。"
     },
     {
       "id": "line-216",
@@ -2670,7 +2886,8 @@
       "words": 20,
       "start": 1520.25,
       "end": 1529.69,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "在服用任何药物时，你都应该询问医生，喝酒是否会与药物结合产生危险。"
     },
     {
       "id": "line-217",
@@ -2682,7 +2899,8 @@
       "words": 21,
       "start": 1529.69,
       "end": 1539.29,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "专家认为，成人滥用合法药物与席卷我国的毒品文化之间存在某种关系。"
     },
     {
       "id": "line-218",
@@ -2694,7 +2912,8 @@
       "words": 25,
       "start": 1539.29,
       "end": 1549.79,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "通过谨慎对待所有药物，你可以为减少孩子成为毒品文化一部分的机会尽一份力。"
     },
     {
       "id": "line-219",
@@ -2706,7 +2925,8 @@
       "words": 14,
       "start": 1549.79,
       "end": 1564.63,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "始终让你的孩子知道，药品和药物不应随意使用。"
     },
     {
       "id": "line-220",
@@ -2718,7 +2938,8 @@
       "words": 14,
       "start": 1564.63,
       "end": 1583.77,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "说话者说当你出现不良反应时应该怎么做？"
     },
     {
       "id": "line-221",
@@ -2730,7 +2951,8 @@
       "words": 8,
       "start": 1583.77,
       "end": 1601.25,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "说话者关于饮酒说了什么？"
     },
     {
       "id": "line-222",
@@ -2742,7 +2964,8 @@
       "words": 15,
       "start": 1601.25,
       "end": 1625.757,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "在谈话结束时，说话者号召父母们做什么？"
     }
   ]
 }
