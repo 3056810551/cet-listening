@@ -3,12 +3,15 @@ const PLAYER_POSITION_KEY = "cet6-player-position";
 const TRACK_SORT_KEY = "cet6-track-sort-direction";
 const TRANSLATION_VISIBLE_KEY = "cet6-translation-visible";
 
+let lineLoopFrameId = null;
+
 const state = {
   catalog: [],
   currentTrack: null,
   sections: [],
   lines: [],
   activeIndex: -1,
+  loopLineId: null,
   timingsReady: false,
   userSeeking: false,
   playerPinned: false,
@@ -105,6 +108,9 @@ async function switchTrack(trackId, pushState = true) {
     renderSections();
     renderTranscript();
     els.trackMeta.textContent = data.status;
+    if (Number.isFinite(els.audio.duration) && els.audio.duration > 0) {
+      await applyTimings();
+    }
   } catch (error) {
     console.error(error);
     els.transcript.innerHTML = `<div class="empty-state">没有读到 Markdown 原文，请确认 ${track.markdown} 和网页在同一目录。</div>`;
@@ -120,6 +126,7 @@ function resetPlaybackState() {
   els.duration.textContent = "00:00";
   els.playBtn.textContent = "Play";
   state.activeIndex = -1;
+  stopLineLoop();
   state.timingsReady = false;
   document.querySelector(".line.active")?.classList.remove("active");
   document
@@ -281,6 +288,7 @@ function bindEvents() {
       updateProgress();
     }
     updateFromTime();
+    enforceLineLoop();
   });
 
   els.audio.addEventListener("seeked", () => {
@@ -290,10 +298,16 @@ function bindEvents() {
 
   els.audio.addEventListener("play", () => {
     els.playBtn.textContent = "Pause";
+    startLineLoopMonitor();
   });
 
   els.audio.addEventListener("pause", () => {
     els.playBtn.textContent = "Play";
+    stopLineLoopMonitor();
+  });
+
+  els.audio.addEventListener("ended", () => {
+    restartLineLoop();
   });
 
   els.playBtn.addEventListener("click", () => {
@@ -320,6 +334,7 @@ function bindEvents() {
   });
 
   els.progress.addEventListener("pointerdown", () => {
+    stopLineLoop();
     state.userSeeking = true;
   });
 
@@ -697,6 +712,7 @@ function countWords(text) {
 
 async function applyTimings() {
   if (
+    state.timingsReady ||
     !Number.isFinite(els.audio.duration) ||
     els.audio.duration <= 0 ||
     !state.lines.length
@@ -801,21 +817,109 @@ function timingWeight(line, sectionGaps = null) {
 function renderSections() {
   els.sectionNav.innerHTML = "";
   state.sections.forEach((section) => {
+    const item = document.createElement("div");
+    item.className = "section-nav-item";
+    item.dataset.sectionId = section.id;
+
     const button = document.createElement("button");
     button.type = "button";
+    button.className = "section-jump";
     button.textContent = titleCase(section.title);
     button.dataset.sectionId = section.id;
     button.addEventListener("click", () => {
-      const firstLine = state.lines.find(
-        (line) => line.sectionId === section.id,
-      );
+      const firstLine = getFirstLineForSection(section);
+      if (!firstLine) return;
+      document
+        .getElementById(firstLine.id)
+        ?.scrollIntoView({ behavior: "smooth", block: "center" });
+    });
+    blurAfterPointerActivation(button);
+
+    const firstLine = getFirstLineForSection(section);
+    const actions = document.createElement("span");
+    actions.className = "section-actions";
+
+    const playButton = document.createElement("button");
+    playButton.type = "button";
+    playButton.className = "line-play section-action";
+    playButton.title = "播放这一句";
+    playButton.setAttribute(
+      "aria-label",
+      firstLine ? `播放：${firstLine.text}` : `播放：${section.title}`,
+    );
+
+    const playIcon = document.createElement("span");
+    playIcon.className = "line-play-icon";
+    playIcon.setAttribute("aria-hidden", "true");
+    playButton.appendChild(playIcon);
+    playButton.addEventListener("click", () => {
       if (!firstLine) return;
       seekToLine(firstLine);
       document
         .getElementById(firstLine.id)
         ?.scrollIntoView({ behavior: "smooth", block: "center" });
     });
-    els.sectionNav.appendChild(button);
+    blurAfterPointerActivation(playButton);
+
+    const loopButton = document.createElement("button");
+    loopButton.type = "button";
+    loopButton.className = "line-play line-loop section-action";
+    loopButton.dataset.lineId = firstLine?.id || "";
+    loopButton.title = "循环播放这一句";
+    loopButton.setAttribute(
+      "aria-label",
+      firstLine ? `循环播放：${firstLine.text}` : `循环播放：${section.title}`,
+    );
+    loopButton.setAttribute(
+      "aria-pressed",
+      String(firstLine && state.loopLineId === firstLine.id),
+    );
+    loopButton.classList.toggle(
+      "active",
+      Boolean(firstLine && state.loopLineId === firstLine.id),
+    );
+
+    const loopIcon = document.createElement("span");
+    loopIcon.className = "line-loop-icon";
+    loopIcon.setAttribute("aria-hidden", "true");
+    loopButton.appendChild(loopIcon);
+    loopButton.addEventListener("click", () => {
+      if (!firstLine) return;
+      toggleLineLoop(firstLine);
+      document
+        .getElementById(firstLine.id)
+        ?.scrollIntoView({ behavior: "smooth", block: "center" });
+    });
+    blurAfterPointerActivation(loopButton);
+
+    if (!firstLine) {
+      playButton.disabled = true;
+      loopButton.disabled = true;
+    }
+
+    actions.append(playButton, loopButton);
+    item.append(button, actions);
+    els.sectionNav.appendChild(item);
+  });
+}
+
+function getFirstLineForSection(section) {
+  return (
+    state.lines.find((line) => line.id === section.firstLineId) ||
+    state.lines.find((line) => line.sectionId === section.id)
+  );
+}
+
+function blurAfterPointerActivation(button) {
+  let pointerActivated = false;
+  button.addEventListener("pointerdown", () => {
+    pointerActivated = true;
+  });
+  button.addEventListener("click", () => {
+    if (!pointerActivated) return;
+
+    button.blur();
+    pointerActivated = false;
   });
 }
 
@@ -838,6 +942,7 @@ function renderTranscript() {
     row.id = line.id;
     row.className = `line ${line.type}`;
     row.dataset.index = String(state.lines.indexOf(line));
+    row.classList.toggle("looping", state.loopLineId === line.id);
 
     const time = document.createElement("span");
     time.className = "line-time";
@@ -878,6 +983,38 @@ function renderTranscript() {
       }
     });
 
+    const loopButton = document.createElement("button");
+    loopButton.type = "button";
+    loopButton.className = "line-play line-loop";
+    loopButton.dataset.lineId = line.id;
+    loopButton.title = "循环播放这一句";
+    loopButton.setAttribute("aria-label", `循环播放：${line.text}`);
+    loopButton.setAttribute(
+      "aria-pressed",
+      String(state.loopLineId === line.id),
+    );
+    loopButton.classList.toggle("active", state.loopLineId === line.id);
+
+    const loopIcon = document.createElement("span");
+    loopIcon.className = "line-loop-icon";
+    loopIcon.setAttribute("aria-hidden", "true");
+    loopButton.appendChild(loopIcon);
+    let loopPointerActivated = false;
+    loopButton.addEventListener("pointerdown", () => {
+      loopPointerActivated = true;
+    });
+    loopButton.addEventListener("click", () => {
+      toggleLineLoop(line);
+      if (loopPointerActivated) {
+        loopButton.blur();
+        loopPointerActivated = false;
+      }
+    });
+
+    const actions = document.createElement("span");
+    actions.className = "line-actions";
+    actions.append(playButton, loopButton);
+
     original.append(document.createTextNode(line.text));
     text.appendChild(original);
 
@@ -888,7 +1025,7 @@ function renderTranscript() {
       text.appendChild(translation);
     }
 
-    row.append(time, text, playButton);
+    row.append(time, text, actions);
     fragment.appendChild(row);
   });
 
@@ -946,10 +1083,10 @@ function updateFromTime(timeOverride = null) {
       document.getElementById(line.id)?.classList.add("passed"),
     );
 
-  document.querySelectorAll(".section-nav button").forEach((button) => {
-    button.classList.toggle(
+  document.querySelectorAll(".section-nav-item").forEach((item) => {
+    item.classList.toggle(
       "active",
-      button.dataset.sectionId === activeLine.sectionId,
+      item.dataset.sectionId === activeLine.sectionId,
     );
   });
 
@@ -979,7 +1116,136 @@ function findActiveLineIndex(time) {
   return best;
 }
 
-function seekToLine(line) {
+function toggleLineLoop(line) {
+  if (state.loopLineId === line.id) {
+    stopLineLoop();
+    return;
+  }
+
+  startLineLoop(line);
+}
+
+function startLineLoop(line) {
+  state.loopLineId = line.id;
+  updateLineLoopControls();
+  seekToLine(line, { preserveLoop: true });
+  startLineLoopMonitor();
+}
+
+function stopLineLoop() {
+  if (!state.loopLineId && lineLoopFrameId === null) return;
+
+  state.loopLineId = null;
+  stopLineLoopMonitor();
+  updateLineLoopControls();
+}
+
+function updateLineLoopControls() {
+  document.querySelectorAll(".line-loop").forEach((button) => {
+    const active = button.dataset.lineId === state.loopLineId;
+    button.classList.toggle("active", active);
+    button.setAttribute("aria-pressed", String(active));
+    button.closest(".section-nav-item")?.classList.toggle("looping", active);
+  });
+
+  document
+    .querySelectorAll(".line.looping")
+    .forEach((row) => row.classList.remove("looping"));
+
+  if (state.loopLineId) {
+    document.getElementById(state.loopLineId)?.classList.add("looping");
+  }
+}
+
+function startLineLoopMonitor() {
+  if (lineLoopFrameId !== null || !state.loopLineId || els.audio.paused) {
+    return;
+  }
+
+  lineLoopFrameId = requestAnimationFrame(checkLineLoop);
+}
+
+function stopLineLoopMonitor() {
+  if (lineLoopFrameId === null) return;
+
+  cancelAnimationFrame(lineLoopFrameId);
+  lineLoopFrameId = null;
+}
+
+function checkLineLoop() {
+  lineLoopFrameId = null;
+  if (!state.loopLineId || els.audio.paused) return;
+
+  enforceLineLoop();
+  startLineLoopMonitor();
+}
+
+function enforceLineLoop() {
+  if (!state.loopLineId || state.userSeeking) return;
+
+  const line = state.lines.find((item) => item.id === state.loopLineId);
+  if (!line) {
+    stopLineLoop();
+    return;
+  }
+
+  const { start, end } = getLineLoopBounds(line);
+  if (end <= start) return;
+
+  if (els.audio.currentTime >= end) {
+    els.audio.currentTime = start;
+    updateProgress();
+    updateFromTime(start);
+  }
+}
+
+function restartLineLoop() {
+  if (!state.loopLineId) return;
+
+  const line = state.lines.find((item) => item.id === state.loopLineId);
+  if (!line) {
+    stopLineLoop();
+    return;
+  }
+
+  const { start } = getLineLoopBounds(line);
+  els.audio.currentTime = start;
+  els.audio.play();
+}
+
+function getLineLoopBounds(line) {
+  const duration =
+    Number.isFinite(els.audio.duration) && els.audio.duration > 0
+      ? els.audio.duration
+      : null;
+  const fallbackLimit = [Number(line.end), Number(line.start)].find((value) =>
+    Number.isFinite(value),
+  );
+  const startLimit = duration ?? fallbackLimit ?? 0;
+  const start = clamp(Number(line.start) || 0, 0, startLimit);
+  let end = Number(line.end);
+
+  if (!Number.isFinite(end) || end <= start) {
+    const nextLine = state.lines[state.lines.indexOf(line) + 1];
+    end = Number(nextLine?.start);
+  }
+
+  if (!Number.isFinite(end) || end <= start) {
+    end = start + 1;
+  }
+
+  if (duration !== null) {
+    end = clamp(end, start, duration);
+  }
+
+  return { start, end };
+}
+
+function seekToLine(line, options = {}) {
+  if (!options.preserveLoop) {
+    stopLineLoop();
+  }
+
   const target = clamp(line.start, 0, els.audio.duration || line.start);
   els.audio.currentTime = target;
   updateProgress();
@@ -990,6 +1256,7 @@ function seekToLine(line) {
 }
 
 function seekBy(seconds) {
+  stopLineLoop();
   els.audio.currentTime = clamp(
     els.audio.currentTime + seconds,
     0,
