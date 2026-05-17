@@ -1,6 +1,7 @@
 const PLAYER_PINNED_KEY = "cet6-player-pinned";
 const PLAYER_POSITION_KEY = "cet6-player-position";
 const TRACK_SORT_KEY = "cet6-track-sort-direction";
+const TRANSLATION_VISIBLE_KEY = "cet6-translation-visible";
 
 const state = {
   catalog: [],
@@ -13,6 +14,7 @@ const state = {
   playerPinned: false,
   trackSortDirection:
     localStorage.getItem(TRACK_SORT_KEY) === "desc" ? "desc" : "asc",
+  translationVisible: localStorage.getItem(TRANSLATION_VISIBLE_KEY) === "true",
 };
 
 const els = {
@@ -35,6 +37,7 @@ const els = {
   autoScroll: document.querySelector("#autoScroll"),
   workspace: document.querySelector(".workspace"),
   transcriptVisible: document.querySelector("#transcriptVisible"),
+  translationVisible: document.querySelector("#translationVisible"),
   hideLeftSidebar: document.querySelector("#hideLeftSidebar"),
   hideRightSidebar: document.querySelector("#hideRightSidebar"),
   showLeftSidebar: document.querySelector("#showLeftSidebar"),
@@ -220,6 +223,7 @@ async function loadTrack(track) {
         Array.isArray(transcript.sections) &&
         Array.isArray(transcript.lines)
       ) {
+        await mergeSupplementalLineData(track, transcript.lines);
         return {
           sections: transcript.sections,
           lines: transcript.lines,
@@ -236,6 +240,7 @@ async function loadTrack(track) {
 
   const markdown = await fetchText(track.markdown);
   const parsed = parseMarkdown(markdown);
+  await mergeSupplementalLineData(track, parsed.lines);
   return {
     sections: parsed.sections,
     lines: parsed.lines,
@@ -243,9 +248,27 @@ async function loadTrack(track) {
   };
 }
 
+async function mergeSupplementalLineData(track, lines) {
+  if (!track.timings || !Array.isArray(lines)) return;
+
+  try {
+    const data = await fetchJson(track.timings);
+    const rows = getExternalLineRows(data);
+    if (Array.isArray(rows)) {
+      mergeLineRows(rows, lines);
+    }
+  } catch (error) {
+    console.info("Timing JSON unavailable for supplemental line data.", error);
+  }
+}
+
 function bindEvents() {
   bindLayoutEvents();
   bindFloatingPlayer();
+
+  if (els.translationVisible) {
+    els.translationVisible.checked = state.translationVisible;
+  }
 
   els.audio.addEventListener("loadedmetadata", async () => {
     els.duration.textContent = formatTime(els.audio.duration);
@@ -286,6 +309,14 @@ function bindEvents() {
   els.sortTrackList?.addEventListener("click", toggleTrackSortDirection);
   els.transcriptVisible?.addEventListener("change", () => {
     els.workspace.hidden = !els.transcriptVisible.checked;
+  });
+  els.translationVisible?.addEventListener("change", () => {
+    state.translationVisible = els.translationVisible.checked;
+    localStorage.setItem(
+      TRANSLATION_VISIBLE_KEY,
+      String(state.translationVisible),
+    );
+    renderTranscript();
   });
 
   els.progress.addEventListener("pointerdown", () => {
@@ -707,21 +738,34 @@ function normalizeLineEnds(duration) {
 }
 
 function mergeExternalTimings(data) {
-  const rows = Array.isArray(data) ? data : data.lines;
+  const rows = getExternalLineRows(data);
   if (!Array.isArray(rows)) {
     buildAutoTimings(els.audio.duration);
     return;
   }
 
+  mergeLineRows(rows, state.lines, true);
+}
+
+function getExternalLineRows(data) {
+  return Array.isArray(data) ? data : data?.lines;
+}
+
+function mergeLineRows(rows, lines, includeTimings = false) {
   rows.forEach((row, index) => {
     const line =
       typeof row.id === "string"
-        ? state.lines.find((item) => item.id === row.id)
-        : state.lines[index];
+        ? lines.find((item) => item.id === row.id)
+        : lines[index];
 
     if (!line) return;
-    line.start = Number(row.start) || 0;
-    line.end = Number(row.end) || line.start + 1;
+    if (includeTimings) {
+      line.start = Number(row.start) || 0;
+      line.end = Number(row.end) || line.start + 1;
+    }
+    if (typeof row.translation === "string" && row.translation.trim()) {
+      line.translation = row.translation;
+    }
   });
 }
 
@@ -802,11 +846,14 @@ function renderTranscript() {
     const text = document.createElement("span");
     text.className = "line-text";
 
+    const original = document.createElement("span");
+    original.className = "line-original";
+
     if (line.speaker) {
       const speaker = document.createElement("span");
       speaker.className = "speaker";
       speaker.textContent = line.speaker;
-      text.appendChild(speaker);
+      original.appendChild(speaker);
     }
 
     const playButton = document.createElement("button");
@@ -831,7 +878,16 @@ function renderTranscript() {
       }
     });
 
-    text.append(document.createTextNode(line.text));
+    original.append(document.createTextNode(line.text));
+    text.appendChild(original);
+
+    if (state.translationVisible && line.translation) {
+      const translation = document.createElement("span");
+      translation.className = "line-translation";
+      translation.textContent = line.translation;
+      text.appendChild(translation);
+    }
+
     row.append(time, text, playButton);
     fragment.appendChild(row);
   });

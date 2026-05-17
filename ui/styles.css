@@ -699,6 +699,19 @@ body.resizing {
   line-height: 1.58;
 }
 
+.line-original,
+.line-translation {
+  display: block;
+}
+
+.line-translation {
+  margin-top: 5px;
+  color: #586674;
+  font-size: 15px;
+  line-height: 1.55;
+  font-weight: 500;
+}
+
 .line.passed {
   color: #75808a;
 }
@@ -712,6 +725,11 @@ body.resizing {
 
 .line.active .line-text {
   font-weight: 800;
+}
+
+.line.active .line-translation {
+  color: #43515e;
+  font-weight: 600;
 }
 
 .line-play {
