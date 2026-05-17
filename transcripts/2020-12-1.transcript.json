@@ -4,11 +4,11 @@
   "source": {
     "markdown": {
       "name": "2020-12-1.md",
-      "size": 15486,
-      "mtimeNs": 1778853744245278400
+      "size": 15417,
+      "mtimeNs": 1779024049069088800
     }
   },
-  "generatedAt": 1778853750,
+  "generatedAt": 1779024145,
   "sections": [
     {
       "id": "conversation-1",
@@ -18,32 +18,32 @@
     {
       "id": "conversation-2",
       "title": "CONVERSATION 2",
-      "firstLineId": "line-26"
+      "firstLineId": "line-27"
     },
     {
       "id": "passage-1",
       "title": "PASSAGE 1",
-      "firstLineId": "line-60"
+      "firstLineId": "line-61"
     },
     {
       "id": "passage-2",
       "title": "PASSAGE 2",
-      "firstLineId": "line-79"
+      "firstLineId": "line-81"
     },
     {
       "id": "recording-1",
       "title": "RECORDING 1",
-      "firstLineId": "line-101"
+      "firstLineId": "line-102"
     },
     {
       "id": "recording-2",
       "title": "RECORDING 2",
-      "firstLineId": "line-133"
+      "firstLineId": "line-136"
     },
     {
       "id": "recording-3",
       "title": "RECORDING 3",
-      "firstLineId": "line-157"
+      "firstLineId": "line-160"
     }
   ],
   "lines": [
@@ -52,14 +52,25 @@
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
-      "text": "Good morning, Safehouse Insurance.",
+      "text": "Good morning.",
       "type": "dialogue",
-      "words": 4,
+      "words": 2,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-1",
+      "sectionId": "conversation-1",
+      "sectionTitle": "CONVERSATION 1",
+      "speaker": "M:",
+      "text": "Safe House Insurance.",
+      "type": "dialogue",
+      "words": 3,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-2",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -70,7 +81,7 @@
       "end": 0
     },
     {
-      "id": "line-2",
+      "id": "line-3",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -81,7 +92,7 @@
       "end": 0
     },
     {
-      "id": "line-3",
+      "id": "line-4",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -92,29 +103,29 @@
       "end": 0
     },
     {
-      "id": "line-4",
+      "id": "line-5",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "I wouldn’t say that it’s good from where I’m standing.",
+      "text": "I wouldn’t say that it’s good from where I am standing.",
       "type": "dialogue",
       "words": 13,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-5",
+      "id": "line-6",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "This is Miss Wilson and this is the third time I’ve called this week since receiving your letter about our insurance claim.",
+      "text": "This is Miss Wilson, and this is the third time I’ve called this week since receiving your letter about our insurance claim.",
       "type": "dialogue",
       "words": 23,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-6",
+      "id": "line-7",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -125,7 +136,7 @@
       "end": 0
     },
     {
-      "id": "line-7",
+      "id": "line-8",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -136,7 +147,7 @@
       "end": 0
     },
     {
-      "id": "line-8",
+      "id": "line-9",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -147,24 +158,13 @@
       "end": 0
     },
     {
-      "id": "line-9",
-      "sectionId": "conversation-1",
-      "sectionTitle": "CONVERSATION 1",
-      "speaker": "W:",
-      "text": "It’s Miss May Wilson of 15 South Sea Road in Cornwall.",
-      "type": "dialogue",
-      "words": 12,
-      "start": 0,
-      "end": 0
-    },
-    {
       "id": "line-10",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "And the details are that our village was extensively flooded 2 months ago.",
+      "text": "It’s Miss May Wilson of 15 South Sea Road in Cornwall, and the details are that our village was extensively flooded two months ago.",
       "type": "dialogue",
-      "words": 13,
+      "words": 25,
       "start": 0,
       "end": 0
     },
@@ -173,7 +173,7 @@
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "The entire ground floor of our cottage was submerged in water and five of us have been living in a caravan ever since.",
+      "text": "The entire ground floor of our cottage was submerged in water, and five of us have been living in a caravan ever since.",
       "type": "dialogue",
       "words": 23,
       "start": 0,
@@ -217,14 +217,25 @@
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "That money left our account, and now that you should be paying now, you’re suddenly saying that you didn’t receive it on time.",
+      "text": "That money left our account.",
       "type": "dialogue",
-      "words": 25,
+      "words": 5,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-16",
+      "sectionId": "conversation-1",
+      "sectionTitle": "CONVERSATION 1",
+      "speaker": "W:",
+      "text": "And now that you should be paying out, you are suddenly saying that you didn’t receive it on time.",
+      "type": "dialogue",
+      "words": 20,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-17",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -235,7 +246,7 @@
       "end": 0
     },
     {
-      "id": "line-17",
+      "id": "line-18",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -246,7 +257,7 @@
       "end": 0
     },
     {
-      "id": "line-18",
+      "id": "line-19",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -257,18 +268,18 @@
       "end": 0
     },
     {
-      "id": "line-19",
+      "id": "line-20",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "I’ve already spoken to him and you can tell him I’m furious now and that your company has a lawsuit on its hands.",
+      "text": "I’ve already spoken to him, and you can tell him I’m furious now, and that your company has a lawsuit on its hands.",
       "type": "dialogue",
       "words": 25,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-20",
+      "id": "line-21",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -279,7 +290,7 @@
       "end": 0
     },
     {
-      "id": "line-21",
+      "id": "line-22",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -290,7 +301,7 @@
       "end": 0
     },
     {
-      "id": "line-22",
+      "id": "line-23",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q1.",
@@ -301,7 +312,7 @@
       "end": 0
     },
     {
-      "id": "line-23",
+      "id": "line-24",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q2.",
@@ -312,7 +323,7 @@
       "end": 0
     },
     {
-      "id": "line-24",
+      "id": "line-25",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q3.",
@@ -323,18 +334,18 @@
       "end": 0
     },
     {
-      "id": "line-25",
+      "id": "line-26",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q4.",
-      "text": "What did the woman say she would do at the end of the conversation?",
+      "text": "What does the woman say she would do at the end of the conversation?",
       "type": "question",
       "words": 14,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-26",
+      "id": "line-27",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -345,7 +356,7 @@
       "end": 0
     },
     {
-      "id": "line-27",
+      "id": "line-28",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -356,7 +367,7 @@
       "end": 0
     },
     {
-      "id": "line-28",
+      "id": "line-29",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -367,18 +378,18 @@
       "end": 0
     },
     {
-      "id": "line-29",
+      "id": "line-30",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "I’m not so optimistic, actually.",
+      "text": "I’m not so optimistic actually.",
       "type": "dialogue",
       "words": 6,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-30",
+      "id": "line-31",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -389,7 +400,7 @@
       "end": 0
     },
     {
-      "id": "line-31",
+      "id": "line-32",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -400,7 +411,7 @@
       "end": 0
     },
     {
-      "id": "line-32",
+      "id": "line-33",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -411,7 +422,7 @@
       "end": 0
     },
     {
-      "id": "line-33",
+      "id": "line-34",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -422,7 +433,7 @@
       "end": 0
     },
     {
-      "id": "line-34",
+      "id": "line-35",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -433,18 +444,18 @@
       "end": 0
     },
     {
-      "id": "line-35",
+      "id": "line-36",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
-      "speaker": "W:",
-      "text": "I think artificial intelligence will actually help create new kinds of jobs which would require less of our time and allow us to be centered on creative tasks.",
+      "speaker": "M:",
+      "text": "I think artificial intelligence will actually help create new kinds of jobs, which would require less of our time and allow us to be centered on creative tasks.",
       "type": "dialogue",
       "words": 28,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-36",
+      "id": "line-37",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -455,18 +466,18 @@
       "end": 0
     },
     {
-      "id": "line-37",
+      "id": "line-38",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "Probably the last job that will remain will be writing AI software.",
+      "text": "Probably the last job that we will remain will be writing AI software.",
       "type": "dialogue",
-      "words": 12,
+      "words": 13,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-38",
+      "id": "line-39",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -477,18 +488,18 @@
       "end": 0
     },
     {
-      "id": "line-39",
+      "id": "line-40",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "At that time, we’re going to have a lot of jobs which nobody would want to do, so we’ll need artificial intelligence for the robots to take care of the old guys like us.",
+      "text": "At that time, we are going to have a lot of jobs which nobody will want to do, so we will need artificial intelligence for the robots to take care of the old guys, like us.",
       "type": "dialogue",
       "words": 36,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-40",
+      "id": "line-41",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -499,7 +510,7 @@
       "end": 0
     },
     {
-      "id": "line-41",
+      "id": "line-42",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -510,7 +521,7 @@
       "end": 0
     },
     {
-      "id": "line-42",
+      "id": "line-43",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -521,7 +532,7 @@
       "end": 0
     },
     {
-      "id": "line-43",
+      "id": "line-44",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -532,7 +543,7 @@
       "end": 0
     },
     {
-      "id": "line-44",
+      "id": "line-45",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -543,7 +554,7 @@
       "end": 0
     },
     {
-      "id": "line-45",
+      "id": "line-46",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -554,7 +565,7 @@
       "end": 0
     },
     {
-      "id": "line-46",
+      "id": "line-47",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -565,24 +576,13 @@
       "end": 0
     },
     {
-      "id": "line-47",
-      "sectionId": "conversation-2",
-      "sectionTitle": "CONVERSATION 2",
-      "speaker": "W:",
-      "text": "People have brains and that’s where the wisdom comes from.",
-      "type": "dialogue",
-      "words": 11,
-      "start": 0,
-      "end": 0
-    },
-    {
       "id": "line-48",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
-      "speaker": "M:",
-      "text": "Once it’s fully developed, AI will become tired of trying to communicate with humans.",
+      "speaker": "W:",
+      "text": "People have brains, and that’s where the wisdom comes from.",
       "type": "dialogue",
-      "words": 15,
+      "words": 11,
       "start": 0,
       "end": 0
     },
@@ -591,9 +591,9 @@
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "As we would be much slower thinkers in comparison.",
+      "text": "Once it’s fully developed, AI will become tired of trying to communicate with humans, as we would be much slower thinkers in comparison.",
       "type": "dialogue",
-      "words": 9,
+      "words": 24,
       "start": 0,
       "end": 0
     },
@@ -613,7 +613,7 @@
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "A computer is a computer and a computer is just a toy.",
+      "text": "A computer is a computer, and a computer is just a toy.",
       "type": "dialogue",
       "words": 12,
       "start": 0,
@@ -624,9 +624,9 @@
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "Computers can easily communicate incredibly fast, so the computer will just get impatient talking to humans.",
+      "text": "Computers can easily communicate incredibly fast.",
       "type": "dialogue",
-      "words": 16,
+      "words": 6,
       "start": 0,
       "end": 0
     },
@@ -635,14 +635,25 @@
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "It will be barely getting any information out.",
+      "text": "So the computer will just get impatient talking to humans.",
+      "type": "dialogue",
+      "words": 10,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-54",
+      "sectionId": "conversation-2",
+      "sectionTitle": "CONVERSATION 2",
+      "speaker": "M:",
+      "text": "It’ll be barely getting any information out.",
       "type": "dialogue",
       "words": 8,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-54",
+      "id": "line-55",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -653,7 +664,7 @@
       "end": 0
     },
     {
-      "id": "line-55",
+      "id": "line-56",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -664,7 +675,7 @@
       "end": 0
     },
     {
-      "id": "line-56",
+      "id": "line-57",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q5.",
@@ -675,7 +686,7 @@
       "end": 0
     },
     {
-      "id": "line-57",
+      "id": "line-58",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q6.",
@@ -686,7 +697,7 @@
       "end": 0
     },
     {
-      "id": "line-58",
+      "id": "line-59",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q7.",
@@ -697,7 +708,7 @@
       "end": 0
     },
     {
-      "id": "line-59",
+      "id": "line-60",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q8.",
@@ -708,7 +719,7 @@
       "end": 0
     },
     {
-      "id": "line-60",
+      "id": "line-61",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -719,18 +730,18 @@
       "end": 0
     },
     {
-      "id": "line-61",
+      "id": "line-62",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "If you are under 30 years old, your goal should be to save 20% of your monthly income after tax deductions.",
+      "text": "If you’re under 30 years old, your goal should be to save 20% of your monthly income after tax deductions.",
       "type": "narration",
       "words": 21,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-62",
+      "id": "line-63",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -741,18 +752,18 @@
       "end": 0
     },
     {
-      "id": "line-63",
+      "id": "line-64",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "Approximately 50% should be reserved for the essentials like food and accommodation.",
+      "text": "Approximately 50% should be reserved for essentials like food and accommodation.",
       "type": "narration",
-      "words": 12,
+      "words": 11,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-64",
+      "id": "line-65",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -763,24 +774,13 @@
       "end": 0
     },
     {
-      "id": "line-65",
-      "sectionId": "passage-1",
-      "sectionTitle": "PASSAGE 1",
-      "speaker": "",
-      "text": "But for many young people, it’ll be difficult to designate such a large proportion of their income for savings.",
-      "type": "narration",
-      "words": 20,
-      "start": 0,
-      "end": 0
-    },
-    {
       "id": "line-66",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "If you find it hard to save any money at all, start by cutting all unnecessary spending, allocate a tiny amount of 1 or 2 percent for savings, and gradually increase that amount.",
+      "text": "But for many young people, it'll be difficult to designate such a large proportion of their income for savings.",
       "type": "narration",
-      "words": 33,
+      "words": 19,
       "start": 0,
       "end": 0
     },
@@ -789,14 +789,36 @@
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "Always keep that 20% goal in mind to prevent yourself from becoming complacent.",
+      "text": "If you find it hard to save any money at all, start by cutting all unnecessary spending.",
+      "type": "narration",
+      "words": 17,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-68",
+      "sectionId": "passage-1",
+      "sectionTitle": "PASSAGE 1",
+      "speaker": "",
+      "text": "Allocate a tiny amount of 1 or 2 percent for savings and gradually increase that amount.",
+      "type": "narration",
+      "words": 16,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-69",
+      "sectionId": "passage-1",
+      "sectionTitle": "PASSAGE 1",
+      "speaker": "",
+      "text": "Always keep that 20% goal in mind to prevents yourself from becoming complacent.",
       "type": "narration",
       "words": 13,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-68",
+      "id": "line-70",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -807,29 +829,29 @@
       "end": 0
     },
     {
-      "id": "line-69",
+      "id": "line-71",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "But if you adopt the right mindset, you should be able to make it work for you.",
+      "text": "But if you adopt the right mindset, you should be apt to make it work for you.",
       "type": "narration",
       "words": 17,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-70",
+      "id": "line-72",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "So, what should you be doing with the money that you’re saving?",
+      "text": "So, what should you be doing with the money that you're saving?",
       "type": "narration",
-      "words": 13,
+      "words": 12,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-71",
+      "id": "line-73",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -840,7 +862,7 @@
       "end": 0
     },
     {
-      "id": "line-72",
+      "id": "line-74",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -851,7 +873,7 @@
       "end": 0
     },
     {
-      "id": "line-73",
+      "id": "line-75",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -862,7 +884,7 @@
       "end": 0
     },
     {
-      "id": "line-74",
+      "id": "line-76",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -873,7 +895,7 @@
       "end": 0
     },
     {
-      "id": "line-75",
+      "id": "line-77",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -884,7 +906,7 @@
       "end": 0
     },
     {
-      "id": "line-76",
+      "id": "line-78",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q9.",
@@ -895,7 +917,7 @@
       "end": 0
     },
     {
-      "id": "line-77",
+      "id": "line-79",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q10.",
@@ -906,18 +928,18 @@
       "end": 0
     },
     {
-      "id": "line-78",
+      "id": "line-80",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q11.",
-      "text": "What does the speaker think is important for achieving financial security?",
+      "text": "What does he speaker think is important for achieving financial security?",
       "type": "question",
       "words": 11,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-79",
+      "id": "line-81",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -928,18 +950,18 @@
       "end": 0
     },
     {
-      "id": "line-80",
+      "id": "line-82",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "However, when I first started my job, occasionally I’d catch a glimpse of myself in the lifts, and find myself thinking that I looked a total mess.",
+      "text": "However, when I first started my job, occasionally, I'd catch a glimpse of myself in the lifts and find myself thinking that I looked a total mess.",
       "type": "narration",
-      "words": 28,
+      "words": 27,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-81",
+      "id": "line-83",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -950,7 +972,7 @@
       "end": 0
     },
     {
-      "id": "line-82",
+      "id": "line-84",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -961,7 +983,7 @@
       "end": 0
     },
     {
-      "id": "line-83",
+      "id": "line-85",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -972,7 +994,7 @@
       "end": 0
     },
     {
-      "id": "line-84",
+      "id": "line-86",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -983,7 +1005,7 @@
       "end": 0
     },
     {
-      "id": "line-85",
+      "id": "line-87",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -994,7 +1016,7 @@
       "end": 0
     },
     {
-      "id": "line-86",
+      "id": "line-88",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1005,7 +1027,7 @@
       "end": 0
     },
     {
-      "id": "line-87",
+      "id": "line-89",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1016,7 +1038,7 @@
       "end": 0
     },
     {
-      "id": "line-88",
+      "id": "line-90",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1027,7 +1049,7 @@
       "end": 0
     },
     {
-      "id": "line-89",
+      "id": "line-91",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1038,40 +1060,29 @@
       "end": 0
     },
     {
-      "id": "line-90",
+      "id": "line-92",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "Overall, when it comes to work, you have to ask yourself: will looking smarter enhance my ability to do my job?",
+      "text": "Overall, when it comes to work, you have to ask yourself: “Will looking smarter enhance my ability to do my job?",
       "type": "narration",
       "words": 21,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-91",
-      "sectionId": "passage-2",
-      "sectionTitle": "PASSAGE 2",
-      "speaker": "",
-      "text": "For some, this question may not be an issue at all.",
-      "type": "narration",
-      "words": 11,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-92",
-      "sectionId": "passage-2",
-      "sectionTitle": "PASSAGE 2",
-      "speaker": "",
-      "text": "Especially if you work remotely and rarely see your colleagues or clients face to face.",
-      "type": "narration",
-      "words": 15,
-      "start": 0,
-      "end": 0
-    },
-    {
       "id": "line-93",
+      "sectionId": "passage-2",
+      "sectionTitle": "PASSAGE 2",
+      "speaker": "",
+      "text": "” For some, this question may not be an issue at all, especially if you work remotely and rarely see your colleagues or clients face to face.",
+      "type": "narration",
+      "words": 26,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-94",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1082,7 +1093,7 @@
       "end": 0
     },
     {
-      "id": "line-94",
+      "id": "line-95",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1093,7 +1104,7 @@
       "end": 0
     },
     {
-      "id": "line-95",
+      "id": "line-96",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1104,7 +1115,7 @@
       "end": 0
     },
     {
-      "id": "line-96",
+      "id": "line-97",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1115,7 +1126,7 @@
       "end": 0
     },
     {
-      "id": "line-97",
+      "id": "line-98",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q12.",
@@ -1126,7 +1137,7 @@
       "end": 0
     },
     {
-      "id": "line-98",
+      "id": "line-99",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q13.",
@@ -1137,7 +1148,7 @@
       "end": 0
     },
     {
-      "id": "line-99",
+      "id": "line-100",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q14.",
@@ -1148,7 +1159,7 @@
       "end": 0
     },
     {
-      "id": "line-100",
+      "id": "line-101",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q15.",
@@ -1159,7 +1170,7 @@
       "end": 0
     },
     {
-      "id": "line-101",
+      "id": "line-102",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1170,18 +1181,18 @@
       "end": 0
     },
     {
-      "id": "line-102",
+      "id": "line-103",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Therefore, you'd think we'd have sufficient room for all of our possessions.",
+      "text": "Therefore, you’d think we’d have sufficient room for all of our possessions.",
       "type": "narration",
-      "words": 12,
+      "words": 14,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-103",
+      "id": "line-104",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1192,18 +1203,18 @@
       "end": 0
     },
     {
-      "id": "line-104",
+      "id": "line-105",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "We've got triple the space, but we've become such enthusiastic consumers that we require even more.",
+      "text": "We've got triple the space, but we’ve become such enthusiastic consumers that we require even more.",
       "type": "narration",
-      "words": 16,
+      "words": 17,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-105",
+      "id": "line-106",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1214,18 +1225,18 @@
       "end": 0
     },
     {
-      "id": "line-106",
+      "id": "line-107",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "I'm here to suggest an alternative – that having less might actually be a preferable decision.",
+      "text": "I’m here to suggest an alternative that having less might actually be a preferable decision.",
       "type": "narration",
-      "words": 15,
+      "words": 16,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-107",
+      "id": "line-108",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1236,7 +1247,7 @@
       "end": 0
     },
     {
-      "id": "line-108",
+      "id": "line-109",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1247,7 +1258,7 @@
       "end": 0
     },
     {
-      "id": "line-109",
+      "id": "line-110",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1258,18 +1269,18 @@
       "end": 0
     },
     {
-      "id": "line-110",
+      "id": "line-111",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "By purchasing an apartment that was 40 square meters instead of 60, I admittedly saved $200,000.",
+      "text": "By purchasing an apartment that was 40 square meters, instead of 60, I immediately saved $200,000.",
       "type": "narration",
       "words": 17,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-111",
+      "id": "line-112",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1280,7 +1291,7 @@
       "end": 0
     },
     {
-      "id": "line-112",
+      "id": "line-113",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1291,7 +1302,7 @@
       "end": 0
     },
     {
-      "id": "line-113",
+      "id": "line-114",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1302,7 +1313,7 @@
       "end": 0
     },
     {
-      "id": "line-114",
+      "id": "line-115",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1313,22 +1324,11 @@
       "end": 0
     },
     {
-      "id": "line-115",
-      "sectionId": "recording-1",
-      "sectionTitle": "RECORDING 1",
-      "speaker": "",
-      "text": "To stem consumption, we should think before we buy, and ask ourselves: \"Will it truly make me happier?\"",
-      "type": "narration",
-      "words": 18,
-      "start": 0,
-      "end": 0
-    },
-    {
       "id": "line-116",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Obviously, we should possess some great stuff, but we want belongings that we're going to love for years.",
+      "text": "To stem consumption, we should think before we buy and ask ourselves, “Will it truly make me happier?",
       "type": "narration",
       "words": 18,
       "start": 0,
@@ -1339,6 +1339,28 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
+      "text": "” Obviously, we should possess some great stuff.",
+      "type": "narration",
+      "words": 7,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-118",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "But we want belongings that we’re going to love for years.",
+      "type": "narration",
+      "words": 12,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-119",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
       "text": "Secondly, we require space efficiency.",
       "type": "narration",
       "words": 5,
@@ -1346,7 +1368,7 @@
       "end": 0
     },
     {
-      "id": "line-118",
+      "id": "line-120",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1357,7 +1379,7 @@
       "end": 0
     },
     {
-      "id": "line-119",
+      "id": "line-121",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1368,7 +1390,7 @@
       "end": 0
     },
     {
-      "id": "line-120",
+      "id": "line-122",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1379,18 +1401,18 @@
       "end": 0
     },
     {
-      "id": "line-121",
+      "id": "line-123",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "I combined a movable wall with transforming furniture to get more out of my limited space.",
+      "text": "I combined a moveable wall with transforming furniture to get more out of my limited space.",
       "type": "narration",
       "words": 16,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-122",
+      "id": "line-124",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1401,7 +1423,7 @@
       "end": 0
     },
     {
-      "id": "line-123",
+      "id": "line-125",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1412,7 +1434,7 @@
       "end": 0
     },
     {
-      "id": "line-124",
+      "id": "line-126",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1423,7 +1445,7 @@
       "end": 0
     },
     {
-      "id": "line-125",
+      "id": "line-127",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1434,35 +1456,13 @@
       "end": 0
     },
     {
-      "id": "line-126",
-      "sectionId": "recording-1",
-      "sectionTitle": "RECORDING 1",
-      "speaker": "",
-      "text": "For guests, I can relocate the movable wall and utilize the foldable guest beds I installed.",
-      "type": "narration",
-      "words": 16,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-127",
-      "sectionId": "recording-1",
-      "sectionTitle": "RECORDING 1",
-      "speaker": "",
-      "text": "I'm not saying that we should all live in tinier apartments, but consider the benefits of an edited life.",
-      "type": "narration",
-      "words": 19,
-      "start": 0,
-      "end": 0
-    },
-    {
       "id": "line-128",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "When you return home and walk through your front door, take a moment to ask yourselves: \"Could I do with a little life editing?",
+      "text": "For guests, I can relocate the moveable wall and utilize the foldable guest beds I installed.",
       "type": "narration",
-      "words": 24,
+      "words": 16,
       "start": 0,
       "end": 0
     },
@@ -1471,9 +1471,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Will that give me more freedom and more time?\"",
+      "text": "I’m not saying we should all live in tiny apartments, but consider the benefits of an edited life.",
       "type": "narration",
-      "words": 9,
+      "words": 19,
       "start": 0,
       "end": 0
     },
@@ -1481,15 +1481,48 @@
       "id": "line-130",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "When you return home and walk through your front door, take a moment to ask yourself, “Could I do with a little life editing?",
+      "type": "narration",
+      "words": 24,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-131",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "Would that give me more freedom and more time?",
+      "type": "narration",
+      "words": 9,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-132",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "”",
+      "type": "narration",
+      "words": 1,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-133",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "Q16.",
-      "text": "What has prevented Americans' happiness levels from increasing?",
+      "text": "What has prevened Americans' happiness levels from increasing?",
       "type": "question",
       "words": 8,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-131",
+      "id": "line-134",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "Q17.",
@@ -1500,7 +1533,7 @@
       "end": 0
     },
     {
-      "id": "line-132",
+      "id": "line-135",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "Q18.",
@@ -1511,18 +1544,18 @@
       "end": 0
     },
     {
-      "id": "line-133",
+      "id": "line-136",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Now, believe it or not, people sometimes lie in order to maintain a good, honest reputation – even if it hurts them to do so.",
+      "text": "Now, believe it or not, people sometimes lie in order to maintain a good, honest reputation—even if it hurts them to do so.",
       "type": "narration",
       "words": 24,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-134",
+      "id": "line-137",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1533,7 +1566,7 @@
       "end": 0
     },
     {
-      "id": "line-135",
+      "id": "line-138",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1544,7 +1577,7 @@
       "end": 0
     },
     {
-      "id": "line-136",
+      "id": "line-139",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1555,7 +1588,7 @@
       "end": 0
     },
     {
-      "id": "line-137",
+      "id": "line-140",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1566,7 +1599,7 @@
       "end": 0
     },
     {
-      "id": "line-138",
+      "id": "line-141",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1577,7 +1610,7 @@
       "end": 0
     },
     {
-      "id": "line-139",
+      "id": "line-142",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1588,7 +1621,7 @@
       "end": 0
     },
     {
-      "id": "line-140",
+      "id": "line-143",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1599,7 +1632,7 @@
       "end": 0
     },
     {
-      "id": "line-141",
+      "id": "line-144",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1610,7 +1643,7 @@
       "end": 0
     },
     {
-      "id": "line-142",
+      "id": "line-145",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1621,7 +1654,7 @@
       "end": 0
     },
     {
-      "id": "line-143",
+      "id": "line-146",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1632,18 +1665,18 @@
       "end": 0
     },
     {
-      "id": "line-144",
+      "id": "line-147",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "The researchers explained that many people care a great deal about their reputation and how they’ll be judged by others.",
+      "text": "The researchers explain that many people care a great deal about their reputation and how they'll be judged by others.",
       "type": "narration",
-      "words": 21,
+      "words": 20,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-145",
+      "id": "line-148",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1654,18 +1687,18 @@
       "end": 0
     },
     {
-      "id": "line-146",
+      "id": "line-149",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "The researchers assert that their findings suggest that when people obtain very favorable outcomes, they anticipate other people's suspicious reactions and prefer lying and appearing honest to telling the truth and appearing as selfish liars.",
+      "text": "The researchers assert that the findings suggest that when people obtain very favorable outcomes, they anticipate other people’s suspicious reactions and prefer lying and appearing honest to telling the truth and appearing as selfish liars.",
       "type": "narration",
-      "words": 35,
+      "words": 36,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-147",
+      "id": "line-150",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1676,7 +1709,7 @@
       "end": 0
     },
     {
-      "id": "line-148",
+      "id": "line-151",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1687,7 +1720,7 @@
       "end": 0
     },
     {
-      "id": "line-149",
+      "id": "line-152",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1698,18 +1731,18 @@
       "end": 0
     },
     {
-      "id": "line-150",
+      "id": "line-153",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "But the researchers are suggesting a third type of lying: lying to maintain a good reputation.",
+      "text": "But the researchers are suggesting a third type of lying—lying to maintain a good reputation.",
       "type": "narration",
       "words": 16,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-151",
+      "id": "line-154",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1720,18 +1753,18 @@
       "end": 0
     },
     {
-      "id": "line-152",
+      "id": "line-155",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "The findings seem intuitive to me.",
+      "text": "But the findings seem intuitive to me.",
       "type": "narration",
-      "words": 6,
+      "words": 7,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-153",
+      "id": "line-156",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1742,18 +1775,18 @@
       "end": 0
     },
     {
-      "id": "line-154",
+      "id": "line-157",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "Q19.",
-      "text": "What did the team of scientists find in their study?",
+      "text": "What did a team of scientists find in their study?",
       "type": "question",
       "words": 10,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-155",
+      "id": "line-158",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "Q20.",
@@ -1764,7 +1797,7 @@
       "end": 0
     },
     {
-      "id": "line-156",
+      "id": "line-159",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "Q21.",
@@ -1775,7 +1808,7 @@
       "end": 0
     },
     {
-      "id": "line-157",
+      "id": "line-160",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1786,29 +1819,29 @@
       "end": 0
     },
     {
-      "id": "line-158",
+      "id": "line-161",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "As I’ve grown older, I often hear people my age say things like \"they just don’t make good music like they used to.\"",
+      "text": "As I’ve grown older, I often hear people my age say things like “They just don’t make good music like they used to.",
       "type": "narration",
       "words": 25,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-159",
+      "id": "line-162",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "Why does this happen?",
+      "text": "” Why does this happen?",
       "type": "narration",
       "words": 4,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-160",
+      "id": "line-163",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1819,7 +1852,7 @@
       "end": 0
     },
     {
-      "id": "line-161",
+      "id": "line-164",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1830,7 +1863,7 @@
       "end": 0
     },
     {
-      "id": "line-162",
+      "id": "line-165",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1841,7 +1874,7 @@
       "end": 0
     },
     {
-      "id": "line-163",
+      "id": "line-166",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1852,29 +1885,29 @@
       "end": 0
     },
     {
-      "id": "line-164",
+      "id": "line-167",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "Meanwhile, popular songs released when you’re in your early teens are likely to remain quite popular among your age group for the rest of your life.",
+      "text": "Meanwhile, popular songs released when you’re in your early teens are likely to remain quite popular among your age group through the rest of your life.",
       "type": "narration",
       "words": 27,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-165",
+      "id": "line-168",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "There could be a biological explanation for this, as there’s evidence that the brain’s ability to make subtle distinctions between different chords, rhythms, and melodies deteriorates with age.",
+      "text": "There could be a biological explanation for this, as there is evidence that the brain’s ability to make subtle distinctions between different chords, rhythms and melodies deteriorates with age.",
       "type": "narration",
       "words": 30,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-166",
+      "id": "line-169",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1885,7 +1918,7 @@
       "end": 0
     },
     {
-      "id": "line-167",
+      "id": "line-170",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1896,40 +1929,40 @@
       "end": 0
     },
     {
-      "id": "line-168",
+      "id": "line-171",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "But there are maybe some simpler reasons for older people’s aversion to newer music.",
+      "text": "But there may be some simpler reasons for older people’s aversion to newer music.",
       "type": "narration",
       "words": 15,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-169",
+      "id": "line-172",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "One of the most researched laws of social psychology is something called the “mere exposure effect,” which in essence means that the more we’re exposed to something, the more we tend to like it.",
+      "text": "One of the most researched laws of social psychology is something called the “mere exposure effect,” which, in essence, means that the more we're exposed to something, the more we tend to like it.",
       "type": "narration",
-      "words": 35,
+      "words": 34,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-170",
+      "id": "line-173",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "This happens with people we know, the advertisements we see, and the songs we listen to.",
+      "text": "This happens with people we know, the advertisements we see and the songs we listen to.",
       "type": "narration",
       "words": 16,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-171",
+      "id": "line-174",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1940,7 +1973,7 @@
       "end": 0
     },
     {
-      "id": "line-172",
+      "id": "line-175",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1951,7 +1984,7 @@
       "end": 0
     },
     {
-      "id": "line-173",
+      "id": "line-176",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1962,7 +1995,7 @@
       "end": 0
     },
     {
-      "id": "line-174",
+      "id": "line-177",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1973,18 +2006,18 @@
       "end": 0
     },
     {
-      "id": "line-175",
+      "id": "line-178",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "Of course, those teen years weren’t necessarily carefree.",
+      "text": "Of course those teen years weren’t necessarily carefree.",
       "type": "narration",
       "words": 9,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-176",
+      "id": "line-179",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1995,7 +2028,7 @@
       "end": 0
     },
     {
-      "id": "line-177",
+      "id": "line-180",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -2006,7 +2039,7 @@
       "end": 0
     },
     {
-      "id": "line-178",
+      "id": "line-181",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -2017,7 +2050,7 @@
       "end": 0
     },
     {
-      "id": "line-179",
+      "id": "line-182",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -2028,7 +2061,7 @@
       "end": 0
     },
     {
-      "id": "line-180",
+      "id": "line-183",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -2039,7 +2072,7 @@
       "end": 0
     },
     {
-      "id": "line-181",
+      "id": "line-184",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -2050,18 +2083,18 @@
       "end": 0
     },
     {
-      "id": "line-182",
+      "id": "line-185",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "Q22.",
-      "text": "What does the speaker mainly discuss in this talk?",
+      "text": "What does the speaker mainly discites in this talk?",
       "type": "question",
       "words": 9,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-183",
+      "id": "line-186",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "Q23.",
@@ -2072,7 +2105,7 @@
       "end": 0
     },
     {
-      "id": "line-184",
+      "id": "line-187",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "Q24.",
@@ -2083,24 +2116,13 @@
       "end": 0
     },
     {
-      "id": "line-185",
+      "id": "line-188",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "Q25.",
       "text": "What might explain the fact that songs people listen to in their teen years are memorable and beloved?",
       "type": "question",
       "words": 18,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-186",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "---",
-      "type": "narration",
-      "words": 1,
       "start": 0,
       "end": 0
     }
