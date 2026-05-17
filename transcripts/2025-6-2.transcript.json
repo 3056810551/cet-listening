@@ -4,11 +4,11 @@
   "source": {
     "markdown": {
       "name": "2025-6-2.md",
-      "size": 13761,
-      "mtimeNs": 1778843456571655800
+      "size": 15935,
+      "mtimeNs": 1779015785729901100
     }
   },
-  "generatedAt": 1778843794,
+  "generatedAt": 1779015919,
   "sections": [
     {
       "id": "conversation-1",
@@ -28,22 +28,22 @@
     {
       "id": "passage-2",
       "title": "PASSAGE 2",
-      "firstLineId": "line-93"
+      "firstLineId": "line-94"
     },
     {
       "id": "recording-1",
       "title": "RECORDING 1",
-      "firstLineId": "line-112"
+      "firstLineId": "line-113"
     },
     {
       "id": "recording-2",
       "title": "RECORDING 2",
-      "firstLineId": "line-134"
+      "firstLineId": "line-137"
     },
     {
       "id": "recording-3",
       "title": "RECORDING 3",
-      "firstLineId": "line-153"
+      "firstLineId": "line-171"
     }
   ],
   "lines": [
@@ -63,9 +63,9 @@
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
-      "text": "Yes, but it isn't an easy choice to make.",
+      "text": "Yes, but it isn’t an easy choice to make.",
       "type": "dialogue",
-      "words": 9,
+      "words": 10,
       "start": 0,
       "end": 0
     },
@@ -85,9 +85,9 @@
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "Let's get to it then.",
+      "text": "Let’s get to it then.",
       "type": "dialogue",
-      "words": 5,
+      "words": 6,
       "start": 0,
       "end": 0
     },
@@ -107,9 +107,9 @@
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "So, academically, I'd say they're pretty much the same.",
+      "text": "So, academically, I’d say they’re pretty much the same.",
       "type": "dialogue",
-      "words": 9,
+      "words": 11,
       "start": 0,
       "end": 0
     },
@@ -173,9 +173,9 @@
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "That's true and worth noting.",
+      "text": "That’s true and worth noting.",
       "type": "dialogue",
-      "words": 5,
+      "words": 6,
       "start": 0,
       "end": 0
     },
@@ -250,9 +250,9 @@
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "Now let's look at Peter's interview performance.",
+      "text": "Now let’s look at Peter’s interview performance.",
       "type": "dialogue",
-      "words": 7,
+      "words": 9,
       "start": 0,
       "end": 0
     },
@@ -283,9 +283,9 @@
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "Wouldn't you say?",
+      "text": "Wouldn’t you say?",
       "type": "dialogue",
-      "words": 3,
+      "words": 4,
       "start": 0,
       "end": 0
     },
@@ -459,9 +459,9 @@
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
-      "text": "Ah, well, if there's a tie and we can't come to an agreement, then we'll take it to John and let him cast the deciding vote.",
+      "text": "Ah, well, if there’s a tie and we can’t come to an agreement, then we’ll take it to John and let him cast the deciding vote.",
       "type": "dialogue",
-      "words": 26,
+      "words": 29,
       "start": 0,
       "end": 0
     },
@@ -503,9 +503,9 @@
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q4.",
-      "text": "What does the man say they will do if they can't reach an agreement?",
+      "text": "What does the man say they will do if they can’t reach an agreement?",
       "type": "question",
-      "words": 14,
+      "words": 15,
       "start": 0,
       "end": 0
     },
@@ -514,9 +514,9 @@
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "We're here with Clementine Ortega, head designer of the private fashion label L'Orange, to discuss her latest collection.",
+      "text": "We’re here with Clémentine Ortega, head designer of the private fashion label L’Orange, to discuss her latest collection.",
       "type": "dialogue",
-      "words": 18,
+      "words": 21,
       "start": 0,
       "end": 0
     },
@@ -525,9 +525,9 @@
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "Ms Ortega, how would you describe this season's look?",
+      "text": "Ms Ortega, how would you describe this season’s look?",
       "type": "dialogue",
-      "words": 9,
+      "words": 10,
       "start": 0,
       "end": 0
     },
@@ -624,9 +624,9 @@
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "I couldn't stop thinking about it.",
+      "text": "I couldn’t stop thinking about it.",
       "type": "dialogue",
-      "words": 6,
+      "words": 7,
       "start": 0,
       "end": 0
     },
@@ -778,9 +778,9 @@
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "You have proven yourself a formidable young designer, and we can't wait to see what creations you come up with next.",
+      "text": "You have proven yourself a formidable young designer, and we can’t wait to see what creations you come up with next.",
       "type": "dialogue",
-      "words": 21,
+      "words": 22,
       "start": 0,
       "end": 0
     },
@@ -833,7 +833,7 @@
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "Pet dogs can often readily understand a wide range of their owners' commands and gestures.",
+      "text": "Pet dogs can often readily understand a wide range of their owners’ commands and gestures.",
       "type": "narration",
       "words": 15,
       "start": 0,
@@ -976,7 +976,7 @@
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "They may observe and occasionally interact with people, but such dogs have never been trained and are behaviorally \"wild\".",
+      "text": "They may observe and occasionally interact with people, but such dogs have never been trained and are behaviorally “wild”.",
       "type": "narration",
       "words": 19,
       "start": 0,
@@ -998,7 +998,7 @@
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "Understanding how humans shape stray dogs' behavior may help alleviate this problem.",
+      "text": "Understanding how humans shape stray dogs’ behavior may help alleviate this problem.",
       "type": "narration",
       "words": 12,
       "start": 0,
@@ -1031,7 +1031,7 @@
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "\"Treating stray dogs with sensitivity and respect and giving them space,\" the researchers assert, \"can reduce much conflict.\"",
+      "text": "“Treating stray dogs with sensitivity and respect and giving them space,” the researchers assert, “can reduce much conflict.",
       "type": "narration",
       "words": 18,
       "start": 0,
@@ -1039,6 +1039,17 @@
     },
     {
       "id": "line-90",
+      "sectionId": "passage-1",
+      "sectionTitle": "PASSAGE 1",
+      "speaker": "",
+      "text": "”",
+      "type": "narration",
+      "words": 1,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-91",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q9.",
@@ -1049,7 +1060,7 @@
       "end": 0
     },
     {
-      "id": "line-91",
+      "id": "line-92",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q10.",
@@ -1060,7 +1071,7 @@
       "end": 0
     },
     {
-      "id": "line-92",
+      "id": "line-93",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q11.",
@@ -1071,7 +1082,7 @@
       "end": 0
     },
     {
-      "id": "line-93",
+      "id": "line-94",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1082,7 +1093,7 @@
       "end": 0
     },
     {
-      "id": "line-94",
+      "id": "line-95",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1093,7 +1104,7 @@
       "end": 0
     },
     {
-      "id": "line-95",
+      "id": "line-96",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1104,7 +1115,7 @@
       "end": 0
     },
     {
-      "id": "line-96",
+      "id": "line-97",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1115,7 +1126,7 @@
       "end": 0
     },
     {
-      "id": "line-97",
+      "id": "line-98",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1126,7 +1137,7 @@
       "end": 0
     },
     {
-      "id": "line-98",
+      "id": "line-99",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1137,7 +1148,7 @@
       "end": 0
     },
     {
-      "id": "line-99",
+      "id": "line-100",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1148,7 +1159,7 @@
       "end": 0
     },
     {
-      "id": "line-100",
+      "id": "line-101",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1159,29 +1170,29 @@
       "end": 0
     },
     {
-      "id": "line-101",
-      "sectionId": "passage-2",
-      "sectionTitle": "PASSAGE 2",
-      "speaker": "",
-      "text": "Those little bins on the inside of refrigerator doors are convenient, but they don't maintain a consistent temperature, so definitely refrain from putting perishable foods in there.",
-      "type": "narration",
-      "words": 27,
-      "start": 0,
-      "end": 0
-    },
-    {
       "id": "line-102",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "The top area is not as cold as the bottom of the fridge, so save it for the foods that don't need extra-chilly temperatures.",
+      "text": "Those little bins on the inside of refrigerator doors are convenient, but they don’t maintain a consistent temperature, so definitely refrain from putting perishable foods in there.",
       "type": "narration",
-      "words": 25,
+      "words": 28,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-103",
+      "sectionId": "passage-2",
+      "sectionTitle": "PASSAGE 2",
+      "speaker": "",
+      "text": "The top area is not as cold as the bottom of the fridge, so save it for the foods that don’t need extra-chilly temperatures.",
+      "type": "narration",
+      "words": 26,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-104",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1192,7 +1203,7 @@
       "end": 0
     },
     {
-      "id": "line-104",
+      "id": "line-105",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1203,7 +1214,7 @@
       "end": 0
     },
     {
-      "id": "line-105",
+      "id": "line-106",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1214,18 +1225,18 @@
       "end": 0
     },
     {
-      "id": "line-106",
+      "id": "line-107",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "The back of the bottom shelf is the coldest spot in the fridge, so store perishable dairy products here to keep them edible longer.",
+      "text": "The back of the bottom shelf is the coldest spot in the fridge, so store perishable dairy products here to keep them edible, longer.",
       "type": "narration",
       "words": 24,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-107",
+      "id": "line-108",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1236,7 +1247,7 @@
       "end": 0
     },
     {
-      "id": "line-108",
+      "id": "line-109",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q12.",
@@ -1247,7 +1258,7 @@
       "end": 0
     },
     {
-      "id": "line-109",
+      "id": "line-110",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q13.",
@@ -1258,7 +1269,7 @@
       "end": 0
     },
     {
-      "id": "line-110",
+      "id": "line-111",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q14.",
@@ -1269,7 +1280,7 @@
       "end": 0
     },
     {
-      "id": "line-111",
+      "id": "line-112",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q15.",
@@ -1280,7 +1291,7 @@
       "end": 0
     },
     {
-      "id": "line-112",
+      "id": "line-113",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1291,7 +1302,7 @@
       "end": 0
     },
     {
-      "id": "line-113",
+      "id": "line-114",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1302,7 +1313,7 @@
       "end": 0
     },
     {
-      "id": "line-114",
+      "id": "line-115",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1313,7 +1324,7 @@
       "end": 0
     },
     {
-      "id": "line-115",
+      "id": "line-116",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1324,7 +1335,7 @@
       "end": 0
     },
     {
-      "id": "line-116",
+      "id": "line-117",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1335,18 +1346,18 @@
       "end": 0
     },
     {
-      "id": "line-117",
+      "id": "line-118",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "So we're trying to slow down that progression to feebleness.",
+      "text": "So we’re trying to slow down that progression to feebleness.",
       "type": "narration",
-      "words": 10,
+      "words": 11,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-118",
+      "id": "line-119",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1357,7 +1368,7 @@
       "end": 0
     },
     {
-      "id": "line-119",
+      "id": "line-120",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1368,22 +1379,11 @@
       "end": 0
     },
     {
-      "id": "line-120",
-      "sectionId": "recording-1",
-      "sectionTitle": "RECORDING 1",
-      "speaker": "",
-      "text": "And we're trying to improve their health and their quality of life.",
-      "type": "narration",
-      "words": 12,
-      "start": 0,
-      "end": 0
-    },
-    {
       "id": "line-121",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "But this isn't just a problem in Birmingham or even in the UK.",
+      "text": "And we’re trying to improve their health and their quality of life.",
       "type": "narration",
       "words": 13,
       "start": 0,
@@ -1394,6 +1394,17 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
+      "text": "But this isn’t just a problem in Birmingham or even in the UK.",
+      "type": "narration",
+      "words": 14,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-123",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
       "text": "This is a problem globally.",
       "type": "narration",
       "words": 5,
@@ -1401,7 +1412,7 @@
       "end": 0
     },
     {
-      "id": "line-123",
+      "id": "line-124",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1412,29 +1423,29 @@
       "end": 0
     },
     {
-      "id": "line-124",
-      "sectionId": "recording-1",
-      "sectionTitle": "RECORDING 1",
-      "speaker": "",
-      "text": "There're a lot more people in the older generation who are living for longer, but not necessarily staying healthy for a large part of their lives.",
-      "type": "narration",
-      "words": 26,
-      "start": 0,
-      "end": 0
-    },
-    {
       "id": "line-125",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "So the last part of their life can often be full of ill health and we're trying to understand factors that can contribute to the quality of life later on.",
+      "text": "There’re a lot more people in the older generation who are living for longer, but not necessarily staying healthy for a large part of their lives.",
       "type": "narration",
-      "words": 30,
+      "words": 27,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-126",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "So the last part of their life can often be full of ill health and we’re trying to understand factors that can contribute to the quality of life later on.",
+      "type": "narration",
+      "words": 31,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-127",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1445,24 +1456,13 @@
       "end": 0
     },
     {
-      "id": "line-127",
-      "sectionId": "recording-1",
-      "sectionTitle": "RECORDING 1",
-      "speaker": "",
-      "text": "Lots of academics are probably very excited about their research, but it might not have an immediate impact on people's lives.",
-      "type": "narration",
-      "words": 21,
-      "start": 0,
-      "end": 0
-    },
-    {
       "id": "line-128",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Whereas our research, if we can find something that works, we can actually implement it and make a difference to people's lives pretty quickly.",
+      "text": "Lots of academics are probably very excited about their research, but it might not be that relevant to those around them.",
       "type": "narration",
-      "words": 24,
+      "words": 21,
       "start": 0,
       "end": 0
     },
@@ -1471,9 +1471,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "And that's what really drives me.",
+      "text": "Whereas I feel that the work I do is relevant to everyone, because everyone is aging.",
       "type": "narration",
-      "words": 6,
+      "words": 16,
       "start": 0,
       "end": 0
     },
@@ -1482,9 +1482,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "I also think that by combining multiple perspectives—we have people from medicine, psychology, sociology, and engineering all working together on this project—we can get a much better understanding of the problem than if we were just working in one discipline.",
+      "text": "Health is an issue for everyone, regardless of their age.",
       "type": "narration",
-      "words": 42,
+      "words": 10,
       "start": 0,
       "end": 0
     },
@@ -1492,10 +1492,10 @@
       "id": "line-131",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
-      "speaker": "Q16.",
-      "text": "What is the speaker's current research mainly looking at?",
-      "type": "question",
-      "words": 9,
+      "speaker": "",
+      "text": "And what I’m trying to do is understand the factors that affect health and how we can improve the quality of life and people.",
+      "type": "narration",
+      "words": 25,
       "start": 0,
       "end": 0
     },
@@ -1503,10 +1503,10 @@
       "id": "line-132",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
-      "speaker": "Q17.",
-      "text": "What excites the speaker most about her research?",
-      "type": "question",
-      "words": 8,
+      "speaker": "",
+      "text": "So that’s one of the things that really excites me about it.",
+      "type": "narration",
+      "words": 13,
       "start": 0,
       "end": 0
     },
@@ -1514,43 +1514,43 @@
       "id": "line-133",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
-      "speaker": "Q18.",
-      "text": "How can the speaker's team get a better understanding of the problem?",
-      "type": "question",
-      "words": 12,
+      "speaker": "",
+      "text": "One of the other things is rather than just taking one perspective — so rather than looking at aging and health just from the perspective of the psychologist — we are now bringing together a lot of different techniques and a lot of different viewpoints to actually look at the sort of different factors affecting health.",
+      "type": "narration",
+      "words": 54,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-134",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "Cooking schools are great for teaching you how to make a delicious meal, but they don't teach you basic organization.",
-      "type": "narration",
-      "words": 20,
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "Q16.",
+      "text": "What does the speaker say is quite common among older people?",
+      "type": "question",
+      "words": 11,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-135",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "And that's a problem, because being organized is essential for being a good cook.",
-      "type": "narration",
-      "words": 14,
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "Q17.",
+      "text": "What does the speaker think excites her most about her research?",
+      "type": "question",
+      "words": 11,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-136",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "When you're organized, you can work more efficiently, avoid mistakes, and enjoy the cooking process more.",
-      "type": "narration",
-      "words": 16,
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "Q18.",
+      "text": "How does the speaker approach her research project?",
+      "type": "question",
+      "words": 8,
       "start": 0,
       "end": 0
     },
@@ -1559,9 +1559,9 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "For professional chefs, organization is a way of life.",
+      "text": "Americans are obsessed with celebrity chefs.",
       "type": "narration",
-      "words": 9,
+      "words": 6,
       "start": 0,
       "end": 0
     },
@@ -1570,9 +1570,9 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "They call it \"mise en place\", which means \"everything in its place\".",
+      "text": "We talk about them and try to eat like them.",
       "type": "narration",
-      "words": 12,
+      "words": 10,
       "start": 0,
       "end": 0
     },
@@ -1581,9 +1581,9 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Before they start cooking, they prepare all of their ingredients, measure them out, and arrange them in order of use.",
+      "text": "But could we learn something more from them than recipes and techniques?",
       "type": "narration",
-      "words": 20,
+      "words": 12,
       "start": 0,
       "end": 0
     },
@@ -1592,9 +1592,9 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "This allows them to work quickly and smoothly, without having to stop and look for things.",
+      "text": "According to Marketdata Enterprises, Americans spend nearly $10 billion a year on self-help and personal organization products.",
       "type": "narration",
-      "words": 16,
+      "words": 18,
       "start": 0,
       "end": 0
     },
@@ -1603,9 +1603,9 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Home cooks can benefit from adopting the same approach.",
+      "text": "The market is huge, partly because most colleges and graduate schools don’t teach basic organization.",
       "type": "narration",
-      "words": 9,
+      "words": 16,
       "start": 0,
       "end": 0
     },
@@ -1614,9 +1614,9 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "By taking a few minutes to organize your ingredients and tools before you start cooking, you can save a lot of time and frustration.",
+      "text": "But cooking schools and professional kitchens do.",
       "type": "narration",
-      "words": 24,
+      "words": 7,
       "start": 0,
       "end": 0
     },
@@ -1625,9 +1625,9 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "You'll also be less likely to forget an ingredient or make a mistake.",
+      "text": "Perhaps the principles of cooking organization can be extended to help even those of us who aren’t top chefs.",
       "type": "narration",
-      "words": 13,
+      "words": 20,
       "start": 0,
       "end": 0
     },
@@ -1636,9 +1636,9 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "In addition to organization, cooking also teaches you how to use time and resources wisely.",
+      "text": "The system that makes kitchens function is called mise-en-place, or, literally, “put in place”.",
       "type": "narration",
-      "words": 15,
+      "words": 16,
       "start": 0,
       "end": 0
     },
@@ -1647,7 +1647,7 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "When you're cooking, you have to plan ahead, prioritize tasks, and make the most of what you have.",
+      "text": "It’s a French phrase that means to gather and arrange the ingredients and tools needed for cooking.",
       "type": "narration",
       "words": 18,
       "start": 0,
@@ -1658,9 +1658,9 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "These are valuable skills that can be applied to other areas of your life.",
+      "text": "But for many professional cooks, the phrase means something deeper.",
       "type": "narration",
-      "words": 14,
+      "words": 10,
       "start": 0,
       "end": 0
     },
@@ -1669,9 +1669,9 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "So, if you want to become a better cook, don't just focus on learning recipes and techniques.",
+      "text": "Some cooks call it their religion.",
       "type": "narration",
-      "words": 17,
+      "words": 6,
       "start": 0,
       "end": 0
     },
@@ -1680,9 +1680,9 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Take the time to learn how to be organized and how to use your time and resources wisely.",
+      "text": "It helps them coordinate vast amounts of labor and material, and transforms the lives of its practitioners through focus and self-discipline.",
       "type": "narration",
-      "words": 18,
+      "words": 22,
       "start": 0,
       "end": 0
     },
@@ -1691,9 +1691,9 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "These skills will not only make you a better cook, but they will also make you a more productive and successful person in general.",
+      "text": "Students at the Culinary Institute of America view it as a way of life.",
       "type": "narration",
-      "words": 24,
+      "words": 14,
       "start": 0,
       "end": 0
     },
@@ -1701,10 +1701,10 @@
       "id": "line-150",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
-      "speaker": "Q19.",
-      "text": "What does the speaker say about cooking schools?",
-      "type": "question",
-      "words": 8,
+      "speaker": "",
+      "text": "It’s a way of concentrating their mind to only focus on the aspects that they need to be working on at the moment, to kind of rid themselves of distractions.",
+      "type": "narration",
+      "words": 31,
       "start": 0,
       "end": 0
     },
@@ -1712,10 +1712,10 @@
       "id": "line-151",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
-      "speaker": "Q20.",
-      "text": "What does \"mise en place\" mean for professional chefs?",
-      "type": "question",
-      "words": 9,
+      "speaker": "",
+      "text": "And it’s a habit that some students carry with them even when they’re not in the kitchen.",
+      "type": "narration",
+      "words": 19,
       "start": 0,
       "end": 0
     },
@@ -1723,41 +1723,41 @@
       "id": "line-152",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
-      "speaker": "Q21.",
-      "text": "What valuable skills can cooking teach us according to the speaker?",
-      "type": "question",
-      "words": 11,
+      "speaker": "",
+      "text": "They mise-en-place their life.",
+      "type": "narration",
+      "words": 6,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-153",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Goals are often seen as the basis for self-improvement.",
+      "text": "They set up their books for class, they set up their chef whites, they shine their shoes, they know everything that they need every step of the day.",
       "type": "narration",
-      "words": 10,
+      "words": 28,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-154",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "We set goals to lose weight, get a promotion, learn a new skill, and so on.",
+      "text": "Then how does one attain this level of organization?",
       "type": "narration",
-      "words": 16,
+      "words": 9,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-155",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "But what if goals are actually holding us back?",
+      "text": "The key to high level organization is the mindset.",
       "type": "narration",
       "words": 9,
       "start": 0,
@@ -1765,166 +1765,166 @@
     },
     {
       "id": "line-156",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "What if the very act of setting goals is preventing us from achieving the things we want?",
-      "type": "narration",
-      "words": 17,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-157",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "The problem with goals is that they are often too rigid.",
-      "type": "narration",
-      "words": 11,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-158",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "We set a goal to lose 10 pounds in three months, and if we don't achieve it, we feel like failures.",
-      "type": "narration",
-      "words": 21,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-159",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "But life is unpredictable, and things don't always go according to plan.",
-      "type": "narration",
-      "words": 12,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-160",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "We might get sick, have a busy week at work, or simply lose motivation.",
+      "text": "Cooks can easily do 6 hours of preparation for a 3-hour dinner shift.",
       "type": "narration",
       "words": 14,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-161",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "id": "line-157",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "When this happens, our goals become a source of stress and frustration, rather than a source of motivation.",
-      "type": "narration",
-      "words": 18,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-162",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Another problem with goals is that they can make us stop imagining further progress in life.",
+      "text": "Mise-en-place forces cooks to account for every minute of their time and every movement.",
       "type": "narration",
       "words": 16,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-163",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "id": "line-158",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Once we achieve a goal, we often feel like we've \"made it\" and we stop trying to improve.",
+      "text": "“Every component of one single dish is in one single corner so their hand literally moves inches,” explains Dwayne Lipuma, an instructor at the Culinary Institute of America.",
       "type": "narration",
-      "words": 18,
+      "words": 28,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-164",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "id": "line-159",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "But self-improvement is a lifelong journey, not a destination.",
-      "type": "narration",
-      "words": 10,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-165",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "We should always be looking for ways to grow and develop, even after we've achieved our goals.",
-      "type": "narration",
-      "words": 17,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-166",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "So, what's the alternative?",
-      "type": "narration",
-      "words": 4,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-167",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Instead of focusing on goals, we should focus on progress.",
-      "type": "narration",
-      "words": 10,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-168",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Instead of measuring ourselves against a fixed goal, we should measure where we've come from.",
+      "text": "“Once students set up their station, I should be able to cover up their eyes.",
       "type": "narration",
       "words": 15,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-169",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "id": "line-160",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "This allows us to celebrate our achievements, no matter how small, and it keeps us motivated to continue improving.",
+      "text": "And they should know that their knives are always here, their oil is always right here, their salt and pepper is always right here.",
       "type": "narration",
-      "words": 19,
+      "words": 24,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-161",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "”",
+      "type": "narration",
+      "words": 1,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-162",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "But practiced at its highest level, mise-en-place says that time is precious.",
+      "type": "narration",
+      "words": 14,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-163",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Resources are precious.",
+      "type": "narration",
+      "words": 3,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-164",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Space is precious.",
+      "type": "narration",
+      "words": 3,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-165",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Your self-respect and the respect of others are precious.",
+      "type": "narration",
+      "words": 10,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-166",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Use them wisely.",
+      "type": "narration",
+      "words": 3,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-167",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Isn’t that a philosophy for our time?",
+      "type": "narration",
+      "words": 8,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-168",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "Q19.",
+      "text": "What does the speaker say about most colleges and graduate schools in America?",
+      "type": "question",
+      "words": 13,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-169",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "Q20.",
+      "text": "How do students at the Culinary Institute of America view mise-en-place or “put in place”?",
+      "type": "question",
+      "words": 17,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-170",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "It also allows us to adapt to changes in our lives and adjust our expectations accordingly.",
-      "type": "narration",
-      "words": 16,
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "Q21.",
+      "text": "What does the speaker advise us to do at the end of the talk?",
+      "type": "question",
+      "words": 14,
       "start": 0,
       "end": 0
     },
@@ -1932,10 +1932,10 @@
       "id": "line-171",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q22.",
-      "text": "What are goals often seen as according to the speaker?",
-      "type": "question",
-      "words": 10,
+      "speaker": "",
+      "text": "Why do we stop making goals for ourselves and stop progressing in life?",
+      "type": "narration",
+      "words": 13,
       "start": 0,
       "end": 0
     },
@@ -1943,10 +1943,10 @@
       "id": "line-172",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q23.",
-      "text": "What may happen once we achieve a goal?",
-      "type": "question",
-      "words": 8,
+      "speaker": "",
+      "text": "One reason is the belief that we should accept who we are and not constantly strive to improve ourselves.",
+      "type": "narration",
+      "words": 19,
       "start": 0,
       "end": 0
     },
@@ -1954,10 +1954,10 @@
       "id": "line-173",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q24.",
-      "text": "What is the problem with rigid goals according to the speaker?",
-      "type": "question",
-      "words": 11,
+      "speaker": "",
+      "text": "The mistake we make with this is that whilst self-acceptance is imperative, it should actually be used as the basis for growth.",
+      "type": "narration",
+      "words": 23,
       "start": 0,
       "end": 0
     },
@@ -1965,10 +1965,252 @@
       "id": "line-174",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q25.",
-      "text": "What does the speaker suggest we do instead of focusing on goals?",
-      "type": "question",
+      "speaker": "",
+      "text": "When we are not growing, learning and seeking improvements in our lives, we tend to stagnate, accepting what it is and stop believing we can be better.",
+      "type": "narration",
+      "words": 27,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-175",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "A key tool for creating goals and progressing is using our imagination.",
+      "type": "narration",
       "words": 12,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-176",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Yet as is so often the case, by the time we’ve reached midlife, we’ve stopped dreaming about what we want to achieve and feel quite negatively about goal-setting.",
+      "type": "narration",
+      "words": 31,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-177",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Instead of feeling confidence, happiness and satisfaction from achieving our goals, we feel we are always falling short.",
+      "type": "narration",
+      "words": 18,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-178",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "That leads to disappointment and we stop dreaming.",
+      "type": "narration",
+      "words": 8,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-179",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "We stop imagining the life we’d like to have or the person we’d like to be, quickly finding ourselves shattered by the pain of our reality.",
+      "type": "narration",
+      "words": 28,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-180",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Up until now, unless we work in the creative industry, we’ve found the idea of using “play” a bit childish.",
+      "type": "narration",
+      "words": 21,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-181",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "In the West, we are mostly operating from our heads, the rational mind, but it’s beginning to be better understood, because using our imagination is actually one of the most powerful things we could ever do.",
+      "type": "narration",
+      "words": 37,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-182",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "The problem with finding ourselves irritated for not achieving the goal is because the goal always changes and we’re always adapting, whether we realize it or not.",
+      "type": "narration",
+      "words": 28,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-183",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "What happens, therefore, is that we end up feeling like we are never going to reach our goals.",
+      "type": "narration",
+      "words": 18,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-184",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "And herein lies one of the biggest misconceptions and reasons for failure, dissatisfaction, and unhappiness.",
+      "type": "narration",
+      "words": 15,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-185",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "We measure against the goal rather than where we’ve come from.",
+      "type": "narration",
+      "words": 12,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-186",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Dan Sullivan calls this “the gap and the gain”.",
+      "type": "narration",
+      "words": 9,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-187",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "We measure always against the goal, which we never feel we’re reaching, rather than the gain.",
+      "type": "narration",
+      "words": 17,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-188",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "That is where we’ve come from.",
+      "type": "narration",
+      "words": 7,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-189",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "In measuring where we’ve come from, rather than where we’re trying to get to, we see results.",
+      "type": "narration",
+      "words": 19,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-190",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "We see things we’ve taken for granted or not noticed.",
+      "type": "narration",
+      "words": 11,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-191",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "It’s a simple, yet profound change in perception, and what I love about it is the power it has to instantly shift us up a gear.",
+      "type": "narration",
+      "words": 27,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-192",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "It’s so, so simple, yet has an immediate, positive impact on our thinking.",
+      "type": "narration",
+      "words": 14,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-193",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q22.",
+      "text": "What should self-acceptance be used as according to the speaker?",
+      "type": "question",
+      "words": 11,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-194",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q23.",
+      "text": "What do people tend to do when they have reached midlife?",
+      "type": "question",
+      "words": 11,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-195",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q24.",
+      "text": "Why do we find ourselves irritated for not achieving the goal?",
+      "type": "question",
+      "words": 11,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-196",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q25.",
+      "text": "What does the speaker say has an immediate, positive impact on our thinking?",
+      "type": "question",
+      "words": 13,
       "start": 0,
       "end": 0
     }

@@ -6,8 +6,8 @@
   "source": {
     "markdown": {
       "name": "2025-6-2.md",
-      "size": 13761,
-      "mtimeNs": 1778843456571655800
+      "size": 15935,
+      "mtimeNs": 1779015785729901100
     },
     "audio": {
       "name": "2025-6-2.mp3",
@@ -15,8 +15,8 @@
       "mtimeNs": 1778843138516441500
     }
   },
-  "generatedAt": 1778844025,
-  "elapsedSeconds": 230.75,
+  "generatedAt": 1779016109,
+  "elapsedSeconds": 190.51,
   "mode": "faster-whisper",
   "model": "small.en",
   "device": "cpu",
@@ -49,22 +49,22 @@
     {
       "id": "passage-2",
       "title": "PASSAGE 2",
-      "firstLineId": "line-93"
+      "firstLineId": "line-94"
     },
     {
       "id": "recording-1",
       "title": "RECORDING 1",
-      "firstLineId": "line-112"
+      "firstLineId": "line-113"
     },
     {
       "id": "recording-2",
       "title": "RECORDING 2",
-      "firstLineId": "line-134"
+      "firstLineId": "line-137"
     },
     {
       "id": "recording-3",
       "title": "RECORDING 3",
-      "firstLineId": "line-153"
+      "firstLineId": "line-171"
     }
   ],
   "lines": [
@@ -79,20 +79,20 @@
       "start": 53.1,
       "end": 62.74,
       "matchedWords": 27,
-      "translation": "一个职位只剩下两名候选人，我们需要在今天结束前做出决定，以完成整个程序。"
+      "translation": "我们现在针对一个职位剩下了两名候选人，我们需要在今天结束前做决定，以便敲定整个流程。"
     },
     {
       "id": "line-1",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
-      "text": "Yes, but it isn't an easy choice to make.",
+      "text": "Yes, but it isn’t an easy choice to make.",
       "type": "dialogue",
-      "words": 9,
+      "words": 10,
       "start": 62.74,
       "end": 65.74,
-      "matchedWords": 9,
-      "translation": "是的，但这不是一个容易做出的选择。"
+      "matchedWords": 8,
+      "translation": "是的，但这并不是一个容易做出的选择。"
     },
     {
       "id": "line-2",
@@ -103,21 +103,21 @@
       "type": "dialogue",
       "words": 5,
       "start": 65.74,
-      "end": 68.28,
+      "end": 68.62,
       "matchedWords": 5,
-      "translation": "两名申请人都很强。"
+      "translation": "两名申请人都非常优秀。"
     },
     {
       "id": "line-3",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "Let's get to it then.",
+      "text": "Let’s get to it then.",
       "type": "dialogue",
-      "words": 5,
-      "start": 68.28,
+      "words": 6,
+      "start": 68.62,
       "end": 69.98,
-      "matchedWords": 5,
+      "matchedWords": 4,
       "translation": "那我们开始吧。"
     },
     {
@@ -131,20 +131,20 @@
       "start": 69.98,
       "end": 75.24,
       "matchedWords": 15,
-      "translation": "他们都上过很好的大学，而且都学过与商务相关的科目。"
+      "translation": "他们两个都毕业于优秀的大学，且都学习了商务相关的专业。"
     },
     {
       "id": "line-5",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "So, academically, I'd say they're pretty much the same.",
+      "text": "So, academically, I’d say they’re pretty much the same.",
       "type": "dialogue",
-      "words": 9,
+      "words": 11,
       "start": 75.24,
       "end": 78.98,
-      "matchedWords": 9,
-      "translation": "所以，在学术上，我想说他们几乎是一样的。"
+      "matchedWords": 7,
+      "translation": "所以，从学术背景来看，我认为他们不相上下。"
     },
     {
       "id": "line-6",
@@ -157,7 +157,7 @@
       "start": 78.98,
       "end": 79.6,
       "matchedWords": 4,
-      "translation": "你觉得呢？"
+      "translation": "你怎么看？"
     },
     {
       "id": "line-7",
@@ -196,7 +196,7 @@
       "start": 81.56,
       "end": 89.7,
       "matchedWords": 21,
-      "translation": "唯一值得注意的区别可能是，雷切尔在高中和大学期间的成绩似乎稍微好一些。"
+      "translation": "唯一值得注意的区别可能是，瑞秋在高中和大学期间的成绩似乎稍微好一些。"
     },
     {
       "id": "line-10",
@@ -207,7 +207,7 @@
       "type": "dialogue",
       "words": 11,
       "start": 89.7,
-      "end": 93.1,
+      "end": 93.36,
       "matchedWords": 11,
       "translation": "但正如我所说，只比彼得高出那么一点点。"
     },
@@ -216,13 +216,13 @@
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "That's true and worth noting.",
+      "text": "That’s true and worth noting.",
       "type": "dialogue",
-      "words": 5,
-      "start": 93.1,
+      "words": 6,
+      "start": 93.36,
       "end": 95.02,
-      "matchedWords": 5,
-      "translation": "这确实值得注意。"
+      "matchedWords": 4,
+      "translation": "这确实是事实，值得注意。"
     },
     {
       "id": "line-12",
@@ -248,7 +248,7 @@
       "start": 95.96,
       "end": 98.68,
       "matchedWords": 6,
-      "translation": "此外，雷切尔面试表现得很好。"
+      "translation": "此外，瑞秋的面试表现非常好。"
     },
     {
       "id": "line-14",
@@ -261,7 +261,7 @@
       "start": 98.68,
       "end": 101.6,
       "matchedWords": 9,
-      "translation": "我觉得她给人一种聪明伶俐的感觉。"
+      "translation": "我觉得她给人一种聪明伶俐、反应敏捷的感觉。"
     },
     {
       "id": "line-15",
@@ -287,7 +287,7 @@
       "start": 102.54,
       "end": 108.14,
       "matchedWords": 23,
-      "translation": "她问了一些关于职位和公司的很好问题，这让我觉得她对这份工作非常感兴趣。"
+      "translation": "她针对该职位和公司提出了一些非常好的问题，这让我觉得她对这份工作非常热衷。"
     },
     {
       "id": "line-17",
@@ -300,19 +300,19 @@
       "start": 108.14,
       "end": 110.1,
       "matchedWords": 4,
-      "translation": "我也这么想。"
+      "translation": "我也这么认为。"
     },
     {
       "id": "line-18",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "Now let's look at Peter's interview performance.",
+      "text": "Now let’s look at Peter’s interview performance.",
       "type": "dialogue",
-      "words": 7,
+      "words": 9,
       "start": 110.1,
       "end": 113.02,
-      "matchedWords": 7,
+      "matchedWords": 5,
       "translation": "现在让我们看看彼得的面试表现。"
     },
     {
@@ -326,7 +326,7 @@
       "start": 113.02,
       "end": 115.06,
       "matchedWords": 7,
-      "translation": "我觉得他也做得很好。"
+      "translation": "我觉得他也表现得非常好。"
     },
     {
       "id": "line-20",
@@ -337,21 +337,21 @@
       "type": "dialogue",
       "words": 7,
       "start": 115.06,
-      "end": 118.12,
+      "end": 118.28,
       "matchedWords": 7,
-      "translation": "他给人一种恭敬且专业的印象。"
+      "translation": "他给人留下的印象是礼貌且专业。"
     },
     {
       "id": "line-21",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "Wouldn't you say?",
+      "text": "Wouldn’t you say?",
       "type": "dialogue",
-      "words": 3,
-      "start": 118.12,
+      "words": 4,
+      "start": 118.28,
       "end": 119.48,
-      "matchedWords": 3,
+      "matchedWords": 2,
       "translation": "你不觉得吗？"
     },
     {
@@ -365,7 +365,7 @@
       "start": 119.48,
       "end": 122.82,
       "matchedWords": 8,
-      "translation": "沉着冷静，以他的年纪来说非常成熟。"
+      "translation": "沉着稳重，以他的年纪来说非常成熟。"
     },
     {
       "id": "line-23",
@@ -391,7 +391,7 @@
       "start": 123.8,
       "end": 128.52,
       "matchedWords": 15,
-      "translation": "在我的笔记中，我写道他看起来很镇定，能控制自己的情绪。"
+      "translation": "在我的笔记中，我写道他看起来很镇定，情绪控制得很好。"
     },
     {
       "id": "line-25",
@@ -404,7 +404,7 @@
       "start": 128.52,
       "end": 130.84,
       "matchedWords": 9,
-      "translation": "我觉得他肯定看起来比雷切尔更成熟。"
+      "translation": "我认为他确实比瑞秋看起来更成熟。"
     },
     {
       "id": "line-26",
@@ -430,7 +430,7 @@
       "start": 132.72,
       "end": 144.3,
       "matchedWords": 26,
-      "translation": "所以我们都同意雷切尔显得缺乏经验，不如彼得成熟，尽管两位候选人年龄相同，而且几乎都没有工作经验。"
+      "translation": "所以我们一致认为瑞秋显得缺乏经验，不如彼得成熟，尽管这两位候选人年龄相同，且几乎都没有工作经验。"
     },
     {
       "id": "line-28",
@@ -443,7 +443,7 @@
       "start": 144.3,
       "end": 149.4,
       "matchedWords": 13,
-      "translation": "当并排比较他们时，是的，彼得不知何故显得更自信。"
+      "translation": "如果把他们并排比较，是的，彼得不知为何显得更自信一些。"
     },
     {
       "id": "line-29",
@@ -456,7 +456,7 @@
       "start": 149.4,
       "end": 151.94,
       "matchedWords": 8,
-      "translation": "也许是关于他们的肢体语言。"
+      "translation": "也许这与他们的肢体语言有关。"
     },
     {
       "id": "line-30",
@@ -521,7 +521,7 @@
       "start": 156.88,
       "end": 159.26,
       "matchedWords": 9,
-      "translation": "老实说，我觉得我更喜欢雷切尔。"
+      "translation": "老实说，我觉得我更喜欢瑞秋。"
     },
     {
       "id": "line-35",
@@ -547,20 +547,20 @@
       "start": 161.24,
       "end": 162.88,
       "matchedWords": 5,
-      "translation": "我觉得我喜欢彼得。"
+      "translation": "我觉得我更喜欢彼得。"
     },
     {
       "id": "line-37",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
-      "text": "Ah, well, if there's a tie and we can't come to an agreement, then we'll take it to John and let him cast the deciding vote.",
+      "text": "Ah, well, if there’s a tie and we can’t come to an agreement, then we’ll take it to John and let him cast the deciding vote.",
       "type": "dialogue",
-      "words": 26,
+      "words": 29,
       "start": 162.88,
       "end": 177.42,
-      "matchedWords": 26,
-      "translation": "啊，好吧，如果出现了平局且我们无法达成一致，那我们就把它交给约翰，让他投下决定性的一票。"
+      "matchedWords": 23,
+      "translation": "啊，好吧，如果僵持不下，我们无法达成一致，那我们就去找约翰，让他投出决定性的一票。"
     },
     {
       "id": "line-38",
@@ -573,7 +573,7 @@
       "start": 177.42,
       "end": 195.48,
       "matchedWords": 12,
-      "translation": "为什么这个男人认为很难做出决定？"
+      "translation": "为什么男人认为很难做出决定？"
     },
     {
       "id": "line-39",
@@ -586,7 +586,7 @@
       "start": 195.48,
       "end": 212.94,
       "matchedWords": 9,
-      "translation": "说话者说什么是值得注意的？"
+      "translation": "说话者说有什么可能值得注意？"
     },
     {
       "id": "line-40",
@@ -597,48 +597,48 @@
       "type": "question",
       "words": 16,
       "start": 212.94,
-      "end": 232.94,
+      "end": 232.858,
       "matchedWords": 16,
-      "translation": "根据这个男人的说法，什么可能解释彼得显得比雷切尔更自信？"
+      "translation": "根据男人的说法，什么原因可能导致彼得看起来比瑞秋更自信？"
     },
     {
       "id": "line-41",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q4.",
-      "text": "What does the man say they will do if they can't reach an agreement?",
+      "text": "What does the man say they will do if they can’t reach an agreement?",
       "type": "question",
-      "words": 14,
-      "start": 232.94,
-      "end": 251.34,
+      "words": 15,
+      "start": 232.858,
+      "end": 251.98,
       "matchedWords": 0,
-      "translation": "这个男人说如果他们不能达成一致，他们会怎么做？"
+      "translation": "男人说如果他们不能达成协议，他们会怎么做？"
     },
     {
       "id": "line-42",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "We're here with Clementine Ortega, head designer of the private fashion label L'Orange, to discuss her latest collection.",
+      "text": "We’re here with Clémentine Ortega, head designer of the private fashion label L’Orange, to discuss her latest collection.",
       "type": "dialogue",
-      "words": 18,
-      "start": 251.34,
+      "words": 21,
+      "start": 251.98,
       "end": 260.12,
-      "matchedWords": 17,
-      "translation": "我们在这里采访私人时尚品牌L'Orange的首席设计师克莱门汀·奥尔特加，讨论她的最新系列。"
+      "matchedWords": 15,
+      "translation": "今天我们邀请到了私人时尚品牌 L’Orange 的首席设计师克莱门汀·奥尔特加（Clémentine Ortega），来讨论她的最新系列。"
     },
     {
       "id": "line-43",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "Ms Ortega, how would you describe this season's look?",
+      "text": "Ms Ortega, how would you describe this season’s look?",
       "type": "dialogue",
-      "words": 9,
+      "words": 10,
       "start": 260.12,
       "end": 263.98,
-      "matchedWords": 9,
-      "translation": "奥尔特加女士，你会如何描述这一季的造型？"
+      "matchedWords": 8,
+      "translation": "奥尔特加女士，您会如何描述这一季的风格？"
     },
     {
       "id": "line-44",
@@ -651,7 +651,7 @@
       "start": 263.98,
       "end": 272.02,
       "matchedWords": 22,
-      "translation": "老实说，我喜欢的风格一直偏向模棱两可，我认为这个系列更是如此。"
+      "translation": "老实说，我偏爱的风格一直带有模棱两可的色彩，我认为这个系列更是如此。"
     },
     {
       "id": "line-45",
@@ -664,7 +664,7 @@
       "start": 272.02,
       "end": 275.86,
       "matchedWords": 10,
-      "translation": "我试着不墨守社会规范和期望。"
+      "translation": "我试着不去固守社会规范 and 期望。"
     },
     {
       "id": "line-46",
@@ -677,7 +677,7 @@
       "start": 275.86,
       "end": 282.1,
       "matchedWords": 12,
-      "translation": "相反，我总是尝试在我的美学中融入一些略显荒诞的东西。"
+      "translation": "相反，我总是尝试在我的审美中融入一些略显荒诞的元素。"
     },
     {
       "id": "line-47",
@@ -690,7 +690,7 @@
       "start": 282.1,
       "end": 287.16,
       "matchedWords": 12,
-      "translation": "这一系列中的配饰组合对评论家产生了相当大的影响。"
+      "translation": "这个系列中的配饰组合对评论家产生了相当大的影响。"
     },
     {
       "id": "line-48",
@@ -703,7 +703,7 @@
       "start": 287.16,
       "end": 293.26,
       "matchedWords": 17,
-      "translation": "例如，在秀末展示的那件夺目的披肩让台下的许多观众感到困惑。"
+      "translation": "例如，在秀末展示的那件耀眼的斗篷，令观众席中的许多人感到困惑。"
     },
     {
       "id": "line-49",
@@ -729,7 +729,7 @@
       "start": 295.98,
       "end": 303.68,
       "matchedWords": 21,
-      "translation": "夏天，我游历了亚洲各地的农村山村，寻找手工艺品来装饰我的新工作室。"
+      "translation": "去年夏天，我游历了亚洲各地的偏远山村，寻找可以装饰我新工作室的手工艺品。"
     },
     {
       "id": "line-51",
@@ -749,13 +749,13 @@
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "I couldn't stop thinking about it.",
+      "text": "I couldn’t stop thinking about it.",
       "type": "dialogue",
-      "words": 6,
+      "words": 7,
       "start": 308.36,
       "end": 311.28,
-      "matchedWords": 6,
-      "translation": "我忍不住一直想着它。"
+      "matchedWords": 5,
+      "translation": "我忘不了那些刺绣。"
     },
     {
       "id": "line-53",
@@ -768,7 +768,7 @@
       "start": 311.28,
       "end": 314.52,
       "matchedWords": 9,
-      "translation": "尝试重现他们的设计本来会是徒劳的。"
+      "translation": "试图重现她们的设计本会是徒劳的。"
     },
     {
       "id": "line-54",
@@ -781,7 +781,7 @@
       "start": 314.52,
       "end": 318.46,
       "matchedWords": 8,
-      "translation": "所以相反，我采用了自己古怪的方法。"
+      "translation": "所以相反，我运用了我自己古怪的方法。"
     },
     {
       "id": "line-55",
@@ -794,7 +794,7 @@
       "start": 318.46,
       "end": 323.84,
       "matchedWords": 11,
-      "translation": "我用闪粉在天鹅绒披肩上画了类似、复杂的图案。"
+      "translation": "我用亮粉在天鹅绒斗篷上画出了类似的、错综复杂的图案。"
     },
     {
       "id": "line-56",
@@ -807,7 +807,7 @@
       "start": 323.84,
       "end": 327.76,
       "matchedWords": 12,
-      "translation": "这最终形成了结束秀的那个迷人、闪耀的造型。"
+      "translation": "这最终呈现出了为大秀收尾的迷人、闪耀的效果。"
     },
     {
       "id": "line-57",
@@ -820,7 +820,7 @@
       "start": 327.76,
       "end": 333.48,
       "matchedWords": 14,
-      "translation": "它确实非常庄严，而且我敢说同时还带有一种阳刚之气。"
+      "translation": "它确实非常宏伟，但同时，我敢说它也带有一种阳刚之气。"
     },
     {
       "id": "line-58",
@@ -859,7 +859,7 @@
       "start": 335.42,
       "end": 340.46,
       "matchedWords": 15,
-      "translation": "我喜欢将通常处于时尚光谱两端的风格融合在一起。"
+      "translation": "我喜欢融合那些通常处于时尚光谱两端的风格。"
     },
     {
       "id": "line-61",
@@ -872,7 +872,7 @@
       "start": 340.46,
       "end": 347.9,
       "matchedWords": 19,
-      "translation": "因此，这件闪亮的披肩搭配了一套你通常在商务场合看到的传统权力套装。"
+      "translation": "因此，这件闪亮的斗篷与一套通常在商务场合看到的传统权力套装相搭配。"
     },
     {
       "id": "line-62",
@@ -885,7 +885,7 @@
       "start": 347.9,
       "end": 351.24,
       "matchedWords": 9,
-      "translation": "如果不谦虚地说，这真是引起了轰动。"
+      "translation": "如果让我自己说的话，那是引起轰动的。"
     },
     {
       "id": "line-63",
@@ -898,7 +898,7 @@
       "start": 351.24,
       "end": 353.34,
       "matchedWords": 3,
-      "translation": "确实很壮观。"
+      "translation": "确实非常壮观。"
     },
     {
       "id": "line-64",
@@ -911,7 +911,7 @@
       "start": 353.34,
       "end": 355.78,
       "matchedWords": 5,
-      "translation": "这是一场全方位令人惊叹的秀。"
+      "translation": "整场秀都令人惊叹。"
     },
     {
       "id": "line-65",
@@ -924,20 +924,20 @@
       "start": 355.78,
       "end": 365.56,
       "matchedWords": 22,
-      "translation": "打破刻板印象，融入本土元素以及你潜在的标志性笔触，使这个系列成为了本季的宣言。"
+      "translation": "打破了刻板印象，土著元素的融入结合您标志性的风格，使这个系列成为了本季的一个宣言。"
     },
     {
       "id": "line-66",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "You have proven yourself a formidable young designer, and we can't wait to see what creations you come up with next.",
+      "text": "You have proven yourself a formidable young designer, and we can’t wait to see what creations you come up with next.",
       "type": "dialogue",
-      "words": 21,
+      "words": 22,
       "start": 365.56,
       "end": 379.16,
-      "matchedWords": 21,
-      "translation": "你已经证明了自己是一位令人敬畏的年轻设计师，我们迫不及待想看到你接下来会有什么样的创作。"
+      "matchedWords": 20,
+      "translation": "你已经证明了自己是一位令人敬畏的年轻设计师，我们迫不及待想看到你接下来的创作。"
     },
     {
       "id": "line-67",
@@ -963,7 +963,7 @@
       "start": 396.34,
       "end": 414.98,
       "matchedWords": 13,
-      "translation": "这个女人说她总是尝试在她的美学中融入什么？"
+      "translation": "这位女性说她总是尝试在她的审美中融入什么？"
     },
     {
       "id": "line-69",
@@ -976,7 +976,7 @@
       "start": 414.98,
       "end": 432.02,
       "matchedWords": 9,
-      "translation": "这个女人说她喜欢做什么？"
+      "translation": "这位女性说她喜欢做什么？"
     },
     {
       "id": "line-70",
@@ -989,20 +989,20 @@
       "start": 432.02,
       "end": 478.42,
       "matchedWords": 7,
-      "translation": "这个男人期待什么？"
+      "translation": "这位男性在期待什么？"
     },
     {
       "id": "line-71",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "Pet dogs can often readily understand a wide range of their owners' commands and gestures.",
+      "text": "Pet dogs can often readily understand a wide range of their owners’ commands and gestures.",
       "type": "narration",
       "words": 15,
       "start": 478.42,
       "end": 484.56,
       "matchedWords": 15,
-      "translation": "宠物狗通常能轻易理解主人的各种命令和手势。"
+      "translation": "宠物狗通常能轻易理解主人的一系列指令和手势。"
     },
     {
       "id": "line-72",
@@ -1015,7 +1015,7 @@
       "start": 484.56,
       "end": 490.44,
       "matchedWords": 12,
-      "translation": "但这些能力是天生的，还是仅仅通过训练学到的？"
+      "translation": "但这些能力是天生的，还是完全通过训练学到的呢？"
     },
     {
       "id": "line-73",
@@ -1041,7 +1041,7 @@
       "start": 496.4,
       "end": 508.08,
       "matchedWords": 22,
-      "translation": "研究显示，80%的参与犬只尽管从未接受过事先训练，但仍成功地跟随指向手势到达了特定位置。"
+      "translation": "研究显示，80% 的参与犬只在从未接受过先前训练的情况下，成功遵循指向手势到达了特定地点。"
     },
     {
       "id": "line-75",
@@ -1054,7 +1054,7 @@
       "start": 508.08,
       "end": 514.78,
       "matchedWords": 13,
-      "translation": "结果表明，狗只需观察人类就能理解复杂的手势。"
+      "translation": "结果表明，狗只需通过观察人类就能理解复杂的手势。"
     },
     {
       "id": "line-76",
@@ -1067,7 +1067,7 @@
       "start": 514.78,
       "end": 521.36,
       "matchedWords": 12,
-      "translation": "这可能对减少流浪狗与人类之间的冲突具有重要意义。"
+      "translation": "这可能对减少流浪狗与人类之间的冲突具有启发意义。"
     },
     {
       "id": "line-77",
@@ -1080,7 +1080,7 @@
       "start": 521.36,
       "end": 526.14,
       "matchedWords": 10,
-      "translation": "狗在1万到1.5万年前被驯化。"
+      "translation": "狗在 10,000 到 15,000 年前被驯化。"
     },
     {
       "id": "line-78",
@@ -1093,7 +1093,7 @@
       "start": 526.14,
       "end": 531.68,
       "matchedWords": 12,
-      "translation": "这意味着它们可能是地球上最古老的驯化动物。"
+      "translation": "这意味着它们可能是地球上最古老的驯养动物。"
     },
     {
       "id": "line-79",
@@ -1106,7 +1106,7 @@
       "start": 531.68,
       "end": 539.8,
       "matchedWords": 20,
-      "translation": "人类随后培育出具有最理想和有用特征的狗，以便它们能充当伴侣和劳动者。"
+      "translation": "人类随后繁育了具有最理想和有用特征的狗，使它们能够充当伴侣和劳动者。"
     },
     {
       "id": "line-80",
@@ -1119,7 +1119,7 @@
       "start": 539.8,
       "end": 546.6,
       "matchedWords": 14,
-      "translation": "这导致了对人类命令和手势高度反应的驯化犬。"
+      "translation": "这导致驯养后的狗对人类的指令和手势具有高度的反应能力。"
     },
     {
       "id": "line-81",
@@ -1132,7 +1132,7 @@
       "start": 546.6,
       "end": 555.08,
       "matchedWords": 19,
-      "translation": "然而，目前尚不清楚狗是仅通过训练理解我们，还是这是一种固有的能力。"
+      "translation": "然而，目前尚不清楚狗是通过训练才理解我们，还是这是一种固有的能力。"
     },
     {
       "id": "line-82",
@@ -1145,7 +1145,7 @@
       "start": 555.08,
       "end": 557.3,
       "matchedWords": 4,
-      "translation": "这为什么重要？"
+      "translation": "为什么这很重要？"
     },
     {
       "id": "line-83",
@@ -1165,13 +1165,13 @@
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "They may observe and occasionally interact with people, but such dogs have never been trained and are behaviorally \"wild\".",
+      "text": "They may observe and occasionally interact with people, but such dogs have never been trained and are behaviorally “wild”.",
       "type": "narration",
       "words": 19,
       "start": 560.94,
       "end": 570.0,
       "matchedWords": 19,
-      "translation": "它们可能会观察并偶尔与人互动，但这些狗从未接受过训练，行为上是“野生的”。"
+      "translation": "它们可能会观察并偶尔与人互动，但这类狗从未接受过训练，在行为上是“野生的”。"
     },
     {
       "id": "line-85",
@@ -1191,13 +1191,13 @@
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "Understanding how humans shape stray dogs' behavior may help alleviate this problem.",
+      "text": "Understanding how humans shape stray dogs’ behavior may help alleviate this problem.",
       "type": "narration",
       "words": 12,
       "start": 574.96,
       "end": 581.5,
       "matchedWords": 12,
-      "translation": "了解人类如何塑造流浪狗的行为可能有助于缓解这一问题。"
+      "translation": "了解人类如何塑造流浪狗的行为可能有助于缓解这个问题。"
     },
     {
       "id": "line-87",
@@ -1230,16 +1230,29 @@
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "\"Treating stray dogs with sensitivity and respect and giving them space,\" the researchers assert, \"can reduce much conflict.\"",
+      "text": "“Treating stray dogs with sensitivity and respect and giving them space,” the researchers assert, “can reduce much conflict.",
       "type": "narration",
       "words": 18,
       "start": 592.92,
-      "end": 607.5,
+      "end": 604.849,
       "matchedWords": 16,
-      "translation": "研究人员断言：“以敏感和尊重的态度对待流浪狗，并给它们空间，可以减少很多冲突。”"
+      "translation": "研究人员断言：“敏感且尊重地对待流浪狗并给予它们空间，可以减少许多冲突。”"
     },
     {
       "id": "line-90",
+      "sectionId": "passage-1",
+      "sectionTitle": "PASSAGE 1",
+      "speaker": "",
+      "text": "”",
+      "type": "narration",
+      "words": 1,
+      "start": 604.849,
+      "end": 607.5,
+      "matchedWords": 0,
+      "translation": "”"
+    },
+    {
+      "id": "line-91",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q9.",
@@ -1249,10 +1262,10 @@
       "start": 607.5,
       "end": 628.36,
       "matchedWords": 14,
-      "translation": "文章关于这项新研究中80%的参与犬只说了什么？"
+      "translation": "关于这项新研究中 80% 的参与犬只，文章说了什么？"
     },
     {
-      "id": "line-91",
+      "id": "line-92",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q10.",
@@ -1265,7 +1278,7 @@
       "translation": "什么可能有助于缓解由流浪狗引起的问题？"
     },
     {
-      "id": "line-92",
+      "id": "line-93",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q11.",
@@ -1278,7 +1291,7 @@
       "translation": "研究人员建议我们做什么来减少流浪狗与人类之间的冲突？"
     },
     {
-      "id": "line-93",
+      "id": "line-94",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1288,10 +1301,10 @@
       "start": 667.46,
       "end": 672.0,
       "matchedWords": 12,
-      "translation": "认为你的冰箱只是一个装着均匀冷空气的大盒子吗？"
+      "translation": "你认为你的冰箱只是一个装着均匀冷空气的大盒子吗？"
     },
     {
-      "id": "line-94",
+      "id": "line-95",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1304,7 +1317,7 @@
       "translation": "并非如此！"
     },
     {
-      "id": "line-95",
+      "id": "line-96",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1314,10 +1327,10 @@
       "start": 673.2,
       "end": 681.36,
       "matchedWords": 19,
-      "translation": "普通冰箱内部的温度实际上从前到后、从下到上以及其间的每个角落都在变化。"
+      "translation": "普通冰箱内部的温度实际上从前到后、从底到顶以及中间的各个角落都不尽相同。"
     },
     {
-      "id": "line-96",
+      "id": "line-97",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1327,10 +1340,10 @@
       "start": 681.36,
       "end": 688.92,
       "matchedWords": 16,
-      "translation": "正因为如此，在电器中放置食品的位置比你可能意识到的要重要得多。"
+      "translation": "正因为如此，食物在设备内的摆放位置比你想象的要重要得多。"
     },
     {
-      "id": "line-97",
+      "id": "line-98",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1340,10 +1353,10 @@
       "start": 688.92,
       "end": 696.94,
       "matchedWords": 20,
-      "translation": "现代冰箱的全部目的是减缓细菌的生长，细菌在4摄氏度的温度下茁壮成长。"
+      "translation": "现代冰箱的全部目的就是减缓细菌的生长，细菌在 4.4 到 60 摄氏度的温度下会大量繁殖。"
     },
     {
-      "id": "line-98",
+      "id": "line-99",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1353,10 +1366,10 @@
       "start": 696.94,
       "end": 700.46,
       "matchedWords": 3,
-      "translation": "4到60摄氏度。"
+      "translation": "4.4 到 60 °C。"
     },
     {
-      "id": "line-99",
+      "id": "line-100",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1366,10 +1379,10 @@
       "start": 700.46,
       "end": 709.3,
       "matchedWords": 18,
-      "translation": "因此，冰箱通常设置为等于或低于该下限，以保护食品免受细菌侵害。"
+      "translation": "因此，为了保护食物免受细菌侵害，冰箱通常设置在这个低温端或更低。"
     },
     {
-      "id": "line-100",
+      "id": "line-101",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1379,36 +1392,36 @@
       "start": 709.3,
       "end": 721.76,
       "matchedWords": 29,
-      "translation": "虽然花时间整理冰箱似乎会破坏你的一天，但这样做实际上会让它更人性化、更容易清洁，并更注重食品安全。"
-    },
-    {
-      "id": "line-101",
-      "sectionId": "passage-2",
-      "sectionTitle": "PASSAGE 2",
-      "speaker": "",
-      "text": "Those little bins on the inside of refrigerator doors are convenient, but they don't maintain a consistent temperature, so definitely refrain from putting perishable foods in there.",
-      "type": "narration",
-      "words": 27,
-      "start": 721.76,
-      "end": 733.34,
-      "matchedWords": 26,
-      "translation": "冰箱门内侧的那些小格子很方便，但它们无法保持恒定的温度，所以绝对不要把易腐食品放在那里。"
+      "translation": "虽然花时间整理冰箱似乎会破坏你一天的心情，但这样做实际上会让它更便于使用、更容易清洁且更具食品安全意识。"
     },
     {
       "id": "line-102",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "The top area is not as cold as the bottom of the fridge, so save it for the foods that don't need extra-chilly temperatures.",
+      "text": "Those little bins on the inside of refrigerator doors are convenient, but they don’t maintain a consistent temperature, so definitely refrain from putting perishable foods in there.",
       "type": "narration",
-      "words": 25,
-      "start": 733.34,
-      "end": 741.72,
+      "words": 28,
+      "start": 721.76,
+      "end": 733.34,
       "matchedWords": 25,
-      "translation": "顶部区域没有冰箱底部那么冷，所以把它留给不需要额外低温的食物。"
+      "translation": "冰箱门内侧的小格子很方便，但它们无法保持稳定的温度，所以绝对不要把易变质的食物放在那里。"
     },
     {
       "id": "line-103",
+      "sectionId": "passage-2",
+      "sectionTitle": "PASSAGE 2",
+      "speaker": "",
+      "text": "The top area is not as cold as the bottom of the fridge, so save it for the foods that don’t need extra-chilly temperatures.",
+      "type": "narration",
+      "words": 26,
+      "start": 733.34,
+      "end": 741.72,
+      "matchedWords": 24,
+      "translation": "顶部区域没有冰箱底部那么冷，所以把它留给那些不需要额外低温的食物。"
+    },
+    {
+      "id": "line-104",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1421,7 +1434,7 @@
       "translation": "将即食或已煮熟的食物存放在顶层架子上。"
     },
     {
-      "id": "line-104",
+      "id": "line-105",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1434,7 +1447,7 @@
       "translation": "中间架子是冰箱中温度控制最稳定的部分，所以把鸡蛋放在这里。"
     },
     {
-      "id": "line-105",
+      "id": "line-106",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1444,23 +1457,23 @@
       "start": 753.28,
       "end": 760.02,
       "matchedWords": 19,
-      "translation": "如果你顶层空间不够了，饮料和预制食品也可以放在中间架子上。"
+      "translation": "如果你顶层空间不够用了，饮料和预制食物也可以放在中间架子。"
     },
     {
-      "id": "line-106",
+      "id": "line-107",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "The back of the bottom shelf is the coldest spot in the fridge, so store perishable dairy products here to keep them edible longer.",
+      "text": "The back of the bottom shelf is the coldest spot in the fridge, so store perishable dairy products here to keep them edible, longer.",
       "type": "narration",
       "words": 24,
       "start": 760.02,
       "end": 769.1,
       "matchedWords": 24,
-      "translation": "底层架子的后部是冰箱中最冷的地方，所以在这里存放易腐烂的乳制品，可以延长它们的保质期。"
+      "translation": "底层架子的里侧是冰箱里最冷的地方，所以把易变质的乳制品存放在这里，让它们能保质更久。"
     },
     {
-      "id": "line-107",
+      "id": "line-108",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1470,10 +1483,10 @@
       "start": 769.1,
       "end": 784.0,
       "matchedWords": 19,
-      "translation": "永远不要在这里存放含水量高的食物，因为其中的水分可以而且一定会结冰，实际上会毁掉它们。"
+      "translation": "千万不要在这里存放含水量高的食物，因为其中的水分可以而且一定会结冰，从而毁掉这些食物。"
     },
     {
-      "id": "line-108",
+      "id": "line-109",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q12.",
@@ -1483,10 +1496,10 @@
       "start": 784.0,
       "end": 803.6,
       "matchedWords": 10,
-      "translation": "为什么在冰箱内放置食品的位置非常重要？"
+      "translation": "为什么食物在冰箱里的摆放位置非常重要？"
     },
     {
-      "id": "line-109",
+      "id": "line-110",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q13.",
@@ -1499,7 +1512,7 @@
       "translation": "文章说现代冰箱的全部目的是什么？"
     },
     {
-      "id": "line-110",
+      "id": "line-111",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q14.",
@@ -1509,10 +1522,10 @@
       "start": 822.7,
       "end": 841.06,
       "matchedWords": 10,
-      "translation": "我们应该把已经煮熟的食物存放在冰箱的哪里？"
+      "translation": "冰箱里应该把已经煮熟的食物存放在哪里？"
     },
     {
-      "id": "line-111",
+      "id": "line-112",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q15.",
@@ -1522,10 +1535,10 @@
       "start": 841.06,
       "end": 887.26,
       "matchedWords": 17,
-      "translation": "为什么我们永远不应该在底层架子的后部存放含水量高的食物？"
+      "translation": "为什么我们永远不应该在底层架子的里侧存放含水量高的食物？"
     },
     {
-      "id": "line-112",
+      "id": "line-113",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1535,10 +1548,10 @@
       "start": 887.26,
       "end": 894.38,
       "matchedWords": 16,
-      "translation": "我目前的研究主要关注压力等因素及其对我们免疫系统的影响。"
+      "translation": "我目前的研究主要关注压力等因素，以及它如何影响我们的免疫系统。"
     },
     {
-      "id": "line-113",
+      "id": "line-114",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1548,10 +1561,10 @@
       "start": 894.38,
       "end": 901.68,
       "matchedWords": 20,
-      "translation": "所以我目前非常兴奋的项目是关于老年人以及对他们很重要的因素。"
+      "translation": "所以我现在非常兴奋的研究项目是观察老年人以及对他们来说很重要的因素。"
     },
     {
-      "id": "line-114",
+      "id": "line-115",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1561,10 +1574,10 @@
       "start": 901.68,
       "end": 910.8,
       "matchedWords": 23,
-      "translation": "在一个项目中，我们正在研究老年人的髋部骨折（这是一种常见事件），并试图了解抑郁症的影响。"
+      "translation": "在一个项目中，我们正在观察老年人的髋部骨折（这是一个常见事件），并试图了解抑郁症的影响。"
     },
     {
-      "id": "line-115",
+      "id": "line-116",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1574,10 +1587,10 @@
       "start": 910.8,
       "end": 921.36,
       "matchedWords": 28,
-      "translation": "髋部骨折住院的人通常会产生抑郁，这些人随后会比其他人更快地变得虚弱。"
+      "translation": "通常医院里患有髋部骨折的人会产生抑郁情绪，而这些人随后变得衰弱的速度比其他人快得多。"
     },
     {
-      "id": "line-116",
+      "id": "line-117",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1590,20 +1603,20 @@
       "translation": "他们会受到感染；通常，这些感染会导致死亡。"
     },
     {
-      "id": "line-117",
+      "id": "line-118",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "So we're trying to slow down that progression to feebleness.",
+      "text": "So we’re trying to slow down that progression to feebleness.",
       "type": "narration",
-      "words": 10,
+      "words": 11,
       "start": 925.84,
       "end": 930.04,
-      "matchedWords": 10,
-      "translation": "所以我们正试图减缓向虚弱发展的进程。"
+      "matchedWords": 9,
+      "translation": "所以我们正试图减缓这种向衰弱发展的过程。"
     },
     {
-      "id": "line-118",
+      "id": "line-119",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1613,10 +1626,10 @@
       "start": 930.04,
       "end": 937.22,
       "matchedWords": 19,
-      "translation": "因此，如果我们能更好地理解这些因素是如何相互作用的，那么我们实际上就可以开始采取行动了。"
+      "translation": "因此，如果我们能更好地理解这些因素是如何相互作用的，那么我们就能真正开始为此做点什么。"
     },
     {
-      "id": "line-119",
+      "id": "line-120",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1629,33 +1642,33 @@
       "translation": "我的研究在伯明翰产生的影响，首先显然是针对老年人的，因为正是这些人正在经历髋部骨折并产生抑郁。"
     },
     {
-      "id": "line-120",
-      "sectionId": "recording-1",
-      "sectionTitle": "RECORDING 1",
-      "speaker": "",
-      "text": "And we're trying to improve their health and their quality of life.",
-      "type": "narration",
-      "words": 12,
-      "start": 949.32,
-      "end": 953.64,
-      "matchedWords": 12,
-      "translation": "我们正在努力改善他们的健康和生活质量。"
-    },
-    {
       "id": "line-121",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "But this isn't just a problem in Birmingham or even in the UK.",
+      "text": "And we’re trying to improve their health and their quality of life.",
       "type": "narration",
       "words": 13,
-      "start": 953.64,
-      "end": 958.44,
-      "matchedWords": 13,
-      "translation": "但这不仅仅是伯明翰甚至英国的问题。"
+      "start": 949.32,
+      "end": 953.64,
+      "matchedWords": 11,
+      "translation": "我们正试图改善他们的健康和生活质量。"
     },
     {
       "id": "line-122",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "But this isn’t just a problem in Birmingham or even in the UK.",
+      "type": "narration",
+      "words": 14,
+      "start": 953.64,
+      "end": 958.44,
+      "matchedWords": 12,
+      "translation": "但这不仅仅是伯明翰甚至英国的问题。"
+    },
+    {
+      "id": "line-123",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1668,7 +1681,7 @@
       "translation": "这是一个全球性的问题。"
     },
     {
-      "id": "line-123",
+      "id": "line-124",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1681,33 +1694,33 @@
       "translation": "人口正在老龄化。"
     },
     {
-      "id": "line-124",
-      "sectionId": "recording-1",
-      "sectionTitle": "RECORDING 1",
-      "speaker": "",
-      "text": "There're a lot more people in the older generation who are living for longer, but not necessarily staying healthy for a large part of their lives.",
-      "type": "narration",
-      "words": 26,
-      "start": 962.32,
-      "end": 971.32,
-      "matchedWords": 25,
-      "translation": "老一代的人活得更长了，但在生命的大部分时间里并不一定保持健康。"
-    },
-    {
       "id": "line-125",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "So the last part of their life can often be full of ill health and we're trying to understand factors that can contribute to the quality of life later on.",
+      "text": "There’re a lot more people in the older generation who are living for longer, but not necessarily staying healthy for a large part of their lives.",
       "type": "narration",
-      "words": 30,
-      "start": 971.32,
-      "end": 981.94,
-      "matchedWords": 30,
-      "translation": "因此，他们生命的最后一部分往往充满了疾病，而我们正在努力理解有助于晚年生活质量的因素。"
+      "words": 27,
+      "start": 962.32,
+      "end": 971.32,
+      "matchedWords": 25,
+      "translation": "老年一代的人数多得多，寿命也更长，但在他们生活的大部分时间里，身体并不一定保持健康。"
     },
     {
       "id": "line-126",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "So the last part of their life can often be full of ill health and we’re trying to understand factors that can contribute to the quality of life later on.",
+      "type": "narration",
+      "words": 31,
+      "start": 971.32,
+      "end": 981.94,
+      "matchedWords": 29,
+      "translation": "所以他们生命的最后一部分往往饱受疾病困扰，而我们正试图了解能够有助于提高晚年生活质量的因素。"
+    },
+    {
+      "id": "line-127",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1717,631 +1730,903 @@
       "start": 981.94,
       "end": 987.62,
       "matchedWords": 18,
-      "translation": "我想，关于我的研究，最让我兴奋的是它感觉很真实且息息相关。"
-    },
-    {
-      "id": "line-127",
-      "sectionId": "recording-1",
-      "sectionTitle": "RECORDING 1",
-      "speaker": "",
-      "text": "Lots of academics are probably very excited about their research, but it might not have an immediate impact on people's lives.",
-      "type": "narration",
-      "words": 21,
-      "start": 987.62,
-      "end": 998.787,
-      "matchedWords": 15,
-      "translation": "许多学者可能对他们的研究感到非常兴奋，但它可能不会对人们的生活产生立竿见影的影响。"
+      "translation": "我认为关于我的研究最让我兴奋的是它感觉很真实且息息相关。"
     },
     {
       "id": "line-128",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Whereas our research, if we can find something that works, we can actually implement it and make a difference to people's lives pretty quickly.",
+      "text": "Lots of academics are probably very excited about their research, but it might not be that relevant to those around them.",
       "type": "narration",
-      "words": 24,
-      "start": 998.787,
-      "end": 1011.549,
-      "matchedWords": 0,
-      "translation": "而我们的研究，如果我们能找到行之有效的方法，我们实际上可以实施它并很快改变人们的生活。"
+      "words": 21,
+      "start": 987.62,
+      "end": 996.08,
+      "matchedWords": 21,
+      "translation": "许多学者可能对他们的研究非常兴奋，但这可能与他们周围的人没有那么大的关系。"
     },
     {
       "id": "line-129",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "And that's what really drives me.",
+      "text": "Whereas I feel that the work I do is relevant to everyone, because everyone is aging.",
       "type": "narration",
-      "words": 6,
-      "start": 1011.549,
-      "end": 1014.74,
-      "matchedWords": 0,
-      "translation": "这就是真正驱使我的动力。"
+      "words": 16,
+      "start": 996.08,
+      "end": 1002.12,
+      "matchedWords": 16,
+      "translation": "而我觉得我所做的工作与每个人都有关，因为每个人都在变老。"
     },
     {
       "id": "line-130",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "I also think that by combining multiple perspectives—we have people from medicine, psychology, sociology, and engineering all working together on this project—we can get a much better understanding of the problem than if we were just working in one discipline.",
+      "text": "Health is an issue for everyone, regardless of their age.",
       "type": "narration",
-      "words": 42,
-      "start": 1014.74,
-      "end": 1036.174,
-      "matchedWords": 5,
-      "translation": "我还认为，通过结合多种视角——我们的项目中医生、心理学、社会学和工程学的人员共同工作——我们能比仅在单一学科工作更好地理解问题。"
+      "words": 10,
+      "start": 1002.12,
+      "end": 1005.52,
+      "matchedWords": 10,
+      "translation": "健康对每个人来说都是个问题，无论年龄大小。"
     },
     {
       "id": "line-131",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
-      "speaker": "Q16.",
-      "text": "What is the speaker's current research mainly looking at?",
-      "type": "question",
-      "words": 9,
-      "start": 1036.174,
-      "end": 1045.36,
-      "matchedWords": 0,
-      "translation": "说话者目前的研究主要关注什么？"
+      "speaker": "",
+      "text": "And what I’m trying to do is understand the factors that affect health and how we can improve the quality of life and people.",
+      "type": "narration",
+      "words": 25,
+      "start": 1005.52,
+      "end": 1013.36,
+      "matchedWords": 22,
+      "translation": "我试图做的是了解影响健康的因素，以及我们如何提高人们的生活质量。"
     },
     {
       "id": "line-132",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
-      "speaker": "Q17.",
-      "text": "What excites the speaker most about her research?",
-      "type": "question",
-      "words": 8,
-      "start": 1045.36,
-      "end": 1082.06,
-      "matchedWords": 7,
-      "translation": "关于她的研究，什么让说话者最兴奋？"
+      "speaker": "",
+      "text": "So that’s one of the things that really excites me about it.",
+      "type": "narration",
+      "words": 13,
+      "start": 1013.36,
+      "end": 1017.98,
+      "matchedWords": 11,
+      "translation": "所以这是真正让我兴奋的事情之一。"
     },
     {
       "id": "line-133",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
-      "speaker": "Q18.",
-      "text": "How can the speaker's team get a better understanding of the problem?",
-      "type": "question",
-      "words": 12,
-      "start": 1082.06,
-      "end": 1129.12,
-      "matchedWords": 4,
-      "translation": "说话者的团队如何能更好地理解这个问题？"
+      "speaker": "",
+      "text": "One of the other things is rather than just taking one perspective — so rather than looking at aging and health just from the perspective of the psychologist — we are now bringing together a lot of different techniques and a lot of different viewpoints to actually look at the sort of different factors affecting health.",
+      "type": "narration",
+      "words": 54,
+      "start": 1017.98,
+      "end": 1045.36,
+      "matchedWords": 54,
+      "translation": "另一件事是，我们不再仅仅采用单一的视角——不再仅仅从心理学家的角度来看待衰老和健康——我们现在汇集了许多不同的技术和许多不同的观点，来真正审视影响健康的各种不同因素。"
     },
     {
       "id": "line-134",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "Cooking schools are great for teaching you how to make a delicious meal, but they don't teach you basic organization.",
-      "type": "narration",
-      "words": 20,
-      "start": 1129.12,
-      "end": 1146.632,
-      "matchedWords": 4,
-      "translation": "烹饪学校擅长教你如何做出美味佳肴，但它们不教你基本的组织能力。"
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "Q16.",
+      "text": "What does the speaker say is quite common among older people?",
+      "type": "question",
+      "words": 11,
+      "start": 1045.36,
+      "end": 1063.82,
+      "matchedWords": 11,
+      "translation": "说话者说在老年人中什么是非常普遍的？"
     },
     {
       "id": "line-135",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "And that's a problem, because being organized is essential for being a good cook.",
-      "type": "narration",
-      "words": 14,
-      "start": 1146.632,
-      "end": 1158.89,
-      "matchedWords": 0,
-      "translation": "这是一个问题，因为有条理对于成为一名出色的厨师至关重要。"
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "Q17.",
+      "text": "What does the speaker think excites her most about her research?",
+      "type": "question",
+      "words": 11,
+      "start": 1063.82,
+      "end": 1082.06,
+      "matchedWords": 11,
+      "translation": "说话者认为关于她的研究最让她兴奋的是什么？"
     },
     {
       "id": "line-136",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "When you're organized, you can work more efficiently, avoid mistakes, and enjoy the cooking process more.",
-      "type": "narration",
-      "words": 16,
-      "start": 1158.89,
-      "end": 1172.9,
-      "matchedWords": 0,
-      "translation": "当你井井有条时，你可以更高效地工作，避免错误，并更享受烹饪过程。"
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "Q18.",
+      "text": "How does the speaker approach her research project?",
+      "type": "question",
+      "words": 8,
+      "start": 1082.06,
+      "end": 1100.1,
+      "matchedWords": 8,
+      "translation": "说话者是如何开展她的研究项目的？"
     },
     {
       "id": "line-137",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "For professional chefs, organization is a way of life.",
+      "text": "Americans are obsessed with celebrity chefs.",
       "type": "narration",
-      "words": 9,
-      "start": 1172.9,
-      "end": 1178.32,
-      "matchedWords": 4,
-      "translation": "对于专业厨师来说，有条理是一种生活方式。"
+      "words": 6,
+      "start": 1100.1,
+      "end": 1102.96,
+      "matchedWords": 6,
+      "translation": "美国人痴迷于明星厨师。"
     },
     {
       "id": "line-138",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "They call it \"mise en place\", which means \"everything in its place\".",
+      "text": "We talk about them and try to eat like them.",
       "type": "narration",
-      "words": 12,
-      "start": 1178.32,
-      "end": 1183.996,
-      "matchedWords": 6,
-      "translation": "他们称之为“mise en place”，意思是“一切就绪”。"
+      "words": 10,
+      "start": 1102.96,
+      "end": 1106.9,
+      "matchedWords": 10,
+      "translation": "我们谈论他们，并试图模仿他们的饮食方式。"
     },
     {
       "id": "line-139",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Before they start cooking, they prepare all of their ingredients, measure them out, and arrange them in order of use.",
+      "text": "But could we learn something more from them than recipes and techniques?",
       "type": "narration",
-      "words": 20,
-      "start": 1183.996,
-      "end": 1193.456,
-      "matchedWords": 0,
-      "translation": "在开始烹饪之前，他们准备好所有的配料，称量好，并按使用顺序排列。"
+      "words": 12,
+      "start": 1106.9,
+      "end": 1112.12,
+      "matchedWords": 12,
+      "translation": "但除了菜谱和技巧，我们还能从他们身上学到更多东西吗？"
     },
     {
       "id": "line-140",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "This allows them to work quickly and smoothly, without having to stop and look for things.",
+      "text": "According to Marketdata Enterprises, Americans spend nearly $10 billion a year on self-help and personal organization products.",
       "type": "narration",
-      "words": 16,
-      "start": 1193.456,
-      "end": 1201.024,
-      "matchedWords": 0,
-      "translation": "这使他们能够快速顺畅地工作，而不必停下来寻找东西。"
+      "words": 18,
+      "start": 1112.12,
+      "end": 1121.16,
+      "matchedWords": 17,
+      "translation": "根据 Marketdata Enterprises 的数据，美国人每年在自助和个人整理产品上的花费接近 100 亿美元。"
     },
     {
       "id": "line-141",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Home cooks can benefit from adopting the same approach.",
+      "text": "The market is huge, partly because most colleges and graduate schools don’t teach basic organization.",
       "type": "narration",
-      "words": 9,
-      "start": 1201.024,
-      "end": 1205.281,
-      "matchedWords": 0,
-      "translation": "家庭厨师也可以从采用同样的方法中受益。"
+      "words": 16,
+      "start": 1121.16,
+      "end": 1128.78,
+      "matchedWords": 14,
+      "translation": "这个市场巨大，部分原因是大多数大学和研究生院不教授基础的整理。"
     },
     {
       "id": "line-142",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "By taking a few minutes to organize your ingredients and tools before you start cooking, you can save a lot of time and frustration.",
+      "text": "But cooking schools and professional kitchens do.",
       "type": "narration",
-      "words": 24,
-      "start": 1205.281,
-      "end": 1216.633,
-      "matchedWords": 0,
-      "translation": "在开始烹饪之前花几分钟整理配料和工具，可以节省大量时间并减少挫败感。"
+      "words": 7,
+      "start": 1128.78,
+      "end": 1132.58,
+      "matchedWords": 7,
+      "translation": "但烹饪学校和专业厨房会教。"
     },
     {
       "id": "line-143",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "You'll also be less likely to forget an ingredient or make a mistake.",
+      "text": "Perhaps the principles of cooking organization can be extended to help even those of us who aren’t top chefs.",
       "type": "narration",
-      "words": 13,
-      "start": 1216.633,
-      "end": 1222.782,
-      "matchedWords": 0,
-      "translation": "你也不太可能忘记某种配料或犯错。"
+      "words": 20,
+      "start": 1132.58,
+      "end": 1140.84,
+      "matchedWords": 18,
+      "translation": "或许烹饪整理的原则可以推广到帮助我们这些甚至不是顶级厨师的人。"
     },
     {
       "id": "line-144",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "In addition to organization, cooking also teaches you how to use time and resources wisely.",
+      "text": "The system that makes kitchens function is called mise-en-place, or, literally, “put in place”.",
       "type": "narration",
-      "words": 15,
-      "start": 1222.782,
-      "end": 1229.877,
-      "matchedWords": 0,
-      "translation": "除了组织能力，烹饪还教会你如何明智地利用时间和资源。"
+      "words": 16,
+      "start": 1140.84,
+      "end": 1147.42,
+      "matchedWords": 16,
+      "translation": "让厨房运转的系统被称为 mise-en-place，字面意思是“各就各位”。"
     },
     {
       "id": "line-145",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "When you're cooking, you have to plan ahead, prioritize tasks, and make the most of what you have.",
+      "text": "It’s a French phrase that means to gather and arrange the ingredients and tools needed for cooking.",
       "type": "narration",
       "words": 18,
-      "start": 1229.877,
-      "end": 1238.391,
-      "matchedWords": 0,
-      "translation": "在烹饪时，你必须提前计划，确定任务优先级，并充分利用现有资源。"
+      "start": 1147.42,
+      "end": 1153.8,
+      "matchedWords": 16,
+      "translation": "这是一个法语词组，意味着收集并整理烹饪所需的食材和工具。"
     },
     {
       "id": "line-146",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "These are valuable skills that can be applied to other areas of your life.",
+      "text": "But for many professional cooks, the phrase means something deeper.",
       "type": "narration",
-      "words": 14,
-      "start": 1238.391,
-      "end": 1245.013,
-      "matchedWords": 0,
-      "translation": "这些都是宝贵的技能，可以应用到你生活的其他领域。"
+      "words": 10,
+      "start": 1153.8,
+      "end": 1157.94,
+      "matchedWords": 10,
+      "translation": "但对于许多专业厨师来说，这个词组意味着更深层的含义。"
     },
     {
       "id": "line-147",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "So, if you want to become a better cook, don't just focus on learning recipes and techniques.",
+      "text": "Some cooks call it their religion.",
       "type": "narration",
-      "words": 17,
-      "start": 1245.013,
-      "end": 1253.054,
-      "matchedWords": 0,
-      "translation": "所以，如果你想成为一名更好的厨师，不要只专注于学习食谱和技巧。"
+      "words": 6,
+      "start": 1157.94,
+      "end": 1160.22,
+      "matchedWords": 5,
+      "translation": "有些厨师称之为他们的信仰。"
     },
     {
       "id": "line-148",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Take the time to learn how to be organized and how to use your time and resources wisely.",
+      "text": "It helps them coordinate vast amounts of labor and material, and transforms the lives of its practitioners through focus and self-discipline.",
       "type": "narration",
-      "words": 18,
-      "start": 1253.054,
-      "end": 1261.568,
-      "matchedWords": 0,
-      "translation": "花时间学习如何井井有条，以及如何明智地利用你的时间和资源。"
+      "words": 22,
+      "start": 1160.22,
+      "end": 1169.86,
+      "matchedWords": 21,
+      "translation": "它帮助他们协调大量的劳动 and 材料，并通过专注 and 自律改变从业者的生活。"
     },
     {
       "id": "line-149",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "These skills will not only make you a better cook, but they will also make you a more productive and successful person in general.",
+      "text": "Students at the Culinary Institute of America view it as a way of life.",
       "type": "narration",
-      "words": 24,
-      "start": 1261.568,
-      "end": 1272.92,
-      "matchedWords": 0,
-      "translation": "这些技能不仅会让你成为一名更好的厨师，还会让你在总体上成为一个更高效、更成功的人。"
+      "words": 14,
+      "start": 1169.86,
+      "end": 1174.58,
+      "matchedWords": 14,
+      "translation": "美国烹饪学院的学生将其视为一种生活方式。"
     },
     {
       "id": "line-150",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
-      "speaker": "Q19.",
-      "text": "What does the speaker say about cooking schools?",
-      "type": "question",
-      "words": 8,
-      "start": 1272.92,
-      "end": 1295.86,
-      "matchedWords": 7,
-      "translation": "说话者关于烹饪学校说了什么？"
+      "speaker": "",
+      "text": "It’s a way of concentrating their mind to only focus on the aspects that they need to be working on at the moment, to kind of rid themselves of distractions.",
+      "type": "narration",
+      "words": 31,
+      "start": 1174.58,
+      "end": 1184.14,
+      "matchedWords": 29,
+      "translation": "这是一种集中注意力的方法，只关注那一刻需要完成的任务，以此来摆脱分心。"
     },
     {
       "id": "line-151",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
-      "speaker": "Q20.",
-      "text": "What does \"mise en place\" mean for professional chefs?",
-      "type": "question",
-      "words": 9,
-      "start": 1295.86,
-      "end": 1313.78,
-      "matchedWords": 3,
-      "translation": "对于专业厨师来说，“mise en place”是什么意思？"
+      "speaker": "",
+      "text": "And it’s a habit that some students carry with them even when they’re not in the kitchen.",
+      "type": "narration",
+      "words": 19,
+      "start": 1184.14,
+      "end": 1188.74,
+      "matchedWords": 15,
+      "translation": "这是一种习惯，有些学生甚至在不在厨房的时候也会保持这种习惯。"
     },
     {
       "id": "line-152",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
-      "speaker": "Q21.",
-      "text": "What valuable skills can cooking teach us according to the speaker?",
-      "type": "question",
-      "words": 11,
-      "start": 1313.78,
-      "end": 1334.24,
-      "matchedWords": 3,
-      "translation": "根据说话者的说法，烹饪可以教会我们哪些宝贵的技能？"
+      "speaker": "",
+      "text": "They mise-en-place their life.",
+      "type": "narration",
+      "words": 6,
+      "start": 1188.74,
+      "end": 1191.38,
+      "matchedWords": 6,
+      "translation": "他们让自己的生活也做到“各就各位”。"
     },
     {
       "id": "line-153",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Goals are often seen as the basis for self-improvement.",
+      "text": "They set up their books for class, they set up their chef whites, they shine their shoes, they know everything that they need every step of the day.",
       "type": "narration",
-      "words": 10,
-      "start": 1334.24,
-      "end": 1358.6,
-      "matchedWords": 6,
-      "translation": "目标通常被视为自我提升的基础。"
+      "words": 28,
+      "start": 1191.38,
+      "end": 1200.78,
+      "matchedWords": 28,
+      "translation": "他们准备好上课用的书，准备好厨师白大褂，擦亮皮鞋，他们知道一天中每一步所需的一切。"
     },
     {
       "id": "line-154",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "We set goals to lose weight, get a promotion, learn a new skill, and so on.",
+      "text": "Then how does one attain this level of organization?",
       "type": "narration",
-      "words": 16,
-      "start": 1358.6,
-      "end": 1374.293,
-      "matchedWords": 4,
-      "translation": "我们设定目标来减肥、获得晋升、学习新技能等等。"
+      "words": 9,
+      "start": 1200.78,
+      "end": 1204.78,
+      "matchedWords": 9,
+      "translation": "那么，一个人如何达到这种整理水平呢？"
     },
     {
       "id": "line-155",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "But what if goals are actually holding us back?",
+      "text": "The key to high level organization is the mindset.",
       "type": "narration",
       "words": 9,
-      "start": 1374.293,
-      "end": 1383.12,
-      "matchedWords": 0,
-      "translation": "但如果目标实际上在阻碍我们呢？"
+      "start": 1204.78,
+      "end": 1209.1,
+      "matchedWords": 9,
+      "translation": "高水平整理的关键在于心态。"
     },
     {
       "id": "line-156",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "What if the very act of setting goals is preventing us from achieving the things we want?",
+      "text": "Cooks can easily do 6 hours of preparation for a 3-hour dinner shift.",
       "type": "narration",
-      "words": 17,
-      "start": 1383.12,
-      "end": 1428.7,
-      "matchedWords": 6,
-      "translation": "如果设定目标本身正在阻止我们实现想要的东西呢？"
+      "words": 14,
+      "start": 1209.1,
+      "end": 1213.68,
+      "matchedWords": 12,
+      "translation": "厨师们可以轻松地为 3 小时的晚餐轮班做 6 小时的准备工作。"
     },
     {
       "id": "line-157",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "The problem with goals is that they are often too rigid.",
+      "text": "Mise-en-place forces cooks to account for every minute of their time and every movement.",
       "type": "narration",
-      "words": 11,
-      "start": 1428.7,
-      "end": 1431.416,
-      "matchedWords": 6,
-      "translation": "目标的问题在于它们往往太死板了。"
+      "words": 16,
+      "start": 1213.68,
+      "end": 1221.46,
+      "matchedWords": 16,
+      "translation": "“各就各位”强迫厨师对每一分钟的时间 and 每一个动作负责。"
     },
     {
       "id": "line-158",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "We set a goal to lose 10 pounds in three months, and if we don't achieve it, we feel like failures.",
+      "text": "“Every component of one single dish is in one single corner so their hand literally moves inches,” explains Dwayne Lipuma, an instructor at the Culinary Institute of America.",
       "type": "narration",
-      "words": 21,
-      "start": 1431.416,
-      "end": 1436.601,
-      "matchedWords": 0,
-      "translation": "我们设定了一个在三个月内减肥10磅的目标，如果我们没有实现，我们就会觉得自己很失败。"
+      "words": 28,
+      "start": 1221.46,
+      "end": 1233.88,
+      "matchedWords": 26,
+      "translation": "美国烹饪学院的讲师德维恩·利普马（Dwayne Lipuma）解释说：“一道菜的每个组成部分都在一个角落里，所以他们的手实际上只移动了几英寸。”"
     },
     {
       "id": "line-159",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "But life is unpredictable, and things don't always go according to plan.",
+      "text": "“Once students set up their station, I should be able to cover up their eyes.",
       "type": "narration",
-      "words": 12,
-      "start": 1436.601,
-      "end": 1439.563,
-      "matchedWords": 0,
-      "translation": "但生活是不可预测的，事情并不总是按计划进行。"
+      "words": 15,
+      "start": 1233.88,
+      "end": 1238.18,
+      "matchedWords": 15,
+      "translation": "“一旦学生布置好了他们的工位，我应该能蒙住他们的眼睛。"
     },
     {
       "id": "line-160",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "We might get sick, have a busy week at work, or simply lose motivation.",
+      "text": "And they should know that their knives are always here, their oil is always right here, their salt and pepper is always right here.",
       "type": "narration",
-      "words": 14,
-      "start": 1439.563,
-      "end": 1443.02,
-      "matchedWords": 0,
-      "translation": "我们可能会生病，工作繁忙，或者仅仅是失去动力。"
+      "words": 24,
+      "start": 1238.18,
+      "end": 1245.534,
+      "matchedWords": 24,
+      "translation": "他们应该知道他们的刀总是在这里，油总是在这里，盐 and 胡椒总是在这里。”"
     },
     {
       "id": "line-161",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "When this happens, our goals become a source of stress and frustration, rather than a source of motivation.",
+      "text": "”",
       "type": "narration",
-      "words": 18,
-      "start": 1443.02,
-      "end": 1445.281,
-      "matchedWords": 6,
-      "translation": "当这种情况发生时，我们的目标就变成了压力和挫败感的源泉，而不是动力的源泉。"
+      "words": 1,
+      "start": 1245.534,
+      "end": 1246.76,
+      "matchedWords": 0,
+      "translation": "但如果实践到最高水平，“各就各位”告诉我们时间是宝贵的。"
     },
     {
       "id": "line-162",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Another problem with goals is that they can make us stop imagining further progress in life.",
+      "text": "But practiced at its highest level, mise-en-place says that time is precious.",
       "type": "narration",
-      "words": 16,
-      "start": 1445.281,
-      "end": 1447.29,
-      "matchedWords": 0,
-      "translation": "目标的另一个问题是它们会让我们停止想象生活中进一步的进步。"
+      "words": 14,
+      "start": 1246.76,
+      "end": 1252.78,
+      "matchedWords": 14,
+      "translation": "资源是宝贵的。"
     },
     {
       "id": "line-163",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Once we achieve a goal, we often feel like we've \"made it\" and we stop trying to improve.",
+      "text": "Resources are precious.",
       "type": "narration",
-      "words": 18,
-      "start": 1447.29,
-      "end": 1449.551,
-      "matchedWords": 0,
-      "translation": "一旦我们实现了一个目标，我们往往会觉得我们“成功了”，从而停止尝试进步。"
+      "words": 3,
+      "start": 1252.78,
+      "end": 1254.34,
+      "matchedWords": 3,
+      "translation": "空间是宝贵的。"
     },
     {
       "id": "line-164",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "But self-improvement is a lifelong journey, not a destination.",
+      "text": "Space is precious.",
       "type": "narration",
-      "words": 10,
-      "start": 1449.551,
-      "end": 1450.807,
-      "matchedWords": 0,
-      "translation": "但自我提升是一场终生的旅程，而不是终点。"
+      "words": 3,
+      "start": 1254.34,
+      "end": 1256.36,
+      "matchedWords": 3,
+      "translation": "你的自尊和他人的尊重是宝贵的。"
     },
     {
       "id": "line-165",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "We should always be looking for ways to grow and develop, even after we've achieved our goals.",
+      "text": "Your self-respect and the respect of others are precious.",
       "type": "narration",
-      "words": 17,
-      "start": 1450.807,
-      "end": 1452.942,
-      "matchedWords": 0,
-      "translation": "即使在实现了目标之后，我们也应该始终寻找成长和发展的方法。"
+      "words": 10,
+      "start": 1256.36,
+      "end": 1260.26,
+      "matchedWords": 10,
+      "translation": "明智地使用它们。"
     },
     {
       "id": "line-166",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "So, what's the alternative?",
+      "text": "Use them wisely.",
       "type": "narration",
-      "words": 4,
-      "start": 1452.942,
-      "end": 1453.444,
-      "matchedWords": 0,
-      "translation": "那么，有什么替代方案吗？"
+      "words": 3,
+      "start": 1260.26,
+      "end": 1262.16,
+      "matchedWords": 3,
+      "translation": "这难道不是适合我们时代的哲学吗？"
     },
     {
       "id": "line-167",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Instead of focusing on goals, we should focus on progress.",
+      "text": "Isn’t that a philosophy for our time?",
       "type": "narration",
-      "words": 10,
-      "start": 1453.444,
-      "end": 1454.7,
-      "matchedWords": 0,
-      "translation": "我们不应该专注于目标，而应该专注于进步。"
+      "words": 8,
+      "start": 1262.16,
+      "end": 1272.92,
+      "matchedWords": 6,
+      "translation": "说话者关于美国的大多数大学 and 研究生院说了什么？"
     },
     {
       "id": "line-168",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Instead of measuring ourselves against a fixed goal, we should measure where we've come from.",
-      "type": "narration",
-      "words": 15,
-      "start": 1454.7,
-      "end": 1469.328,
-      "matchedWords": 4,
-      "translation": "我们不应该根据一个固定的目标来衡量自己，而应该衡量我们从哪里开始。"
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "Q19.",
+      "text": "What does the speaker say about most colleges and graduate schools in America?",
+      "type": "question",
+      "words": 13,
+      "start": 1272.92,
+      "end": 1292.46,
+      "matchedWords": 13,
+      "translation": "美国烹饪学院的学生如何看待 mise-en-place 或“各就各位”？"
     },
     {
       "id": "line-169",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "This allows us to celebrate our achievements, no matter how small, and it keeps us motivated to continue improving.",
-      "type": "narration",
-      "words": 19,
-      "start": 1469.328,
-      "end": 1487.857,
-      "matchedWords": 0,
-      "translation": "这让我们可以庆祝我们的成就，无论多么微小，并保持我们继续进步的动力。"
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "Q20.",
+      "text": "How do students at the Culinary Institute of America view mise-en-place or “put in place”?",
+      "type": "question",
+      "words": 17,
+      "start": 1292.46,
+      "end": 1313.78,
+      "matchedWords": 17,
+      "translation": "说话者在演讲结束时建议我们做什么？"
     },
     {
       "id": "line-170",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "It also allows us to adapt to changes in our lives and adjust our expectations accordingly.",
-      "type": "narration",
-      "words": 16,
-      "start": 1487.857,
-      "end": 1503.46,
-      "matchedWords": 0,
-      "translation": "它还允许我们适应生活中的变化，并相应地调整我们的期望。"
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "Q21.",
+      "text": "What does the speaker advise us to do at the end of the talk?",
+      "type": "question",
+      "words": 14,
+      "start": 1313.78,
+      "end": 1332.64,
+      "matchedWords": 14,
+      "translation": "为什么我们不再为自己设定目标，不再在生活中进步？"
     },
     {
       "id": "line-171",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q22.",
-      "text": "What are goals often seen as according to the speaker?",
-      "type": "question",
-      "words": 10,
-      "start": 1503.46,
-      "end": 1522.46,
-      "matchedWords": 6,
-      "translation": "根据说话者的说法，目标通常被看作是什么？"
+      "speaker": "",
+      "text": "Why do we stop making goals for ourselves and stop progressing in life?",
+      "type": "narration",
+      "words": 13,
+      "start": 1332.64,
+      "end": 1338.5,
+      "matchedWords": 13,
+      "translation": "一个原因是人们相信我们应该接受自我，而不是不断努力提升自己。"
     },
     {
       "id": "line-172",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q23.",
-      "text": "What may happen once we achieve a goal?",
-      "type": "question",
-      "words": 8,
-      "start": 1522.46,
-      "end": 1539.276,
-      "matchedWords": 3,
-      "translation": "一旦我们实现了一个目标，可能会发生什么？"
+      "speaker": "",
+      "text": "One reason is the belief that we should accept who we are and not constantly strive to improve ourselves.",
+      "type": "narration",
+      "words": 19,
+      "start": 1338.5,
+      "end": 1345.4,
+      "matchedWords": 19,
+      "translation": "我们在此犯的错误是，虽然自我接纳是必不可少的，但它实际上应该被用作增长的基础。"
     },
     {
       "id": "line-173",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q24.",
-      "text": "What is the problem with rigid goals according to the speaker?",
-      "type": "question",
-      "words": 11,
-      "start": 1539.276,
-      "end": 1559.06,
-      "matchedWords": 0,
-      "translation": "根据说话者的说法，死板的目标有什么问题？"
+      "speaker": "",
+      "text": "The mistake we make with this is that whilst self-acceptance is imperative, it should actually be used as the basis for growth.",
+      "type": "narration",
+      "words": 23,
+      "start": 1345.4,
+      "end": 1354.36,
+      "matchedWords": 23,
+      "translation": "当我们不在生活中成长、学习 and 寻求进步时，我们往往会停滞不前，接受现状，不再相信自己可以变得更好。"
     },
     {
       "id": "line-174",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q25.",
-      "text": "What does the speaker suggest we do instead of focusing on goals?",
-      "type": "question",
+      "speaker": "",
+      "text": "When we are not growing, learning and seeking improvements in our lives, we tend to stagnate, accepting what it is and stop believing we can be better.",
+      "type": "narration",
+      "words": 27,
+      "start": 1354.36,
+      "end": 1365.1,
+      "matchedWords": 24,
+      "translation": "设定目标 and 取得进步的一个关键工具是运用我们的想象力。"
+    },
+    {
+      "id": "line-175",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "A key tool for creating goals and progressing is using our imagination.",
+      "type": "narration",
       "words": 12,
+      "start": 1365.1,
+      "end": 1371.2,
+      "matchedWords": 12,
+      "translation": "然而，情况往往是，当我们步入中年时，我们已经停止梦想想要实现的成就，并且对设定目标感到相当消极。"
+    },
+    {
+      "id": "line-176",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Yet as is so often the case, by the time we’ve reached midlife, we’ve stopped dreaming about what we want to achieve and feel quite negatively about goal-setting.",
+      "type": "narration",
+      "words": 31,
+      "start": 1371.2,
+      "end": 1382.72,
+      "matchedWords": 27,
+      "translation": "我们不仅没有从实现目标中感到自信、快乐 and 满足，反而觉得自己总是力不从心。"
+    },
+    {
+      "id": "line-177",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Instead of feeling confidence, happiness and satisfaction from achieving our goals, we feel we are always falling short.",
+      "type": "narration",
+      "words": 18,
+      "start": 1382.72,
+      "end": 1391.56,
+      "matchedWords": 18,
+      "translation": "这导致了失望，我们便不再梦想。"
+    },
+    {
+      "id": "line-178",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "That leads to disappointment and we stop dreaming.",
+      "type": "narration",
+      "words": 8,
+      "start": 1391.56,
+      "end": 1395.68,
+      "matchedWords": 8,
+      "translation": "我们不再想象想要的生活或想要成为的人，很快就发现自己被现实的痛苦击碎了。"
+    },
+    {
+      "id": "line-179",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "We stop imagining the life we’d like to have or the person we’d like to be, quickly finding ourselves shattered by the pain of our reality.",
+      "type": "narration",
+      "words": 28,
+      "start": 1395.68,
+      "end": 1406.04,
+      "matchedWords": 24,
+      "translation": "直到现在，除非我们在创意行业工作，否则我们一直觉得使用“玩耍”这个想法有点幼稚。"
+    },
+    {
+      "id": "line-180",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Up until now, unless we work in the creative industry, we’ve found the idea of using “play” a bit childish.",
+      "type": "narration",
+      "words": 21,
+      "start": 1406.04,
+      "end": 1414.38,
+      "matchedWords": 19,
+      "translation": "在西方，我们大多依靠头脑，即理性思维，但这一点正开始被更好地理解，因为运用我们的想象力实际上是我们所能做的最强大的事情之一。"
+    },
+    {
+      "id": "line-181",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "In the West, we are mostly operating from our heads, the rational mind, but it’s beginning to be better understood, because using our imagination is actually one of the most powerful things we could ever do.",
+      "type": "narration",
+      "words": 37,
+      "start": 1414.38,
+      "end": 1428.7,
+      "matchedWords": 35,
+      "translation": "发现自己因未达成目标而感到恼火的问题在于，目标总是会改变，而且无论我们是否意识到，我们总是在适应。"
+    },
+    {
+      "id": "line-182",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "The problem with finding ourselves irritated for not achieving the goal is because the goal always changes and we’re always adapting, whether we realize it or not.",
+      "type": "narration",
+      "words": 28,
+      "start": 1428.7,
+      "end": 1438.0,
+      "matchedWords": 26,
+      "translation": "因此发生的情况是，我们最终感觉自己永远无法达到目标。"
+    },
+    {
+      "id": "line-183",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "What happens, therefore, is that we end up feeling like we are never going to reach our goals.",
+      "type": "narration",
+      "words": 18,
+      "start": 1438.0,
+      "end": 1444.6,
+      "matchedWords": 18,
+      "translation": "而这正是最大的误区之一，也是导致失败、不满 and 不快乐的原因。"
+    },
+    {
+      "id": "line-184",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "And herein lies one of the biggest misconceptions and reasons for failure, dissatisfaction, and unhappiness.",
+      "type": "narration",
+      "words": 15,
+      "start": 1444.6,
+      "end": 1452.28,
+      "matchedWords": 15,
+      "translation": "我们衡量的是与目标的差距，而不是我们从哪里开始的。"
+    },
+    {
+      "id": "line-185",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "We measure against the goal rather than where we’ve come from.",
+      "type": "narration",
+      "words": 12,
+      "start": 1452.28,
+      "end": 1456.86,
+      "matchedWords": 10,
+      "translation": "丹·沙利文（Dan Sullivan）将此称为“差距与收获”。"
+    },
+    {
+      "id": "line-186",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Dan Sullivan calls this “the gap and the gain”.",
+      "type": "narration",
+      "words": 9,
+      "start": 1456.86,
+      "end": 1460.64,
+      "matchedWords": 9,
+      "translation": "我们总是根据目标来衡量，感觉永远无法达到，而不是根据收获来衡量。"
+    },
+    {
+      "id": "line-187",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "We measure always against the goal, which we never feel we’re reaching, rather than the gain.",
+      "type": "narration",
+      "words": 17,
+      "start": 1460.64,
+      "end": 1467.0,
+      "matchedWords": 15,
+      "translation": "收获就是我们从哪里开始的。"
+    },
+    {
+      "id": "line-188",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "That is where we’ve come from.",
+      "type": "narration",
+      "words": 7,
+      "start": 1467.0,
+      "end": 1469.52,
+      "matchedWords": 5,
+      "translation": "通过衡量我们从哪里来，而不是我们要去哪里，我们能看到结果。"
+    },
+    {
+      "id": "line-189",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "In measuring where we’ve come from, rather than where we’re trying to get to, we see results.",
+      "type": "narration",
+      "words": 19,
+      "start": 1469.52,
+      "end": 1475.72,
+      "matchedWords": 15,
+      "translation": "我们能看到那些被我们视为理所当然或未曾注意到的事情。"
+    },
+    {
+      "id": "line-190",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "We see things we’ve taken for granted or not noticed.",
+      "type": "narration",
+      "words": 11,
+      "start": 1475.72,
+      "end": 1479.62,
+      "matchedWords": 9,
+      "translation": "这是一种简单而深刻的认知转变，而我热爱它的一点是它能瞬间让我们提升一个档次。"
+    },
+    {
+      "id": "line-191",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "It’s a simple, yet profound change in perception, and what I love about it is the power it has to instantly shift us up a gear.",
+      "type": "narration",
+      "words": 27,
+      "start": 1479.62,
+      "end": 1489.24,
+      "matchedWords": 25,
+      "translation": "这非常、非常简单，但对我们的思维有着立竿见影的积极影响。"
+    },
+    {
+      "id": "line-192",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "It’s so, so simple, yet has an immediate, positive impact on our thinking.",
+      "type": "narration",
+      "words": 14,
+      "start": 1489.24,
+      "end": 1503.46,
+      "matchedWords": 12,
+      "translation": "根据说话者的说法，自我接纳应该被用作什么？"
+    },
+    {
+      "id": "line-193",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q22.",
+      "text": "What should self-acceptance be used as according to the speaker?",
+      "type": "question",
+      "words": 11,
+      "start": 1503.46,
+      "end": 1522.46,
+      "matchedWords": 11,
+      "translation": "人们到了中年往往会做什么？"
+    },
+    {
+      "id": "line-194",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q23.",
+      "text": "What do people tend to do when they have reached midlife?",
+      "type": "question",
+      "words": 11,
+      "start": 1522.46,
+      "end": 1540.34,
+      "matchedWords": 11,
+      "translation": "为什么我们会因为没有达成目标而感到恼火？"
+    },
+    {
+      "id": "line-195",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q24.",
+      "text": "Why do we find ourselves irritated for not achieving the goal?",
+      "type": "question",
+      "words": 11,
+      "start": 1540.34,
+      "end": 1559.06,
+      "matchedWords": 11,
+      "translation": "说话者说什么是对我们的思维有立竿见影的积极影响？"
+    },
+    {
+      "id": "line-196",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q25.",
+      "text": "What does the speaker say has an immediate, positive impact on our thinking?",
+      "type": "question",
+      "words": 13,
       "start": 1559.06,
       "end": 1580.669,
-      "matchedWords": 5,
-      "translation": "说话者建议我们做些什么来代替专注于目标？"
+      "matchedWords": 13
     }
   ]
 }
