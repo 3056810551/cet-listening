@@ -1766,6 +1766,16 @@ function getSectionLoopBounds(section) {
   return end > start ? { start, end } : null;
 }
 
+function shouldPreserveExistingLoop(line) {
+  if (!line) return false;
+
+  if (state.loopSectionId && line.sectionId === state.loopSectionId) {
+    return true;
+  }
+
+  return state.loopLineId === line.id;
+}
+
 function getLineLoopBounds(line) {
   const duration =
     Number.isFinite(els.audio.duration) && els.audio.duration > 0
@@ -1795,7 +1805,10 @@ function getLineLoopBounds(line) {
 }
 
 function seekToLine(line, options = {}) {
-  if (!options.preserveLoop) {
+  const preserveLoop =
+    options.preserveLoop ?? shouldPreserveExistingLoop(line);
+
+  if (!preserveLoop) {
     stopLineLoop();
   }
 
