@@ -2,6 +2,7 @@ const PLAYER_PINNED_KEY = "cet6-player-pinned";
 const PLAYER_POSITION_KEY = "cet6-player-position";
 const TRACK_SORT_KEY = "cet6-track-sort-direction";
 const TRANSLATION_VISIBLE_KEY = "cet6-translation-visible";
+const VIEW_STATE_KEY = "cet6-browser-state";
 
 let lineLoopFrameId = null;
 
@@ -18,6 +19,11 @@ const state = {
   trackSortDirection:
     localStorage.getItem(TRACK_SORT_KEY) === "desc" ? "desc" : "asc",
   translationVisible: localStorage.getItem(TRANSLATION_VISIBLE_KEY) === "true",
+  browserState: loadBrowserState(),
+  browserStateSaveTimer: 0,
+  pendingTrackListScrollTop: null,
+  pendingTrackRestore: null,
+  lastPlaybackStateSaveAt: 0,
 };
 
 const els = {
@@ -60,10 +66,11 @@ async function init() {
   try {
     const response = await fetch("tracks.json", { cache: "no-store" });
     state.catalog = await response.json();
+    state.pendingTrackListScrollTop = state.browserState.trackListScrollTop;
     renderTrackList();
 
     const params = new URLSearchParams(window.location.search);
-    const trackId = params.get("track");
+    const trackId = params.get("track") || getSavedTrackId();
     const orderedCatalog = getOrderedCatalog();
     const track =
       state.catalog.find((t) => t.id === trackId) ||
@@ -83,7 +90,10 @@ async function switchTrack(trackId, pushState = true) {
   const track = state.catalog.find((t) => t.id === trackId);
   if (!track) return;
 
+  persistCurrentViewState(true);
   state.currentTrack = track;
+  state.browserState.currentTrackId = track.id;
+  state.pendingTrackRestore = createPendingTrackRestore(track.id);
   resetPlaybackState();
   els.trackName.textContent = track.title;
   els.audio.src = encodeURI(track.audio);
@@ -110,6 +120,7 @@ async function switchTrack(trackId, pushState = true) {
     els.trackMeta.textContent = data.status;
     if (Number.isFinite(els.audio.duration) && els.audio.duration > 0) {
       await applyTimings();
+      maybeRestoreTrackViewState();
     }
   } catch (error) {
     console.error(error);
@@ -128,6 +139,13 @@ function resetPlaybackState() {
   state.activeIndex = -1;
   stopLineLoop();
   state.timingsReady = false;
+  state.lastPlaybackStateSaveAt = 0;
+  if (els.workspace) {
+    els.workspace.scrollTop = 0;
+  }
+  if (els.sectionNav) {
+    els.sectionNav.scrollTop = 0;
+  }
   document.querySelector(".line.active")?.classList.remove("active");
   document
     .querySelectorAll(".line.passed")
@@ -165,6 +183,7 @@ function renderTrackList() {
   });
 
   els.trackList.replaceChildren(fragment);
+  restoreTrackListScrollIfNeeded();
 }
 
 function getOrderedCatalog() {
@@ -204,6 +223,208 @@ function updateTrackSortButton() {
     "aria-label",
     isDesc ? "当前为逆序显示，切换为顺序显示" : "当前为顺序显示，切换为逆序显示",
   );
+}
+
+function createEmptyBrowserState() {
+  return {
+    currentTrackId: null,
+    trackListScrollTop: 0,
+    tracks: {},
+  };
+}
+
+function loadBrowserState() {
+  const savedState = localStorage.getItem(VIEW_STATE_KEY);
+  if (!savedState) {
+    return createEmptyBrowserState();
+  }
+
+  try {
+    return sanitizeBrowserState(JSON.parse(savedState));
+  } catch {
+    localStorage.removeItem(VIEW_STATE_KEY);
+    return createEmptyBrowserState();
+  }
+}
+
+function sanitizeBrowserState(value) {
+  const normalized = createEmptyBrowserState();
+  if (!value || typeof value !== "object") {
+    return normalized;
+  }
+
+  if (typeof value.currentTrackId === "string") {
+    normalized.currentTrackId = value.currentTrackId;
+  }
+  normalized.trackListScrollTop = toFiniteNumber(value.trackListScrollTop);
+
+  if (!value.tracks || typeof value.tracks !== "object") {
+    return normalized;
+  }
+
+  Object.entries(value.tracks).forEach(([trackId, trackState]) => {
+    if (!trackState || typeof trackState !== "object") {
+      return;
+    }
+
+    normalized.tracks[trackId] = {
+      audioTime: toFiniteNumber(trackState.audioTime),
+      workspaceScrollTop: toFiniteNumber(trackState.workspaceScrollTop),
+      sectionNavScrollTop: toFiniteNumber(trackState.sectionNavScrollTop),
+    };
+  });
+
+  return normalized;
+}
+
+function toFiniteNumber(value, fallback = 0) {
+  const numericValue = Number(value);
+  return Number.isFinite(numericValue) ? numericValue : fallback;
+}
+
+function roundPlaybackTime(value) {
+  return Math.max(0, Math.round(toFiniteNumber(value) * 10) / 10);
+}
+
+function getSavedTrackId() {
+  return typeof state.browserState.currentTrackId === "string"
+    ? state.browserState.currentTrackId
+    : null;
+}
+
+function getTrackViewState(trackId) {
+  return state.browserState.tracks[trackId] || null;
+}
+
+function ensureTrackViewState(trackId) {
+  if (!trackId) return null;
+
+  if (!state.browserState.tracks[trackId]) {
+    state.browserState.tracks[trackId] = {
+      audioTime: 0,
+      workspaceScrollTop: 0,
+      sectionNavScrollTop: 0,
+    };
+  }
+
+  return state.browserState.tracks[trackId];
+}
+
+function createPendingTrackRestore(trackId) {
+  const trackState = getTrackViewState(trackId);
+  return {
+    trackId,
+    audioTime: toFiniteNumber(trackState?.audioTime),
+    workspaceScrollTop: toFiniteNumber(trackState?.workspaceScrollTop),
+    sectionNavScrollTop: toFiniteNumber(trackState?.sectionNavScrollTop),
+  };
+}
+
+function captureGlobalViewState() {
+  if (state.currentTrack?.id) {
+    state.browserState.currentTrackId = state.currentTrack.id;
+  }
+  if (els.trackList) {
+    state.browserState.trackListScrollTop = Math.round(els.trackList.scrollTop);
+  }
+}
+
+function captureCurrentTrackViewState() {
+  const trackId = state.currentTrack?.id;
+  if (!trackId) return;
+
+  const trackState = ensureTrackViewState(trackId);
+  trackState.audioTime = roundPlaybackTime(els.audio.currentTime);
+  trackState.workspaceScrollTop = Math.round(els.workspace?.scrollTop || 0);
+  trackState.sectionNavScrollTop = Math.round(els.sectionNav?.scrollTop || 0);
+}
+
+function scheduleBrowserStateSave(delay = 160) {
+  window.clearTimeout(state.browserStateSaveTimer);
+  state.browserStateSaveTimer = window.setTimeout(() => {
+    state.browserStateSaveTimer = 0;
+    saveBrowserState();
+  }, delay);
+}
+
+function saveBrowserState() {
+  if (state.browserStateSaveTimer) {
+    window.clearTimeout(state.browserStateSaveTimer);
+    state.browserStateSaveTimer = 0;
+  }
+
+  localStorage.setItem(VIEW_STATE_KEY, JSON.stringify(state.browserState));
+}
+
+function persistCurrentViewState(force = false) {
+  captureGlobalViewState();
+  captureCurrentTrackViewState();
+
+  if (force) {
+    saveBrowserState();
+    return;
+  }
+
+  scheduleBrowserStateSave();
+}
+
+function persistPlaybackState(force = false) {
+  const now = Date.now();
+  if (!force && now - state.lastPlaybackStateSaveAt < 1000) {
+    return;
+  }
+
+  state.lastPlaybackStateSaveAt = now;
+  persistCurrentViewState(force);
+}
+
+function restoreTrackListScrollIfNeeded() {
+  if (!els.trackList || state.pendingTrackListScrollTop === null) return;
+
+  const scrollTop = Math.max(0, state.pendingTrackListScrollTop);
+  state.pendingTrackListScrollTop = null;
+  requestAnimationFrame(() => {
+    els.trackList.scrollTop = scrollTop;
+  });
+}
+
+function maybeRestoreTrackViewState() {
+  const pendingState = state.pendingTrackRestore;
+  if (!pendingState || pendingState.trackId !== state.currentTrack?.id) {
+    return false;
+  }
+
+  if (
+    !state.lines.length ||
+    !state.timingsReady ||
+    !Number.isFinite(els.audio.duration) ||
+    els.audio.duration <= 0
+  ) {
+    return false;
+  }
+
+  const targetTime = clamp(
+    toFiniteNumber(pendingState.audioTime),
+    0,
+    els.audio.duration,
+  );
+  els.audio.currentTime = targetTime;
+  updateProgress();
+  updateFromTime(targetTime, { suppressAutoScroll: true });
+
+  requestAnimationFrame(() => {
+    if (state.currentTrack?.id !== pendingState.trackId) return;
+
+    if (els.workspace) {
+      els.workspace.scrollTop = Math.max(0, pendingState.workspaceScrollTop);
+    }
+    if (els.sectionNav) {
+      els.sectionNav.scrollTop = Math.max(0, pendingState.sectionNavScrollTop);
+    }
+  });
+
+  state.pendingTrackRestore = null;
+  return true;
 }
 
 async function fetchText(path) {
@@ -280,7 +501,9 @@ function bindEvents() {
   els.audio.addEventListener("loadedmetadata", async () => {
     els.duration.textContent = formatTime(els.audio.duration);
     await applyTimings();
-    updateFromTime();
+    if (!maybeRestoreTrackViewState()) {
+      updateFromTime();
+    }
   });
 
   els.audio.addEventListener("timeupdate", () => {
@@ -289,25 +512,30 @@ function bindEvents() {
     }
     updateFromTime();
     enforceLineLoop();
+    persistPlaybackState();
   });
 
   els.audio.addEventListener("seeked", () => {
     updateProgress();
     updateFromTime();
+    persistPlaybackState(true);
   });
 
   els.audio.addEventListener("play", () => {
     els.playBtn.textContent = "Pause";
     startLineLoopMonitor();
+    persistCurrentViewState();
   });
 
   els.audio.addEventListener("pause", () => {
     els.playBtn.textContent = "Play";
     stopLineLoopMonitor();
+    persistPlaybackState(true);
   });
 
   els.audio.addEventListener("ended", () => {
     restartLineLoop();
+    persistPlaybackState(true);
   });
 
   els.playBtn.addEventListener("click", () => {
@@ -358,6 +586,33 @@ function bindEvents() {
     state.userSeeking = false;
   });
 
+  els.trackList?.addEventListener(
+    "scroll",
+    () => {
+      captureGlobalViewState();
+      scheduleBrowserStateSave();
+    },
+    { passive: true },
+  );
+
+  els.workspace?.addEventListener(
+    "scroll",
+    () => {
+      captureCurrentTrackViewState();
+      scheduleBrowserStateSave();
+    },
+    { passive: true },
+  );
+
+  els.sectionNav?.addEventListener(
+    "scroll",
+    () => {
+      captureCurrentTrackViewState();
+      scheduleBrowserStateSave();
+    },
+    { passive: true },
+  );
+
   document.querySelectorAll(".speed").forEach((button) => {
     button.addEventListener("click", () => {
       const speed = Number(button.dataset.speed);
@@ -378,6 +633,16 @@ function bindEvents() {
 
     if (event.key === "ArrowLeft") seekBy(-5);
     if (event.key === "ArrowRight") seekBy(5);
+  });
+
+  window.addEventListener("pagehide", () => {
+    persistCurrentViewState(true);
+  });
+
+  document.addEventListener("visibilitychange", () => {
+    if (document.hidden) {
+      persistCurrentViewState(true);
+    }
   });
 }
 
@@ -1053,7 +1318,7 @@ function seekToProgress() {
   updateFromTime(time);
 }
 
-function updateFromTime(timeOverride = null) {
+function updateFromTime(timeOverride = null, options = {}) {
   if (!state.timingsReady || !state.lines.length) return;
 
   const sourceTime = Number.isFinite(timeOverride)
@@ -1090,7 +1355,7 @@ function updateFromTime(timeOverride = null) {
     );
   });
 
-  if (els.autoScroll.checked && activeEl) {
+  if (els.autoScroll.checked && activeEl && !options.suppressAutoScroll) {
     activeEl.scrollIntoView({ behavior: "smooth", block: "center" });
   }
 }
