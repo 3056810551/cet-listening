@@ -7,7 +7,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 TOOL_DIR = Path(__file__).resolve().parent
 DEFAULT_INPUT = TOOL_DIR / "0.md"
-DEFAULT_OUTPUT_DIR = ROOT / "transcripts"
+DEFAULT_EXAM = "cet6"
+DEFAULT_OUTPUT_DIR = ROOT / "transcripts" / DEFAULT_EXAM
 
 SET_NUMBERS = {
     "一": 1,
@@ -48,7 +49,7 @@ WORD_NUMBERS = {
 
 def main(argv=None):
     parser = argparse.ArgumentParser(
-        description="Split a combined CET-6 listening transcript into per-set Markdown files.",
+        description="Split a combined CET listening transcript into per-set Markdown files.",
     )
     parser.add_argument(
         "input",
@@ -59,9 +60,14 @@ def main(argv=None):
     )
     parser.add_argument(
         "--output-dir",
-        default=DEFAULT_OUTPUT_DIR,
         type=Path,
-        help="Directory for generated transcript files. Defaults to transcripts/.",
+        help="Directory for generated transcript files. Defaults to transcripts/<exam>/.",
+    )
+    parser.add_argument(
+        "--exam",
+        choices=("cet6", "cet4"),
+        default=DEFAULT_EXAM,
+        help="Exam type used for the default output directory.",
     )
     parser.add_argument("--year", type=int, help="Override year detected from the title.")
     parser.add_argument("--month", type=int, help="Override month detected from the title.")
@@ -77,9 +83,10 @@ def main(argv=None):
     if not tracks:
         raise SystemExit(f"No transcript sets found in {source}")
 
-    args.output_dir.mkdir(parents=True, exist_ok=True)
+    output_dir = args.output_dir or (ROOT / "transcripts" / args.exam)
+    output_dir.mkdir(parents=True, exist_ok=True)
     for set_num, lines in tracks:
-        output_path = args.output_dir / f"{year}-{month}-{set_num}.md"
+        output_path = output_dir / f"{year}-{month}-{set_num}.md"
         if output_path.exists() and not args.force:
             print(f"Skipped existing {output_path}. Use --force to overwrite.")
             continue

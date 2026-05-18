@@ -2,7 +2,7 @@
 
 一个面向大学英语四、六级听力精听训练的本地网页应用。项目把历年听力音频、原文和句级时间轴组织成可浏览的题库，支持逐句播放、原文高亮、段落跳转、倍速、快捷键和可拖动播放器，适合用来做精听、跟读、复盘和材料整理。
 
-当前仓库已经按同一数据结构整理了 37 套六级听力材料；四级材料也可以用相同的命名和生成流程接入。
+当前仓库已经按同一数据结构整理了 37 套六级听力材料；目前内容仍以 CET-6 为主，但目录、脚本和 URL 结构已经预留了 `cet6` / `cet4` 两类数据。
 
 ![界面预览](docs/app-preview.png)
 
@@ -20,21 +20,21 @@
 - 可调整布局：左右侧栏可隐藏、恢复、拖动调整宽度。
 - 悬浮播放器：底部播放器可拖动，也可固定；位置和固定状态会保存在浏览器本地。
 - 断点续看：会自动恢复上次打开的套题、播放进度、题库滚动位置和原文滚动位置。
-- 分享定位：URL 支持 `?track=2025-12-2` 这样的参数，方便直接打开指定套题。
+- 分享定位：URL 支持 `?exam=cet6&track=2025-12-2` 这样的参数，方便直接打开指定考试和套题。
 - 音频 Range 支持：本地 Python 服务支持浏览器分段请求，拖动进度条和大音频播放更稳定。
 
 ## 技术栈
 
 - 前端：原生 HTML、CSS、JavaScript，无构建步骤。
 - 本地服务：Python `http.server` + 自定义媒体 Range 处理。
-- 数据：`tracks.json` 题库索引、Markdown 原文、标准化 transcript JSON、timings JSON。
+- 数据：`tracks.json` 题库索引、按 `cet6` / `cet4` 分类的 Markdown 原文、标准化 transcript JSON、timings JSON。
 - 时间轴生成：`ffprobe` 获取音频时长，`faster-whisper` 可选用于自动语音识别与文本对齐。
 
 ## 快速开始
 
 ### 音频资源获取
 
-仓库中的 `*.mp3` 文件体积较大，没有直接提交到 Git 仓库。请先下载并解压音频目录到项目根目录，保持为 `audio/` 文件夹。
+仓库中的 `*.mp3` 文件体积较大，没有直接提交到 Git 仓库。请先下载并解压音频目录到项目根目录。当前内容主要是 CET-6，推荐按 `audio/cet6/` 放置；以后增加 CET-4 时可对应放到 `audio/cet4/`。
 
 - 百度网盘：<https://pan.baidu.com/s/1z21mlwexhTcNY2L6TrH6kQ>
 - 提取码：`awq9`
@@ -43,9 +43,11 @@
 
 ```text
 audio/
-  2025-12-2.mp3
-  2025-12-1.mp3
-  ...
+  cet6/
+    2025-12-2.mp3
+    2025-12-1.mp3
+  cet4/
+    ...
 ```
 
 ### 环境要求
@@ -128,6 +130,8 @@ PORT=5180 python3 server.py
 ```text
 .
 ├── audio/                         # 本地音频文件，默认被 .gitignore 忽略
+│   ├── cet6/
+│   └── cet4/
 ├── data_tools/
 │   ├── scan.py                    # 扫描原文和音频，生成 tracks.json
 │   ├── timings.py                 # 生成 transcript JSON 和 timings JSON
@@ -136,9 +140,11 @@ PORT=5180 python3 server.py
 ├── docs/
 │   └── app-preview.png            # README 界面预览图
 ├── transcripts/
-│   ├── 2025-12-2.md               # 原始 Markdown 原文
-│   ├── 2025-12-2.transcript.json  # 标准化句级原文
-│   └── 2025-12-2.timings.json     # 句级时间轴
+│   ├── cet6/
+│   │   ├── 2025-12-2.md
+│   │   ├── 2025-12-2.transcript.json
+│   │   └── 2025-12-2.timings.json
+│   └── cet4/
 ├── ui/
 │   ├── app.js                     # 播放器、题库、原文渲染和交互逻辑
 │   └── styles.css                 # 页面样式和响应式布局
@@ -157,18 +163,20 @@ PORT=5180 python3 server.py
 
 ```json
 {
+  "exam": "cet6",
   "id": "2025-12-2",
   "title": "2025 年 12 月 第 2 套",
-  "markdown": "transcripts/2025-12-2.md",
-  "transcript": "transcripts/2025-12-2.transcript.json",
-  "audio": "audio/2025-12-2.mp3",
-  "timings": "transcripts/2025-12-2.timings.json",
+  "markdown": "transcripts/cet6/2025-12-2.md",
+  "transcript": "transcripts/cet6/2025-12-2.transcript.json",
+  "audio": "audio/cet6/2025-12-2.mp3",
+  "timings": "transcripts/cet6/2025-12-2.timings.json",
   "available": true
 }
 ```
 
 字段含义：
 
+- `exam`：考试类型，当前支持 `cet6` 和 `cet4`。
 - `id`：套题唯一标识，推荐格式为 `YYYY-M-套数`。
 - `title`：页面展示标题。
 - `markdown`：原始 Markdown 原文路径。
@@ -179,10 +187,10 @@ PORT=5180 python3 server.py
 
 ### Markdown 原文格式
 
-原文文件放在 `transcripts/`，建议命名为：
+原文文件建议放在 `transcripts/<exam>/` 下，例如 `transcripts/cet6/` 或 `transcripts/cet4/`，文件名格式为：
 
 ```text
-YYYY-M-套数.md
+transcripts/cet6/YYYY-M-套数.md
 ```
 
 示例：
@@ -233,16 +241,16 @@ Q9. What does the speaker mainly talk about?
 
 ### 添加一套新材料
 
-1. 把音频放入 `audio/`，推荐命名：
+1. 先确定考试类型目录。六级建议放在 `audio/cet6/`，四级建议放在 `audio/cet4/`。推荐命名：
 
 ```text
-audio/2026-6-1.mp3
+audio/cet6/2026-6-1.mp3
 ```
 
-2. 把原文放入 `transcripts/`，推荐命名：
+2. 把原文放入对应的 `transcripts/<exam>/` 目录，推荐命名：
 
 ```text
-transcripts/2026-6-1.md
+transcripts/cet6/2026-6-1.md
 ```
 
 3. 生成标准化 transcript JSON，并刷新题库索引：
@@ -257,6 +265,12 @@ Bash：
 
 ```bash
 python3 data_tools/scan.py
+```
+
+如果只想扫描某一类考试，可以加上：
+
+```powershell
+python data_tools/scan.py --exam cet6
 ```
 
 4. 生成时间轴：
@@ -282,13 +296,13 @@ python3 data_tools/scan.py --gen
 PowerShell：
 
 ```powershell
-python data_tools/timings.py transcripts/2026-6-1.md --transcript-only
+python data_tools/timings.py transcripts/cet6/2026-6-1.md --transcript-only
 ```
 
 Bash：
 
 ```bash
-python3 data_tools/timings.py transcripts/2026-6-1.md --transcript-only
+python3 data_tools/timings.py transcripts/cet6/2026-6-1.md --transcript-only
 ```
 
 生成单套时间轴：
@@ -296,13 +310,13 @@ python3 data_tools/timings.py transcripts/2026-6-1.md --transcript-only
 PowerShell：
 
 ```powershell
-python data_tools/timings.py transcripts/2026-6-1.md audio/2026-6-1.mp3
+python data_tools/timings.py transcripts/cet6/2026-6-1.md audio/cet6/2026-6-1.mp3
 ```
 
 Bash：
 
 ```bash
-python3 data_tools/timings.py transcripts/2026-6-1.md audio/2026-6-1.mp3
+python3 data_tools/timings.py transcripts/cet6/2026-6-1.md audio/cet6/2026-6-1.mp3
 ```
 
 强制重新生成：
@@ -310,29 +324,29 @@ python3 data_tools/timings.py transcripts/2026-6-1.md audio/2026-6-1.mp3
 PowerShell：
 
 ```powershell
-python data_tools/timings.py transcripts/2026-6-1.md audio/2026-6-1.mp3 --force
+python data_tools/timings.py transcripts/cet6/2026-6-1.md audio/cet6/2026-6-1.mp3 --force
 ```
 
 Bash：
 
 ```bash
-python3 data_tools/timings.py transcripts/2026-6-1.md audio/2026-6-1.mp3 --force
+python3 data_tools/timings.py transcripts/cet6/2026-6-1.md audio/cet6/2026-6-1.mp3 --force
 ```
 
 ### 从整合版原文拆分
 
-如果有一个包含多套听力的总 Markdown，可以使用 `normalize_transcripts.py` 拆分：
+如果有一个包含多套听力的总 Markdown，可以使用 `normalize_transcripts.py` 拆分。默认会输出到 `transcripts/cet6/`，也可以用 `--exam cet4` 切到四级目录：
 
 PowerShell：
 
 ```powershell
-python data_tools/normalize_transcripts.py data_tools/0.md --year 2026 --month 6 --force
+python data_tools/normalize_transcripts.py data_tools/0.md --exam cet6 --year 2026 --month 6 --force
 ```
 
 Bash：
 
 ```bash
-python3 data_tools/normalize_transcripts.py data_tools/0.md --year 2026 --month 6 --force
+python3 data_tools/normalize_transcripts.py data_tools/0.md --exam cet6 --year 2026 --month 6 --force
 ```
 
 只提取指定套题：
@@ -340,13 +354,13 @@ python3 data_tools/normalize_transcripts.py data_tools/0.md --year 2026 --month 
 PowerShell：
 
 ```powershell
-python data_tools/normalize_transcripts.py data_tools/0.md --year 2026 --month 6 --set 1 --force
+python data_tools/normalize_transcripts.py data_tools/0.md --exam cet6 --year 2026 --month 6 --set 1 --force
 ```
 
 Bash：
 
 ```bash
-python3 data_tools/normalize_transcripts.py data_tools/0.md --year 2026 --month 6 --set 1 --force
+python3 data_tools/normalize_transcripts.py data_tools/0.md --exam cet6 --year 2026 --month 6 --set 1 --force
 ```
 
 ## 时间轴生成配置
@@ -428,7 +442,7 @@ WHISPER_MODEL="small.en" WHISPER_DEVICE="cuda" WHISPER_COMPUTE_TYPE="float16" py
 - 链接：<https://pan.baidu.com/s/1z21mlwexhTcNY2L6TrH6kQ>
 - 提取码：`awq9`
 
-下载后请确认项目根目录下存在 `audio/` 文件夹，而不是多包了一层目录。
+下载后请确认项目根目录下存在 `audio/cet6/` 或 `audio/cet4/` 这样的实际音频目录，而不是多包了一层目录。
 
 ### 拖动进度条不稳定
 

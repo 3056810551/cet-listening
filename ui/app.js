@@ -3,11 +3,17 @@ const PLAYER_POSITION_KEY = "cet6-player-position";
 const TRACK_SORT_KEY = "cet6-track-sort-direction";
 const TRANSLATION_VISIBLE_KEY = "cet6-translation-visible";
 const VIEW_STATE_KEY = "cet6-browser-state";
+const DEFAULT_EXAM = "cet6";
+const EXAM_LABELS = {
+  cet6: "CET-6",
+  cet4: "CET-4",
+};
 
 let lineLoopFrameId = null;
 
 const state = {
   catalog: [],
+  currentExam: DEFAULT_EXAM,
   currentTrack: null,
   sections: [],
   lines: [],
@@ -39,6 +45,7 @@ const els = {
   duration: document.querySelector("#duration"),
   trackList: document.querySelector("#trackList"),
   sortTrackList: document.querySelector("#sortTrackList"),
+  examTabs: document.querySelector("#examTabs"),
   sectionNav: document.querySelector("#sectionNav"),
   transcript: document.querySelector("#transcript"),
   trackName: document.querySelector("#trackName"),
@@ -65,20 +72,27 @@ async function init() {
 
   try {
     const response = await fetch("tracks.json", { cache: "no-store" });
-    state.catalog = await response.json();
-    state.pendingTrackListScrollTop = state.browserState.trackListScrollTop;
-    renderTrackList();
+    state.catalog = normalizeCatalog(await response.json());
 
     const params = new URLSearchParams(window.location.search);
-    const trackId = params.get("track") || getSavedTrackId();
-    const orderedCatalog = getOrderedCatalog();
+    state.currentExam = resolveInitialExam(params);
+    state.pendingTrackListScrollTop = getSavedTrackListScrollTop(
+      state.currentExam,
+    );
+    renderExamTabs();
+    renderTrackList();
+
+    const trackId = params.get("track") || getSavedTrackId(state.currentExam);
+    const orderedCatalog = getOrderedCatalog(state.currentExam);
     const track =
-      state.catalog.find((t) => t.id === trackId) ||
+      findTrack(trackId, state.currentExam) ||
       orderedCatalog.find((t) => t.available) ||
-      orderedCatalog[0];
+      orderedCatalog[0] ||
+      getOrderedCatalog().find((t) => t.available) ||
+      getOrderedCatalog()[0];
 
     if (track) {
-      await switchTrack(track.id, false);
+      await switchTrack(track.id, false, track.exam);
     }
   } catch (error) {
     console.error("Failed to load catalog:", error);
@@ -86,14 +100,17 @@ async function init() {
   }
 }
 
-async function switchTrack(trackId, pushState = true) {
-  const track = state.catalog.find((t) => t.id === trackId);
+async function switchTrack(trackId, pushState = true, exam = state.currentExam) {
+  const track = findTrack(trackId, exam);
   if (!track) return;
 
   persistCurrentViewState(true);
+  state.currentExam = track.exam;
+  state.browserState.currentExam = track.exam;
+  state.pendingTrackListScrollTop = getSavedTrackListScrollTop(track.exam);
   state.currentTrack = track;
-  state.browserState.currentTrackId = track.id;
-  state.pendingTrackRestore = createPendingTrackRestore(track.id);
+  state.browserState.currentTrackIds[track.exam] = track.id;
+  state.pendingTrackRestore = createPendingTrackRestore(track.id, track.exam);
   resetPlaybackState();
   els.trackName.textContent = track.title;
   els.audio.src = encodeURI(track.audio);
@@ -101,10 +118,12 @@ async function switchTrack(trackId, pushState = true) {
 
   if (pushState) {
     const url = new URL(window.location);
+    url.searchParams.set("exam", track.exam);
     url.searchParams.set("track", trackId);
     window.history.pushState({}, "", url);
   }
 
+  renderExamTabs();
   renderTrackList();
   els.trackMeta.textContent = "正在载入...";
   els.transcript.innerHTML = '<div class="empty-state">正在载入原文...</div>';
@@ -157,14 +176,16 @@ function renderTrackList() {
 
   const fragment = document.createDocumentFragment();
   updateTrackSortButton();
-  getOrderedCatalog().forEach((track) => {
+  getOrderedCatalog(state.currentExam).forEach((track) => {
     const button = document.createElement("button");
     button.type = "button";
     button.textContent = track.title;
     button.className = "track-list-item";
     button.classList.toggle(
       "active",
-      state.currentTrack && track.id === state.currentTrack.id,
+      state.currentTrack &&
+        track.id === state.currentTrack.id &&
+        track.exam === state.currentTrack.exam,
     );
     button.classList.toggle("unavailable", !track.available);
     // button.disabled = !track.available; // Allow clicking but handle it? 
@@ -172,7 +193,7 @@ function renderTrackList() {
     
     button.addEventListener("click", () => {
       if (track.available || confirm("该听力暂无对齐时间轴，是否尝试打开？")) {
-        switchTrack(track.id);
+        switchTrack(track.id, true, track.exam);
       }
     });
 
@@ -186,9 +207,10 @@ function renderTrackList() {
   restoreTrackListScrollIfNeeded();
 }
 
-function getOrderedCatalog() {
+function getOrderedCatalog(exam = null) {
   const direction = state.trackSortDirection === "desc" ? -1 : 1;
-  return [...state.catalog].sort(
+  const catalog = exam ? getCatalogForExam(exam) : state.catalog;
+  return [...catalog].sort(
     (a, b) => compareTrackIds(a.id, b.id) * direction,
   );
 }
@@ -225,10 +247,105 @@ function updateTrackSortButton() {
   );
 }
 
+function normalizeExam(exam) {
+  return exam === "cet4" ? "cet4" : DEFAULT_EXAM;
+}
+
+function normalizeCatalog(catalog) {
+  return Array.isArray(catalog)
+    ? catalog.map((track) => ({
+        ...track,
+        exam: normalizeExam(track?.exam),
+      }))
+    : [];
+}
+
+function getAvailableExams() {
+  return Object.keys(EXAM_LABELS).filter((exam) =>
+    state.catalog.some((track) => track.exam === exam),
+  );
+}
+
+function resolveInitialExam(params) {
+  const requestedExam = normalizeExam(params.get("exam"));
+  const savedExam = normalizeExam(state.browserState.currentExam);
+  const availableExams = getAvailableExams();
+
+  if (availableExams.includes(requestedExam)) {
+    return requestedExam;
+  }
+  if (availableExams.includes(savedExam)) {
+    return savedExam;
+  }
+  return availableExams[0] || DEFAULT_EXAM;
+}
+
+function renderExamTabs() {
+  if (!els.examTabs) return;
+
+  const exams = getAvailableExams();
+  els.examTabs.hidden = exams.length <= 1;
+  if (exams.length <= 1) {
+    els.examTabs.replaceChildren();
+    return;
+  }
+
+  const fragment = document.createDocumentFragment();
+  exams.forEach((exam) => {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "exam-tab";
+    button.textContent = EXAM_LABELS[exam] || exam.toUpperCase();
+    button.classList.toggle("active", exam === state.currentExam);
+    button.setAttribute("aria-pressed", String(exam === state.currentExam));
+    button.addEventListener("click", () => {
+      setCurrentExam(exam);
+    });
+    fragment.appendChild(button);
+  });
+
+  els.examTabs.replaceChildren(fragment);
+}
+
+function getCatalogForExam(exam = state.currentExam) {
+  return state.catalog.filter((track) => track.exam === normalizeExam(exam));
+}
+
+function findTrack(trackId, exam = state.currentExam) {
+  if (!trackId) return null;
+  return (
+    getCatalogForExam(exam).find((track) => track.id === trackId) || null
+  );
+}
+
+async function setCurrentExam(exam, pushState = true) {
+  const nextExam = normalizeExam(exam);
+  if (nextExam === state.currentExam && state.currentTrack?.exam === nextExam) {
+    renderExamTabs();
+    return;
+  }
+
+  const orderedCatalog = getOrderedCatalog(nextExam);
+  if (!orderedCatalog.length) return;
+
+  const preferredTrackId =
+    getSavedTrackId(nextExam) ||
+    (state.currentTrack ? state.currentTrack.id : null);
+  const track =
+    findTrack(preferredTrackId, nextExam) ||
+    orderedCatalog.find((item) => item.available) ||
+    orderedCatalog[0];
+
+  if (track) {
+    await switchTrack(track.id, pushState, nextExam);
+  }
+}
+
 function createEmptyBrowserState() {
   return {
-    currentTrackId: null,
-    trackListScrollTop: 0,
+    currentExam: DEFAULT_EXAM,
+    currentTrackIds: {},
+    examTrackListScrollTop: {},
     tracks: {},
   };
 }
@@ -253,10 +370,36 @@ function sanitizeBrowserState(value) {
     return normalized;
   }
 
-  if (typeof value.currentTrackId === "string") {
-    normalized.currentTrackId = value.currentTrackId;
+  if (typeof value.currentExam === "string") {
+    normalized.currentExam = normalizeExam(value.currentExam);
   }
-  normalized.trackListScrollTop = toFiniteNumber(value.trackListScrollTop);
+  if (typeof value.currentTrackId === "string") {
+    normalized.currentTrackIds[DEFAULT_EXAM] = value.currentTrackId;
+  }
+
+  if (value.currentTrackIds && typeof value.currentTrackIds === "object") {
+    Object.entries(value.currentTrackIds).forEach(([exam, trackId]) => {
+      if (typeof trackId === "string") {
+        normalized.currentTrackIds[normalizeExam(exam)] = trackId;
+      }
+    });
+  }
+
+  if (Number.isFinite(Number(value.trackListScrollTop))) {
+    normalized.examTrackListScrollTop[DEFAULT_EXAM] = toFiniteNumber(
+      value.trackListScrollTop,
+    );
+  }
+
+  if (
+    value.examTrackListScrollTop &&
+    typeof value.examTrackListScrollTop === "object"
+  ) {
+    Object.entries(value.examTrackListScrollTop).forEach(([exam, scrollTop]) => {
+      normalized.examTrackListScrollTop[normalizeExam(exam)] =
+        toFiniteNumber(scrollTop);
+    });
+  }
 
   if (!value.tracks || typeof value.tracks !== "object") {
     return normalized;
@@ -286,34 +429,47 @@ function roundPlaybackTime(value) {
   return Math.max(0, Math.round(toFiniteNumber(value) * 10) / 10);
 }
 
-function getSavedTrackId() {
-  return typeof state.browserState.currentTrackId === "string"
-    ? state.browserState.currentTrackId
+function getSavedTrackId(exam = state.currentExam) {
+  const trackId = state.browserState.currentTrackIds[normalizeExam(exam)];
+  return typeof trackId === "string"
+    ? trackId
     : null;
 }
 
-function getTrackViewState(trackId) {
-  return state.browserState.tracks[trackId] || null;
+function getSavedTrackListScrollTop(exam = state.currentExam) {
+  return toFiniteNumber(
+    state.browserState.examTrackListScrollTop[normalizeExam(exam)],
+  );
 }
 
-function ensureTrackViewState(trackId) {
-  if (!trackId) return null;
+function getTrackStateKey(trackId, exam = state.currentExam) {
+  return `${normalizeExam(exam)}:${trackId}`;
+}
 
-  if (!state.browserState.tracks[trackId]) {
-    state.browserState.tracks[trackId] = {
+function getTrackViewState(trackId, exam = state.currentExam) {
+  return state.browserState.tracks[getTrackStateKey(trackId, exam)] || null;
+}
+
+function ensureTrackViewState(trackId, exam = state.currentExam) {
+  if (!trackId) return null;
+  const key = getTrackStateKey(trackId, exam);
+
+  if (!state.browserState.tracks[key]) {
+    state.browserState.tracks[key] = {
       audioTime: 0,
       workspaceScrollTop: 0,
       sectionNavScrollTop: 0,
     };
   }
 
-  return state.browserState.tracks[trackId];
+  return state.browserState.tracks[key];
 }
 
-function createPendingTrackRestore(trackId) {
-  const trackState = getTrackViewState(trackId);
+function createPendingTrackRestore(trackId, exam = state.currentExam) {
+  const trackState = getTrackViewState(trackId, exam);
   return {
     trackId,
+    exam: normalizeExam(exam),
     audioTime: toFiniteNumber(trackState?.audioTime),
     workspaceScrollTop: toFiniteNumber(trackState?.workspaceScrollTop),
     sectionNavScrollTop: toFiniteNumber(trackState?.sectionNavScrollTop),
@@ -321,19 +477,23 @@ function createPendingTrackRestore(trackId) {
 }
 
 function captureGlobalViewState() {
-  if (state.currentTrack?.id) {
-    state.browserState.currentTrackId = state.currentTrack.id;
+  state.browserState.currentExam = normalizeExam(state.currentExam);
+  if (state.currentTrack?.id && state.currentTrack?.exam) {
+    state.browserState.currentTrackIds[state.currentTrack.exam] =
+      state.currentTrack.id;
   }
   if (els.trackList) {
-    state.browserState.trackListScrollTop = Math.round(els.trackList.scrollTop);
+    state.browserState.examTrackListScrollTop[normalizeExam(state.currentExam)] =
+      Math.round(els.trackList.scrollTop);
   }
 }
 
 function captureCurrentTrackViewState() {
   const trackId = state.currentTrack?.id;
+  const exam = state.currentTrack?.exam;
   if (!trackId) return;
 
-  const trackState = ensureTrackViewState(trackId);
+  const trackState = ensureTrackViewState(trackId, exam);
   trackState.audioTime = roundPlaybackTime(els.audio.currentTime);
   trackState.workspaceScrollTop = Math.round(els.workspace?.scrollTop || 0);
   trackState.sectionNavScrollTop = Math.round(els.sectionNav?.scrollTop || 0);
@@ -390,7 +550,11 @@ function restoreTrackListScrollIfNeeded() {
 
 function maybeRestoreTrackViewState() {
   const pendingState = state.pendingTrackRestore;
-  if (!pendingState || pendingState.trackId !== state.currentTrack?.id) {
+  if (
+    !pendingState ||
+    pendingState.trackId !== state.currentTrack?.id ||
+    pendingState.exam !== state.currentTrack?.exam
+  ) {
     return false;
   }
 
@@ -413,7 +577,12 @@ function maybeRestoreTrackViewState() {
   updateFromTime(targetTime, { suppressAutoScroll: true });
 
   requestAnimationFrame(() => {
-    if (state.currentTrack?.id !== pendingState.trackId) return;
+    if (
+      state.currentTrack?.id !== pendingState.trackId ||
+      state.currentTrack?.exam !== pendingState.exam
+    ) {
+      return;
+    }
 
     if (els.workspace) {
       els.workspace.scrollTop = Math.max(0, pendingState.workspaceScrollTop);

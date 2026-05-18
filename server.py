@@ -10,7 +10,7 @@ ROOT = Path(__file__).resolve().parent
 MEDIA_SUFFIXES = {".mp3", ".m4a", ".wav", ".ogg", ".flac", ".aac"}
 
 
-class Cet6Handler(SimpleHTTPRequestHandler):
+class ListeningHandler(SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, directory=str(ROOT), **kwargs)
 
@@ -119,7 +119,7 @@ def run():
 
     for candidate in range(start_port, start_port + 50):
         try:
-            server = ThreadingHTTPServer(("127.0.0.1", candidate), Cet6Handler)
+            server = ThreadingHTTPServer(("127.0.0.1", candidate), ListeningHandler)
             port = candidate
             break
         except OSError:
@@ -128,7 +128,7 @@ def run():
     if server is None:
         raise RuntimeError("No available local port found.")
 
-    print(f"CET-6 listening player: http://127.0.0.1:{port}/")
+    print(f"CET listening player: http://127.0.0.1:{port}/")
     print("Static server only. Generate timings locally with: python data_tools/scan.py --gen")
     print("\n[IMPORTANT] If the page looks broken, please press Ctrl + F5 to force refresh your browser cache.")
     server.serve_forever()
