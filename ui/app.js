@@ -87,12 +87,12 @@ async function init() {
     const track =
       findTrack(trackId, state.currentExam) ||
       orderedCatalog.find((t) => t.available) ||
-      orderedCatalog[0] ||
-      getOrderedCatalog().find((t) => t.available) ||
-      getOrderedCatalog()[0];
+      orderedCatalog[0];
 
     if (track) {
       await switchTrack(track.id, false, track.exam);
+    } else {
+      renderEmptyExamState(state.currentExam);
     }
   } catch (error) {
     console.error("Failed to load catalog:", error);
@@ -118,7 +118,7 @@ async function switchTrack(trackId, pushState = true, exam = state.currentExam) 
 
   if (pushState) {
     const url = new URL(window.location);
-    url.searchParams.set("exam", track.exam);
+    url.pathname = getExamPath(track.exam);
     url.searchParams.set("track", trackId);
     window.history.pushState({}, "", url);
   }
@@ -251,6 +251,15 @@ function normalizeExam(exam) {
   return exam === "cet4" ? "cet4" : DEFAULT_EXAM;
 }
 
+function getExamPath(exam = state.currentExam) {
+  return `/${normalizeExam(exam)}/`;
+}
+
+function getExamFromPathname(pathname = window.location.pathname) {
+  const match = String(pathname).match(/^\/(cet4|cet6)(?:\/|$)/i);
+  return match ? normalizeExam(match[1].toLowerCase()) : null;
+}
+
 function normalizeCatalog(catalog) {
   return Array.isArray(catalog)
     ? catalog.map((track) => ({
@@ -261,23 +270,22 @@ function normalizeCatalog(catalog) {
 }
 
 function getAvailableExams() {
-  return Object.keys(EXAM_LABELS).filter((exam) =>
-    state.catalog.some((track) => track.exam === exam),
-  );
+  return Object.keys(EXAM_LABELS);
 }
 
 function resolveInitialExam(params) {
-  const requestedExam = normalizeExam(params.get("exam"));
+  const requestedExam =
+    getExamFromPathname(window.location.pathname) ||
+    normalizeExam(params.get("exam"));
   const savedExam = normalizeExam(state.browserState.currentExam);
-  const availableExams = getAvailableExams();
 
-  if (availableExams.includes(requestedExam)) {
+  if (requestedExam) {
     return requestedExam;
   }
-  if (availableExams.includes(savedExam)) {
+  if (savedExam) {
     return savedExam;
   }
-  return availableExams[0] || DEFAULT_EXAM;
+  return DEFAULT_EXAM;
 }
 
 function renderExamTabs() {
@@ -325,8 +333,18 @@ async function setCurrentExam(exam, pushState = true) {
     return;
   }
 
+  persistCurrentViewState(true);
+  state.currentExam = nextExam;
+  state.browserState.currentExam = nextExam;
+  state.pendingTrackListScrollTop = getSavedTrackListScrollTop(nextExam);
+
   const orderedCatalog = getOrderedCatalog(nextExam);
-  if (!orderedCatalog.length) return;
+  if (!orderedCatalog.length) {
+    renderExamTabs();
+    renderTrackList();
+    renderEmptyExamState(nextExam, pushState);
+    return;
+  }
 
   const preferredTrackId =
     getSavedTrackId(nextExam) ||
@@ -338,6 +356,29 @@ async function setCurrentExam(exam, pushState = true) {
 
   if (track) {
     await switchTrack(track.id, pushState, nextExam);
+  }
+}
+
+function renderEmptyExamState(exam = state.currentExam, pushState = false) {
+  state.currentExam = normalizeExam(exam);
+  state.currentTrack = null;
+  state.sections = [];
+  state.lines = [];
+  state.activeIndex = -1;
+  state.timingsReady = false;
+  state.pendingTrackRestore = null;
+
+  resetPlaybackState();
+  els.trackName.textContent = EXAM_LABELS[state.currentExam] || state.currentExam;
+  els.trackMeta.textContent = "暂无内容";
+  els.sectionNav.replaceChildren();
+  els.transcript.innerHTML = `<div class="empty-state">当前还没有 ${EXAM_LABELS[state.currentExam] || state.currentExam} 听力材料。</div>`;
+
+  if (pushState) {
+    const url = new URL(window.location);
+    url.pathname = getExamPath(state.currentExam);
+    url.searchParams.delete("track");
+    window.history.pushState({}, "", url);
   }
 }
 

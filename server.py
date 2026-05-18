@@ -8,6 +8,7 @@ from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parent
 MEDIA_SUFFIXES = {".mp3", ".m4a", ".wav", ".ogg", ".flac", ".aac"}
+APP_EXAMS = {"cet6", "cet4"}
 
 
 class ListeningHandler(SimpleHTTPRequestHandler):
@@ -16,6 +17,12 @@ class ListeningHandler(SimpleHTTPRequestHandler):
 
     def do_GET(self):
         parsed = urlparse(self.path)
+        if self.is_root_request(parsed.path):
+            self.send_error(404, "File not found")
+            return
+        if self.is_app_entry(parsed.path):
+            self.serve_index()
+            return
         if self.is_media_request(parsed.path):
             self.handle_media(parsed, head_only=False)
             return
@@ -23,10 +30,55 @@ class ListeningHandler(SimpleHTTPRequestHandler):
 
     def do_HEAD(self):
         parsed = urlparse(self.path)
+        if self.is_root_request(parsed.path):
+            self.send_error(404, "File not found")
+            return
+        if self.is_app_entry(parsed.path):
+            self.serve_index(head_only=True)
+            return
         if self.is_media_request(parsed.path):
             self.handle_media(parsed, head_only=True)
             return
         super().do_HEAD()
+
+    def is_root_request(self, request_path):
+        return request_path in {"", "/"}
+
+    def is_app_entry(self, request_path):
+        return request_path in {"/cet6", "/cet6/", "/cet4", "/cet4/"}
+
+    def serve_index(self, head_only=False):
+        file_path = ROOT / "index.html"
+        if not file_path.is_file():
+            self.send_error(404, "File not found")
+            return
+
+        self.send_response(200)
+        self.send_header("Content-Type", self.guess_type(str(file_path)))
+        self.send_header("Content-Length", str(file_path.stat().st_size))
+        self.end_headers()
+
+        if head_only:
+            return
+
+        with file_path.open("rb") as file:
+            self.copyfile(file, self.wfile)
+
+    def translate_path(self, path):
+        parsed = urlparse(path)
+        request_path = parsed.path or "/"
+        stripped = self.strip_exam_prefix(request_path)
+
+        return super().translate_path(stripped)
+
+    def strip_exam_prefix(self, request_path):
+        for exam in APP_EXAMS:
+            prefix = f"/{exam}"
+            if request_path == prefix or request_path == f"{prefix}/":
+                return "/"
+            if request_path.startswith(f"{prefix}/"):
+                return request_path[len(prefix):]
+        return request_path
 
     def is_media_request(self, request_path):
         return Path(request_path).suffix.lower() in MEDIA_SUFFIXES
@@ -128,7 +180,9 @@ def run():
     if server is None:
         raise RuntimeError("No available local port found.")
 
-    print(f"CET listening player: http://127.0.0.1:{port}/")
+    print(f"CET-6 listening player: http://127.0.0.1:{port}/cet6/")
+    print(f"CET-4 listening player: http://127.0.0.1:{port}/cet4/")
+    print("Root path / is disabled. Open /cet6/ or /cet4/ directly.")
     print("Static server only. Generate timings locally with: python data_tools/scan.py --gen")
     print("\n[IMPORTANT] If the page looks broken, please press Ctrl + F5 to force refresh your browser cache.")
     server.serve_forever()
