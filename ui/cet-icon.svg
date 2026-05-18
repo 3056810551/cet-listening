@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>CET Icon</title>
+  <defs>
+    <linearGradient id="bg" x1="8" x2="56" y1="6" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#18a08f" />
+      <stop offset="1" stop-color="#095f58" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#bg)" />
+  
+  <path
+    d="M18 17.5c-1.9 0-3.5 1.6-3.5 3.5v22c0 1.9 1.6 3.5 3.5 3.5h28.5c1.9 0 3.5-1.6 3.5-3.5V21c0-1.9-1.6-3.5-3.5-3.5H18z"
+    fill="none"
+    opacity=".18"
+    stroke="#dff3ef"
+    stroke-width="2"
+  />
+  
+  <path
+    d="
+      M 25 24 H 21 A 6.5 6.5 0 0 0 14.5 30.5 V 33.5 A 6.5 6.5 0 0 0 21 40 H 25 V 36.5 H 21 A 3 3 0 0 1 18 33.5 V 30.5 A 3 3 0 0 1 21 27.5 H 25 Z 
+      M 28 24 H 36.5 V 27.5 H 31.5 V 30.25 H 35.5 V 33.75 H 31.5 V 36.5 H 36.5 V 40 H 28 Z 
+      M 39.5 24 H 49.5 V 27.5 H 46.25 V 40 H 42.75 V 27.5 H 39.5 Z
+    "
+    fill="#f8fffd"
+  />
+</svg>
