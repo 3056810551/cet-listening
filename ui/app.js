@@ -100,7 +100,11 @@ async function init() {
   }
 }
 
-async function switchTrack(trackId, pushState = true, exam = state.currentExam) {
+async function switchTrack(
+  trackId,
+  pushState = true,
+  exam = state.currentExam,
+) {
   const track = findTrack(trackId, exam);
   if (!track) return;
 
@@ -188,9 +192,9 @@ function renderTrackList() {
         track.exam === state.currentTrack.exam,
     );
     button.classList.toggle("unavailable", !track.available);
-    // button.disabled = !track.available; // Allow clicking but handle it? 
+    // button.disabled = !track.available; // Allow clicking but handle it?
     // For now, keep the behavior of disabling unavailable ones if they don't even have MD
-    
+
     button.addEventListener("click", () => {
       if (track.available || confirm("该听力暂无对齐时间轴，是否尝试打开？")) {
         switchTrack(track.id, true, track.exam);
@@ -210,9 +214,7 @@ function renderTrackList() {
 function getOrderedCatalog(exam = null) {
   const direction = state.trackSortDirection === "desc" ? -1 : 1;
   const catalog = exam ? getCatalogForExam(exam) : state.catalog;
-  return [...catalog].sort(
-    (a, b) => compareTrackIds(a.id, b.id) * direction,
-  );
+  return [...catalog].sort((a, b) => compareTrackIds(a.id, b.id) * direction);
 }
 
 function compareTrackIds(a, b) {
@@ -243,7 +245,9 @@ function updateTrackSortButton() {
   els.sortTrackList.title = isDesc ? "切换为顺序显示" : "切换为逆序显示";
   els.sortTrackList.setAttribute(
     "aria-label",
-    isDesc ? "当前为逆序显示，切换为顺序显示" : "当前为顺序显示，切换为逆序显示",
+    isDesc
+      ? "当前为逆序显示，切换为顺序显示"
+      : "当前为顺序显示，切换为逆序显示",
   );
 }
 
@@ -321,9 +325,7 @@ function getCatalogForExam(exam = state.currentExam) {
 
 function findTrack(trackId, exam = state.currentExam) {
   if (!trackId) return null;
-  return (
-    getCatalogForExam(exam).find((track) => track.id === trackId) || null
-  );
+  return getCatalogForExam(exam).find((track) => track.id === trackId) || null;
 }
 
 async function setCurrentExam(exam, pushState = true) {
@@ -369,7 +371,8 @@ function renderEmptyExamState(exam = state.currentExam, pushState = false) {
   state.pendingTrackRestore = null;
 
   resetPlaybackState();
-  els.trackName.textContent = EXAM_LABELS[state.currentExam] || state.currentExam;
+  els.trackName.textContent =
+    EXAM_LABELS[state.currentExam] || state.currentExam;
   els.trackMeta.textContent = "暂无内容";
   els.sectionNav.replaceChildren();
   els.transcript.innerHTML = `<div class="empty-state">当前还没有 ${EXAM_LABELS[state.currentExam] || state.currentExam} 听力材料。</div>`;
@@ -436,10 +439,12 @@ function sanitizeBrowserState(value) {
     value.examTrackListScrollTop &&
     typeof value.examTrackListScrollTop === "object"
   ) {
-    Object.entries(value.examTrackListScrollTop).forEach(([exam, scrollTop]) => {
-      normalized.examTrackListScrollTop[normalizeExam(exam)] =
-        toFiniteNumber(scrollTop);
-    });
+    Object.entries(value.examTrackListScrollTop).forEach(
+      ([exam, scrollTop]) => {
+        normalized.examTrackListScrollTop[normalizeExam(exam)] =
+          toFiniteNumber(scrollTop);
+      },
+    );
   }
 
   if (!value.tracks || typeof value.tracks !== "object") {
@@ -472,9 +477,7 @@ function roundPlaybackTime(value) {
 
 function getSavedTrackId(exam = state.currentExam) {
   const trackId = state.browserState.currentTrackIds[normalizeExam(exam)];
-  return typeof trackId === "string"
-    ? trackId
-    : null;
+  return typeof trackId === "string" ? trackId : null;
 }
 
 function getSavedTrackListScrollTop(exam = state.currentExam) {
@@ -524,8 +527,9 @@ function captureGlobalViewState() {
       state.currentTrack.id;
   }
   if (els.trackList) {
-    state.browserState.examTrackListScrollTop[normalizeExam(state.currentExam)] =
-      Math.round(els.trackList.scrollTop);
+    state.browserState.examTrackListScrollTop[
+      normalizeExam(state.currentExam)
+    ] = Math.round(els.trackList.scrollTop);
   }
 }
 
@@ -1340,7 +1344,7 @@ function renderSections() {
     loopButton.type = "button";
     loopButton.className = "line-play line-loop section-action";
     loopButton.dataset.lineId = firstLine?.id || "";
-    loopButton.title = "循环播放这一句";
+    loopButton.title = "循环播放这一段";
     loopButton.setAttribute(
       "aria-label",
       firstLine ? `循环播放：${firstLine.text}` : `循环播放：${section.title}`,
