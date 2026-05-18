@@ -19,6 +19,7 @@ const state = {
   lines: [],
   activeIndex: -1,
   loopLineId: null,
+  loopSectionId: null,
   timingsReady: false,
   userSeeking: false,
   playerPinned: false,
@@ -1343,7 +1344,8 @@ function renderSections() {
     const loopButton = document.createElement("button");
     loopButton.type = "button";
     loopButton.className = "line-play line-loop section-action";
-    loopButton.dataset.lineId = firstLine?.id || "";
+    loopButton.dataset.loopTarget = "section";
+    loopButton.dataset.sectionId = section.id;
     loopButton.title = "循环播放这一段";
     loopButton.setAttribute(
       "aria-label",
@@ -1351,11 +1353,11 @@ function renderSections() {
     );
     loopButton.setAttribute(
       "aria-pressed",
-      String(firstLine && state.loopLineId === firstLine.id),
+      String(state.loopSectionId === section.id),
     );
     loopButton.classList.toggle(
       "active",
-      Boolean(firstLine && state.loopLineId === firstLine.id),
+      state.loopSectionId === section.id,
     );
 
     const loopIcon = document.createElement("span");
@@ -1364,7 +1366,7 @@ function renderSections() {
     loopButton.appendChild(loopIcon);
     loopButton.addEventListener("click", () => {
       if (!firstLine) return;
-      toggleLineLoop(firstLine);
+      toggleSectionLoop(section);
       document
         .getElementById(firstLine.id)
         ?.scrollIntoView({ behavior: "smooth", block: "center" });
@@ -1465,6 +1467,7 @@ function renderTranscript() {
     const loopButton = document.createElement("button");
     loopButton.type = "button";
     loopButton.className = "line-play line-loop";
+    loopButton.dataset.loopTarget = "line";
     loopButton.dataset.lineId = line.id;
     loopButton.title = "循环播放这一句";
     loopButton.setAttribute("aria-label", `循环播放：${line.text}`);
@@ -1604,40 +1607,82 @@ function toggleLineLoop(line) {
   startLineLoop(line);
 }
 
+function toggleSectionLoop(section) {
+  if (state.loopSectionId === section.id) {
+    stopLineLoop();
+    return;
+  }
+
+  startSectionLoop(section);
+}
+
 function startLineLoop(line) {
+  state.loopSectionId = null;
   state.loopLineId = line.id;
   updateLineLoopControls();
   seekToLine(line, { preserveLoop: true });
   startLineLoopMonitor();
 }
 
-function stopLineLoop() {
-  if (!state.loopLineId && lineLoopFrameId === null) return;
+function startSectionLoop(section) {
+  const firstLine = getFirstLineForSection(section);
+  if (!firstLine) return;
 
   state.loopLineId = null;
+  state.loopSectionId = section.id;
+  updateLineLoopControls();
+  seekToLine(firstLine, { preserveLoop: true });
+  startLineLoopMonitor();
+}
+
+function stopLineLoop() {
+  if (!state.loopLineId && !state.loopSectionId && lineLoopFrameId === null) {
+    return;
+  }
+
+  state.loopLineId = null;
+  state.loopSectionId = null;
   stopLineLoopMonitor();
   updateLineLoopControls();
 }
 
 function updateLineLoopControls() {
   document.querySelectorAll(".line-loop").forEach((button) => {
-    const active = button.dataset.lineId === state.loopLineId;
+    const target = button.dataset.loopTarget;
+    const active =
+      (target === "line" && button.dataset.lineId === state.loopLineId) ||
+      (target === "section" &&
+        button.dataset.sectionId === state.loopSectionId);
     button.classList.toggle("active", active);
     button.setAttribute("aria-pressed", String(active));
-    button.closest(".section-nav-item")?.classList.toggle("looping", active);
+  });
+
+  document.querySelectorAll(".section-nav-item").forEach((item) => {
+    const activeLineLoop =
+      !!state.loopLineId &&
+      state.lines.some(
+        (line) =>
+          line.id === state.loopLineId &&
+          line.sectionId === item.dataset.sectionId,
+      );
+    item.classList.toggle(
+      "looping",
+      item.dataset.sectionId === state.loopSectionId || activeLineLoop,
+    );
   });
 
   document
     .querySelectorAll(".line.looping")
     .forEach((row) => row.classList.remove("looping"));
 
-  if (state.loopLineId) {
-    document.getElementById(state.loopLineId)?.classList.add("looping");
-  }
+  state.lines.forEach((line) => {
+    const active = line.id === state.loopLineId;
+    document.getElementById(line.id)?.classList.toggle("looping", active);
+  });
 }
 
 function startLineLoopMonitor() {
-  if (lineLoopFrameId !== null || !state.loopLineId || els.audio.paused) {
+  if (lineLoopFrameId !== null || !hasActiveLoopTarget() || els.audio.paused) {
     return;
   }
 
@@ -1653,22 +1698,22 @@ function stopLineLoopMonitor() {
 
 function checkLineLoop() {
   lineLoopFrameId = null;
-  if (!state.loopLineId || els.audio.paused) return;
+  if (!hasActiveLoopTarget() || els.audio.paused) return;
 
   enforceLineLoop();
   startLineLoopMonitor();
 }
 
 function enforceLineLoop() {
-  if (!state.loopLineId || state.userSeeking) return;
+  if (!hasActiveLoopTarget() || state.userSeeking) return;
 
-  const line = state.lines.find((item) => item.id === state.loopLineId);
-  if (!line) {
+  const bounds = getActiveLoopBounds();
+  if (!bounds) {
     stopLineLoop();
     return;
   }
 
-  const { start, end } = getLineLoopBounds(line);
+  const { start, end } = bounds;
   if (end <= start) return;
 
   if (els.audio.currentTime >= end) {
@@ -1679,17 +1724,46 @@ function enforceLineLoop() {
 }
 
 function restartLineLoop() {
-  if (!state.loopLineId) return;
+  if (!hasActiveLoopTarget()) return;
 
-  const line = state.lines.find((item) => item.id === state.loopLineId);
-  if (!line) {
+  const bounds = getActiveLoopBounds();
+  if (!bounds) {
     stopLineLoop();
     return;
   }
 
-  const { start } = getLineLoopBounds(line);
+  const { start } = bounds;
   els.audio.currentTime = start;
   els.audio.play();
+}
+
+function hasActiveLoopTarget() {
+  return Boolean(state.loopLineId || state.loopSectionId);
+}
+
+function getActiveLoopBounds() {
+  if (state.loopLineId) {
+    const line = state.lines.find((item) => item.id === state.loopLineId);
+    return line ? getLineLoopBounds(line) : null;
+  }
+
+  if (state.loopSectionId) {
+    const section = state.sections.find((item) => item.id === state.loopSectionId);
+    return section ? getSectionLoopBounds(section) : null;
+  }
+
+  return null;
+}
+
+function getSectionLoopBounds(section) {
+  const sectionLines = state.lines.filter((line) => line.sectionId === section.id);
+  if (!sectionLines.length) return null;
+
+  const firstLine = sectionLines[0];
+  const lastLine = sectionLines[sectionLines.length - 1];
+  const { start } = getLineLoopBounds(firstLine);
+  const { end } = getLineLoopBounds(lastLine);
+  return end > start ? { start, end } : null;
 }
 
 function getLineLoopBounds(line) {
