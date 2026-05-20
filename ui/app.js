@@ -76,14 +76,15 @@ async function init() {
     state.catalog = normalizeCatalog(await response.json());
 
     const params = new URLSearchParams(window.location.search);
-    state.currentExam = resolveInitialExam(params);
+    const route = getRouteFromLocation(params);
+    state.currentExam = route.exam;
     state.pendingTrackListScrollTop = getSavedTrackListScrollTop(
       state.currentExam,
     );
     renderExamTabs();
     renderTrackList();
 
-    const trackId = params.get("track") || getSavedTrackId(state.currentExam);
+    const trackId = route.trackId || getSavedTrackId(state.currentExam);
     const orderedCatalog = getOrderedCatalog(state.currentExam);
     const track =
       findTrack(trackId, state.currentExam) ||
@@ -92,6 +93,7 @@ async function init() {
 
     if (track) {
       await switchTrack(track.id, false, track.exam);
+      replaceCurrentRouteWithTrack(track);
     } else {
       renderEmptyExamState(state.currentExam);
     }
@@ -123,8 +125,9 @@ async function switchTrack(
 
   if (pushState) {
     const url = new URL(window.location);
-    url.pathname = getExamPath(track.exam);
-    url.searchParams.set("track", trackId);
+    url.pathname = getTrackPath(track.exam, trackId);
+    url.searchParams.delete("exam");
+    url.searchParams.delete("track");
     window.history.pushState({}, "", url);
   }
 
@@ -210,6 +213,7 @@ function renderTrackList() {
 
   els.trackList.replaceChildren(fragment);
   restoreTrackListScrollIfNeeded();
+  ensureActiveTrackListItemVisible();
 }
 
 function getOrderedCatalog(exam = null) {
@@ -260,9 +264,55 @@ function getExamPath(exam = state.currentExam) {
   return `/${normalizeExam(exam)}/`;
 }
 
+function getTrackPath(exam, trackId) {
+  return `${getExamPath(exam)}${encodeURIComponent(trackId)}`;
+}
+
 function getExamFromPathname(pathname = window.location.pathname) {
   const match = String(pathname).match(/^\/(cet4|cet6)(?:\/|$)/i);
   return match ? normalizeExam(match[1].toLowerCase()) : null;
+}
+
+function getTrackIdFromPathname(pathname = window.location.pathname) {
+  const match = String(pathname).match(
+    /^\/(?:cet4|cet6)\/([^/?#]+)\/?$/i,
+  );
+  return match ? decodeURIComponent(match[1]) : null;
+}
+
+function getRouteFromLocation(
+  params = new URLSearchParams(window.location.search),
+) {
+  const pathExam = getExamFromPathname(window.location.pathname);
+  const queryExam = params.has("exam")
+    ? normalizeExam(params.get("exam"))
+    : null;
+  const savedExam = normalizeExam(state.browserState.currentExam);
+  const exam = pathExam || queryExam || savedExam || DEFAULT_EXAM;
+
+  return {
+    exam,
+    trackId:
+      getTrackIdFromPathname(window.location.pathname) || params.get("track"),
+  };
+}
+
+function replaceCurrentRouteWithTrack(track) {
+  if (!track?.id || !track?.exam) return;
+
+  const url = new URL(window.location);
+  const nextPath = getTrackPath(track.exam, track.id);
+  const alreadyCanonical =
+    url.pathname.replace(/\/$/, "") === nextPath.replace(/\/$/, "") &&
+    !url.searchParams.has("exam") &&
+    !url.searchParams.has("track");
+
+  if (alreadyCanonical) return;
+
+  url.pathname = nextPath;
+  url.searchParams.delete("exam");
+  url.searchParams.delete("track");
+  window.history.replaceState({}, "", url);
 }
 
 function normalizeCatalog(catalog) {
@@ -276,21 +326,6 @@ function normalizeCatalog(catalog) {
 
 function getAvailableExams() {
   return Object.keys(EXAM_LABELS);
-}
-
-function resolveInitialExam(params) {
-  const requestedExam =
-    getExamFromPathname(window.location.pathname) ||
-    normalizeExam(params.get("exam"));
-  const savedExam = normalizeExam(state.browserState.currentExam);
-
-  if (requestedExam) {
-    return requestedExam;
-  }
-  if (savedExam) {
-    return savedExam;
-  }
-  return DEFAULT_EXAM;
 }
 
 function renderExamTabs() {
@@ -591,6 +626,27 @@ function restoreTrackListScrollIfNeeded() {
   state.pendingTrackListScrollTop = null;
   requestAnimationFrame(() => {
     els.trackList.scrollTop = scrollTop;
+  });
+}
+
+function ensureActiveTrackListItemVisible() {
+  if (!els.trackList) return;
+
+  requestAnimationFrame(() => {
+    const activeItem = els.trackList.querySelector(".track-list-item.active");
+    if (!activeItem) return;
+
+    const listRect = els.trackList.getBoundingClientRect();
+    const itemRect = activeItem.getBoundingClientRect();
+    const isFullyVisible =
+      itemRect.top >= listRect.top && itemRect.bottom <= listRect.bottom;
+
+    if (!isFullyVisible) {
+      activeItem.scrollIntoView({ block: "nearest" });
+    }
+
+    captureGlobalViewState();
+    scheduleBrowserStateSave();
   });
 }
 

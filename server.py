@@ -45,7 +45,7 @@ class ListeningHandler(SimpleHTTPRequestHandler):
         return request_path in {"", "/"}
 
     def is_app_entry(self, request_path):
-        return request_path in {"/cet6", "/cet6/", "/cet4", "/cet4/"}
+        return re.fullmatch(r"/(?:cet6|cet4)(?:/[^/.]+)?/?", request_path) is not None
 
     def serve_index(self, head_only=False):
         file_path = ROOT / "index.html"
