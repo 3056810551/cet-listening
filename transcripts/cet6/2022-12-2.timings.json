@@ -6,8 +6,8 @@
   "source": {
     "markdown": {
       "name": "2022-12-2.md",
-      "size": 13778,
-      "mtimeNs": 1778848129366985300
+      "size": 15371,
+      "mtimeNs": 1779357729604996400
     },
     "audio": {
       "name": "2022-12-2.mp3",
@@ -15,8 +15,8 @@
       "mtimeNs": 1778847300878348000
     }
   },
-  "generatedAt": 1778848876,
-  "elapsedSeconds": 243.63,
+  "generatedAt": 1779358026,
+  "elapsedSeconds": 225.37,
   "mode": "faster-whisper",
   "model": "small.en",
   "device": "cpu",
@@ -26,8 +26,8 @@
     "language": "en",
     "languageProbability": 1.0,
     "duration": 1586.039,
-    "segmentCount": 272,
-    "wordCount": 2981
+    "segmentCount": 259,
+    "wordCount": 2957
   },
   "cached": false,
   "sections": [
@@ -44,7 +44,7 @@
     {
       "id": "passage-1",
       "title": "PASSAGE 1",
-      "firstLineId": "line-65"
+      "firstLineId": "line-66"
     },
     {
       "id": "passage-2",
@@ -59,12 +59,12 @@
     {
       "id": "recording-2",
       "title": "RECORDING 2",
-      "firstLineId": "line-125"
+      "firstLineId": "line-131"
     },
     {
       "id": "recording-3",
       "title": "RECORDING 3",
-      "firstLineId": "line-145"
+      "firstLineId": "line-159"
     }
   ],
   "lines": [
@@ -76,10 +76,9 @@
       "text": "Welcome to the Book Club.",
       "type": "dialogue",
       "words": 5,
-      "start": 36.12,
-      "end": 38.4,
-      "matchedWords": 5,
-      "translation": "欢迎来到读书俱乐部。"
+      "start": 35.24,
+      "end": 38.38,
+      "matchedWords": 5
     },
     {
       "id": "line-1",
@@ -89,10 +88,9 @@
       "text": "Today's guest is Susan Lane, the author of a new book on personal finances that has already sold half a million copies.",
       "type": "dialogue",
       "words": 22,
-      "start": 38.4,
+      "start": 38.38,
       "end": 47.62,
-      "matchedWords": 22,
-      "translation": "今天的嘉宾是苏珊·莱恩，她的一本关于个人理财的新书已经售出了50万册。"
+      "matchedWords": 22
     },
     {
       "id": "line-2",
@@ -104,8 +102,7 @@
       "words": 7,
       "start": 47.62,
       "end": 51.54,
-      "matchedWords": 7,
-      "translation": "你好，苏珊，你的书非常成功。"
+      "matchedWords": 7
     },
     {
       "id": "line-3",
@@ -117,8 +114,7 @@
       "words": 6,
       "start": 51.54,
       "end": 52.66,
-      "matchedWords": 6,
-      "translation": "你认为这是为什么呢？"
+      "matchedWords": 6
     },
     {
       "id": "line-4",
@@ -130,21 +126,19 @@
       "words": 15,
       "start": 52.66,
       "end": 59.78,
-      "matchedWords": 15,
-      "translation": "我认为是因为我的理念，即把幸福置于金钱之上。"
+      "matchedWords": 15
     },
     {
       "id": "line-5",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "So many of us in my generation have spent decades trying to earn more money just to consume more, but it made us more miserable.",
+      "text": "So many of us in my generation have spent decades trying to earn more money, just to consume more, but it made us more miserable.",
       "type": "dialogue",
       "words": 25,
       "start": 59.78,
       "end": 69.88,
-      "matchedWords": 25,
-      "translation": "我们这一代人中有很多人花了数十年的时间试图赚更多的钱，只是为了消费更多，但这让我们更加痛苦。"
+      "matchedWords": 25
     },
     {
       "id": "line-6",
@@ -156,8 +150,7 @@
       "words": 24,
       "start": 69.88,
       "end": 79.2,
-      "matchedWords": 24,
-      "translation": "你自己也曾陷入那个循环，做了20年的高管，拿着高薪，却依然债台高筑。"
+      "matchedWords": 24
     },
     {
       "id": "line-7",
@@ -169,21 +162,19 @@
       "words": 4,
       "start": 79.2,
       "end": 81.36,
-      "matchedWords": 4,
-      "translation": "确实如此。"
+      "matchedWords": 4
     },
     {
       "id": "line-8",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "I earned millions, but by the time I quit my job four years ago to become a writer, I owed over $30,000.",
+      "text": "I earned millions, but by the time I quit my job four years ago to become a writer, I owed over $ 30,000.",
       "type": "dialogue",
       "words": 23,
       "start": 81.36,
-      "end": 90.04,
-      "matchedWords": 23,
-      "translation": "我曾赚过几百万美元，但四年前我辞职成为作家时，我欠了3万多美元的债。"
+      "end": 90.02,
+      "matchedWords": 23
     },
     {
       "id": "line-9",
@@ -193,10 +184,9 @@
       "text": "So how did you escape that pattern?",
       "type": "dialogue",
       "words": 7,
-      "start": 90.04,
-      "end": 92.6,
-      "matchedWords": 7,
-      "translation": "那么你是如何摆脱这种模式的呢？"
+      "start": 90.02,
+      "end": 92.56,
+      "matchedWords": 7
     },
     {
       "id": "line-10",
@@ -206,10 +196,9 @@
       "text": "And what would you advise other people to do?",
       "type": "dialogue",
       "words": 9,
-      "start": 92.6,
+      "start": 92.56,
       "end": 95.28,
-      "matchedWords": 9,
-      "translation": "你会建议其他人怎么做？"
+      "matchedWords": 9
     },
     {
       "id": "line-11",
@@ -221,8 +210,7 @@
       "words": 8,
       "start": 95.28,
       "end": 98.12,
-      "matchedWords": 8,
-      "translation": "第一个改变在于我们的价值观。"
+      "matchedWords": 8
     },
     {
       "id": "line-12",
@@ -234,8 +222,7 @@
       "words": 18,
       "start": 98.12,
       "end": 106.34,
-      "matchedWords": 18,
-      "translation": "我们需要强调那些真正让我们快乐的事情，比如人际关系、环境甚至是我们的爱好。"
+      "matchedWords": 18
     },
     {
       "id": "line-13",
@@ -247,8 +234,7 @@
       "words": 18,
       "start": 106.34,
       "end": 113.44,
-      "matchedWords": 18,
-      "translation": "一旦我们将正确的事情作为首要任务，我们的目标就会改变，我们的财务行为也会随之改变。"
+      "matchedWords": 18
     },
     {
       "id": "line-14",
@@ -260,21 +246,19 @@
       "words": 7,
       "start": 113.44,
       "end": 116.88,
-      "matchedWords": 7,
-      "translation": "这如何转化为实际行动呢？"
+      "matchedWords": 7
     },
     {
       "id": "line-15",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
-      "text": "Can you give our audience examples of what you're talking about on an everyday basis?",
+      "text": "Can you give our audience examples of what you are talking about on an everyday basis?",
       "type": "dialogue",
-      "words": 15,
+      "words": 16,
       "start": 116.88,
-      "end": 121.8,
-      "matchedWords": 15,
-      "translation": "你能给我们的观众举一些日常生活中你所说的例子吗？"
+      "end": 121.78,
+      "matchedWords": 14
     },
     {
       "id": "line-16",
@@ -284,23 +268,21 @@
       "text": "The major areas for action are usually housing, food and transportation.",
       "type": "dialogue",
       "words": 11,
-      "start": 121.8,
+      "start": 121.78,
       "end": 127.66,
-      "matchedWords": 11,
-      "translation": "行动的主要领域通常是住房、食物和交通。"
+      "matchedWords": 11
     },
     {
       "id": "line-17",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "So, people might share a home with friends instead of living on their own, bring lunch from home instead of going to restaurants, and use public transport instead of owning a car.",
+      "text": "So people might share a home with friends instead of living on their own, bring lunch from home instead of going to restaurants, and use public transport instead of owning a car.",
       "type": "dialogue",
       "words": 32,
       "start": 127.66,
       "end": 139.5,
-      "matchedWords": 32,
-      "translation": "例如，人们可以和朋友合租，而不是独自居住；从家里带午餐，而不是去餐厅吃；使用公共交通工具，而不是拥有一辆私家车。"
+      "matchedWords": 32
     },
     {
       "id": "line-18",
@@ -311,9 +293,8 @@
       "type": "dialogue",
       "words": 5,
       "start": 139.5,
-      "end": 142.18,
-      "matchedWords": 5,
-      "translation": "听起来像是很大的牺牲。"
+      "end": 142.2,
+      "matchedWords": 5
     },
     {
       "id": "line-19",
@@ -323,10 +304,9 @@
       "text": "I could never share my home.",
       "type": "dialogue",
       "words": 6,
-      "start": 142.18,
+      "start": 142.2,
       "end": 144.34,
-      "matchedWords": 6,
-      "translation": "我永远无法忍受合租。"
+      "matchedWords": 6
     },
     {
       "id": "line-20",
@@ -337,9 +317,8 @@
       "type": "dialogue",
       "words": 5,
       "start": 144.34,
-      "end": 146.3,
-      "matchedWords": 5,
-      "translation": "我需要自己的空间。"
+      "end": 146.28,
+      "matchedWords": 5
     },
     {
       "id": "line-21",
@@ -349,10 +328,9 @@
       "text": "But they aren't sacrifices.",
       "type": "dialogue",
       "words": 4,
-      "start": 146.3,
-      "end": 148.28,
-      "matchedWords": 4,
-      "translation": "但这些并不是牺牲。"
+      "start": 146.28,
+      "end": 148.32,
+      "matchedWords": 4
     },
     {
       "id": "line-22",
@@ -362,23 +340,21 @@
       "text": "When people change their values, their desires change.",
       "type": "dialogue",
       "words": 8,
-      "start": 148.28,
-      "end": 151.8,
-      "matchedWords": 8,
-      "translation": "当人们改变价值观时，他们的欲望也会随之改变。"
+      "start": 148.32,
+      "end": 151.84,
+      "matchedWords": 8
     },
     {
       "id": "line-23",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "So, in the example of housing, if we value relationships, sharing a home isn't depriving ourselves of space but giving us an opportunity to spend more time with our loved ones.",
+      "text": "So in the example of housing, if we value relationships, sharing a home isn't depriving ourselves of space, but giving us an opportunity to spend more time with our loved ones.",
       "type": "dialogue",
       "words": 31,
-      "start": 151.8,
-      "end": 163.58,
-      "matchedWords": 31,
-      "translation": "以住房为例，如果我们重视人际关系，合租就不是剥夺我们的空间，而是给了我们一个与亲人共度更多时间的机会。"
+      "start": 151.84,
+      "end": 162.84,
+      "matchedWords": 31
     },
     {
       "id": "line-24",
@@ -388,10 +364,9 @@
       "text": "Indeed it is.",
       "type": "dialogue",
       "words": 3,
-      "start": 163.58,
-      "end": 172.18,
-      "matchedWords": 3,
-      "translation": "确实如此。"
+      "start": 162.84,
+      "end": 172.3,
+      "matchedWords": 3
     },
     {
       "id": "line-25",
@@ -401,10 +376,9 @@
       "text": "What message does the woman convey in her book?",
       "type": "question",
       "words": 9,
-      "start": 172.18,
+      "start": 172.3,
       "end": 189.98,
-      "matchedWords": 9,
-      "translation": "这位女性在她的书中传达了什么信息？"
+      "matchedWords": 9
     },
     {
       "id": "line-26",
@@ -415,9 +389,8 @@
       "type": "question",
       "words": 12,
       "start": 189.98,
-      "end": 208.0,
-      "matchedWords": 12,
-      "translation": "关于这位女性在成为作家之前的经历，我们了解到了什么？"
+      "end": 208.04,
+      "matchedWords": 12
     },
     {
       "id": "line-27",
@@ -427,10 +400,9 @@
       "text": "What does the woman say about one's financial behavior?",
       "type": "question",
       "words": 9,
-      "start": 208.0,
-      "end": 226.02,
-      "matchedWords": 9,
-      "translation": "关于一个人的财务行为，这位女性说了什么？"
+      "start": 208.04,
+      "end": 226.06,
+      "matchedWords": 9
     },
     {
       "id": "line-28",
@@ -440,10 +412,9 @@
       "text": "What does the man say about sharing a home?",
       "type": "question",
       "words": 9,
-      "start": 226.02,
-      "end": 244.08,
-      "matchedWords": 9,
-      "translation": "关于合租，这位男性说了什么？"
+      "start": 226.06,
+      "end": 243.18,
+      "matchedWords": 9
     },
     {
       "id": "line-29",
@@ -453,10 +424,9 @@
       "text": "Thank you for inviting me to the gallery, Christopher.",
       "type": "dialogue",
       "words": 9,
-      "start": 244.08,
-      "end": 247.5,
-      "matchedWords": 9,
-      "translation": "谢谢你邀请我来画廊，克里斯托弗。"
+      "start": 243.18,
+      "end": 247.06,
+      "matchedWords": 9
     },
     {
       "id": "line-30",
@@ -466,10 +436,9 @@
       "text": "I haven't visited here since your predecessor's retirement functioned.",
       "type": "dialogue",
       "words": 9,
-      "start": 247.5,
-      "end": 251.62,
-      "matchedWords": 8,
-      "translation": "自从你前任的退休会后，我就没来过这里。"
+      "start": 247.06,
+      "end": 251.12,
+      "matchedWords": 8
     },
     {
       "id": "line-31",
@@ -479,23 +448,21 @@
       "text": "Would you like to see the newest additions to our collection first, Catherine?",
       "type": "dialogue",
       "words": 13,
-      "start": 251.62,
-      "end": 255.82,
-      "matchedWords": 13,
-      "translation": "凯瑟琳，你想先看看我们收藏的新藏品吗？"
+      "start": 251.12,
+      "end": 255.84,
+      "matchedWords": 12
     },
     {
       "id": "line-32",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "Are those the landscapes by Danielle Gregory?",
+      "text": "Are those the landscapes by Daniel Gregory?",
       "type": "dialogue",
       "words": 7,
-      "start": 255.82,
+      "start": 255.84,
       "end": 258.86,
-      "matchedWords": 7,
-      "translation": "那是丹尼尔·格雷戈里的风景画吗？"
+      "matchedWords": 6
     },
     {
       "id": "line-33",
@@ -506,9 +473,8 @@
       "type": "dialogue",
       "words": 5,
       "start": 258.86,
-      "end": 261.78,
-      "matchedWords": 5,
-      "translation": "我非常喜欢她的作品。"
+      "end": 261.76,
+      "matchedWords": 5
     },
     {
       "id": "line-34",
@@ -518,10 +484,9 @@
       "text": "This first piece was a gift to the gallery from the artist herself, and it's quite exquisite.",
       "type": "dialogue",
       "words": 17,
-      "start": 261.78,
-      "end": 267.24,
-      "matchedWords": 17,
-      "translation": "第一件作品是艺术家本人赠送给画廊的礼物，非常精美。"
+      "start": 261.76,
+      "end": 267.92,
+      "matchedWords": 17
     },
     {
       "id": "line-35",
@@ -531,23 +496,21 @@
       "text": "I love how she depicts the barren landscape.",
       "type": "dialogue",
       "words": 8,
-      "start": 267.24,
+      "start": 267.92,
       "end": 271.04,
-      "matchedWords": 8,
-      "translation": "我喜欢她描绘荒凉景观的方式。"
+      "matchedWords": 8
     },
     {
       "id": "line-36",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "The colours complement each other perfectly.",
+      "text": "The colors complement each other perfectly.",
       "type": "dialogue",
       "words": 6,
       "start": 271.04,
-      "end": 274.18,
-      "matchedWords": 5,
-      "translation": "色彩搭配得非常完美。"
+      "end": 274.02,
+      "matchedWords": 6
     },
     {
       "id": "line-37",
@@ -557,10 +520,9 @@
       "text": "You can sense the desolation in the picture.",
       "type": "dialogue",
       "words": 8,
-      "start": 274.18,
-      "end": 277.24,
-      "matchedWords": 8,
-      "translation": "你能从画中感受到那种荒凉感。"
+      "start": 274.02,
+      "end": 277.2,
+      "matchedWords": 8
     },
     {
       "id": "line-38",
@@ -570,23 +532,21 @@
       "text": "This piece was inspired by Gregory's recent trek in the Gobi Desert.",
       "type": "dialogue",
       "words": 12,
-      "start": 277.24,
-      "end": 281.7,
-      "matchedWords": 12,
-      "translation": "这件作品的灵感来自格雷戈里最近在戈壁沙漠的徒步旅行。"
+      "start": 277.2,
+      "end": 281.76,
+      "matchedWords": 12
     },
     {
       "id": "line-39",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "And how did you obtain her other piece over here?",
+      "text": "And how did you obtain her other piece, over here?",
       "type": "dialogue",
       "words": 10,
-      "start": 281.7,
-      "end": 285.14,
-      "matchedWords": 10,
-      "translation": "那你又是如何得到她那边的另一件作品的呢？"
+      "start": 281.76,
+      "end": 285.22,
+      "matchedWords": 10
     },
     {
       "id": "line-40",
@@ -596,10 +556,9 @@
       "text": "It was purchased at auction by an anonymous collector who lent it to the gallery for display.",
       "type": "dialogue",
       "words": 17,
-      "start": 285.14,
-      "end": 291.88,
-      "matchedWords": 17,
-      "translation": "那是一位匿名收藏家在拍卖会上购买的，他将其借给画廊展出。"
+      "start": 285.22,
+      "end": 291.78,
+      "matchedWords": 17
     },
     {
       "id": "line-41",
@@ -609,10 +568,9 @@
       "text": "This composition is one of her most acclaimed paintings.",
       "type": "dialogue",
       "words": 9,
-      "start": 291.88,
-      "end": 295.52,
-      "matchedWords": 9,
-      "translation": "这幅构图是她最著名的画作之一。"
+      "start": 291.78,
+      "end": 295.62,
+      "matchedWords": 9
     },
     {
       "id": "line-42",
@@ -622,169 +580,168 @@
       "text": "It must have cost that collector a small fortune to purchase this.",
       "type": "dialogue",
       "words": 12,
-      "start": 295.52,
+      "start": 295.62,
       "end": 299.78,
-      "matchedWords": 12,
-      "translation": "买下这幅画肯定花了那位收藏家不少钱。"
+      "matchedWords": 12
     },
     {
       "id": "line-43",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "Obviously, I can't disclose the exact amount he paid, but it was substantial.",
+      "text": "Obviously.",
       "type": "dialogue",
-      "words": 13,
+      "words": 1,
       "start": 299.78,
-      "end": 305.36,
-      "matchedWords": 13,
-      "translation": "显然，我不能透露他支付的确切金额，但数额巨大。"
+      "end": 300.64,
+      "matchedWords": 1
     },
     {
       "id": "line-44",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
-      "speaker": "W:",
-      "text": "There's so much detail in this painting.",
+      "speaker": "M:",
+      "text": "I can't disclose the exact amount he paid, but it was substantial.",
       "type": "dialogue",
-      "words": 7,
-      "start": 305.36,
-      "end": 308.16,
-      "matchedWords": 7,
-      "translation": "这幅画的细节太丰富了。"
+      "words": 12,
+      "start": 300.64,
+      "end": 305.92,
+      "matchedWords": 12
     },
     {
       "id": "line-45",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "I feel like I can really immerse myself in the scene.",
+      "text": "There' s so much detail in this painting.",
       "type": "dialogue",
-      "words": 11,
-      "start": 308.16,
-      "end": 311.4,
-      "matchedWords": 11,
-      "translation": "我觉得我真的可以沉浸在场景之中。"
+      "words": 8,
+      "start": 305.92,
+      "end": 308.22,
+      "matchedWords": 6
     },
     {
       "id": "line-46",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "I particularly like the symmetry created by the reflection of the mountain in the lake.",
+      "text": "I feel like I can really immerse myself in the scene.",
       "type": "dialogue",
-      "words": 15,
-      "start": 311.4,
-      "end": 316.76,
-      "matchedWords": 15,
-      "translation": "我特别喜欢湖中大山倒影所形成的对称感。"
+      "words": 11,
+      "start": 308.22,
+      "end": 311.44,
+      "matchedWords": 11
     },
     {
       "id": "line-47",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
-      "speaker": "M:",
-      "text": "This particular piece was the one that was nominated for a Gateway Award.",
+      "speaker": "W:",
+      "text": "I particularly like the symmetry created by the reflection of the mountain in the lake.",
       "type": "dialogue",
-      "words": 13,
-      "start": 316.76,
-      "end": 321.22,
-      "matchedWords": 13,
-      "translation": "这件作品曾获得门户奖提名。"
+      "words": 15,
+      "start": 311.44,
+      "end": 316.88,
+      "matchedWords": 15
     },
     {
       "id": "line-48",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "I was lucky enough to attend the award ceremony as Gregory's guest.",
+      "text": "This particular piece was the one that was nominated for a Gateway Award.",
       "type": "dialogue",
-      "words": 12,
-      "start": 321.22,
-      "end": 326.9,
-      "matchedWords": 12,
-      "translation": "我有幸作为格雷戈里的客人参加了颁奖典礼。"
+      "words": 13,
+      "start": 316.88,
+      "end": 321.9,
+      "matchedWords": 13
     },
     {
       "id": "line-49",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
-      "speaker": "W:",
-      "text": "So you know her personally.",
+      "speaker": "M:",
+      "text": "I was lucky enough to attend he awards ceremony as Gregory's guest.",
       "type": "dialogue",
-      "words": 5,
-      "start": 326.9,
-      "end": 328.68,
-      "matchedWords": 5,
-      "translation": "这么说你认识她本人。"
+      "words": 12,
+      "start": 321.9,
+      "end": 326.52,
+      "matchedWords": 10
     },
     {
       "id": "line-50",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "I assume she's an eccentric artist.",
+      "text": "So you know her personally.",
       "type": "dialogue",
-      "words": 6,
-      "start": 328.68,
-      "end": 331.46,
-      "matchedWords": 6,
-      "translation": "我想她一定是个古怪的艺术家。"
+      "words": 5,
+      "start": 326.52,
+      "end": 328.7,
+      "matchedWords": 5
     },
     {
       "id": "line-51",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
-      "speaker": "M:",
-      "text": "Quite the opposite.",
+      "speaker": "W:",
+      "text": "I assume she is an eccentric artist.",
       "type": "dialogue",
-      "words": 3,
-      "start": 331.46,
-      "end": 332.44,
-      "matchedWords": 3,
-      "translation": "恰恰相反。"
+      "words": 7,
+      "start": 328.7,
+      "end": 331.42,
+      "matchedWords": 5
     },
     {
       "id": "line-52",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "In fact, she's not at all eccentric.",
+      "text": "Quite the opposite.",
       "type": "dialogue",
-      "words": 7,
-      "start": 332.44,
-      "end": 335.68,
-      "matchedWords": 7,
-      "translation": "事实上，她一点也不古怪。"
+      "words": 3,
+      "start": 331.42,
+      "end": 332.94,
+      "matchedWords": 3
     },
     {
       "id": "line-53",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "I would say she's one of the most easygoing and intelligent people I know.",
+      "text": "In fact, she's not at all eccentric.",
       "type": "dialogue",
-      "words": 14,
-      "start": 335.68,
-      "end": 340.16,
-      "matchedWords": 13,
-      "translation": "我会说她是我认识的最随和、最聪明的人之一。"
+      "words": 7,
+      "start": 332.94,
+      "end": 335.74,
+      "matchedWords": 7
     },
     {
       "id": "line-54",
+      "sectionId": "conversation-2",
+      "sectionTitle": "CONVERSATION 2",
+      "speaker": "M:",
+      "text": "I would say she's one of the most easygoing and intelligent people I know.",
+      "type": "dialogue",
+      "words": 14,
+      "start": 335.74,
+      "end": 340.26,
+      "matchedWords": 13
+    },
+    {
+      "id": "line-55",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
       "text": "I'd love to be able to meet her.",
       "type": "dialogue",
       "words": 8,
-      "start": 340.16,
+      "start": 340.26,
       "end": 342.18,
-      "matchedWords": 8,
-      "translation": "我很想能见到她。"
+      "matchedWords": 8
     },
     {
-      "id": "line-55",
+      "id": "line-56",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -793,11 +750,10 @@
       "words": 9,
       "start": 342.18,
       "end": 344.8,
-      "matchedWords": 9,
-      "translation": "我有太多的问题想问她。"
+      "matchedWords": 9
     },
     {
-      "id": "line-56",
+      "id": "line-57",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -806,11 +762,10 @@
       "words": 3,
       "start": 344.8,
       "end": 346.24,
-      "matchedWords": 3,
-      "translation": "真巧！"
+      "matchedWords": 3
     },
     {
-      "id": "line-57",
+      "id": "line-58",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -819,11 +774,10 @@
       "words": 6,
       "start": 346.24,
       "end": 348.6,
-      "matchedWords": 6,
-      "translation": "我今晚要和她共进晚餐。"
+      "matchedWords": 6
     },
     {
-      "id": "line-58",
+      "id": "line-59",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -831,129 +785,119 @@
       "type": "dialogue",
       "words": 6,
       "start": 348.6,
-      "end": 349.54,
-      "matchedWords": 6,
-      "translation": "你想一起来吗？"
-    },
-    {
-      "id": "line-59",
-      "sectionId": "conversation-2",
-      "sectionTitle": "CONVERSATION 2",
-      "speaker": "W:",
-      "text": "I'd love to.",
-      "type": "dialogue",
-      "words": 3,
-      "start": 349.54,
-      "end": 350.88,
-      "matchedWords": 3,
-      "translation": "我很乐意。"
+      "end": 349.8,
+      "matchedWords": 6
     },
     {
       "id": "line-60",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "Thank you.",
+      "text": "I'd love to.",
       "type": "dialogue",
-      "words": 2,
-      "start": 350.88,
-      "end": 358.98,
-      "matchedWords": 2,
-      "translation": "谢谢。"
+      "words": 3,
+      "start": 349.8,
+      "end": 350.9,
+      "matchedWords": 3
     },
     {
       "id": "line-61",
+      "sectionId": "conversation-2",
+      "sectionTitle": "CONVERSATION 2",
+      "speaker": "W:",
+      "text": "Thank you.",
+      "type": "dialogue",
+      "words": 2,
+      "start": 350.9,
+      "end": 358.94,
+      "matchedWords": 2
+    },
+    {
+      "id": "line-62",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q5.",
       "text": "What do we learn about one of the newest additions to the gallery's collection?",
       "type": "question",
       "words": 14,
-      "start": 358.98,
+      "start": 358.94,
       "end": 378.68,
-      "matchedWords": 13,
-      "translation": "关于画廊的新藏品之一，我们了解到了什么？"
-    },
-    {
-      "id": "line-62",
-      "sectionId": "conversation-2",
-      "sectionTitle": "CONVERSATION 2",
-      "speaker": "Q6.",
-      "text": "What does the man say about one of the most acclaimed paintings by Danielle Gregory?",
-      "type": "question",
-      "words": 15,
-      "start": 378.68,
-      "end": 398.58,
-      "matchedWords": 14,
-      "translation": "关于丹尼尔·格雷戈里最著名的画作之一，这位男性说了什么？"
+      "matchedWords": 13
     },
     {
       "id": "line-63",
+      "sectionId": "conversation-2",
+      "sectionTitle": "CONVERSATION 2",
+      "speaker": "Q6.",
+      "text": "What does the man say about one of the most acclaimed paintings by Daniel Gregory?",
+      "type": "question",
+      "words": 15,
+      "start": 378.68,
+      "end": 398.78,
+      "matchedWords": 15
+    },
+    {
+      "id": "line-64",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q7.",
       "text": "Why does the woman say she can feel immersed in the scene in the painting?",
       "type": "question",
       "words": 15,
-      "start": 398.58,
-      "end": 416.78,
-      "matchedWords": 15,
-      "translation": "这位女性为什么说她能沉浸在画作的场景中？"
-    },
-    {
-      "id": "line-64",
-      "sectionId": "conversation-2",
-      "sectionTitle": "CONVERSATION 2",
-      "speaker": "Q8.",
-      "text": "How does the man describe Danielle Gregory?",
-      "type": "question",
-      "words": 7,
-      "start": 416.78,
-      "end": 462.66,
-      "matchedWords": 7,
-      "translation": "这位男性如何描述丹尼尔·格雷戈里？"
+      "start": 398.78,
+      "end": 417.58,
+      "matchedWords": 15
     },
     {
       "id": "line-65",
-      "sectionId": "passage-1",
-      "sectionTitle": "PASSAGE 1",
-      "speaker": "",
-      "text": "Forgiveness is the release of resentment or anger.",
-      "type": "narration",
-      "words": 8,
-      "start": 462.66,
-      "end": 466.5,
-      "matchedWords": 8,
-      "translation": "宽恕是放下怨恨或愤怒。"
+      "sectionId": "conversation-2",
+      "sectionTitle": "CONVERSATION 2",
+      "speaker": "Q8.",
+      "text": "How does the man describe Daniel Gregory?",
+      "type": "question",
+      "words": 7,
+      "start": 417.58,
+      "end": 462.64,
+      "matchedWords": 6
     },
     {
       "id": "line-66",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "Forgiveness doesn't mean reconciliation.",
+      "text": "Forgiveness is the release of resentment or anger.",
       "type": "narration",
-      "words": 4,
-      "start": 466.5,
-      "end": 469.4,
-      "matchedWords": 4,
-      "translation": "宽恕并不意味着和解。"
+      "words": 8,
+      "start": 462.64,
+      "end": 466.48,
+      "matchedWords": 8
     },
     {
       "id": "line-67",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "We don't have to return to the same relationship, nor do we have to accept the same harmful behaviors from an offender.",
+      "text": "Forgiveness doesn't mean reconciliation.",
       "type": "narration",
-      "words": 22,
-      "start": 469.4,
-      "end": 477.32,
-      "matchedWords": 22,
-      "translation": "我们不必回到原有的关系中，也不必接受来自冒犯者的同样伤害行为。"
+      "words": 4,
+      "start": 466.48,
+      "end": 469.42,
+      "matchedWords": 4
     },
     {
       "id": "line-68",
+      "sectionId": "passage-1",
+      "sectionTitle": "PASSAGE 1",
+      "speaker": "",
+      "text": "We don't have to return to the same relationship, nor do we have to accept the same harmful behaviors from an offender.",
+      "type": "narration",
+      "words": 22,
+      "start": 469.42,
+      "end": 477.32,
+      "matchedWords": 22
+    },
+    {
+      "id": "line-69",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -962,11 +906,10 @@
       "words": 11,
       "start": 477.32,
       "end": 482.4,
-      "matchedWords": 11,
-      "translation": "宽恕对于某些受害者的心理健康至关重要。"
+      "matchedWords": 11
     },
     {
-      "id": "line-69",
+      "id": "line-70",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -974,116 +917,107 @@
       "type": "narration",
       "words": 15,
       "start": 482.4,
-      "end": 490.02,
-      "matchedWords": 15,
-      "translation": "它推动人们前进，而不是让他们在情感上纠缠于不公或创伤中。"
-    },
-    {
-      "id": "line-70",
-      "sectionId": "passage-1",
-      "sectionTitle": "PASSAGE 1",
-      "speaker": "",
-      "text": "Carrying the hurt or anger of an offense leads the body to release stress chemicals.",
-      "type": "narration",
-      "words": 15,
-      "start": 490.02,
-      "end": 495.96,
-      "matchedWords": 15,
-      "translation": "带着被冒犯的伤害或愤怒，会导致身体释放压力化学物质。"
+      "end": 490.34,
+      "matchedWords": 15
     },
     {
       "id": "line-71",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "Eliminating the perpetual flow of those chemicals may also explain why forgiveness provides physical health benefits.",
+      "text": "Carrying the hurt or anger of an offense leads the body to release stress chemicals.",
       "type": "narration",
-      "words": 16,
-      "start": 495.96,
-      "end": 503.12,
-      "matchedWords": 16,
-      "translation": "消除这些化学物质的持续流动，也可能解释了为什么宽恕对身体健康有益。"
+      "words": 15,
+      "start": 490.34,
+      "end": 496.1,
+      "matchedWords": 14
     },
     {
       "id": "line-72",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "There are scenarios in which forgiveness is not the best course.",
+      "text": "Eliminating the perpetual flow of those chemicals may also explain why forgiveness provides physical health benefits.",
       "type": "narration",
-      "words": 11,
-      "start": 503.12,
-      "end": 508.8,
-      "matchedWords": 11,
-      "translation": "在某些情况下，宽恕并不是最好的选择。"
+      "words": 16,
+      "start": 496.1,
+      "end": 504.68,
+      "matchedWords": 16
     },
     {
       "id": "line-73",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "Sometimes the victim becomes more empowered when they give themselves permission not to forgive.",
+      "text": "There are scenarios in which forgiveness is not the best course.",
       "type": "narration",
-      "words": 14,
-      "start": 508.8,
-      "end": 514.7,
-      "matchedWords": 13,
-      "translation": "有时，当受害者允许自己不宽恕时，他们会变得更有力量。"
+      "words": 11,
+      "start": 504.68,
+      "end": 508.84,
+      "matchedWords": 11
     },
     {
       "id": "line-74",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "Forgiveness can be challenging.",
+      "text": "Sometimes the victim becomes more empowered when they give themselves permission not to forgive.",
       "type": "narration",
-      "words": 4,
-      "start": 514.7,
-      "end": 516.84,
-      "matchedWords": 4,
-      "translation": "宽恕可能具有挑战性。"
+      "words": 14,
+      "start": 508.84,
+      "end": 514.78,
+      "matchedWords": 13
     },
     {
       "id": "line-75",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "This is especially true when the offending party offers an insincere apology, or maybe they haven't offered anything at all.",
+      "text": "Forgiveness can be challenging.",
       "type": "narration",
-      "words": 20,
-      "start": 516.84,
-      "end": 525.98,
-      "matchedWords": 20,
-      "translation": "当冒犯方提供的道歉不真诚，或者根本没有道歉时，情况尤其如此。"
+      "words": 4,
+      "start": 514.78,
+      "end": 516.9,
+      "matchedWords": 4
     },
     {
       "id": "line-76",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "However, it's often the healthiest path forward.",
+      "text": "This is especially true when the offending party offers an insincere apology, or maybe they haven't offered anything at all.",
       "type": "narration",
-      "words": 7,
-      "start": 525.98,
-      "end": 530.52,
-      "matchedWords": 7,
-      "translation": "然而，这通常是向前迈进的最健康路径。"
+      "words": 20,
+      "start": 516.9,
+      "end": 526.06,
+      "matchedWords": 20
     },
     {
       "id": "line-77",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "It's important to cultivate forgiveness by developing compassion for the offender, reflect on whether the act was due to malicious intent or whether it was caused by challenging circumstances in the offender's life.",
+      "text": "However, it's often the healthiest path forward.",
       "type": "narration",
-      "words": 33,
-      "start": 530.52,
-      "end": 545.14,
-      "matchedWords": 32,
-      "translation": "培养宽恕很重要，可以通过对冒犯者产生同情心来实现，反思该行为是出于恶意还是由冒犯者生活中具有挑战性的环境造成的。"
+      "words": 7,
+      "start": 526.06,
+      "end": 530.32,
+      "matchedWords": 7
     },
     {
       "id": "line-78",
+      "sectionId": "passage-1",
+      "sectionTitle": "PASSAGE 1",
+      "speaker": "",
+      "text": "It's important to cultivate forgiveness by developing compassion for the offender, reflect on whether the act was due to malicious intent, or whether it was caused by challenging circumstances in the offender's life.",
+      "type": "narration",
+      "words": 33,
+      "start": 530.32,
+      "end": 545.14,
+      "matchedWords": 32
+    },
+    {
+      "id": "line-79",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -1091,61 +1025,44 @@
       "type": "narration",
       "words": 4,
       "start": 545.14,
-      "end": 547.92,
-      "matchedWords": 4,
-      "translation": "那么宽恕我们自己呢？"
-    },
-    {
-      "id": "line-79",
-      "sectionId": "passage-1",
-      "sectionTitle": "PASSAGE 1",
-      "speaker": "",
-      "text": "We sometimes need to take responsibility for mistakes, but intense guilt and shame aren't a desirable outcome in the long run.",
-      "type": "narration",
-      "words": 21,
-      "start": 547.92,
-      "end": 555.9,
-      "matchedWords": 21,
-      "translation": "我们有时需要为错误承担责任，但从长远来看，强烈的内疚和羞耻并不是一个理想的结果。"
+      "end": 547.8,
+      "matchedWords": 4
     },
     {
       "id": "line-80",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "Forgiving yourself may seem like an ambiguous process.",
+      "text": "We sometimes need to take responsibility for mistakes, but intense guilt and shame aren't a desirable outcome in the long run.",
       "type": "narration",
-      "words": 8,
-      "start": 555.9,
-      "end": 560.7,
-      "matchedWords": 8,
-      "translation": "宽恕自己似乎是一个模糊的过程。"
+      "words": 21,
+      "start": 547.8,
+      "end": 556.66,
+      "matchedWords": 21
     },
     {
       "id": "line-81",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "You can begin by acknowledging that you are at fault.",
+      "text": "Forgiving yourself may seem like an ambiguous process.",
       "type": "narration",
-      "words": 10,
-      "start": 560.7,
-      "end": 564.74,
-      "matchedWords": 10,
-      "translation": "你可以从承认自己的错误开始。"
+      "words": 8,
+      "start": 556.66,
+      "end": 560.56,
+      "matchedWords": 8
     },
     {
       "id": "line-82",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "Take responsibility for the hurt you caused, then reflect on why the event occurred.",
+      "text": "You can begin by acknowledging that you are at fault, take responsibility for the hurt you caused, then reflect on why the event occurred.",
       "type": "narration",
-      "words": 14,
-      "start": 564.74,
-      "end": 571.34,
-      "matchedWords": 14,
-      "translation": "为造成的伤害承担责任，然后反思事件发生的原因。"
+      "words": 24,
+      "start": 560.56,
+      "end": 571.27,
+      "matchedWords": 23
     },
     {
       "id": "line-83",
@@ -1155,10 +1072,9 @@
       "text": "Draw the lessons you learned and try to avoid committing a similar offense in the future.",
       "type": "narration",
       "words": 16,
-      "start": 571.34,
-      "end": 584.02,
-      "matchedWords": 16,
-      "translation": "吸取教训，并努力在未来避免犯类似的错误。"
+      "start": 571.27,
+      "end": 586.33,
+      "matchedWords": 16
     },
     {
       "id": "line-84",
@@ -1168,10 +1084,9 @@
       "text": "What does the passage say about forgiveness?",
       "type": "question",
       "words": 7,
-      "start": 584.02,
-      "end": 601.4,
-      "matchedWords": 7,
-      "translation": "关于宽恕，这篇文章说了什么？"
+      "start": 586.33,
+      "end": 601.39,
+      "matchedWords": 0
     },
     {
       "id": "line-85",
@@ -1181,10 +1096,9 @@
       "text": "When is forgiveness especially challenging?",
       "type": "question",
       "words": 5,
-      "start": 601.4,
-      "end": 618.8,
-      "matchedWords": 5,
-      "translation": "宽恕在什么时候尤其具有挑战性？"
+      "start": 601.39,
+      "end": 618.75,
+      "matchedWords": 5
     },
     {
       "id": "line-86",
@@ -1194,10 +1108,9 @@
       "text": "What should one do in order to forgive the offender?",
       "type": "question",
       "words": 10,
-      "start": 618.8,
-      "end": 636.86,
-      "matchedWords": 10,
-      "translation": "为了宽恕冒犯者，一个人应该做什么？"
+      "start": 618.75,
+      "end": 636.09,
+      "matchedWords": 10
     },
     {
       "id": "line-87",
@@ -1207,36 +1120,33 @@
       "text": "The Glasgow subway first opened in 1896 as a cable-hauled system.",
       "type": "narration",
       "words": 12,
-      "start": 636.86,
-      "end": 643.02,
-      "matchedWords": 12,
-      "translation": "格拉斯哥地铁最初于1896年作为缆索牵引系统开放。"
+      "start": 636.09,
+      "end": 643.11,
+      "matchedWords": 12
     },
     {
       "id": "line-88",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "It is generally recognized as the world's third underground railway after London and Budapest.",
+      "text": "It is generally recognized as the world's third underground railway, after London and Budapest.",
       "type": "narration",
       "words": 14,
-      "start": 643.02,
-      "end": 649.54,
-      "matchedWords": 14,
-      "translation": "它被公认为继伦敦和布达佩斯之后世界第三长的地下铁路。"
+      "start": 643.11,
+      "end": 649.99,
+      "matchedWords": 14
     },
     {
       "id": "line-89",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "In its long history, it has never been expanded, remaining as a single loop line with a mere 15 stations.",
+      "text": "In its long history, it has never been expanded remaining as a single loop line with a mere 15 stations.",
       "type": "narration",
       "words": 20,
-      "start": 649.54,
-      "end": 658.28,
-      "matchedWords": 20,
-      "translation": "在漫长的历史中，它从未扩建，一直作为单一的环线运行，仅有15个站。"
+      "start": 649.99,
+      "end": 657.85,
+      "matchedWords": 20
     },
     {
       "id": "line-90",
@@ -1246,10 +1156,9 @@
       "text": "At its peak, it served the shipyard workers on the south side of the city.",
       "type": "narration",
       "words": 15,
-      "start": 658.28,
-      "end": 663.9,
-      "matchedWords": 15,
-      "translation": "在鼎盛时期，它主要服务于城市南侧的造船厂工人。"
+      "start": 657.85,
+      "end": 663.97,
+      "matchedWords": 15
     },
     {
       "id": "line-91",
@@ -1259,10 +1168,9 @@
       "text": "In the 1960s, there was a decline in the shipbuilding industry, and the popularity of private transport grew.",
       "type": "narration",
       "words": 18,
-      "start": 663.9,
-      "end": 671.94,
-      "matchedWords": 18,
-      "translation": "20世纪60年代，造船业出现衰退，私家车交通的普及率增长。"
+      "start": 663.97,
+      "end": 671.93,
+      "matchedWords": 18
     },
     {
       "id": "line-92",
@@ -1272,10 +1180,9 @@
       "text": "As a result, the subway saw a rapid decline in ridership.",
       "type": "narration",
       "words": 11,
-      "start": 671.94,
-      "end": 677.08,
-      "matchedWords": 11,
-      "translation": "结果，地铁的乘客量迅速下降。"
+      "start": 671.93,
+      "end": 677.07,
+      "matchedWords": 11
     },
     {
       "id": "line-93",
@@ -1285,10 +1192,9 @@
       "text": "It ran with little further change until 1977 when its new operators closed it for major modernization investment.",
       "type": "narration",
       "words": 18,
-      "start": 677.08,
-      "end": 687.42,
-      "matchedWords": 18,
-      "translation": "它几乎没有进一步的变化，直到1977年，由于重大的现代化投资，新的运营商将其关闭。"
+      "start": 677.07,
+      "end": 687.45,
+      "matchedWords": 18
     },
     {
       "id": "line-94",
@@ -1298,10 +1204,9 @@
       "text": "Carriages were replaced, ventilation was improved, and the main depot was also renovated and fitted with connecting tracks to replace the outdated crane transfer mechanism.",
       "type": "narration",
       "words": 25,
-      "start": 687.42,
-      "end": 699.98,
-      "matchedWords": 25,
-      "translation": "车厢被更换，通风设施得到改善，主车库也进行了翻新，并安装了连接轨道以取代过时的起重机转移机制。"
+      "start": 687.45,
+      "end": 700.03,
+      "matchedWords": 25
     },
     {
       "id": "line-95",
@@ -1311,10 +1216,9 @@
       "text": "The subway in its present form reopened for operation in April 1980.",
       "type": "narration",
       "words": 12,
-      "start": 699.98,
-      "end": 706.24,
-      "matchedWords": 11,
-      "translation": "目前形式的地铁于1980年4月重新开放运营。"
+      "start": 700.03,
+      "end": 706.77,
+      "matchedWords": 12
     },
     {
       "id": "line-96",
@@ -1324,75 +1228,69 @@
       "text": "Since its relaunch, the subway has seen a revival in its fortunes.",
       "type": "narration",
       "words": 12,
-      "start": 706.24,
-      "end": 711.98,
-      "matchedWords": 12,
-      "translation": "自重新推出以来，地铁的命运出现了复苏。"
+      "start": 706.77,
+      "end": 711.79,
+      "matchedWords": 12
     },
     {
       "id": "line-97",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "It serves as a viable alternative to other forms of transport and has gone a long way to alleviate traffic jams in the city centre.",
+      "text": "It serves as a viable alternative to other forms of transport and has gone a long way to alleviate traffic jams in the city center.",
       "type": "narration",
       "words": 25,
-      "start": 711.98,
-      "end": 721.16,
-      "matchedWords": 24,
-      "translation": "它作为其他交通形式的可行替代方案，在缓解市中心交通拥堵方面发挥了很大作用。"
+      "start": 711.79,
+      "end": 721.21,
+      "matchedWords": 25
     },
     {
       "id": "line-98",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "In 1996, the system reached an important milestone—100 years.",
+      "text": "In 1996, the system reached an important milestone-100 years.",
       "type": "narration",
       "words": 10,
-      "start": 721.16,
-      "end": 727.46,
-      "matchedWords": 10,
-      "translation": "1996年，该系统达到了一个重要的里程碑——100周年。"
+      "start": 721.21,
+      "end": 727.45,
+      "matchedWords": 10
     },
     {
       "id": "line-99",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "To commemorate this special event, the colour scheme of the train carriages was updated.",
+      "text": "To commemorate this special event, the color scheme of the train carriages was updated.",
       "type": "narration",
       "words": 14,
-      "start": 727.46,
-      "end": 733.24,
-      "matchedWords": 13,
-      "translation": "为了纪念这一特殊事件，火车车厢的配色方案进行了更新。"
+      "start": 727.45,
+      "end": 733.53,
+      "matchedWords": 14
     },
     {
       "id": "line-100",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "Recently, high-tech systems such as smartcard ticketing machines and smart gates are used across all subway stations.",
+      "text": "Recently, high-tech systems such as smart card ticketing machines and smart gates are used across all subway stations.",
       "type": "narration",
-      "words": 18,
-      "start": 733.24,
-      "end": 743.38,
-      "matchedWords": 17,
-      "translation": "最近，所有地铁站都使用了高科技系统，如智能卡售票机和智能闸机。"
+      "words": 19,
+      "start": 733.53,
+      "end": 742.95,
+      "matchedWords": 19
     },
     {
       "id": "line-101",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "The smartcard provides more convenient travel, and passengers simply top up their cards and tap them to get in and out the subway.",
+      "text": "The smart card provides more convenient travel and passengers simply top up their cards and tap them to get in and out the subway.",
       "type": "narration",
-      "words": 23,
-      "start": 743.38,
-      "end": 753.06,
-      "matchedWords": 22,
-      "translation": "智能卡提供了更方便的出行，乘客只需充值并在进出地铁时刷卡即可。"
+      "words": 24,
+      "start": 742.95,
+      "end": 753.07,
+      "matchedWords": 24
     },
     {
       "id": "line-102",
@@ -1402,10 +1300,9 @@
       "text": "Since its launch, the technology has been adopted by more than 100,000 subway customers.",
       "type": "narration",
       "words": 15,
-      "start": 753.06,
-      "end": 767.9,
-      "matchedWords": 15,
-      "translation": "自推出以来，这项技术已被超过10万名地铁客户采用。"
+      "start": 753.07,
+      "end": 767.79,
+      "matchedWords": 15
     },
     {
       "id": "line-103",
@@ -1415,10 +1312,9 @@
       "text": "What does the passage say about the Glasgow subway in the 1960s?",
       "type": "question",
       "words": 12,
-      "start": 767.9,
-      "end": 787.02,
-      "matchedWords": 12,
-      "translation": "关于20世纪60年代的格拉斯哥地铁，这篇文章说了什么？"
+      "start": 767.79,
+      "end": 786.97,
+      "matchedWords": 12
     },
     {
       "id": "line-104",
@@ -1428,894 +1324,1005 @@
       "text": "Why was the Glasgow subway closed in 1977?",
       "type": "question",
       "words": 8,
-      "start": 787.02,
-      "end": 805.7,
-      "matchedWords": 8,
-      "translation": "格拉斯哥地铁为什么在1977年关闭？"
+      "start": 786.97,
+      "end": 805.61,
+      "matchedWords": 8
     },
     {
       "id": "line-105",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q14.",
-      "text": "What benefit does the Glasgow subway bring to the city?",
+      "text": "Why does the Glasgow subway remained important today?",
       "type": "question",
-      "words": 10,
-      "start": 805.7,
-      "end": 822.78,
-      "matchedWords": 4,
-      "translation": "格拉斯哥地铁给城市带来了什么好处？"
+      "words": 8,
+      "start": 805.61,
+      "end": 822.79,
+      "matchedWords": 7
     },
     {
       "id": "line-106",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q15.",
-      "text": "What does the passage say about the Glasgow subway stations now?",
+      "text": "What does the passage say about all subway stations in Glasgow nowadays?",
       "type": "question",
-      "words": 11,
-      "start": 822.78,
-      "end": 877.78,
-      "matchedWords": 8,
-      "translation": "关于现在的格拉斯哥地铁站，这篇文章说了什么？"
+      "words": 12,
+      "start": 822.79,
+      "end": 868.55,
+      "matchedWords": 12
     },
     {
       "id": "line-107",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Bears are found in most parts of the world, except for Africa, Australia and Antarctica.",
+      "text": "If you visit the Great Smoky Mountains National Park, chances are you will remember the roadside or campground bears above all else.",
       "type": "narration",
-      "words": 15,
-      "start": 877.78,
-      "end": 880.027,
-      "matchedWords": 5,
-      "translation": "除了非洲、澳大利亚和南极洲外，世界大部分地区都有熊的身影。"
+      "words": 22,
+      "start": 868.55,
+      "end": 877.79,
+      "matchedWords": 22
     },
     {
       "id": "line-108",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "They are large, powerful animals, and most species are omnivorous, meaning they eat both plants and animals.",
+      "text": "Bears are the most popular animals in a number of our national parks.",
       "type": "narration",
-      "words": 17,
-      "start": 880.027,
-      "end": 882.573,
-      "matchedWords": 0,
-      "translation": "它们是体型巨大、力量强壮的动物，大多数种类是杂食动物，这意味着它们既吃植物也吃动物。"
+      "words": 13,
+      "start": 877.79,
+      "end": 883.05,
+      "matchedWords": 13
     },
     {
       "id": "line-109",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "In recent years, there have been increasing reports of bears coming into contact with humans.",
+      "text": "In these mountains, where the population of bears runs into the hundreds, opportunities to observe these large wild animals are plentiful during the summer.",
       "type": "narration",
-      "words": 15,
-      "start": 882.573,
-      "end": 884.819,
-      "matchedWords": 0,
-      "translation": "近年来，关于熊与人类接触的报告越来越多。"
+      "words": 24,
+      "start": 883.05,
+      "end": 894.09,
+      "matchedWords": 24
     },
     {
       "id": "line-110",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "This is because human populations are expanding into bear habitats, and bears are losing their natural food sources.",
+      "text": "Since national parks are wildlife sanctuaries where no disturbance of the native animals is allowed, years of protection have served to break down the wild bears' fear of humans.",
       "type": "narration",
-      "words": 18,
-      "start": 884.819,
-      "end": 887.515,
-      "matchedWords": 0,
-      "translation": "这是因为人口正在向熊的栖息地扩张，而熊正在失去其天然食物来源。"
+      "words": 29,
+      "start": 894.09,
+      "end": 906.31,
+      "matchedWords": 29
     },
     {
       "id": "line-111",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "As a result, bears are becoming more bold and are often seen rummaging through garbage cans and dumpsters in search of food.",
+      "text": "Now, instead of depending on their own resources for a living, many bears patrol park roads and campgrounds.",
       "type": "narration",
-      "words": 22,
-      "start": 887.515,
-      "end": 890.81,
-      "matchedWords": 0,
-      "translation": "结果，熊变得越来越大胆，经常可以看到它们在垃圾箱和垃圾堆中翻找食物。"
+      "words": 18,
+      "start": 906.31,
+      "end": 915.23,
+      "matchedWords": 18
     },
     {
       "id": "line-112",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Bears are generally not aggressive towards humans, and most attacks occur when a bear is surprised or feels threatened.",
+      "text": "They give the garbage cans a frequent going over.",
       "type": "narration",
-      "words": 19,
-      "start": 890.81,
-      "end": 893.656,
-      "matchedWords": 0,
-      "translation": "熊通常对人类没有攻击性，大多数袭击发生在熊感到意外或受到威胁时。"
+      "words": 9,
+      "start": 915.23,
+      "end": 918.95,
+      "matchedWords": 9
     },
     {
       "id": "line-113",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "However, it's important to remember that bears are wild animals, and they can be dangerous if provoked.",
+      "text": "An occasional offer of food from a park visitor, an illegal and dangerous practice, makes beggars of them.",
       "type": "narration",
-      "words": 17,
-      "start": 893.656,
-      "end": 896.202,
-      "matchedWords": 0,
-      "translation": "然而，重要的是要记住熊是野生动物，如果被激怒，它们可能会很危险。"
+      "words": 18,
+      "start": 918.95,
+      "end": 927.55,
+      "matchedWords": 18
     },
     {
       "id": "line-114",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "If you encounter a bear in the wild, the best thing to do is to stay calm and slowly back away.",
+      "text": "Bears are very often hungry and since they will feed on almost any kind of plant or animal, garbage is quite acceptable.",
       "type": "narration",
-      "words": 21,
-      "start": 896.202,
-      "end": 899.348,
-      "matchedWords": 0,
-      "translation": "如果你在野外遇到熊，最好的做法是保持冷静并缓慢退后。"
+      "words": 22,
+      "start": 927.55,
+      "end": 937.19,
+      "matchedWords": 22
     },
     {
       "id": "line-115",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Do not run, as this may trigger the bear's predatory instinct.",
+      "text": "Feeding them, however, represents misguided kindness because the bears come to expect such generosity from everyone and consequently, trouble could lie ahead.",
       "type": "narration",
-      "words": 11,
-      "start": 899.348,
-      "end": 900.995,
-      "matchedWords": 0,
-      "translation": "不要跑，因为这可能会触发熊的捕食本能。"
+      "words": 22,
+      "start": 937.19,
+      "end": 949.49,
+      "matchedWords": 22
     },
     {
       "id": "line-116",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "If the bear charges, stand your ground and use bear spray if you have it.",
+      "text": "Park rules prohibit the feeding of bears.",
       "type": "narration",
-      "words": 15,
-      "start": 900.995,
-      "end": 903.242,
-      "matchedWords": 0,
-      "translation": "如果熊冲向你，保持原地不动，如果有防熊喷雾就使用它。"
+      "words": 7,
+      "start": 949.49,
+      "end": 952.43,
+      "matchedWords": 7
     },
     {
       "id": "line-117",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "In some areas, feeding bears is strictly forbidden.",
+      "text": "Violators are arrested.",
       "type": "narration",
-      "words": 8,
-      "start": 903.242,
-      "end": 904.44,
-      "matchedWords": 0,
-      "translation": "在某些地区，严禁喂熊。"
+      "words": 3,
+      "start": 952.43,
+      "end": 954.65,
+      "matchedWords": 3
     },
     {
       "id": "line-118",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "This is because feeding bears makes them lose their natural fear of humans, and they may become dependent on human food.",
+      "text": "Every year, doctors who have offices near the park treat a number of cases of bear bites and bear scratches.",
       "type": "narration",
-      "words": 21,
-      "start": 904.44,
-      "end": 966.08,
-      "matchedWords": 6,
-      "translation": "这是因为喂熊会让它们失去对人类的天然恐惧，它们可能会变得依赖人类的食物。"
+      "words": 20,
+      "start": 954.65,
+      "end": 962.63,
+      "matchedWords": 20
     },
     {
       "id": "line-119",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "This can lead to more frequent encounters between bears and humans, and it can also be dangerous for the bears themselves.",
+      "text": "Some of the accidents have come about in strange ways.",
       "type": "narration",
-      "words": 21,
-      "start": 966.08,
-      "end": 1027.72,
-      "matchedWords": 0,
-      "translation": "这可能导致熊与人类之间更频繁地接触，对熊本身也可能很危险。"
+      "words": 10,
+      "start": 962.63,
+      "end": 966.73,
+      "matchedWords": 10
     },
     {
       "id": "line-120",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "If you live in an area where bears are common, it's important to take precautions to avoid attracting them to your home.",
+      "text": "One man was in the process of feeding two small cubs, when the mother bear appeared and insisted upon having some of the food.",
       "type": "narration",
-      "words": 22,
-      "start": 1027.72,
-      "end": 1034.99,
-      "matchedWords": 4,
-      "translation": "如果你住在熊常见的地区，采取预防措施以避免将熊吸引到你家是很重要的。"
+      "words": 24,
+      "start": 966.73,
+      "end": 975.39,
+      "matchedWords": 24
     },
     {
       "id": "line-121",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "This includes keeping your garbage cans securely closed, not leaving pet food outside, and removing any bird feeders that may attract bears.",
+      "text": "Shoving the big bear aside with one hand, the man continued feeding the cubs when suddenly he was struck a fierce blow in the face.",
       "type": "narration",
-      "words": 22,
-      "start": 1034.99,
-      "end": 1042.26,
-      "matchedWords": 0,
-      "translation": "这包括保持垃圾箱紧闭，不把宠物食物留在外面，以及移除任何可能吸引熊的喂鸟器。"
+      "words": 25,
+      "start": 975.39,
+      "end": 984.91,
+      "matchedWords": 25
     },
     {
       "id": "line-122",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
-      "speaker": "Q16.",
-      "text": "What does the speaker say about bears in recent years?",
-      "type": "question",
-      "words": 10,
-      "start": 1042.26,
-      "end": 1061.7,
-      "matchedWords": 8,
-      "translation": "说话者关于近年来的熊说了什么？"
+      "speaker": "",
+      "text": "A bear, prompted by the food that a lady kept offering to him, entered the car where the generous person was sitting.",
+      "type": "narration",
+      "words": 22,
+      "start": 984.91,
+      "end": 992.77,
+      "matchedWords": 22
     },
     {
       "id": "line-123",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
-      "speaker": "Q17.",
-      "text": "What does the speaker say about feeding bears in some areas?",
-      "type": "question",
-      "words": 11,
-      "start": 1061.7,
-      "end": 1079.232,
-      "matchedWords": 10,
-      "translation": "说话者关于某些地区喂熊的行为说了什么？"
+      "speaker": "",
+      "text": "Her efforts to push the bear out of the car resulted in injuries.",
+      "type": "narration",
+      "words": 13,
+      "start": 992.77,
+      "end": 997.85,
+      "matchedWords": 13
     },
     {
       "id": "line-124",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
-      "speaker": "Q18.",
-      "text": "What does the speaker advise people to do if they live in an area where bears are common?",
-      "type": "question",
-      "words": 18,
-      "start": 1079.232,
-      "end": 1102.9,
-      "matchedWords": 0,
-      "translation": "对于住在熊常见地区的人们，说话者有什么建议？"
+      "speaker": "",
+      "text": "A man required medical attention after he applied a lighted cigarette to a bear's nose.",
+      "type": "narration",
+      "words": 15,
+      "start": 997.85,
+      "end": 1004.43,
+      "matchedWords": 15
     },
     {
       "id": "line-125",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Why do we form opinions or attitudes about someone or something without really knowing much about them?",
+      "text": "Another man tried to boost a bear into the front seat of his car so that he might take a picture of a bear sitting beside his wife who was behind the wheel.",
       "type": "narration",
-      "words": 17,
-      "start": 1102.9,
-      "end": 1109.96,
-      "matchedWords": 17,
-      "translation": "为什么我们在并不真正了解某人或某事的情况下，就会对其产生看法或态度呢？"
+      "words": 33,
+      "start": 1004.43,
+      "end": 1014.81,
+      "matchedWords": 33
     },
     {
       "id": "line-126",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Just hearing something good or bad about a person, a place, or a thing can influence our opinions without us even realizing it.",
+      "text": "Because bears prefer roads and campgrounds, the possibility of a hiker meeting up with a bear' along park trails is small, but there's always that chance, for a bear seems to know if you are carrying a lunch·or a candy bar.",
       "type": "narration",
-      "words": 23,
-      "start": 1109.96,
-      "end": 1126.02,
-      "matchedWords": 17,
-      "translation": "仅仅听到关于一个人、一个地方或一件事的好坏，就可能在不知不觉中影响我们的看法。"
+      "words": 42,
+      "start": 1014.81,
+      "end": 1031.15,
+      "matchedWords": 42
     },
     {
       "id": "line-127",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Forming opinions about someone or something before really knowing them well is called prejudice.",
+      "text": "He may even insist on taking it.",
       "type": "narration",
-      "words": 14,
-      "start": 1126.02,
-      "end": 1137.6,
-      "matchedWords": 14,
-      "translation": "在真正了解某人或某事之前就对其产生看法，这被称为偏见。"
+      "words": 7,
+      "start": 1031.15,
+      "end": 1042.25,
+      "matchedWords": 7
     },
     {
       "id": "line-128",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "Prejudice means \"pre-judging\" something.",
-      "type": "narration",
-      "words": 5,
-      "start": 1137.6,
-      "end": 1143.283,
-      "matchedWords": 3,
-      "translation": "偏见意味着“预先判断”某事。"
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "Q16.",
+      "text": "What does the speaker say about the bears in national parks now?",
+      "type": "question",
+      "words": 12,
+      "start": 1042.25,
+      "end": 1061.67,
+      "matchedWords": 12
     },
     {
       "id": "line-129",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "It means making a judgment about something before you have all the facts.",
-      "type": "narration",
-      "words": 13,
-      "start": 1143.283,
-      "end": 1158.06,
-      "matchedWords": 0,
-      "translation": "这意味着在掌握所有事实之前就对某事做出判断。"
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "Q17.",
+      "text": "What does the speaker say about visitors feeding bears in national parks?",
+      "type": "question",
+      "words": 12,
+      "start": 1061.67,
+      "end": 1081.57,
+      "matchedWords": 12
     },
     {
       "id": "line-130",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "Prejudiced attitudes are usually based on myths, half-truths, or incorrect information.",
-      "type": "narration",
-      "words": 12,
-      "start": 1158.06,
-      "end": 1165.12,
-      "matchedWords": 12,
-      "translation": "偏见态度通常基于神话、半真半假的事实或错误的信息。"
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "Q18.",
+      "text": "What is the speaker's advice to people who carry some food while hiking on a park trail?",
+      "type": "question",
+      "words": 17,
+      "start": 1081.57,
+      "end": 1102.85,
+      "matchedWords": 17
     },
     {
       "id": "line-131",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "This is dangerous because they can prevent us from getting to know the truth about someone or something.",
+      "text": "Why do we form opinions or attitudes about someone or something without really knowing much about them?",
       "type": "narration",
-      "words": 18,
-      "start": 1165.12,
-      "end": 1171.4,
-      "matchedWords": 12,
-      "translation": "这是危险的，因为它们会阻碍我们了解关于某人或某事的真相。"
+      "words": 17,
+      "start": 1102.85,
+      "end": 1109.93,
+      "matchedWords": 17
     },
     {
       "id": "line-132",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "They can also lead to discrimination, which is treating people unfairly because of their race, religion, gender, or other characteristics.",
+      "text": "Just hearing something good or bad about a person, a place or thing can influence our opinions positively or negatively.",
       "type": "narration",
       "words": 20,
-      "start": 1171.4,
-      "end": 1176.372,
-      "matchedWords": 7,
-      "translation": "它们还可能导致歧视，即由于种族、宗教、性别或其他特征而对人们不公平。歧视就是不公平地对待他人。"
+      "start": 1109.93,
+      "end": 1118.81,
+      "matchedWords": 20
     },
     {
       "id": "line-133",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Prejudice can be found in all societies, and it can affect people of all ages.",
+      "text": "But letting the opinions of another person determine what our opinions will be is dangerous.",
       "type": "narration",
       "words": 15,
-      "start": 1176.372,
-      "end": 1180.102,
-      "matchedWords": 0,
-      "translation": "偏见存在于所有社会中，并且会影响所有年龄段的人。"
+      "start": 1118.81,
+      "end": 1125.63,
+      "matchedWords": 15
     },
     {
       "id": "line-134",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "It can be passed down from generation to generation, and it can be reinforced by the media and by our peers.",
+      "text": "Forming opinions about someone or something before really knowing them well is called prejudice.",
       "type": "narration",
-      "words": 21,
-      "start": 1180.102,
-      "end": 1185.323,
-      "matchedWords": 0,
-      "translation": "它可以代代相传，并可能因媒体和同龄人的影响而得到强化。"
+      "words": 14,
+      "start": 1125.63,
+      "end": 1132.25,
+      "matchedWords": 14
     },
     {
       "id": "line-135",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "So when do we begin to develop prejudiced attitudes?",
+      "text": "\"Pre-\" means before and \"-judice\" refers to judgment.",
       "type": "narration",
-      "words": 9,
-      "start": 1185.323,
-      "end": 1187.561,
-      "matchedWords": 0,
-      "translation": "那么我们什么时候开始产生偏见态度的呢？"
+      "words": 8,
+      "start": 1132.25,
+      "end": 1136.81,
+      "matchedWords": 7
     },
     {
       "id": "line-136",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Well, research shows that children as young as three years old can start to form prejudices.",
+      "text": "Hence, prejudice means to judge before having adequate knowledge.",
       "type": "narration",
-      "words": 16,
-      "start": 1187.561,
-      "end": 1191.539,
-      "matchedWords": 0,
-      "translation": "研究表明，三岁大的孩子就可以开始产生偏见。"
+      "words": 9,
+      "start": 1136.81,
+      "end": 1142.43,
+      "matchedWords": 9
     },
     {
       "id": "line-137",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "This is because they are influenced by the attitudes of their parents and other adults around them.",
+      "text": "We can be prejudiced toward or against someone or something.",
       "type": "narration",
-      "words": 17,
-      "start": 1191.539,
-      "end": 1195.765,
-      "matchedWords": 0,
-      "translation": "这是因为他们受到父母和周围其他成年人态度的影响。"
+      "words": 10,
+      "start": 1142.43,
+      "end": 1146.53,
+      "matchedWords": 10
     },
     {
       "id": "line-138",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "As we grow older, our prejudices can become more deeply ingrained.",
+      "text": "In either case, we are only allowing ourselves to see half of the picture.",
       "type": "narration",
-      "words": 11,
-      "start": 1195.765,
-      "end": 1198.5,
-      "matchedWords": 0,
-      "translation": "随着我们长大，我们的偏见会变得更加根深蒂固。"
+      "words": 14,
+      "start": 1146.53,
+      "end": 1152.23,
+      "matchedWords": 14
     },
     {
       "id": "line-139",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "We may start to believe that our own group or culture is superior to others.",
+      "text": "Very few people or things in this world are all good or all bad.",
       "type": "narration",
-      "words": 15,
-      "start": 1198.5,
-      "end": 1199.368,
-      "matchedWords": 4,
-      "translation": "我们可能会开始认为自己的群体或文化优于他人。"
+      "words": 14,
+      "start": 1152.23,
+      "end": 1158.29,
+      "matchedWords": 14
     },
     {
       "id": "line-140",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "This is called ethnocentrism.",
+      "text": "Prejudiced attitudes are usually based on myths, half truths or incorrect information, and they are dangerous because they can keep us from learning the truth about someone or something.",
       "type": "narration",
-      "words": 4,
-      "start": 1199.368,
-      "end": 1199.6,
-      "matchedWords": 0,
-      "translation": "这被称为民族中心主义（或种族优越感）。"
+      "words": 29,
+      "start": 1158.29,
+      "end": 1171.43,
+      "matchedWords": 29
     },
     {
       "id": "line-141",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "When pride in our own group turns into a feeling of superiority, we begin to develop prejudiced attitudes that can be harmful to others.",
+      "text": "People form prejudices against others for many reasons-differences in their race, religion, gender or occupation.",
       "type": "narration",
-      "words": 24,
-      "start": 1199.6,
-      "end": 1287.24,
-      "matchedWords": 12,
-      "translation": "当我们对自己群体的自豪感转变为优越感时，我们就开始产生偏见态度，这可能对他人有害。"
+      "words": 16,
+      "start": 1171.43,
+      "end": 1181.75,
+      "matchedWords": 16
     },
     {
       "id": "line-142",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Prejudices keep people apart.",
+      "type": "narration",
+      "words": 4,
+      "start": 1181.75,
+      "end": 1184.35,
+      "matchedWords": 4
+    },
+    {
+      "id": "line-143",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "They keep us from really knowing and understanding each other.",
+      "type": "narration",
+      "words": 10,
+      "start": 1184.35,
+      "end": 1188.67,
+      "matchedWords": 10
+    },
+    {
+      "id": "line-144",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "We should feel proud of who we are and the group of people we represent.",
+      "type": "narration",
+      "words": 15,
+      "start": 1188.67,
+      "end": 1193.59,
+      "matchedWords": 15
+    },
+    {
+      "id": "line-145",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "If feelings of pride begin to turn to feelings of superiority when we think that our group or our beliefs are better than those around us, however, then we begin to develop prejudiced attitudes that can be harmful.",
+      "type": "narration",
+      "words": 38,
+      "start": 1193.59,
+      "end": 1207.41,
+      "matchedWords": 38
+    },
+    {
+      "id": "line-146",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "For example, the prejudiced attitudes of one group may keep another group from attending certain schools, from living in any neighborhood they want, or from getting a job or a promotion.",
+      "type": "narration",
+      "words": 31,
+      "start": 1207.41,
+      "end": 1220.49,
+      "matchedWords": 31
+    },
+    {
+      "id": "line-147",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Extreme feelings of prejudice have caused the deaths of innocent people.",
+      "type": "narration",
+      "words": 11,
+      "start": 1220.49,
+      "end": 1225.83,
+      "matchedWords": 11
+    },
+    {
+      "id": "line-148",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "We are responsible for our own thoughts and opinions.",
+      "type": "narration",
+      "words": 9,
+      "start": 1225.83,
+      "end": 1229.35,
+      "matchedWords": 9
+    },
+    {
+      "id": "line-149",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "When we let someone else tell us what to think about someone or something, we are giving up some control of our own lives.",
+      "type": "narration",
+      "words": 24,
+      "start": 1229.35,
+      "end": 1237.39,
+      "matchedWords": 24
+    },
+    {
+      "id": "line-150",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Before you form an attitude or opinion, find out for yourself about the person or the thing in question.",
+      "type": "narration",
+      "words": 19,
+      "start": 1237.39,
+      "end": 1244.91,
+      "matchedWords": 19
+    },
+    {
+      "id": "line-151",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Sometimes we don't realize that we hold prejudiced attitudes toward or against someone or something.",
+      "type": "narration",
+      "words": 15,
+      "start": 1244.91,
+      "end": 1251.59,
+      "matchedWords": 15
+    },
+    {
+      "id": "line-152",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "We need to carefully examine our lives and our fears, and to ask ourselves whether our attitudes come from our personal knowledge and experience or from rumors and fear of the unknown.",
+      "type": "narration",
+      "words": 32,
+      "start": 1251.59,
+      "end": 1265.33,
+      "matchedWords": 32
+    },
+    {
+      "id": "line-153",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "The good news about prejudice is that we are not born with it.",
+      "type": "narration",
+      "words": 13,
+      "start": 1265.33,
+      "end": 1269.43,
+      "matchedWords": 13
+    },
+    {
+      "id": "line-154",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Prejudiced attitudes and opinions develop over time.",
+      "type": "narration",
+      "words": 7,
+      "start": 1269.43,
+      "end": 1273.33,
+      "matchedWords": 7
+    },
+    {
+      "id": "line-155",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "But with education and knowledge, we can replace our prejudices with cooperation and understanding.",
+      "type": "narration",
+      "words": 14,
+      "start": 1273.33,
+      "end": 1287.19,
+      "matchedWords": 14
+    },
+    {
+      "id": "line-156",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "Q19.",
       "text": "What does the speaker say about prejudice?",
       "type": "question",
       "words": 7,
-      "start": 1287.24,
-      "end": 1304.46,
-      "matchedWords": 7,
-      "translation": "关于偏见，说话者说了什么？"
+      "start": 1287.19,
+      "end": 1304.45,
+      "matchedWords": 7
     },
     {
-      "id": "line-143",
+      "id": "line-157",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "Q20.",
       "text": "Why does the speaker say prejudiced attitudes are dangerous?",
       "type": "question",
       "words": 9,
-      "start": 1304.46,
-      "end": 1323.18,
-      "matchedWords": 9,
-      "translation": "说话者为什么说偏见态度是危险的？"
+      "start": 1304.45,
+      "end": 1323.17,
+      "matchedWords": 9
     },
     {
-      "id": "line-144",
+      "id": "line-158",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "Q21.",
       "text": "When does the speaker say we begin to develop prejudiced attitudes?",
       "type": "question",
       "words": 11,
-      "start": 1323.18,
-      "end": 1342.96,
-      "matchedWords": 11,
-      "translation": "说话者说我们什么时候开始产生偏见态度？"
-    },
-    {
-      "id": "line-145",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "When I started high school, it was a shock.",
-      "type": "narration",
-      "words": 9,
-      "start": 1342.96,
-      "end": 1346.24,
-      "matchedWords": 9,
-      "translation": "当我开始读高中时，那简直是一个打击。"
-    },
-    {
-      "id": "line-146",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "I had spent eight years fighting my way to be the most popular kid in the Catholic school student body.",
-      "type": "narration",
-      "words": 20,
-      "start": 1346.24,
-      "end": 1351.9,
-      "matchedWords": 20,
-      "translation": "我花了八年的时间，努力让自己成为这所天主教学校学生中最受欢迎的孩子。"
-    },
-    {
-      "id": "line-147",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "I had been a big, tough eighth grader, and suddenly I was a lowly ninth grader, bullied by the big, tough 12th grade seniors who ran the high school.",
-      "type": "narration",
-      "words": 29,
-      "start": 1351.9,
-      "end": 1364.2,
-      "matchedWords": 28,
-      "translation": "我原本是一个高大强壮的八年级学生，突然间我就成了一个卑微的九年级学生，被那些管理高中的高大强壮的12年级毕业生欺负。"
-    },
-    {
-      "id": "line-148",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "I realized then that it's nice to strive for something, but that you also have to enjoy the moment you're in and be happy where you are.",
-      "type": "narration",
-      "words": 27,
-      "start": 1364.2,
-      "end": 1374.36,
-      "matchedWords": 27,
-      "translation": "那时我意识到，为某事而奋斗是好事，但你也必须享受当下的时刻，并在所处的位置感到快乐。"
-    },
-    {
-      "id": "line-149",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Rock and roll had always been an important part of my life.",
-      "type": "narration",
-      "words": 12,
-      "start": 1374.36,
-      "end": 1377.56,
-      "matchedWords": 12,
-      "translation": "摇滚乐一直是我生活中重要的一部分。"
-    },
-    {
-      "id": "line-150",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "I remember my friends and I used to drive around until the late hours of the nights, listening to the music of rock and roll legends.",
-      "type": "narration",
-      "words": 26,
-      "start": 1377.56,
-      "end": 1386.84,
-      "matchedWords": 26,
-      "translation": "我记得我和朋友们以前经常开车兜风直到深夜，听着摇滚传奇人物的音乐。"
-    },
-    {
-      "id": "line-151",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "During those teenage years, I built friendships that I thought would last a lifetime.",
-      "type": "narration",
-      "words": 14,
-      "start": 1386.84,
-      "end": 1392.92,
-      "matchedWords": 14,
-      "translation": "在那些青少年时期，我建立了我觉得会持续一辈子的友谊。"
-    },
-    {
-      "id": "line-152",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Most people that age think the same thing, but people drift apart.",
-      "type": "narration",
-      "words": 12,
-      "start": 1392.92,
-      "end": 1398.88,
-      "matchedWords": 12,
-      "translation": "大多数那个年纪的人都这么想，但人们会渐行渐远。"
-    },
-    {
-      "id": "line-153",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Jobs, families, and tragedies separate people from those lasting friendships.",
-      "type": "narration",
-      "words": 10,
-      "start": 1398.88,
-      "end": 1404.7,
-      "matchedWords": 10,
-      "translation": "工作、家庭和悲剧会让人们与那些长久的友谊分开。"
-    },
-    {
-      "id": "line-154",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "The tragedy that separated me from my friends forever was the Vietnam War.",
-      "type": "narration",
-      "words": 13,
-      "start": 1404.7,
-      "end": 1411.24,
-      "matchedWords": 13,
-      "translation": "让我和朋友们永远分开的悲剧是越南战争。"
-    },
-    {
-      "id": "line-155",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "A year after I graduated from high school, I left for Vietnam.",
-      "type": "narration",
-      "words": 12,
-      "start": 1411.24,
-      "end": 1416.06,
-      "matchedWords": 12,
-      "translation": "高中毕业一年后，我动身去了越南。"
-    },
-    {
-      "id": "line-156",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "I came back burned out and tired, as though I had lived 10 lifetimes in the short span of 14 months.",
-      "type": "narration",
-      "words": 21,
-      "start": 1416.06,
-      "end": 1424.84,
-      "matchedWords": 19,
-      "translation": "我回来时精疲力竭，疲惫不堪，仿佛在短短14个月的时间里经历了10辈子。"
-    },
-    {
-      "id": "line-157",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "The 14 months I was in the war, I couldn't relate to the friends I had had in high school.",
-      "type": "narration",
-      "words": 20,
-      "start": 1424.84,
-      "end": 1430.54,
-      "matchedWords": 19,
-      "translation": "在战争中的那14个月里，我无法与高中时的朋友产生共鸣。"
-    },
-    {
-      "id": "line-158",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "They still seemed childish, concerned with childish things that weren't important to me.",
-      "type": "narration",
-      "words": 13,
-      "start": 1430.54,
-      "end": 1436.54,
-      "matchedWords": 13,
-      "translation": "他们似乎仍然很幼稚，关心着那些对我来说并不重要的幼稚事情。"
+      "start": 1323.17,
+      "end": 1342.69,
+      "matchedWords": 11
     },
     {
       "id": "line-159",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "I was still trying to cope with the death, destruction, and evil I had seen in Vietnam.",
+      "text": "When I started high school, it was a shock.",
       "type": "narration",
-      "words": 17,
-      "start": 1436.54,
-      "end": 1443.32,
-      "matchedWords": 17,
-      "translation": "我仍然在努力应对我在越南看到的死亡、毁灭和邪恶。"
+      "words": 9,
+      "start": 1342.69,
+      "end": 1346.25,
+      "matchedWords": 9
     },
     {
       "id": "line-160",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "I felt like we had done terrible things to innocent people there, and in turn, I had seen terrible things done to my friends.",
+      "text": "I had spent eight years fighting my way to be the most popular kid in the Catholic school student body.",
       "type": "narration",
-      "words": 24,
-      "start": 1443.32,
-      "end": 1451.56,
-      "matchedWords": 24,
-      "translation": "我觉得我们对那里的无辜人民做了可怕的事情，反过来，我也看到了可怕的事情发生在我朋友身上。"
+      "words": 20,
+      "start": 1346.25,
+      "end": 1352.49,
+      "matchedWords": 20
     },
     {
       "id": "line-161",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "I withdrew from my friends and started college, then I quit college and took many different jobs.",
+      "text": "I had been a big, tough 8th grader and suddenly I was a lonely 9th grader bullied by the big, tough 12th grade seniors who ran the high school.",
       "type": "narration",
-      "words": 17,
-      "start": 1451.56,
-      "end": 1457.92,
-      "matchedWords": 17,
-      "translation": "我疏远了朋友，开始读大学，然后我退学了，做了很多不同的工作。"
+      "words": 29,
+      "start": 1352.49,
+      "end": 1364.19,
+      "matchedWords": 25
     },
     {
       "id": "line-162",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "I spent a lot of my time and money on alcohol and other drugs.",
+      "text": "I realized then that it's nice to strive for something, but that you also have to enjoy the moment you're in and be happy where you are.",
       "type": "narration",
-      "words": 14,
-      "start": 1457.92,
-      "end": 1464.44,
-      "matchedWords": 14,
-      "translation": "我把很多时间和金钱花在酒精和其他药物上。"
+      "words": 27,
+      "start": 1364.19,
+      "end": 1374.35,
+      "matchedWords": 27
     },
     {
       "id": "line-163",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "Finally, in an effort to get my life going in the right direction again, I sold everything and took what little money I had and bought myself an airplane ticket to Israel.",
+      "text": "Rock and roll had always been an important part of my life.",
       "type": "narration",
-      "words": 32,
-      "start": 1464.44,
-      "end": 1476.0,
-      "matchedWords": 32,
-      "translation": "最后，为了让我的生活重新回到正确的轨道上，我卖掉了一切，带着我仅有的一点钱，买了一张去以色列的机票。"
+      "words": 12,
+      "start": 1374.35,
+      "end": 1377.55,
+      "matchedWords": 12
     },
     {
       "id": "line-164",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "I went there to study history.",
+      "text": "I remember my friends and I used to drive around until the late hours of the nights listening to the music of Rock and Roll Legends.",
       "type": "narration",
-      "words": 6,
-      "start": 1476.0,
-      "end": 1478.54,
-      "matchedWords": 6,
-      "translation": "我去那里学习历史。"
+      "words": 26,
+      "start": 1377.55,
+      "end": 1386.79,
+      "matchedWords": 26
     },
     {
       "id": "line-165",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "While studying at Haifa University, I met my wife, who was also an American student.",
+      "text": "During those teenage years, I built friendships that I thought would last a lifetime.",
       "type": "narration",
-      "words": 15,
-      "start": 1478.54,
-      "end": 1485.78,
-      "matchedWords": 15,
-      "translation": "在海法大学学习期间，我遇到了我的妻子，她也是一名美国学生。"
+      "words": 14,
+      "start": 1386.79,
+      "end": 1392.93,
+      "matchedWords": 14
     },
     {
       "id": "line-166",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "I now teach in a high school back in America.",
+      "text": "Most people that age think the same thing, but people drift apart.",
       "type": "narration",
-      "words": 10,
-      "start": 1485.78,
-      "end": 1489.38,
-      "matchedWords": 10,
-      "translation": "我现在回到美国的一所高中教书。"
+      "words": 12,
+      "start": 1392.93,
+      "end": 1398.89,
+      "matchedWords": 12
     },
     {
       "id": "line-167",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "I look at my students and see them struggling with many of the very things I struggled with many years ago.",
+      "text": "Jobs, families and tragedies separate people from those lasting friendships.",
       "type": "narration",
-      "words": 21,
-      "start": 1489.38,
-      "end": 1496.1,
-      "matchedWords": 21,
-      "translation": "我看着我的学生，看到他们正在为许多我多年前奋斗过的事情而挣扎。"
+      "words": 10,
+      "start": 1398.89,
+      "end": 1404.75,
+      "matchedWords": 10
     },
     {
       "id": "line-168",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "As a teacher, I try to help them over the rough spots as best I can.",
+      "text": "The tragedy that separated me from my friends forever was the Vietnam war.",
       "type": "narration",
-      "words": 16,
-      "start": 1496.1,
-      "end": 1510.02,
-      "matchedWords": 16,
-      "translation": "作为一名老师，我尽我所能帮助他们度过难关。"
+      "words": 13,
+      "start": 1404.75,
+      "end": 1411.09,
+      "matchedWords": 13
     },
     {
       "id": "line-169",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "A year after I graduated from high school, I left for Vietnam.",
+      "type": "narration",
+      "words": 12,
+      "start": 1411.09,
+      "end": 1416.07,
+      "matchedWords": 12
+    },
+    {
+      "id": "line-170",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "I came back, burned out, and tired, as though I had lived 10 lifetimes in the short span of 14 months, the 14 months I was in the war.",
+      "type": "narration",
+      "words": 29,
+      "start": 1416.07,
+      "end": 1427.75,
+      "matchedWords": 26
+    },
+    {
+      "id": "line-171",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "I couldn't relate to the friends I had had in high school.",
+      "type": "narration",
+      "words": 12,
+      "start": 1427.75,
+      "end": 1430.55,
+      "matchedWords": 12
+    },
+    {
+      "id": "line-172",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "They still seem childish, concerned with childish things that weren't important to me.",
+      "type": "narration",
+      "words": 13,
+      "start": 1430.55,
+      "end": 1436.53,
+      "matchedWords": 12
+    },
+    {
+      "id": "line-173",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "I was still trying to cope with the death, destruction and evil I had seen in Vietnam.",
+      "type": "narration",
+      "words": 17,
+      "start": 1436.53,
+      "end": 1443.35,
+      "matchedWords": 17
+    },
+    {
+      "id": "line-174",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "I felt like we had done terrible things to innocent people there and in turn, I had seen terrible things done to my friends.",
+      "type": "narration",
+      "words": 24,
+      "start": 1443.35,
+      "end": 1451.57,
+      "matchedWords": 24
+    },
+    {
+      "id": "line-175",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "I withdrew for my friends and started college.",
+      "type": "narration",
+      "words": 8,
+      "start": 1451.57,
+      "end": 1455.03,
+      "matchedWords": 7
+    },
+    {
+      "id": "line-176",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Then I quit college and took many different jobs.",
+      "type": "narration",
+      "words": 9,
+      "start": 1455.03,
+      "end": 1458.73,
+      "matchedWords": 9
+    },
+    {
+      "id": "line-177",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "I spent a lot of my time and money on alcohol and other drugs.",
+      "type": "narration",
+      "words": 14,
+      "start": 1458.73,
+      "end": 1463.95,
+      "matchedWords": 14
+    },
+    {
+      "id": "line-178",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Finally, in an effort to get my life going in the right direction again, I sold everything and took what little money I had and bought myself an airplane ticket to Israel.",
+      "type": "narration",
+      "words": 32,
+      "start": 1463.95,
+      "end": 1475.87,
+      "matchedWords": 32
+    },
+    {
+      "id": "line-179",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "I went there to study history.",
+      "type": "narration",
+      "words": 6,
+      "start": 1475.87,
+      "end": 1478.55,
+      "matchedWords": 6
+    },
+    {
+      "id": "line-180",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "While studying at Haifa University, I met my wife, who was also an American student.",
+      "type": "narration",
+      "words": 15,
+      "start": 1478.55,
+      "end": 1485.79,
+      "matchedWords": 15
+    },
+    {
+      "id": "line-181",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "I now teach in a high school back in America.",
+      "type": "narration",
+      "words": 10,
+      "start": 1485.79,
+      "end": 1489.39,
+      "matchedWords": 10
+    },
+    {
+      "id": "line-182",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "I look at my students and see them struggling with many of the very things I struggled with many years ago.",
+      "type": "narration",
+      "words": 21,
+      "start": 1489.39,
+      "end": 1496.07,
+      "matchedWords": 21
+    },
+    {
+      "id": "line-183",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "As a teacher, I try to help them over the rough spots as best I can.",
+      "type": "narration",
+      "words": 16,
+      "start": 1496.07,
+      "end": 1510.03,
+      "matchedWords": 16
+    },
+    {
+      "id": "line-184",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "Q22.",
       "text": "How did the speaker feel when he started high school?",
       "type": "question",
       "words": 10,
-      "start": 1510.02,
-      "end": 1527.5,
-      "matchedWords": 10,
-      "translation": "说话者开始读高中时感觉如何？"
+      "start": 1510.03,
+      "end": 1528.43,
+      "matchedWords": 10
     },
     {
-      "id": "line-170",
+      "id": "line-185",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "Q23.",
       "text": "What did the speaker once think of teenage friendships?",
       "type": "question",
       "words": 9,
-      "start": 1527.5,
-      "end": 1547.76,
-      "matchedWords": 9,
-      "translation": "说话者曾经如何看待青少年时期的友谊？"
+      "start": 1528.43,
+      "end": 1547.77,
+      "matchedWords": 9
     },
     {
-      "id": "line-171",
+      "id": "line-186",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "Q24.",
-      "text": "What do we learn about the speaker when he returned from the Vietnam War?",
+      "text": "What do we learn about the speaker when he returned from the Vietnam war?",
       "type": "question",
       "words": 14,
-      "start": 1547.76,
-      "end": 1566.92,
-      "matchedWords": 14,
-      "translation": "关于说话者从越战归来时的情形，我们了解到了什么？"
+      "start": 1547.77,
+      "end": 1565.95,
+      "matchedWords": 14
     },
     {
-      "id": "line-172",
+      "id": "line-187",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "Q25.",
       "text": "What does the speaker try to do as a teacher?",
       "type": "question",
       "words": 10,
-      "start": 1566.92,
+      "start": 1565.95,
       "end": 1586.024,
-      "matchedWords": 10,
-      "translation": "作为一名老师，说话者试图做什么？"
+      "matchedWords": 10
     }
   ]
 }

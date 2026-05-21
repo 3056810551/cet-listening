@@ -4,11 +4,11 @@
   "source": {
     "markdown": {
       "name": "2022-12-2.md",
-      "size": 13778,
-      "mtimeNs": 1778848129366985300
+      "size": 15371,
+      "mtimeNs": 1779357729604996400
     }
   },
-  "generatedAt": 1778848632,
+  "generatedAt": 1779357801,
   "sections": [
     {
       "id": "conversation-1",
@@ -23,7 +23,7 @@
     {
       "id": "passage-1",
       "title": "PASSAGE 1",
-      "firstLineId": "line-65"
+      "firstLineId": "line-66"
     },
     {
       "id": "passage-2",
@@ -38,12 +38,12 @@
     {
       "id": "recording-2",
       "title": "RECORDING 2",
-      "firstLineId": "line-125"
+      "firstLineId": "line-131"
     },
     {
       "id": "recording-3",
       "title": "RECORDING 3",
-      "firstLineId": "line-145"
+      "firstLineId": "line-159"
     }
   ],
   "lines": [
@@ -56,7 +56,8 @@
       "type": "dialogue",
       "words": 5,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "欢迎来到读书俱乐部。"
     },
     {
       "id": "line-1",
@@ -67,7 +68,8 @@
       "type": "dialogue",
       "words": 22,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "今天的嘉宾是苏珊·莱恩，她是一本关于个人理财新书的作者，该书已经售出了50万册。"
     },
     {
       "id": "line-2",
@@ -78,7 +80,8 @@
       "type": "dialogue",
       "words": 7,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "嗨，苏珊，你的书非常成功。"
     },
     {
       "id": "line-3",
@@ -89,7 +92,8 @@
       "type": "dialogue",
       "words": 6,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "你认为这是为什么？"
     },
     {
       "id": "line-4",
@@ -100,18 +104,20 @@
       "type": "dialogue",
       "words": 15,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我认为这是因为我传递的信息，那就是把快乐放在金钱之上。"
     },
     {
       "id": "line-5",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "So many of us in my generation have spent decades trying to earn more money just to consume more, but it made us more miserable.",
+      "text": "So many of us in my generation have spent decades trying to earn more money, just to consume more, but it made us more miserable.",
       "type": "dialogue",
       "words": 25,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我们这一代人中有太多人花了数十年的时间试图赚更多的钱，只是为了消费更多，但这却让我们更加痛苦。"
     },
     {
       "id": "line-6",
@@ -122,7 +128,8 @@
       "type": "dialogue",
       "words": 24,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "你自己也曾陷入过那个怪圈，做了20年的高管，拿着高薪，却仍在不断积累债务。"
     },
     {
       "id": "line-7",
@@ -133,18 +140,20 @@
       "type": "dialogue",
       "words": 4,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我以前确实是这样。"
     },
     {
       "id": "line-8",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "I earned millions, but by the time I quit my job four years ago to become a writer, I owed over $30,000.",
+      "text": "I earned millions, but by the time I quit my job four years ago to become a writer, I owed over $ 30,000.",
       "type": "dialogue",
       "words": 23,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我赚了数百万，但四年前当我辞去工作成为一名作家时，我还欠着3万多美元。"
     },
     {
       "id": "line-9",
@@ -155,7 +164,8 @@
       "type": "dialogue",
       "words": 7,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "那么你是如何摆脱这种模式的呢？"
     },
     {
       "id": "line-10",
@@ -166,7 +176,8 @@
       "type": "dialogue",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "你会建议其他人怎么做？"
     },
     {
       "id": "line-11",
@@ -177,7 +188,8 @@
       "type": "dialogue",
       "words": 8,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "第一个改变在于我们的价值观。"
     },
     {
       "id": "line-12",
@@ -188,7 +200,8 @@
       "type": "dialogue",
       "words": 18,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我们需要重视那些真正让我们快乐的事情，比如人际关系、环境、甚至是我们的业余爱好。"
     },
     {
       "id": "line-13",
@@ -199,7 +212,8 @@
       "type": "dialogue",
       "words": 18,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "一旦我们把正确的事情放在首位，我们的目标就会改变，我们的财务行为也会随之改变。"
     },
     {
       "id": "line-14",
@@ -210,18 +224,20 @@
       "type": "dialogue",
       "words": 7,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "这如何转化为具体的实际行动呢？"
     },
     {
       "id": "line-15",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
-      "text": "Can you give our audience examples of what you're talking about on an everyday basis?",
+      "text": "Can you give our audience examples of what you are talking about on an everyday basis?",
       "type": "dialogue",
-      "words": 15,
+      "words": 16,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "你能给我们的观众举些在日常生活中具体指什么的例子吗？"
     },
     {
       "id": "line-16",
@@ -232,18 +248,20 @@
       "type": "dialogue",
       "words": 11,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "行动的主要领域通常是住房、食物和交通。"
     },
     {
       "id": "line-17",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "So, people might share a home with friends instead of living on their own, bring lunch from home instead of going to restaurants, and use public transport instead of owning a car.",
+      "text": "So people might share a home with friends instead of living on their own, bring lunch from home instead of going to restaurants, and use public transport instead of owning a car.",
       "type": "dialogue",
       "words": 32,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "因此，人们可以与朋友合租房子而不是独自居住，从家里带午饭而不是去餐馆，使用公共交通而不是自己买车。"
     },
     {
       "id": "line-18",
@@ -254,7 +272,8 @@
       "type": "dialogue",
       "words": 5,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "这些听起来像是巨大的牺牲。"
     },
     {
       "id": "line-19",
@@ -265,7 +284,8 @@
       "type": "dialogue",
       "words": 6,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我绝对无法和别人共用我的房子。"
     },
     {
       "id": "line-20",
@@ -276,7 +296,8 @@
       "type": "dialogue",
       "words": 5,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我需要我自己的空间。"
     },
     {
       "id": "line-21",
@@ -287,7 +308,8 @@
       "type": "dialogue",
       "words": 4,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "但它们并不是牺牲。"
     },
     {
       "id": "line-22",
@@ -298,18 +320,20 @@
       "type": "dialogue",
       "words": 8,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "当人们改变自己的价值观时，他们的欲望也会随之改变。"
     },
     {
       "id": "line-23",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "So, in the example of housing, if we value relationships, sharing a home isn't depriving ourselves of space but giving us an opportunity to spend more time with our loved ones.",
+      "text": "So in the example of housing, if we value relationships, sharing a home isn't depriving ourselves of space, but giving us an opportunity to spend more time with our loved ones.",
       "type": "dialogue",
       "words": 31,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "所以以住房为例，如果我们重视人际关系，合租并不是剥夺我们自己的空间，而是给我们一个与亲人共度更多时光的机会。"
     },
     {
       "id": "line-24",
@@ -320,7 +344,8 @@
       "type": "dialogue",
       "words": 3,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "确实如此。"
     },
     {
       "id": "line-25",
@@ -331,7 +356,8 @@
       "type": "question",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "这位女士在她的书中传达了什么信息？"
     },
     {
       "id": "line-26",
@@ -342,7 +368,8 @@
       "type": "question",
       "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "关于这位女士成为作家之前的情况，我们了解到了什么？"
     },
     {
       "id": "line-27",
@@ -353,7 +380,8 @@
       "type": "question",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "关于个人的财务行为，这位女士说了什么？"
     },
     {
       "id": "line-28",
@@ -364,7 +392,8 @@
       "type": "question",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "关于合租（共享住房），这位男士说了什么？"
     },
     {
       "id": "line-29",
@@ -375,7 +404,8 @@
       "type": "dialogue",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "谢谢你邀请我来画廊，克里斯托弗。"
     },
     {
       "id": "line-30",
@@ -386,7 +416,8 @@
       "type": "dialogue",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "自你的前任举行退休欢送会以来，我就再也没来过这里。"
     },
     {
       "id": "line-31",
@@ -397,18 +428,20 @@
       "type": "dialogue",
       "words": 13,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "凯瑟琳，你想先看看我们收藏的最新藏品吗？"
     },
     {
       "id": "line-32",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "Are those the landscapes by Danielle Gregory?",
+      "text": "Are those the landscapes by Daniel Gregory?",
       "type": "dialogue",
       "words": 7,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "那些是丹尼尔·格雷戈里的风景画吗？"
     },
     {
       "id": "line-33",
@@ -419,7 +452,8 @@
       "type": "dialogue",
       "words": 5,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我绝对崇拜她的作品。"
     },
     {
       "id": "line-34",
@@ -430,7 +464,8 @@
       "type": "dialogue",
       "words": 17,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "这第一幅作品是艺术家本人送给画廊的礼物，非常精美。"
     },
     {
       "id": "line-35",
@@ -441,18 +476,20 @@
       "type": "dialogue",
       "words": 8,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我喜欢她描绘荒凉风景的方式。"
     },
     {
       "id": "line-36",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "The colours complement each other perfectly.",
+      "text": "The colors complement each other perfectly.",
       "type": "dialogue",
       "words": 6,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "这些色彩完美地相得益彰。"
     },
     {
       "id": "line-37",
@@ -463,7 +500,8 @@
       "type": "dialogue",
       "words": 8,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "你可以从画面中感受到那种荒凉。"
     },
     {
       "id": "line-38",
@@ -474,18 +512,20 @@
       "type": "dialogue",
       "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "这幅作品的灵感来自格雷戈里最近在戈壁沙漠的徒步旅行。"
     },
     {
       "id": "line-39",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "And how did you obtain her other piece over here?",
+      "text": "And how did you obtain her other piece, over here?",
       "type": "dialogue",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "那你们是怎么获得她在这边的另一幅作品的呢？"
     },
     {
       "id": "line-40",
@@ -496,7 +536,8 @@
       "type": "dialogue",
       "words": 17,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "它是由一位匿名收藏家在拍卖会上购买的，然后借给画廊展出。"
     },
     {
       "id": "line-41",
@@ -507,7 +548,8 @@
       "type": "dialogue",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "这幅构图是她最受赞誉的画作之一。"
     },
     {
       "id": "line-42",
@@ -518,32 +560,47 @@
       "type": "dialogue",
       "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "那位收藏家买下这个肯定花了一笔不小的财富。"
     },
     {
       "id": "line-43",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "Obviously, I can't disclose the exact amount he paid, but it was substantial.",
+      "text": "Obviously.",
       "type": "dialogue",
-      "words": 13,
+      "words": 1,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "显而易见。"
     },
     {
       "id": "line-44",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
-      "speaker": "W:",
-      "text": "There's so much detail in this painting.",
+      "speaker": "M:",
+      "text": "I can't disclose the exact amount he paid, but it was substantial.",
       "type": "dialogue",
-      "words": 7,
+      "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我不能透露他支付的确切金额，但这笔数额非常巨大。"
     },
     {
       "id": "line-45",
+      "sectionId": "conversation-2",
+      "sectionTitle": "CONVERSATION 2",
+      "speaker": "W:",
+      "text": "There' s so much detail in this painting.",
+      "type": "dialogue",
+      "words": 8,
+      "start": 0,
+      "end": 0,
+      "translation": "这幅画里有太多的细节了。"
+    },
+    {
+      "id": "line-46",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -551,10 +608,11 @@
       "type": "dialogue",
       "words": 11,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我觉得自己仿佛能真正沉浸在画面之中。"
     },
     {
-      "id": "line-46",
+      "id": "line-47",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -562,10 +620,11 @@
       "type": "dialogue",
       "words": 15,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我特别喜欢山峰在湖中的倒影所营造出的对称感。"
     },
     {
-      "id": "line-47",
+      "id": "line-48",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -573,21 +632,23 @@
       "type": "dialogue",
       "words": 13,
       "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-48",
-      "sectionId": "conversation-2",
-      "sectionTitle": "CONVERSATION 2",
-      "speaker": "M:",
-      "text": "I was lucky enough to attend the award ceremony as Gregory's guest.",
-      "type": "dialogue",
-      "words": 12,
-      "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "这幅特定的作品正是获得“网关奖”提名的那一幅。"
     },
     {
       "id": "line-49",
+      "sectionId": "conversation-2",
+      "sectionTitle": "CONVERSATION 2",
+      "speaker": "M:",
+      "text": "I was lucky enough to attend he awards ceremony as Gregory's guest.",
+      "type": "dialogue",
+      "words": 12,
+      "start": 0,
+      "end": 0,
+      "translation": "我很幸运地作为格雷戈里的宾客参加了颁奖典礼。"
+    },
+    {
+      "id": "line-50",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -595,21 +656,23 @@
       "type": "dialogue",
       "words": 5,
       "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-50",
-      "sectionId": "conversation-2",
-      "sectionTitle": "CONVERSATION 2",
-      "speaker": "W:",
-      "text": "I assume she's an eccentric artist.",
-      "type": "dialogue",
-      "words": 6,
-      "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "这么说你私下认识她。"
     },
     {
       "id": "line-51",
+      "sectionId": "conversation-2",
+      "sectionTitle": "CONVERSATION 2",
+      "speaker": "W:",
+      "text": "I assume she is an eccentric artist.",
+      "type": "dialogue",
+      "words": 7,
+      "start": 0,
+      "end": 0,
+      "translation": "我猜她一定是个古怪的艺术家。"
+    },
+    {
+      "id": "line-52",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -617,10 +680,11 @@
       "type": "dialogue",
       "words": 3,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "恰恰相反。"
     },
     {
-      "id": "line-52",
+      "id": "line-53",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -628,10 +692,11 @@
       "type": "dialogue",
       "words": 7,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "事实上，她一点也不古怪。"
     },
     {
-      "id": "line-53",
+      "id": "line-54",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -639,10 +704,11 @@
       "type": "dialogue",
       "words": 14,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我想说她是我认识的最随和、最聪明的人之一。"
     },
     {
-      "id": "line-54",
+      "id": "line-55",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -650,10 +716,11 @@
       "type": "dialogue",
       "words": 8,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我很想有机会能见见她。"
     },
     {
-      "id": "line-55",
+      "id": "line-56",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -661,10 +728,11 @@
       "type": "dialogue",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我有太多问题想问她了。"
     },
     {
-      "id": "line-56",
+      "id": "line-57",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -672,10 +740,11 @@
       "type": "dialogue",
       "words": 3,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "太巧了！"
     },
     {
-      "id": "line-57",
+      "id": "line-58",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -683,10 +752,11 @@
       "type": "dialogue",
       "words": 6,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我今晚要和她一起吃晚饭。"
     },
     {
-      "id": "line-58",
+      "id": "line-59",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -694,10 +764,11 @@
       "type": "dialogue",
       "words": 6,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "你想一起去吗？"
     },
     {
-      "id": "line-59",
+      "id": "line-60",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -705,10 +776,11 @@
       "type": "dialogue",
       "words": 3,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我很乐意去。"
     },
     {
-      "id": "line-60",
+      "id": "line-61",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -716,10 +788,11 @@
       "type": "dialogue",
       "words": 2,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "谢谢你。"
     },
     {
-      "id": "line-61",
+      "id": "line-62",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q5.",
@@ -727,21 +800,23 @@
       "type": "question",
       "words": 14,
       "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-62",
-      "sectionId": "conversation-2",
-      "sectionTitle": "CONVERSATION 2",
-      "speaker": "Q6.",
-      "text": "What does the man say about one of the most acclaimed paintings by Danielle Gregory?",
-      "type": "question",
-      "words": 15,
-      "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "关于画廊收藏的最新藏品之一，我们了解到了什么？"
     },
     {
       "id": "line-63",
+      "sectionId": "conversation-2",
+      "sectionTitle": "CONVERSATION 2",
+      "speaker": "Q6.",
+      "text": "What does the man say about one of the most acclaimed paintings by Daniel Gregory?",
+      "type": "question",
+      "words": 15,
+      "start": 0,
+      "end": 0,
+      "translation": "关于丹尼尔·格雷戈里最受赞誉的画作之一，这位男士说了什么？"
+    },
+    {
+      "id": "line-64",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q7.",
@@ -749,21 +824,23 @@
       "type": "question",
       "words": 15,
       "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-64",
-      "sectionId": "conversation-2",
-      "sectionTitle": "CONVERSATION 2",
-      "speaker": "Q8.",
-      "text": "How does the man describe Danielle Gregory?",
-      "type": "question",
-      "words": 7,
-      "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "为什么这位女士说她能感受到沉浸在画作的场景之中？"
     },
     {
       "id": "line-65",
+      "sectionId": "conversation-2",
+      "sectionTitle": "CONVERSATION 2",
+      "speaker": "Q8.",
+      "text": "How does the man describe Daniel Gregory?",
+      "type": "question",
+      "words": 7,
+      "start": 0,
+      "end": 0,
+      "translation": "这位男士是如何描述丹尼尔·格雷戈里的？"
+    },
+    {
+      "id": "line-66",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -771,10 +848,11 @@
       "type": "narration",
       "words": 8,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "原谅是怨恨或愤怒的释放。"
     },
     {
-      "id": "line-66",
+      "id": "line-67",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -782,10 +860,11 @@
       "type": "narration",
       "words": 4,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "原谅并不意味着和解。"
     },
     {
-      "id": "line-67",
+      "id": "line-68",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -793,10 +872,11 @@
       "type": "narration",
       "words": 22,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我们没有必要回到原来的关系中，也没有必要接受冒犯者同样的伤害行为。"
     },
     {
-      "id": "line-68",
+      "id": "line-69",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -804,10 +884,11 @@
       "type": "narration",
       "words": 11,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "原谅对某些受害者的心理健康至关重要。"
     },
     {
-      "id": "line-69",
+      "id": "line-70",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -815,10 +896,11 @@
       "type": "narration",
       "words": 15,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "它能推动人们前进，而不是让他们在情感上继续深陷于不公或创伤中。"
     },
     {
-      "id": "line-70",
+      "id": "line-71",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -826,10 +908,11 @@
       "type": "narration",
       "words": 15,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "带着被冒犯的伤害或愤怒会导致身体释放压力化学物质。"
     },
     {
-      "id": "line-71",
+      "id": "line-72",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -837,10 +920,11 @@
       "type": "narration",
       "words": 16,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "切断这些化学物质的持续流动，也可以解释为什么原谅能带来身体健康上的益处。"
     },
     {
-      "id": "line-72",
+      "id": "line-73",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -848,10 +932,11 @@
       "type": "narration",
       "words": 11,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "在某些情况下，原谅并不是最好的选择。"
     },
     {
-      "id": "line-73",
+      "id": "line-74",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -859,10 +944,11 @@
       "type": "narration",
       "words": 14,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "有时，当受害者允许自己不原谅时，他们反而会获得更多的力量。"
     },
     {
-      "id": "line-74",
+      "id": "line-75",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -870,10 +956,11 @@
       "type": "narration",
       "words": 4,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "原谅可能具有挑战性。"
     },
     {
-      "id": "line-75",
+      "id": "line-76",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -881,10 +968,11 @@
       "type": "narration",
       "words": 20,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "当过错方提供的是虚假的道歉，或者根本没有任何表示时，情况尤其如此。"
     },
     {
-      "id": "line-76",
+      "id": "line-77",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -892,21 +980,23 @@
       "type": "narration",
       "words": 7,
       "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-77",
-      "sectionId": "passage-1",
-      "sectionTitle": "PASSAGE 1",
-      "speaker": "",
-      "text": "It's important to cultivate forgiveness by developing compassion for the offender, reflect on whether the act was due to malicious intent or whether it was caused by challenging circumstances in the offender's life.",
-      "type": "narration",
-      "words": 33,
-      "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "然而，这往往是向前迈进的最健康路径。"
     },
     {
       "id": "line-78",
+      "sectionId": "passage-1",
+      "sectionTitle": "PASSAGE 1",
+      "speaker": "",
+      "text": "It's important to cultivate forgiveness by developing compassion for the offender, reflect on whether the act was due to malicious intent, or whether it was caused by challenging circumstances in the offender's life.",
+      "type": "narration",
+      "words": 33,
+      "start": 0,
+      "end": 0,
+      "translation": "通过对冒犯者产生同理心来培养宽恕是很重要的，反思这一行为是出于恶意，还是由于冒犯者生活中的艰难处境所致。"
+    },
+    {
+      "id": "line-79",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -914,10 +1004,11 @@
       "type": "narration",
       "words": 4,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "那么原谅我们自己呢？"
     },
     {
-      "id": "line-79",
+      "id": "line-80",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -925,10 +1016,11 @@
       "type": "narration",
       "words": 21,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我们有时需要为错误承担责任，但从长远来看，强烈的内疚和羞耻感并不是一个理想的结果。"
     },
     {
-      "id": "line-80",
+      "id": "line-81",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -936,29 +1028,20 @@
       "type": "narration",
       "words": 8,
       "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-81",
-      "sectionId": "passage-1",
-      "sectionTitle": "PASSAGE 1",
-      "speaker": "",
-      "text": "You can begin by acknowledging that you are at fault.",
-      "type": "narration",
-      "words": 10,
-      "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "原谅自己似乎是一个模糊的过程。"
     },
     {
       "id": "line-82",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "Take responsibility for the hurt you caused, then reflect on why the event occurred.",
+      "text": "You can begin by acknowledging that you are at fault, take responsibility for the hurt you caused, then reflect on why the event occurred.",
       "type": "narration",
-      "words": 14,
+      "words": 24,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "你可以从承认自己的错误开始，为你造成的伤害承担责任，然后反思事情为什么会发生。"
     },
     {
       "id": "line-83",
@@ -969,7 +1052,8 @@
       "type": "narration",
       "words": 16,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "吸取你所学到的教训，并努力避免在未来犯下类似的错误。"
     },
     {
       "id": "line-84",
@@ -980,7 +1064,8 @@
       "type": "question",
       "words": 7,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "关于原谅，文章说了什么？"
     },
     {
       "id": "line-85",
@@ -991,7 +1076,8 @@
       "type": "question",
       "words": 5,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "什么时候原谅会特别具有挑战性？"
     },
     {
       "id": "line-86",
@@ -1002,7 +1088,8 @@
       "type": "question",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "为了原谅冒犯者，一个人应该怎么做？"
     },
     {
       "id": "line-87",
@@ -1013,29 +1100,32 @@
       "type": "narration",
       "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "格拉斯哥地铁于1896年首次开放，最初是一个电缆牵引系统。"
     },
     {
       "id": "line-88",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "It is generally recognized as the world's third underground railway after London and Budapest.",
+      "text": "It is generally recognized as the world's third underground railway, after London and Budapest.",
       "type": "narration",
       "words": 14,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "它被公认为是世界上第三条地下铁路，次于伦敦和布达佩斯。"
     },
     {
       "id": "line-89",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "In its long history, it has never been expanded, remaining as a single loop line with a mere 15 stations.",
+      "text": "In its long history, it has never been expanded remaining as a single loop line with a mere 15 stations.",
       "type": "narration",
       "words": 20,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "在漫长的历史中，它从未进行过扩建，一直保持着仅有15个站点的单一环线。"
     },
     {
       "id": "line-90",
@@ -1046,7 +1136,8 @@
       "type": "narration",
       "words": 15,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "在鼎盛时期，它为城市南侧的造船厂工人提供服务。"
     },
     {
       "id": "line-91",
@@ -1057,7 +1148,8 @@
       "type": "narration",
       "words": 18,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "20世纪60年代，造船业出现衰退，私人交通工具日益普及。"
     },
     {
       "id": "line-92",
@@ -1068,7 +1160,8 @@
       "type": "narration",
       "words": 11,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "结果，地铁的客流量急剧下降。"
     },
     {
       "id": "line-93",
@@ -1079,7 +1172,8 @@
       "type": "narration",
       "words": 18,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "此后它几乎没有进一步的变化，直到1977年，其新的运营商将其关闭，进行重大的现代化投资改造。"
     },
     {
       "id": "line-94",
@@ -1090,7 +1184,8 @@
       "type": "narration",
       "words": 25,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "车厢被更换，通风得到了改善，主车库也进行了翻新，并安装了连接轨道，以取代过时的起重机转运机制。"
     },
     {
       "id": "line-95",
@@ -1101,7 +1196,8 @@
       "type": "narration",
       "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "目前形式的地铁于1980年4月重新开放运营。"
     },
     {
       "id": "line-96",
@@ -1112,62 +1208,68 @@
       "type": "narration",
       "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "自重新推出以来，这条地铁迎来了运势的复苏。"
     },
     {
       "id": "line-97",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "It serves as a viable alternative to other forms of transport and has gone a long way to alleviate traffic jams in the city centre.",
+      "text": "It serves as a viable alternative to other forms of transport and has gone a long way to alleviate traffic jams in the city center.",
       "type": "narration",
       "words": 25,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "它是其他交通工具的切实可行的替代方案，并在很大程度上缓解了市中心的交通拥堵。"
     },
     {
       "id": "line-98",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "In 1996, the system reached an important milestone—100 years.",
+      "text": "In 1996, the system reached an important milestone-100 years.",
       "type": "narration",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "1996年，该系统迎来了一个重要里程碑——100周年。"
     },
     {
       "id": "line-99",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "To commemorate this special event, the colour scheme of the train carriages was updated.",
+      "text": "To commemorate this special event, the color scheme of the train carriages was updated.",
       "type": "narration",
       "words": 14,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "为了纪念这一特殊事件，列车车厢的配色方案进行了更新。"
     },
     {
       "id": "line-100",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "Recently, high-tech systems such as smartcard ticketing machines and smart gates are used across all subway stations.",
+      "text": "Recently, high-tech systems such as smart card ticketing machines and smart gates are used across all subway stations.",
       "type": "narration",
-      "words": 18,
+      "words": 19,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "最近，所有地铁站都开始使用高科技系统，例如智能卡售票机和智能闸机。"
     },
     {
       "id": "line-101",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "The smartcard provides more convenient travel, and passengers simply top up their cards and tap them to get in and out the subway.",
+      "text": "The smart card provides more convenient travel and passengers simply top up their cards and tap them to get in and out the subway.",
       "type": "narration",
-      "words": 23,
+      "words": 24,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "智能卡让出行更加便利，乘客只需充值，然后刷卡即可进出地铁。"
     },
     {
       "id": "line-102",
@@ -1178,7 +1280,8 @@
       "type": "narration",
       "words": 15,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "自推出以来，已有超过10万名地铁客户采用了这项技术。"
     },
     {
       "id": "line-103",
@@ -1189,7 +1292,8 @@
       "type": "question",
       "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "关于20世纪60年代的格拉斯哥地铁，文章说了什么？"
     },
     {
       "id": "line-104",
@@ -1200,230 +1304,323 @@
       "type": "question",
       "words": 8,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "为什么格拉斯哥地铁在1977年关闭？"
     },
     {
       "id": "line-105",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q14.",
-      "text": "What benefit does the Glasgow subway bring to the city?",
+      "text": "Why does the Glasgow subway remained important today?",
       "type": "question",
-      "words": 10,
+      "words": 8,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "为什么格拉斯哥地铁在今天依然重要？"
     },
     {
       "id": "line-106",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q15.",
-      "text": "What does the passage say about the Glasgow subway stations now?",
+      "text": "What does the passage say about all subway stations in Glasgow nowadays?",
       "type": "question",
-      "words": 11,
+      "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "关于当今格拉斯哥的所有地铁站，文章说了什么？"
     },
     {
       "id": "line-107",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Bears are found in most parts of the world, except for Africa, Australia and Antarctica.",
+      "text": "If you visit the Great Smoky Mountains National Park, chances are you will remember the roadside or campground bears above all else.",
       "type": "narration",
-      "words": 15,
+      "words": 22,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "如果你去大烟山国家公园旅游，最让你记忆深刻的可能就是路边或营地里的熊了。"
     },
     {
       "id": "line-108",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "They are large, powerful animals, and most species are omnivorous, meaning they eat both plants and animals.",
+      "text": "Bears are the most popular animals in a number of our national parks.",
       "type": "narration",
-      "words": 17,
+      "words": 13,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "在我们的许多国家公园中，熊都是最受欢迎的动物。"
     },
     {
       "id": "line-109",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "In recent years, there have been increasing reports of bears coming into contact with humans.",
+      "text": "In these mountains, where the population of bears runs into the hundreds, opportunities to observe these large wild animals are plentiful during the summer.",
       "type": "narration",
-      "words": 15,
+      "words": 24,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "在这些山中，熊的数量多达数百只，在夏天，观察这些大型野生动物的机会非常多。"
     },
     {
       "id": "line-110",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "This is because human populations are expanding into bear habitats, and bears are losing their natural food sources.",
+      "text": "Since national parks are wildlife sanctuaries where no disturbance of the native animals is allowed, years of protection have served to break down the wild bears' fear of humans.",
       "type": "narration",
-      "words": 18,
+      "words": 29,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "由于国家公园是野生动物保护区，不允许对当地动物进行任何干扰，多年的保护逐渐消除了野熊对人类的恐惧。"
     },
     {
       "id": "line-111",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "As a result, bears are becoming more bold and are often seen rummaging through garbage cans and dumpsters in search of food.",
+      "text": "Now, instead of depending on their own resources for a living, many bears patrol park roads and campgrounds.",
       "type": "narration",
-      "words": 22,
+      "words": 18,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "现在，许多熊不再依靠自己的资源谋生，而是巡视公园道路和露营地。"
     },
     {
       "id": "line-112",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Bears are generally not aggressive towards humans, and most attacks occur when a bear is surprised or feels threatened.",
+      "text": "They give the garbage cans a frequent going over.",
       "type": "narration",
-      "words": 19,
+      "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "它们经常把垃圾桶翻个底朝天。"
     },
     {
       "id": "line-113",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "However, it's important to remember that bears are wild animals, and they can be dangerous if provoked.",
+      "text": "An occasional offer of food from a park visitor, an illegal and dangerous practice, makes beggars of them.",
       "type": "narration",
-      "words": 17,
+      "words": 18,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "公园游客偶尔投喂食物（这是一种违法且危险的行为）让它们变成了乞讨者。"
     },
     {
       "id": "line-114",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "If you encounter a bear in the wild, the best thing to do is to stay calm and slowly back away.",
+      "text": "Bears are very often hungry and since they will feed on almost any kind of plant or animal, garbage is quite acceptable.",
       "type": "narration",
-      "words": 21,
+      "words": 22,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "熊经常感到饥饿，而且由于它们几乎以任何种类的植物或动物为食，垃圾对它们来说是完全可以接受的。"
     },
     {
       "id": "line-115",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Do not run, as this may trigger the bear's predatory instinct.",
+      "text": "Feeding them, however, represents misguided kindness because the bears come to expect such generosity from everyone and consequently, trouble could lie ahead.",
       "type": "narration",
-      "words": 11,
+      "words": 22,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "然而，投喂它们代表着误导性的善良，因为熊会开始期望每个人都如此慷慨，随之而来的可能就是麻烦。"
     },
     {
       "id": "line-116",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "If the bear charges, stand your ground and use bear spray if you have it.",
+      "text": "Park rules prohibit the feeding of bears.",
       "type": "narration",
-      "words": 15,
+      "words": 7,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "公园规定禁止投喂熊。"
     },
     {
       "id": "line-117",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "In some areas, feeding bears is strictly forbidden.",
+      "text": "Violators are arrested.",
       "type": "narration",
-      "words": 8,
+      "words": 3,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "违规者将被逮捕。"
     },
     {
       "id": "line-118",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "This is because feeding bears makes them lose their natural fear of humans, and they may become dependent on human food.",
+      "text": "Every year, doctors who have offices near the park treat a number of cases of bear bites and bear scratches.",
       "type": "narration",
-      "words": 21,
+      "words": 20,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "每年，在公园附近执业的医生都要治疗许多被熊咬伤和抓伤的病例。"
     },
     {
       "id": "line-119",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "This can lead to more frequent encounters between bears and humans, and it can also be dangerous for the bears themselves.",
+      "text": "Some of the accidents have come about in strange ways.",
       "type": "narration",
-      "words": 21,
+      "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "其中一些事故的发生方式很离奇。"
     },
     {
       "id": "line-120",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "If you live in an area where bears are common, it's important to take precautions to avoid attracting them to your home.",
+      "text": "One man was in the process of feeding two small cubs, when the mother bear appeared and insisted upon having some of the food.",
       "type": "narration",
-      "words": 22,
+      "words": 24,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "一名男子正在喂两只小熊幼崽，这时母熊出现了，坚持要吃些食物。"
     },
     {
       "id": "line-121",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "This includes keeping your garbage cans securely closed, not leaving pet food outside, and removing any bird feeders that may attract bears.",
+      "text": "Shoving the big bear aside with one hand, the man continued feeding the cubs when suddenly he was struck a fierce blow in the face.",
       "type": "narration",
-      "words": 22,
+      "words": 25,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "该男子用一只手把大熊推到一边，继续喂幼崽，突然他的脸部遭到猛烈的一击。"
     },
     {
       "id": "line-122",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
-      "speaker": "Q16.",
-      "text": "What does the speaker say about bears in recent years?",
-      "type": "question",
-      "words": 10,
+      "speaker": "",
+      "text": "A bear, prompted by the food that a lady kept offering to him, entered the car where the generous person was sitting.",
+      "type": "narration",
+      "words": 22,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "一只熊受到一位女士不断主动投喂的食物的诱惑，进入了这位慷慨之人所坐的车内。"
     },
     {
       "id": "line-123",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
-      "speaker": "Q17.",
-      "text": "What does the speaker say about feeding bears in some areas?",
-      "type": "question",
-      "words": 11,
+      "speaker": "",
+      "text": "Her efforts to push the bear out of the car resulted in injuries.",
+      "type": "narration",
+      "words": 13,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "她试图把熊推下车，结果导致了受伤。"
     },
     {
       "id": "line-124",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
-      "speaker": "Q18.",
-      "text": "What does the speaker advise people to do if they live in an area where bears are common?",
-      "type": "question",
-      "words": 18,
+      "speaker": "",
+      "text": "A man required medical attention after he applied a lighted cigarette to a bear's nose.",
+      "type": "narration",
+      "words": 15,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "一名男子把点燃的香烟按在熊的鼻子上后，需要接受医疗救治。"
     },
     {
       "id": "line-125",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "Another man tried to boost a bear into the front seat of his car so that he might take a picture of a bear sitting beside his wife who was behind the wheel.",
+      "type": "narration",
+      "words": 33,
+      "start": 0,
+      "end": 0,
+      "translation": "另一个男人试图把一只熊推进他汽车的前座，以便拍下一张熊坐在他正在开车的妻子身边的照片。"
+    },
+    {
+      "id": "line-126",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "Because bears prefer roads and campgrounds, the possibility of a hiker meeting up with a bear' along park trails is small, but there's always that chance, for a bear seems to know if you are carrying a lunch·or a candy bar.",
+      "type": "narration",
+      "words": 42,
+      "start": 0,
+      "end": 0,
+      "translation": "因为熊更喜欢道路和露营地，徒步旅行者在公园小路上遇到熊的可能性很小，但总是有这种几率，因为熊似乎能发现你是否带了午餐或糖果棒。"
+    },
+    {
+      "id": "line-127",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "He may even insist on taking it.",
+      "type": "narration",
+      "words": 7,
+      "start": 0,
+      "end": 0,
+      "translation": "它甚至可能会坚持强行拿走它。"
+    },
+    {
+      "id": "line-128",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "Q16.",
+      "text": "What does the speaker say about the bears in national parks now?",
+      "type": "question",
+      "words": 12,
+      "start": 0,
+      "end": 0,
+      "translation": "发言者关于现在国家公园里的熊说了什么？"
+    },
+    {
+      "id": "line-129",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "Q17.",
+      "text": "What does the speaker say about visitors feeding bears in national parks?",
+      "type": "question",
+      "words": 12,
+      "start": 0,
+      "end": 0,
+      "translation": "发言者关于游客在国家公园投喂熊的行为说了什么？"
+    },
+    {
+      "id": "line-130",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "Q18.",
+      "text": "What is the speaker's advice to people who carry some food while hiking on a park trail?",
+      "type": "question",
+      "words": 17,
+      "start": 0,
+      "end": 0,
+      "translation": "发言者对在公园小路上徒步旅行且携带食物的人有什么建议？"
+    },
+    {
+      "id": "line-131",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1431,21 +1628,35 @@
       "type": "narration",
       "words": 17,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "为什么我们在对某人或某事并不真正了解的情况下，就会对其形成看法或态度？"
     },
     {
-      "id": "line-126",
+      "id": "line-132",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Just hearing something good or bad about a person, a place, or a thing can influence our opinions without us even realizing it.",
+      "text": "Just hearing something good or bad about a person, a place or thing can influence our opinions positively or negatively.",
       "type": "narration",
-      "words": 23,
+      "words": 20,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "仅仅听到关于一个人、一个地方或一件事情的好坏评价，就会正面或负面地影响我们的看法。"
     },
     {
-      "id": "line-127",
+      "id": "line-133",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "But letting the opinions of another person determine what our opinions will be is dangerous.",
+      "type": "narration",
+      "words": 15,
+      "start": 0,
+      "end": 0,
+      "translation": "但是，让别人的意见来决定我们自己的看法是危险的。"
+    },
+    {
+      "id": "line-134",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1453,164 +1664,263 @@
       "type": "narration",
       "words": 14,
       "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-128",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "Prejudice means \"pre-judging\" something.",
-      "type": "narration",
-      "words": 5,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-129",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "It means making a judgment about something before you have all the facts.",
-      "type": "narration",
-      "words": 13,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-130",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "Prejudiced attitudes are usually based on myths, half-truths, or incorrect information.",
-      "type": "narration",
-      "words": 12,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-131",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "This is dangerous because they can prevent us from getting to know the truth about someone or something.",
-      "type": "narration",
-      "words": 18,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-132",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "They can also lead to discrimination, which is treating people unfairly because of their race, religion, gender, or other characteristics.",
-      "type": "narration",
-      "words": 20,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-133",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "Prejudice can be found in all societies, and it can affect people of all ages.",
-      "type": "narration",
-      "words": 15,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-134",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "It can be passed down from generation to generation, and it can be reinforced by the media and by our peers.",
-      "type": "narration",
-      "words": 21,
-      "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "在真正充分了解某人或某事之前就对其形成看法被称为偏见。"
     },
     {
       "id": "line-135",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "So when do we begin to develop prejudiced attitudes?",
+      "text": "\"Pre-\" means before and \"-judice\" refers to judgment.",
       "type": "narration",
-      "words": 9,
+      "words": 8,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "“Pre-” 意为预先，“-judice” 指的是判断。"
     },
     {
       "id": "line-136",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Well, research shows that children as young as three years old can start to form prejudices.",
+      "text": "Hence, prejudice means to judge before having adequate knowledge.",
       "type": "narration",
-      "words": 16,
+      "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "因此，偏见意味着在掌握足够知识之前就做出判断。"
     },
     {
       "id": "line-137",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "This is because they are influenced by the attitudes of their parents and other adults around them.",
+      "text": "We can be prejudiced toward or against someone or something.",
       "type": "narration",
-      "words": 17,
+      "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我们可能会对某人或某事产生偏袒的偏见或反对的偏见。"
     },
     {
       "id": "line-138",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "As we grow older, our prejudices can become more deeply ingrained.",
+      "text": "In either case, we are only allowing ourselves to see half of the picture.",
       "type": "narration",
-      "words": 11,
+      "words": 14,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "无论哪种情况，我们都只允许自己看到事情的一半全貌。"
     },
     {
       "id": "line-139",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "We may start to believe that our own group or culture is superior to others.",
+      "text": "Very few people or things in this world are all good or all bad.",
       "type": "narration",
-      "words": 15,
+      "words": 14,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "这个世界上极少有人或事是全好或全坏的。"
     },
     {
       "id": "line-140",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "This is called ethnocentrism.",
+      "text": "Prejudiced attitudes are usually based on myths, half truths or incorrect information, and they are dangerous because they can keep us from learning the truth about someone or something.",
       "type": "narration",
-      "words": 4,
+      "words": 29,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "偏见态度通常基于虚构的神话、不完全的事实或错误的信息，它们是危险的，因为它们会阻碍我们了解某人或某事的真相。"
     },
     {
       "id": "line-141",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "When pride in our own group turns into a feeling of superiority, we begin to develop prejudiced attitudes that can be harmful to others.",
+      "text": "People form prejudices against others for many reasons-differences in their race, religion, gender or occupation.",
       "type": "narration",
-      "words": 24,
+      "words": 16,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "人们出于许多原因对他人产生偏见——比如在种族、宗教、性别或职业上的差异。"
     },
     {
       "id": "line-142",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Prejudices keep people apart.",
+      "type": "narration",
+      "words": 4,
+      "start": 0,
+      "end": 0,
+      "translation": "偏见使人们产生隔阂。"
+    },
+    {
+      "id": "line-143",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "They keep us from really knowing and understanding each other.",
+      "type": "narration",
+      "words": 10,
+      "start": 0,
+      "end": 0,
+      "translation": "它们阻碍了我们真正认识和理解彼此。"
+    },
+    {
+      "id": "line-144",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "We should feel proud of who we are and the group of people we represent.",
+      "type": "narration",
+      "words": 15,
+      "start": 0,
+      "end": 0,
+      "translation": "我们应该为自己是谁以及我们所代表的群体感到自豪。"
+    },
+    {
+      "id": "line-145",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "If feelings of pride begin to turn to feelings of superiority when we think that our group or our beliefs are better than those around us, however, then we begin to develop prejudiced attitudes that can be harmful.",
+      "type": "narration",
+      "words": 38,
+      "start": 0,
+      "end": 0,
+      "translation": "然而，如果我们认为自己的群体或信仰优于周围的人，导致自豪感开始转化为优越感，那么我们就会开始产生具有伤害性的偏见态度。"
+    },
+    {
+      "id": "line-146",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "For example, the prejudiced attitudes of one group may keep another group from attending certain schools, from living in any neighborhood they want, or from getting a job or a promotion.",
+      "type": "narration",
+      "words": 31,
+      "start": 0,
+      "end": 0,
+      "translation": "例如，一个群体的偏见态度可能会阻碍另一个群体就读某些学校、住在他们想住的任何社区、或者获得工作或晋升。"
+    },
+    {
+      "id": "line-147",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Extreme feelings of prejudice have caused the deaths of innocent people.",
+      "type": "narration",
+      "words": 11,
+      "start": 0,
+      "end": 0,
+      "translation": "极端的偏见情绪曾导致无辜人员死亡。"
+    },
+    {
+      "id": "line-148",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "We are responsible for our own thoughts and opinions.",
+      "type": "narration",
+      "words": 9,
+      "start": 0,
+      "end": 0,
+      "translation": "我们应对自己的思想和观点负责。"
+    },
+    {
+      "id": "line-149",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "When we let someone else tell us what to think about someone or something, we are giving up some control of our own lives.",
+      "type": "narration",
+      "words": 24,
+      "start": 0,
+      "end": 0,
+      "translation": "当我们让别人来告诉我们该对某人或某事怎么想时，我们就放弃了对自己生活的一部分控制权。"
+    },
+    {
+      "id": "line-150",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Before you form an attitude or opinion, find out for yourself about the person or the thing in question.",
+      "type": "narration",
+      "words": 19,
+      "start": 0,
+      "end": 0,
+      "translation": "在你形成某种态度或看法之前，自己去了解一下所涉及的那个人或那件事。"
+    },
+    {
+      "id": "line-151",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Sometimes we don't realize that we hold prejudiced attitudes toward or against someone or something.",
+      "type": "narration",
+      "words": 15,
+      "start": 0,
+      "end": 0,
+      "translation": "有时我们并没有意识到自己对某人或某事持有偏袒或反对的偏见态度。"
+    },
+    {
+      "id": "line-152",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "We need to carefully examine our lives and our fears, and to ask ourselves whether our attitudes come from our personal knowledge and experience or from rumors and fear of the unknown.",
+      "type": "narration",
+      "words": 32,
+      "start": 0,
+      "end": 0,
+      "translation": "我们需要仔细审视我们的生活和我们的恐惧，并问问自己，我们的态度是来自个人的知识和经验，还是来自传闻以及对未知的恐惧。"
+    },
+    {
+      "id": "line-153",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "The good news about prejudice is that we are not born with it.",
+      "type": "narration",
+      "words": 13,
+      "start": 0,
+      "end": 0,
+      "translation": "关于偏见的好消息是，我们并不是生来就带有偏见的。"
+    },
+    {
+      "id": "line-154",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Prejudiced attitudes and opinions develop over time.",
+      "type": "narration",
+      "words": 7,
+      "start": 0,
+      "end": 0,
+      "translation": "偏见态度和观点是随着时间的推移而发展起来的。"
+    },
+    {
+      "id": "line-155",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "But with education and knowledge, we can replace our prejudices with cooperation and understanding.",
+      "type": "narration",
+      "words": 14,
+      "start": 0,
+      "end": 0,
+      "translation": "但通过教育和知识，我们可以用合作与理解来取代偏见。"
+    },
+    {
+      "id": "line-156",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "Q19.",
@@ -1618,10 +1928,11 @@
       "type": "question",
       "words": 7,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "发言者关于偏见说了什么？"
     },
     {
-      "id": "line-143",
+      "id": "line-157",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "Q20.",
@@ -1629,10 +1940,11 @@
       "type": "question",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "为什么发言者说偏见态度是危险的？"
     },
     {
-      "id": "line-144",
+      "id": "line-158",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "Q21.",
@@ -1640,10 +1952,11 @@
       "type": "question",
       "words": 11,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "发言者说我们什么时候开始形成偏见态度？"
     },
     {
-      "id": "line-145",
+      "id": "line-159",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1651,10 +1964,11 @@
       "type": "narration",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "当我开始上高中时，这让人感到震惊。"
     },
     {
-      "id": "line-146",
+      "id": "line-160",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1662,21 +1976,23 @@
       "type": "narration",
       "words": 20,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我花了八年的时间，努力让自己成为那所天主教学校学生中最受欢迎的孩子。"
     },
     {
-      "id": "line-147",
+      "id": "line-161",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "I had been a big, tough eighth grader, and suddenly I was a lowly ninth grader, bullied by the big, tough 12th grade seniors who ran the high school.",
+      "text": "I had been a big, tough 8th grader and suddenly I was a lonely 9th grader bullied by the big, tough 12th grade seniors who ran the high school.",
       "type": "narration",
       "words": 29,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我曾是一个高大强悍的八年级学生，突然间我变成了一个孤单的九年级学生，受到那些掌控高中的高大强悍的十二年级学长的欺负。"
     },
     {
-      "id": "line-148",
+      "id": "line-162",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1684,10 +2000,11 @@
       "type": "narration",
       "words": 27,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "那时我意识到，为某些东西奋斗是件好事，但你也必须享受当下的那一刻，在所处的地方感到快乐。"
     },
     {
-      "id": "line-149",
+      "id": "line-163",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1695,21 +2012,23 @@
       "type": "narration",
       "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "摇滚乐一直是我生命中重要的一部分。"
     },
     {
-      "id": "line-150",
+      "id": "line-164",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "I remember my friends and I used to drive around until the late hours of the nights, listening to the music of rock and roll legends.",
+      "text": "I remember my friends and I used to drive around until the late hours of the nights listening to the music of Rock and Roll Legends.",
       "type": "narration",
       "words": 26,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我记得我和朋友们过去常常开车到处转悠，直到深夜，听着那些摇滚传奇人物的音乐。"
     },
     {
-      "id": "line-151",
+      "id": "line-165",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1717,10 +2036,11 @@
       "type": "narration",
       "words": 14,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "在那些青少年时期，我建立了我觉得会持续一生的友谊。"
     },
     {
-      "id": "line-152",
+      "id": "line-166",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1728,32 +2048,35 @@
       "type": "narration",
       "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "那个年龄段的大多数人都是这么想的，但人们后来疏远了。"
     },
     {
-      "id": "line-153",
+      "id": "line-167",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "Jobs, families, and tragedies separate people from those lasting friendships.",
+      "text": "Jobs, families and tragedies separate people from those lasting friendships.",
       "type": "narration",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "工作、家庭和悲剧使人们与那些长久的友谊分离开来。"
     },
     {
-      "id": "line-154",
+      "id": "line-168",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "The tragedy that separated me from my friends forever was the Vietnam War.",
+      "text": "The tragedy that separated me from my friends forever was the Vietnam war.",
       "type": "narration",
       "words": 13,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "让我与朋友们永远分离的悲剧是越南战争。"
     },
     {
-      "id": "line-155",
+      "id": "line-169",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1761,76 +2084,95 @@
       "type": "narration",
       "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我高中毕业一年后，便动身前往越南。"
     },
     {
-      "id": "line-156",
+      "id": "line-170",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "I came back burned out and tired, as though I had lived 10 lifetimes in the short span of 14 months.",
+      "text": "I came back, burned out, and tired, as though I had lived 10 lifetimes in the short span of 14 months, the 14 months I was in the war.",
       "type": "narration",
-      "words": 21,
+      "words": 29,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我回来了，精疲力竭且疲惫不堪，仿佛在短短的14个月（也就是我在战场上的那14个月）里度过了10个轮回。"
     },
     {
-      "id": "line-157",
+      "id": "line-171",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "The 14 months I was in the war, I couldn't relate to the friends I had had in high school.",
+      "text": "I couldn't relate to the friends I had had in high school.",
       "type": "narration",
-      "words": 20,
+      "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我无法再与高中的朋友产生共鸣。"
     },
     {
-      "id": "line-158",
+      "id": "line-172",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "They still seemed childish, concerned with childish things that weren't important to me.",
+      "text": "They still seem childish, concerned with childish things that weren't important to me.",
       "type": "narration",
       "words": 13,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "他们看起来依然很幼稚，关注着那些对我来说毫无意义的幼稚事情。"
     },
     {
-      "id": "line-159",
+      "id": "line-173",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "I was still trying to cope with the death, destruction, and evil I had seen in Vietnam.",
+      "text": "I was still trying to cope with the death, destruction and evil I had seen in Vietnam.",
       "type": "narration",
       "words": 17,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我当时仍在努力应对我在越南目睹的死亡、毁灭和邪恶。"
     },
     {
-      "id": "line-160",
+      "id": "line-174",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "I felt like we had done terrible things to innocent people there, and in turn, I had seen terrible things done to my friends.",
+      "text": "I felt like we had done terrible things to innocent people there and in turn, I had seen terrible things done to my friends.",
       "type": "narration",
       "words": 24,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我觉得我们在那里对无辜的人做了一些可怕的事，反过来，我也看到了一些可怕的事落在我朋友身上。"
     },
     {
-      "id": "line-161",
+      "id": "line-175",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "I withdrew from my friends and started college, then I quit college and took many different jobs.",
+      "text": "I withdrew for my friends and started college.",
       "type": "narration",
-      "words": 17,
+      "words": 8,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我疏远了我的朋友，并开始了大学生活。"
     },
     {
-      "id": "line-162",
+      "id": "line-176",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Then I quit college and took many different jobs.",
+      "type": "narration",
+      "words": 9,
+      "start": 0,
+      "end": 0,
+      "translation": "后来我大学辍学，做了很多不同的工作。"
+    },
+    {
+      "id": "line-177",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1838,10 +2180,11 @@
       "type": "narration",
       "words": 14,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我把大量的金钱和时间花在酗酒和其他药物（毒品）上。"
     },
     {
-      "id": "line-163",
+      "id": "line-178",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1849,10 +2192,11 @@
       "type": "narration",
       "words": 32,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "最后，为了让生活重回正轨，我卖掉了所有东西，拿着仅有的一点钱，给自己买了一张去以色列的机票。"
     },
     {
-      "id": "line-164",
+      "id": "line-179",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1860,10 +2204,11 @@
       "type": "narration",
       "words": 6,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我到那里去学习历史。"
     },
     {
-      "id": "line-165",
+      "id": "line-180",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1871,10 +2216,11 @@
       "type": "narration",
       "words": 15,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "在海法大学读书期间，我遇到了我的妻子，她当时也是一名美国留学生。"
     },
     {
-      "id": "line-166",
+      "id": "line-181",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1882,10 +2228,11 @@
       "type": "narration",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我现在回到美国，在一家高中任教。"
     },
     {
-      "id": "line-167",
+      "id": "line-182",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1893,10 +2240,11 @@
       "type": "narration",
       "words": 21,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我看着我的学生，看到他们正像我多年前那样，在许多相同的事情中挣扎。"
     },
     {
-      "id": "line-168",
+      "id": "line-183",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1904,10 +2252,11 @@
       "type": "narration",
       "words": 16,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "作为一名教师，我尽我所能帮助他们渡过这些难关。"
     },
     {
-      "id": "line-169",
+      "id": "line-184",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "Q22.",
@@ -1915,10 +2264,11 @@
       "type": "question",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "发言者刚开始上高中时感觉如何？"
     },
     {
-      "id": "line-170",
+      "id": "line-185",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "Q23.",
@@ -1926,21 +2276,23 @@
       "type": "question",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "发言者曾经如何看待青少年的友谊？"
     },
     {
-      "id": "line-171",
+      "id": "line-186",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "Q24.",
-      "text": "What do we learn about the speaker when he returned from the Vietnam War?",
+      "text": "What do we learn about the speaker when he returned from the Vietnam war?",
       "type": "question",
       "words": 14,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "关于发言者从越战返回后的情况，我们了解到了什么？"
     },
     {
-      "id": "line-172",
+      "id": "line-187",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "Q25.",
@@ -1948,7 +2300,8 @@
       "type": "question",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "作为一名教师，发言者试图做什么？"
     }
   ]
 }
