@@ -4,11 +4,11 @@
   "source": {
     "markdown": {
       "name": "2021-12-1.md",
-      "size": 15663,
-      "mtimeNs": 1778849795072397500
+      "size": 15772,
+      "mtimeNs": 1779367018091705600
     }
   },
-  "generatedAt": 1778849810,
+  "generatedAt": 1779367052,
   "sections": [
     {
       "id": "conversation-1",
@@ -18,32 +18,32 @@
     {
       "id": "conversation-2",
       "title": "CONVERSATION 2",
-      "firstLineId": "line-33"
+      "firstLineId": "line-31"
     },
     {
       "id": "passage-1",
       "title": "PASSAGE 1",
-      "firstLineId": "line-63"
+      "firstLineId": "line-60"
     },
     {
       "id": "passage-2",
       "title": "PASSAGE 2",
-      "firstLineId": "line-80"
+      "firstLineId": "line-76"
     },
     {
       "id": "recording-1",
       "title": "RECORDING 1",
-      "firstLineId": "line-103"
+      "firstLineId": "line-99"
     },
     {
       "id": "recording-2",
       "title": "RECORDING 2",
-      "firstLineId": "line-137"
+      "firstLineId": "line-136"
     },
     {
       "id": "recording-3",
       "title": "RECORDING 3",
-      "firstLineId": "line-160"
+      "firstLineId": "line-159"
     }
   ],
   "lines": [
@@ -52,14 +52,27 @@
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "Hi, David, I haven't seen you in class for almost two weeks.",
+      "text": "Hi, David.",
       "type": "dialogue",
-      "words": 12,
+      "words": 2,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "嗨，大卫。"
     },
     {
       "id": "line-1",
+      "sectionId": "conversation-1",
+      "sectionTitle": "CONVERSATION 1",
+      "speaker": "W:",
+      "text": "I haven’t seen you in class for almost two weeks.",
+      "type": "dialogue",
+      "words": 11,
+      "start": 0,
+      "end": 0,
+      "translation": "我有将近两周没在课堂上见到你了。"
+    },
+    {
+      "id": "line-2",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -67,65 +80,71 @@
       "type": "dialogue",
       "words": 10,
       "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-2",
-      "sectionId": "conversation-1",
-      "sectionTitle": "CONVERSATION 1",
-      "speaker": "M:",
-      "text": "Hi Sarah.",
-      "type": "dialogue",
-      "words": 2,
-      "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我们还以为你提早放假去哪儿玩了，或者怎么了呢。"
     },
     {
       "id": "line-3",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
-      "text": "Well, it's a bit of a long story, I'm afraid.",
+      "text": "Hi, Sarah.",
       "type": "dialogue",
-      "words": 10,
+      "words": 2,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "嗨，莎拉。"
     },
     {
       "id": "line-4",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
-      "text": "I got a throat infection last week and had to go to the hospital to get some antibiotics as I really wasn't getting any better.",
+      "text": "Well, it’s a bit of a long story I’m afraid.",
       "type": "dialogue",
-      "words": 25,
+      "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "呃，恐怕这说来话长。"
     },
     {
       "id": "line-5",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "W:",
-      "text": "Oh, yeah.",
+      "speaker": "M:",
+      "text": "I got a throat infection last week and had to go to the hospital to get some antibiotics as I really wasn’t getting any better.",
       "type": "dialogue",
-      "words": 2,
+      "words": 26,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我上周喉咙感染了，因为一直不见好转，不得不去医院开些抗生素。"
     },
     {
       "id": "line-6",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "There've been so many viruses going around this winter.",
+      "text": "Oh yeah.",
       "type": "dialogue",
-      "words": 9,
+      "words": 2,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "哦，是吗。"
     },
     {
       "id": "line-7",
+      "sectionId": "conversation-1",
+      "sectionTitle": "CONVERSATION 1",
+      "speaker": "W:",
+      "text": "There have been so many viruses going around this winter.",
+      "type": "dialogue",
+      "words": 10,
+      "start": 0,
+      "end": 0,
+      "translation": "今年冬天有好多病毒到处流传。"
+    },
+    {
+      "id": "line-8",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -133,29 +152,20 @@
       "type": "dialogue",
       "words": 11,
       "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-8",
-      "sectionId": "conversation-1",
-      "sectionTitle": "CONVERSATION 1",
-      "speaker": "M:",
-      "text": "And, on the way back from the hospital, I slipped on some ice and fell and then had to go to the hospital to get an x-ray because I basically thought I'd broken my wrist.",
-      "type": "dialogue",
-      "words": 36,
-      "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "过去这几周天气实在是太糟糕了。"
     },
     {
       "id": "line-9",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
-      "text": "Although thankfully it's not broken.",
+      "text": "And, on the way back from the hospital, I slipped on some ice and fell and then had to go to the hospital to get an X-ray because I basically thought I broke my wrist, although, thankfully, it’s not broken.",
       "type": "dialogue",
-      "words": 5,
+      "words": 42,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "而且，在从医院回来的路上，我踩到冰滑倒了。然后我又得去医院拍 X 光，因为我基本上以为自己手腕骨折了。不过幸好没断。"
     },
     {
       "id": "line-10",
@@ -166,29 +176,32 @@
       "type": "dialogue",
       "words": 13,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "但在接下来的几周里，我得小心一点。"
     },
     {
       "id": "line-11",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "Oh, that's too bad.",
+      "text": "Oh, that’s too bad!",
       "type": "dialogue",
-      "words": 4,
+      "words": 5,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "哦，那太糟糕了！"
     },
     {
       "id": "line-12",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "How unfortunate.",
+      "text": "How unfortunate!",
       "type": "dialogue",
       "words": 2,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "真是不幸！"
     },
     {
       "id": "line-13",
@@ -199,18 +212,20 @@
       "type": "dialogue",
       "words": 18,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "更糟糕的是，我居然正好在四个九年级的女生面前摔倒了。"
     },
     {
       "id": "line-14",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
-      "text": "So, it was utterly humiliating.",
+      "text": "So I was utterly humiliated.",
       "type": "dialogue",
       "words": 5,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "所以我感到丢脸极了。"
     },
     {
       "id": "line-15",
@@ -221,32 +236,23 @@
       "type": "dialogue",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "另外，我包里的笔记本电脑也摔坏了。"
     },
     {
       "id": "line-16",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "No!",
+      "text": "No, what a complete catastrophe!",
       "type": "dialogue",
-      "words": 1,
+      "words": 5,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "天呐，这简直是场彻底的灾难！"
     },
     {
       "id": "line-17",
-      "sectionId": "conversation-1",
-      "sectionTitle": "CONVERSATION 1",
-      "speaker": "W:",
-      "text": "What a complete catastrophe!",
-      "type": "dialogue",
-      "words": 4,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-18",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -254,21 +260,23 @@
       "type": "dialogue",
       "words": 6,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "笔记本电脑还在保修期内吗？"
     },
     {
-      "id": "line-19",
+      "id": "line-18",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "If it is, then you can easily send it back to the manufacturer and they'll send you a brand new one for free, surely.",
+      "text": "If it is, then you can easily send it back to the manufacturer, and they'll send you a brand-new one for free surely.",
       "type": "dialogue",
       "words": 24,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "如果是的话，你很容易就能把它寄回给制造商，他们肯定会免费给你寄一个全新的。"
     },
     {
-      "id": "line-20",
+      "id": "line-19",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -276,32 +284,35 @@
       "type": "dialogue",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "保修期在我弄坏它的三天前刚过期。"
+    },
+    {
+      "id": "line-20",
+      "sectionId": "conversation-1",
+      "sectionTitle": "CONVERSATION 1",
+      "speaker": "M:",
+      "text": "And all my essays are in there, and I need to hand them in before we break for the Christmas holidays.",
+      "type": "dialogue",
+      "words": 21,
+      "start": 0,
+      "end": 0,
+      "translation": "我所有的论文都在里面，而且我需要在圣诞假期开始前把它们交上去。"
     },
     {
       "id": "line-21",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "M:",
-      "text": "And all my essays are in there and I need to have them in before we break for the Christmas holidays.",
-      "type": "dialogue",
-      "words": 21,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-22",
-      "sectionId": "conversation-1",
-      "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "Listen, I have the number of a really good affordable computer repair shop at home.",
+      "text": "Listen, I have the number of a really good, affordable computer repair shop at home.",
       "type": "dialogue",
       "words": 15,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "听着，我家里有一个技术很好、价格也实惠的电脑维修店的电话。"
     },
     {
-      "id": "line-23",
+      "id": "line-22",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -309,76 +320,71 @@
       "type": "dialogue",
       "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我爸爸以前找过这个人，他能创造奇迹。"
+    },
+    {
+      "id": "line-23",
+      "sectionId": "conversation-1",
+      "sectionTitle": "CONVERSATION 1",
+      "speaker": "W:",
+      "text": "Let’s go back to my house and we can call the repair shop, and you can have some tea and cookies too.",
+      "type": "dialogue",
+      "words": 23,
+      "start": 0,
+      "end": 0,
+      "translation": "我们回我家吧，然后我们可以给维修店打个电话，你顺便还可以喝点茶，吃点饼干。"
     },
     {
       "id": "line-24",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "W:",
-      "text": "Let's go back to my house and we can call the repair shop, and you could have some tea and cookies too.",
+      "speaker": "M:",
+      "text": "Wow, thanks, Sara!",
       "type": "dialogue",
-      "words": 22,
+      "words": 3,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "哇，谢谢你，莎拉！"
     },
     {
       "id": "line-25",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
-      "text": "Wow.",
+      "text": "That would be great!",
       "type": "dialogue",
-      "words": 1,
+      "words": 4,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "那太好了！"
     },
     {
       "id": "line-26",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
-      "text": "Thanks, Sarah.",
+      "text": "Let me just call my mom and let her know I’ll be home a little bit later.",
       "type": "dialogue",
-      "words": 2,
+      "words": 18,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "让我先给我妈打个电话，告诉她我会稍微晚点回家。"
     },
     {
       "id": "line-27",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
-      "speaker": "M:",
-      "text": "That would be great.",
-      "type": "dialogue",
-      "words": 4,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-28",
-      "sectionId": "conversation-1",
-      "sectionTitle": "CONVERSATION 1",
-      "speaker": "M:",
-      "text": "Let me just call my mom and let her know I'll be home a little bit later.",
-      "type": "dialogue",
-      "words": 17,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-29",
-      "sectionId": "conversation-1",
-      "sectionTitle": "CONVERSATION 1",
       "speaker": "Q1.",
-      "text": "What did Sarah think David was doing for the last two weeks?",
+      "text": "What did Sara think David was doing for the last two weeks?",
       "type": "question",
       "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "莎拉认为大卫在过去的两个星期里在做什么？"
     },
     {
-      "id": "line-30",
+      "id": "line-28",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q2.",
@@ -386,10 +392,11 @@
       "type": "question",
       "words": 11,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "大卫在从医院回来的路上发生了什么事？"
     },
     {
-      "id": "line-31",
+      "id": "line-29",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q3.",
@@ -397,10 +404,11 @@
       "type": "question",
       "words": 11,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "关于那台损坏的电脑，莎拉说他们应该怎么做？"
     },
     {
-      "id": "line-32",
+      "id": "line-30",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q4.",
@@ -408,21 +416,23 @@
       "type": "question",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "莎拉说她打算做什么？"
     },
     {
-      "id": "line-33",
+      "id": "line-31",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "Welcome to this week's episode of Book Talk.",
+      "text": "Welcome to this week’s episode of Book Talk.",
       "type": "dialogue",
-      "words": 8,
+      "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "欢迎收看本期的《读书周刊》（Book Talk）。"
     },
     {
-      "id": "line-34",
+      "id": "line-32",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -430,10 +440,11 @@
       "type": "dialogue",
       "words": 18,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "今天来到我们节目的是海蒂·布朗，她是一位历史学家，曾写过五部备受好评的关于军事史的著作。"
     },
     {
-      "id": "line-35",
+      "id": "line-33",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -441,21 +452,23 @@
       "type": "dialogue",
       "words": 5,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "谢谢你邀请我，约翰。"
     },
     {
-      "id": "line-36",
+      "id": "line-34",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "I'm so excited to talk about my latest book, which was published last month.",
+      "text": "I’m so excited to talk about my latest book, which was published last month.",
       "type": "dialogue",
-      "words": 14,
+      "words": 15,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "很高兴能在这里谈论我上个月出版的新书。"
     },
     {
-      "id": "line-37",
+      "id": "line-35",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -463,32 +476,47 @@
       "type": "dialogue",
       "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "所以这本书是一部小说，这是您在这一文学体裁上的首次尝试。"
+    },
+    {
+      "id": "line-36",
+      "sectionId": "conversation-2",
+      "sectionTitle": "CONVERSATION 2",
+      "speaker": "M:",
+      "text": "I thought it was a bit of a departure for you.",
+      "type": "dialogue",
+      "words": 11,
+      "start": 0,
+      "end": 0,
+      "translation": "我认为这对您来说是一个不小的转变。"
+    },
+    {
+      "id": "line-37",
+      "sectionId": "conversation-2",
+      "sectionTitle": "CONVERSATION 2",
+      "speaker": "W:",
+      "text": "I’d say it’s a major departure as it’s not just a work of fiction.",
+      "type": "dialogue",
+      "words": 17,
+      "start": 0,
+      "end": 0,
+      "translation": "我想说这是一个重大的转变，因为这不仅仅是一部虚构作品。"
     },
     {
       "id": "line-38",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
-      "speaker": "M:",
-      "text": "And that's a bit of a departure for you.",
+      "speaker": "W:",
+      "text": "It’s set 200 years in the future.",
       "type": "dialogue",
-      "words": 9,
+      "words": 8,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "它的背景设定在 200 年后的未来。"
     },
     {
       "id": "line-39",
-      "sectionId": "conversation-2",
-      "sectionTitle": "CONVERSATION 2",
-      "speaker": "W:",
-      "text": "I'd say it's a major departure as it's not just a work of fiction, it's set 200 years in the future.",
-      "type": "dialogue",
-      "words": 21,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-40",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -496,10 +524,11 @@
       "type": "dialogue",
       "words": 1,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "好的。"
     },
     {
-      "id": "line-41",
+      "id": "line-40",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -507,10 +536,11 @@
       "type": "dialogue",
       "words": 5,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "那么这是怎么发生的呢？"
     },
     {
-      "id": "line-42",
+      "id": "line-41",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -518,10 +548,11 @@
       "type": "dialogue",
       "words": 16,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "您花了三十年的时间书写过去，并专注于 18 和 19 世纪。"
     },
     {
-      "id": "line-43",
+      "id": "line-42",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -529,10 +560,11 @@
       "type": "dialogue",
       "words": 7,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "而现在您却在推测未来。"
     },
     {
-      "id": "line-44",
+      "id": "line-43",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -540,10 +572,11 @@
       "type": "dialogue",
       "words": 26,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "嗯，在对士兵进行了多年的研究并记录了他们战场上的生活之后，我开始对他们生活的其他方面感到好奇，尤其是他们的私人生活。"
     },
     {
-      "id": "line-45",
+      "id": "line-44",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -551,21 +584,23 @@
       "type": "dialogue",
       "words": 4,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我可以理解。"
     },
     {
-      "id": "line-46",
+      "id": "line-45",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "Your novel is about soldiers, but it focuses on their relationships, especially the bonds between sons and mothers, and men and their wives.",
+      "text": "Your novel is about soldiers and it focuses on their relationships，especially the bond between sons and mothers and men and their wives.",
       "type": "dialogue",
       "words": 23,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "您的小说是关于士兵的，并且侧重于他们的人际关系，尤其是母子之间以及丈夫与妻子之间的纽带。"
     },
     {
-      "id": "line-47",
+      "id": "line-46",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -573,10 +608,11 @@
       "type": "dialogue",
       "words": 1,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "是的。"
     },
     {
-      "id": "line-48",
+      "id": "line-47",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -584,21 +620,23 @@
       "type": "dialogue",
       "words": 14,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "当我还打算写另一本历史书时，这个关注点就产生了。"
     },
     {
-      "id": "line-49",
+      "id": "line-48",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "I started by researching soldiers' actual personal lives, studying their letters home.",
+      "text": "I started by researching soldiers’ actual personal lives, studying their letters home.",
       "type": "dialogue",
       "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "我最开始是通过研究士兵真实的个人生活，比如阅读他们寄回家的信件。"
     },
     {
-      "id": "line-50",
+      "id": "line-49",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -606,10 +644,11 @@
       "type": "dialogue",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "那么，那本历史书是如何变成一部小说的呢？"
     },
     {
-      "id": "line-51",
+      "id": "line-50",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -617,32 +656,35 @@
       "type": "dialogue",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "嗯，我意识到历史记载是不完整的。"
+    },
+    {
+      "id": "line-51",
+      "sectionId": "conversation-2",
+      "sectionTitle": "CONVERSATION 2",
+      "speaker": "W:",
+      "text": "So I’d either have to leave a lot of gaps or make a lot more assumptions than a historian should.",
+      "type": "dialogue",
+      "words": 21,
+      "start": 0,
+      "end": 0,
+      "translation": "所以我要么必须留下很多空白，要么就得做出比历史学家应该做的更多的假设。"
     },
     {
       "id": "line-52",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
-      "speaker": "W:",
-      "text": "So I'd either have to leave a lot of gaps or make a lot more assumptions than a historian should.",
-      "type": "dialogue",
-      "words": 20,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-53",
-      "sectionId": "conversation-2",
-      "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "But why write a novel set in the future, when your credentials are perfect for a historical novel?",
+      "text": "But why write a novel set in the future when your credentials are perfect for a historical novel?",
       "type": "dialogue",
       "words": 18,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "但是，既然您的资历非常适合写一部历史小说，为什么还要写一部背景设定在未来的小说呢？"
     },
     {
-      "id": "line-54",
+      "id": "line-53",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -650,54 +692,35 @@
       "type": "dialogue",
       "words": 14,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "作为一名历史学家，您写任何历史小说都会非常有公信力。"
+    },
+    {
+      "id": "line-54",
+      "sectionId": "conversation-2",
+      "sectionTitle": "CONVERSATION 2",
+      "speaker": "W:",
+      "text": "I felt too constrained working with the past, like what I wrote needed to be fact as opposed to fiction, but writing about the future gave me more freedom to imagine, to invent.",
+      "type": "dialogue",
+      "words": 33,
+      "start": 0,
+      "end": 0,
+      "translation": "我觉得书写过去受到了太多限制，好像我写的东西必须是事实而不是虚构；但是描写未来给了我更多的自由去想象、去创造。"
     },
     {
       "id": "line-55",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
-      "speaker": "W:",
-      "text": "I felt too constrained working with the past.",
+      "speaker": "M:",
+      "text": "Well, having read your book, I’m glad you made that choice to move into fiction.",
       "type": "dialogue",
-      "words": 8,
+      "words": 16,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "好的，读完您的书之后，很高兴您做出了转向虚构文学的这一选择。"
     },
     {
       "id": "line-56",
-      "sectionId": "conversation-2",
-      "sectionTitle": "CONVERSATION 2",
-      "speaker": "W:",
-      "text": "Like what I wrote needed to be fact as opposed to fiction.",
-      "type": "dialogue",
-      "words": 12,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-57",
-      "sectionId": "conversation-2",
-      "sectionTitle": "CONVERSATION 2",
-      "speaker": "W:",
-      "text": "But writing about the future gave me more freedom to imagine, to invent.",
-      "type": "dialogue",
-      "words": 13,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-58",
-      "sectionId": "conversation-2",
-      "sectionTitle": "CONVERSATION 2",
-      "speaker": "M:",
-      "text": "Well, having read your book, I'm glad you made that choice to move into fiction.",
-      "type": "dialogue",
-      "words": 15,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-59",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q5.",
@@ -705,10 +728,11 @@
       "type": "question",
       "words": 8,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "关于这位女士，男士说了什么？"
     },
     {
-      "id": "line-60",
+      "id": "line-57",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q6.",
@@ -716,10 +740,11 @@
       "type": "question",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "关于她最新出版的书，女士说了什么？"
     },
     {
-      "id": "line-61",
+      "id": "line-58",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q7.",
@@ -727,10 +752,11 @@
       "type": "question",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "在写新书之前，女士做了什么？"
     },
     {
-      "id": "line-62",
+      "id": "line-59",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q8.",
@@ -738,76 +764,83 @@
       "type": "question",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "关于撰写历史书，女士说了什么？"
+    },
+    {
+      "id": "line-60",
+      "sectionId": "passage-1",
+      "sectionTitle": "PASSAGE 1",
+      "speaker": "",
+      "text": "Whether it’s in the hands of animated polar bears or Santa Claus, there’s one thing you'll find in nearly all ads for Coca-Cola: the characteristic glass bottle.",
+      "type": "narration",
+      "words": 30,
+      "start": 0,
+      "end": 0,
+      "translation": "无论是在动画北极熊还是圣诞老人的手中，在几乎所有的可口可乐广告中，你都能发现一件东西：那就是其极具特色的玻璃瓶。"
+    },
+    {
+      "id": "line-61",
+      "sectionId": "passage-1",
+      "sectionTitle": "PASSAGE 1",
+      "speaker": "",
+      "text": "Most Americans don’t drink soda out of the glass bottles seen in Coke’s ads anymore.",
+      "type": "narration",
+      "words": 17,
+      "start": 0,
+      "end": 0,
+      "translation": "现在大多数美国人已经不再用可乐广告中那种玻璃瓶来喝汽水了。"
+    },
+    {
+      "id": "line-62",
+      "sectionId": "passage-1",
+      "sectionTitle": "PASSAGE 1",
+      "speaker": "",
+      "text": "But this week, the company is celebrating a century of the bottle that’s been sold in more than 200 countries.",
+      "type": "narration",
+      "words": 21,
+      "start": 0,
+      "end": 0,
+      "translation": "但本周，该公司正在庆祝这种已在 200 多个国家销售的瓶子诞生一百周年。"
     },
     {
       "id": "line-63",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "Whether it's in the hands of animated polar bears or Santa Claus, there's one thing you'll find in nearly all ads for Coca-Cola, the characteristic glass bottle.",
+      "text": "Flash back to 1915, when a bottle of Coca-Cola cost just a nickel.",
       "type": "narration",
-      "words": 28,
+      "words": 14,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "回溯到 1915 年，当时一瓶可口可乐只要五美分。"
     },
     {
       "id": "line-64",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "Most Americans don't drink soda out of the glass bottles seen in Coke's ads anymore.",
+      "text": "As the soft drink gained in popularity, it faced a growing number of competitors—counterfeits even trying to copy Coke’s logo.",
       "type": "narration",
-      "words": 15,
+      "words": 22,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "随着这种软饮料越来越受欢迎，它面临着越来越多的竞争对手——甚至有仿冒品试图抄袭可口可乐的商标。"
     },
     {
       "id": "line-65",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "But this week, the company is celebrating a century of the bottle that's been sold in more than 200 countries.",
-      "type": "narration",
-      "words": 20,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-66",
-      "sectionId": "passage-1",
-      "sectionTitle": "PASSAGE 1",
-      "speaker": "",
-      "text": "Flashback to 1915, when a bottle of Coca-Cola costs just a nickel.",
-      "type": "narration",
-      "words": 13,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-67",
-      "sectionId": "passage-1",
-      "sectionTitle": "PASSAGE 1",
-      "speaker": "",
-      "text": "As the soft drink gained in popularity, it faced a growing number of competitors, counterfeits even trying to copy Coke's logo.",
+      "text": "So, according to Coca-Cola historian Ted Ryan, the company decided to come up with packaging that couldn’t be duplicated.",
       "type": "narration",
       "words": 21,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "因此，据可口可乐历史学家泰德·赖安称，公司决定设计一种无法被复制的包装。"
     },
     {
-      "id": "line-68",
-      "sectionId": "passage-1",
-      "sectionTitle": "PASSAGE 1",
-      "speaker": "",
-      "text": "So according to Coca-Cola historian, Ted Ryan, the company decided to come up with packaging that couldn't be duplicated.",
-      "type": "narration",
-      "words": 20,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-69",
+      "id": "line-66",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -815,54 +848,47 @@
       "type": "narration",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "公司向八家不同的玻璃制造商发送了产品需求。"
     },
     {
-      "id": "line-70",
+      "id": "line-67",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "Workers at the Root Glass Company got the request and began flipping through the encyclopedia at the local library, landing on cocoa's seed.",
+      "text": "Workers at the Root Glass Company got the request and began flipping through the encyclopedia at the local library, landing on cocoa seed.",
       "type": "narration",
       "words": 23,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "鲁特玻璃公司（Root Glass Company）的员工收到请求后，开始查阅当地图书馆的百科全书，最终锁定了可可豆荚。"
     },
     {
-      "id": "line-71",
+      "id": "line-68",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "The cocoa seed is not an ingredient of the soda.",
+      "text": "Though cocoa seed is not an ingredient of the soda, they designed their bottle based on the seed’s shape and large middle.",
       "type": "narration",
-      "words": 10,
+      "words": 23,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "尽管可可豆并不是这种汽水的成分，但他们根据可可豆的形状和中间凸起的特征设计了瓶子。"
     },
     {
-      "id": "line-72",
+      "id": "line-69",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "They designed their bottle based on the seed's shape and large middle.",
+      "text": "It won over Coke executives in Atlanta and would go on to receive its own trademark, spur collections and earn Coca-Cola an iconic image that made it part of American culture for a century.",
       "type": "narration",
-      "words": 12,
+      "words": 35,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "它赢得了亚特兰大可口可乐高管的青睐，并随后获得了专属商标，引发了收藏热潮，并为可口可乐赢得了标志性的形象，使其在一个世纪的时间里成为美国文化的一部分。"
     },
     {
-      "id": "line-73",
-      "sectionId": "passage-1",
-      "sectionTitle": "PASSAGE 1",
-      "speaker": "",
-      "text": "It won over Coca-Cola executives in Atlanta and would go on to receive its own trademark, spur collections and earn Coca-Cola an iconic image that made it part of American culture for a century.",
-      "type": "narration",
-      "words": 36,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-74",
+      "id": "line-70",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -870,10 +896,11 @@
       "type": "narration",
       "words": 13,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "正是在一百年前的本周，这种瓶子获得了专利。"
     },
     {
-      "id": "line-75",
+      "id": "line-71",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -881,21 +908,23 @@
       "type": "narration",
       "words": 11,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "到了第二次世界大战，可乐玻璃瓶的销量已激增至数十亿个。"
     },
     {
-      "id": "line-76",
+      "id": "line-72",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "Americans mostly consume Coke out of aluminum or plastic today, but the glass bottle remains a symbol of America that's readily recognized around the world.",
+      "text": "Americans mostly consume Coke out of aluminum or plastic today, but the glass bottle remains a symbol of America that’s readily recognized around the world.",
       "type": "narration",
-      "words": 25,
+      "words": 26,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "如今，美国人大多饮用铝罐或塑料瓶装的可乐，但这种玻璃瓶依然是美国的一种象征，在世界各地都极易被认出。"
     },
     {
-      "id": "line-77",
+      "id": "line-73",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q9.",
@@ -903,21 +932,23 @@
       "type": "question",
       "words": 13,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "文章提到几乎所有的可口可乐广告中都会出现什么？"
     },
     {
-      "id": "line-78",
+      "id": "line-74",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q10.",
-      "text": "Why did the Coca-Cola company decide to have special packaging designed?",
+      "text": "Why did the Coca-Cola Company decide to have special packaging designed?",
       "type": "question",
       "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "为什么可口可乐公司决定设计特别的包装？"
     },
     {
-      "id": "line-79",
+      "id": "line-75",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q11.",
@@ -925,21 +956,23 @@
       "type": "question",
       "words": 15,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "关于鲁特玻璃公司设计的可口可乐瓶，我们了解到了什么？"
     },
     {
-      "id": "line-80",
+      "id": "line-76",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "Trying to create some measurable improvement in mood.",
+      "text": "Research shows that a few moments of conversation with a stranger creates a measurable improvement in mood.",
       "type": "narration",
-      "words": 8,
+      "words": 17,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "研究表明，与陌生人聊上几分钟就能明显改善情绪。"
     },
     {
-      "id": "line-81",
+      "id": "line-77",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -947,43 +980,47 @@
       "type": "narration",
       "words": 15,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "但是我们大多数人都不愿意主动开始这些谈话，因为我们预想的结果恰恰相反。"
     },
     {
-      "id": "line-82",
+      "id": "line-78",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "In an experiment, commuters who talk to nearby strangers found that commute more enjoyable than those who didn't.",
+      "text": "In an experiment, commuters who talked to nearby strangers found their commute more enjoyable than those who didn’t.",
+      "type": "narration",
+      "words": 19,
+      "start": 0,
+      "end": 0,
+      "translation": "在一项实验中，与身边的陌生人交谈的通勤者发现，他们的通勤过程比那些不交谈的人更愉快。"
+    },
+    {
+      "id": "line-79",
+      "sectionId": "passage-2",
+      "sectionTitle": "PASSAGE 2",
+      "speaker": "",
+      "text": "They were asked to predict whether they’d enjoy the commute more if they conversed with other people.",
       "type": "narration",
       "words": 18,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "他们被要求预测如果与其他人交谈，他们是否会更享受通勤过程。"
     },
     {
-      "id": "line-83",
+      "id": "line-80",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "They were asked to predict whether they'd enjoy the commute more if they converse with other people.",
-      "type": "narration",
-      "words": 17,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-84",
-      "sectionId": "passage-2",
-      "sectionTitle": "PASSAGE 2",
-      "speaker": "",
-      "text": "Intriguingly, most expect the more solitary experience to be more pleasurable.",
+      "text": "Intriguingly, most expected the more solitary experience to be more pleasurable.",
       "type": "narration",
       "words": 11,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "有趣的是，大多数人预测独自一人的体验会更令人愉快。"
     },
     {
-      "id": "line-85",
+      "id": "line-81",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -991,10 +1028,11 @@
       "type": "narration",
       "words": 3,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "这是为什么呢？"
     },
     {
-      "id": "line-86",
+      "id": "line-82",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1002,43 +1040,47 @@
       "type": "narration",
       "words": 7,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "社交焦虑似乎是问题所在。"
     },
     {
-      "id": "line-87",
+      "id": "line-83",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "People's reluctance to start conversations with nearby strangers comes partly from underestimating others' interest in connecting.",
+      "text": "People’s reluctance to start conversations with nearby strangers comes partly from “underestimating others’ interest in connecting”.",
       "type": "narration",
-      "words": 16,
+      "words": 17,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "人们不愿与身边的陌生人搭话，部分原因在于“低估了他人建立联系的兴趣”。"
     },
     {
-      "id": "line-88",
+      "id": "line-84",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "The sad thing is that people presume that a nearby stranger doesn't want to converse and don't start a conversation.",
+      "text": "The sad thing is that people presume that a nearby stranger doesn’t want to converse and don’t start a conversation.",
       "type": "narration",
-      "words": 20,
+      "words": 22,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "悲哀的是，人们总是假定身边的陌生人不想聊天，因此不去主动开始对话。"
     },
     {
-      "id": "line-89",
+      "id": "line-85",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "Only those who force themselves to chat because it was required by the experiment found out what a pleasant experience it could be.",
+      "text": "Only those who forced themselves to chat because it was required by the experiment found out what a pleasant experience it could be.",
       "type": "narration",
       "words": 23,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "只有那些因为实验要求而强迫自己去聊天的人，才发现这原来是一次多么愉快的体验。"
     },
     {
-      "id": "line-90",
+      "id": "line-86",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1046,21 +1088,23 @@
       "type": "narration",
       "words": 5,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "人类是社交动物。"
     },
     {
-      "id": "line-91",
+      "id": "line-87",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "Those who misunderstand the impact of social interactions may not, in some context, be social enough for their own wellbeing.",
+      "text": "Those who misunderstand the impact of social interactions may not, in some contexts, be social enough for their own well-being.",
       "type": "narration",
-      "words": 20,
+      "words": 21,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "那些误解了社交互动影响的人，在某些情况下，为了自身的幸福感，其社交程度可能还远远不够。"
     },
     {
-      "id": "line-92",
+      "id": "line-88",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1068,10 +1112,11 @@
       "type": "narration",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "你应该和你遇到的陌生人聊聊天。"
     },
     {
-      "id": "line-93",
+      "id": "line-89",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1079,10 +1124,11 @@
       "type": "narration",
       "words": 13,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "你偶尔可能会遇到一次不愉快的遭遇，这可能会留在你的记忆中。"
     },
     {
-      "id": "line-94",
+      "id": "line-90",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1090,10 +1136,11 @@
       "type": "narration",
       "words": 13,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "这是因为人类的大脑更倾向于关注消极事件。"
     },
     {
-      "id": "line-95",
+      "id": "line-91",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1101,10 +1148,11 @@
       "type": "narration",
       "words": 13,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "摆脱对被拒绝的恐惧并与陌生人开始交谈，仍然是非常值得的。"
     },
     {
-      "id": "line-96",
+      "id": "line-92",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1112,10 +1160,11 @@
       "type": "narration",
       "words": 13,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "你可能会感到惊讶，与陌生人交谈也会让他们更快乐。"
     },
     {
-      "id": "line-97",
+      "id": "line-93",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1123,10 +1172,11 @@
       "type": "narration",
       "words": 6,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "这种联系带来的快乐似乎是会传染的。"
     },
     {
-      "id": "line-98",
+      "id": "line-94",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1134,10 +1184,11 @@
       "type": "narration",
       "words": 15,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "被搭讪的人与主动发起谈话的人拥有同样积极的体验。"
     },
     {
-      "id": "line-99",
+      "id": "line-95",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q12.",
@@ -1145,10 +1196,11 @@
       "type": "question",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "关于陌生人之间的交谈，研究显示了什么？"
     },
     {
-      "id": "line-100",
+      "id": "line-96",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q13.",
@@ -1156,21 +1208,23 @@
       "type": "question",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "是什么阻碍了人们与陌生人开始交谈？"
     },
     {
-      "id": "line-101",
+      "id": "line-97",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q14.",
-      "text": "Why does a negative encounter with strangers stick in one's memory?",
+      "text": "Why does a negative encounter with strangers stick in one’s memory?",
       "type": "question",
-      "words": 11,
+      "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "为什么与陌生人的不愉快遭遇会留在人的记忆中？"
     },
     {
-      "id": "line-102",
+      "id": "line-98",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q15.",
@@ -1178,32 +1232,35 @@
       "type": "question",
       "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "文章说这种建立联系的快乐似乎是什么？"
     },
     {
-      "id": "line-103",
+      "id": "line-99",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "The Caribbean islands are divided into two worlds, a rich one, and a poor one.",
+      "text": "The Caribbean islands are divided into two worlds, a rich one and a poor one.",
       "type": "narration",
       "words": 15,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "加勒比群岛被划分为两个世界：一个富裕的世界和一个贫穷的世界。"
     },
     {
-      "id": "line-104",
+      "id": "line-100",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "This tropical region's economy is based mainly on farming.",
+      "text": "This tropical region’s economy is based mainly on farming.",
       "type": "narration",
-      "words": 9,
+      "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "这个热带地区的经济主要以农业为主。"
     },
     {
-      "id": "line-105",
+      "id": "line-101",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1211,10 +1268,11 @@
       "type": "narration",
       "words": 5,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "农民有两种类型。"
     },
     {
-      "id": "line-106",
+      "id": "line-102",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1222,10 +1280,11 @@
       "type": "narration",
       "words": 13,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "一种是可能拥有成百上千甚至数万英亩土地的种植园主。"
     },
     {
-      "id": "line-107",
+      "id": "line-103",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1233,10 +1292,11 @@
       "type": "narration",
       "words": 13,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "相比之下，小散户农夫只耕作几英亩的土地。"
     },
     {
-      "id": "line-108",
+      "id": "line-104",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1244,10 +1304,11 @@
       "type": "narration",
       "words": 11,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "大多数到加勒比旅游的游客都很富有，就像那些种植园主一样。"
     },
     {
-      "id": "line-109",
+      "id": "line-105",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1255,10 +1316,11 @@
       "type": "narration",
       "words": 23,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "他们没有意识到，或者不想意识到，许多务农家庭仅靠自己种植的作物勉强维持生计。"
     },
     {
-      "id": "line-110",
+      "id": "line-106",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1266,10 +1328,11 @@
       "type": "narration",
       "words": 5,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "加勒比地区出产许多东西。"
     },
     {
-      "id": "line-111",
+      "id": "line-107",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1277,153 +1340,179 @@
       "type": "narration",
       "words": 5,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "糖是主要产品。"
+    },
+    {
+      "id": "line-108",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "Other export crops are tobacco, coffee, bananas, spices and citrus fruits, such as orange, lemon or grapefruit.",
+      "type": "narration",
+      "words": 17,
+      "start": 0,
+      "end": 0,
+      "translation": "其他出口作物有烟草、咖啡、香蕉、香料以及柑橘类水果，如橙子、柠檬或葡萄柚。"
+    },
+    {
+      "id": "line-109",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "From the West Indies also come oil, mineral pitch and many forest products.",
+      "type": "narration",
+      "words": 13,
+      "start": 0,
+      "end": 0,
+      "translation": "西印度群岛还出产石油、天然沥青和许多森林产品。"
+    },
+    {
+      "id": "line-110",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "Jamaica’s aluminum ore supplies are the world’s largest.",
+      "type": "narration",
+      "words": 10,
+      "start": 0,
+      "end": 0,
+      "translation": "牙买加的铝土矿储量是世界上最大的。"
+    },
+    {
+      "id": "line-111",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "Oil comes from Trinidad, Aruba and Curacao.",
+      "type": "narration",
+      "words": 7,
+      "start": 0,
+      "end": 0,
+      "translation": "石油来自特立尼达、阿鲁巴和库拉索。"
     },
     {
       "id": "line-112",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Other export crops are tobacco, coffee, bananas, spices, and citrus fruits, such as orange, lemon or grapefruit.",
+      "text": "But for many of the smaller islands, sugar is the only export.",
       "type": "narration",
-      "words": 17,
+      "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "但对许多较小的岛屿来说，糖是唯一的出口商品。"
     },
     {
       "id": "line-113",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "From the West Indies also come oil, mineral pitch, and many forest products.",
+      "text": "Rum, a strong alcoholic drink, which is distilled from sugar cane, is also an export.",
       "type": "narration",
-      "words": 13,
+      "words": 15,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "朗姆酒——一种由甘蔗蒸馏而成的烈性酒——也是一种出口商品。"
     },
     {
       "id": "line-114",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Jamaica's aluminum ore supplies are the world's largest.",
+      "text": "The world’s best rum comes from this area.",
       "type": "narration",
-      "words": 8,
+      "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "世界上最好的朗姆酒就产自这个地区。"
     },
     {
       "id": "line-115",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Oil comes from Trinidad, Aruba and Curacao, but for many of the smaller islands, sugar is the only export.",
+      "text": "Local kinds vary from the light rums of Puerto Rico to the heavier darker rums of Barbados and Jamaica.",
       "type": "narration",
       "words": 19,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "当地的品种各不相同，从波多黎各的淡朗姆酒，到巴巴多斯和牙买加的颜色更深、口感更浓郁的黑朗姆酒。"
     },
     {
       "id": "line-116",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Rum, a strong alcoholic drink which is distilled from sugar cane, is also an export.",
+      "text": "American tourists enjoy stocking up on inexpensive high quality Caribbean rum while they’re on vacation.",
       "type": "narration",
-      "words": 15,
+      "words": 16,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "美国游客喜欢在度假时囤积物美价廉的加勒比朗姆酒。"
     },
     {
       "id": "line-117",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "The world's best rum comes from this area.",
+      "text": "In Curacao, the well-known liquor of that name is made from the thick outer skin of a native orange.",
       "type": "narration",
-      "words": 8,
+      "words": 20,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "在库拉索，以此命名的著名烈酒是用当地一种橙子的肥厚外皮制成的。"
     },
     {
       "id": "line-118",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Local kinds vary from the light rums of Puerto Rico to the heavier, darker rums of Barbados and Jamaica.",
+      "text": "Ever since America’s colonial days, the Caribbean islands have been favorite places to visit.",
       "type": "narration",
-      "words": 19,
+      "words": 15,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "自美国的殖民时代以来，加勒比群岛一直都是备受欢迎的旅游胜地。"
     },
     {
       "id": "line-119",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "American tourists enjoy stocking up on inexpensive high-quality Caribbean rum while they're on vacation.",
+      "text": "Since World War II, tourism has increased rapidly.",
       "type": "narration",
-      "words": 15,
+      "words": 8,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "第二次世界大战以来，旅游业迅速发展。"
     },
     {
       "id": "line-120",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "In Curacao, the well-known liquor of that name is made from the thick, outer skin of a native orange.",
+      "text": "Because great numbers of people go there, the islanders have built elaborate resorts, developed harbors and airfields, improved the beaches and have expanded sea and air routes.",
       "type": "narration",
-      "words": 20,
+      "words": 27,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "因为有大量的人去那里，岛民们建造了精致的度假胜地，开发了港口和机场，改善了海滩，并扩大了海运和航线。"
     },
     {
       "id": "line-121",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Ever since America's colonial days, the Caribbean islands have been favorite places to visit.",
-      "type": "narration",
-      "words": 14,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-122",
-      "sectionId": "recording-1",
-      "sectionTitle": "RECORDING 1",
-      "speaker": "",
-      "text": "Since World War II, tourism has increased rapidly because great numbers of people go there.",
-      "type": "narration",
-      "words": 15,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-123",
-      "sectionId": "recording-1",
-      "sectionTitle": "RECORDING 1",
-      "speaker": "",
-      "text": "The Islanders have built elaborate resorts, developed harbors and airfields, improved beaches and have expanded sea and air routes.",
-      "type": "narration",
-      "words": 19,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-124",
-      "sectionId": "recording-1",
-      "sectionTitle": "RECORDING 1",
-      "speaker": "",
-      "text": "Everything is at the resort: hotel, beach, shopping and recreation.",
+      "text": "Everything is at the resort—hotel, beach, shopping and recreation.",
       "type": "narration",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "度假村里应有尽有——酒店、海滩、购物和娱乐设施。"
     },
     {
-      "id": "line-125",
+      "id": "line-122",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1431,21 +1520,47 @@
       "type": "narration",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "度假者根本没有理由去探索这个岛屿的其他地方。"
     },
     {
-      "id": "line-126",
+      "id": "line-123",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "As in most places, those who have money live well indeed, those who don't have money live at various levels of poverty, but here the poor greatly outnumber the wealthy.",
+      "text": "As in most places, those who have money live well indeed.",
       "type": "narration",
-      "words": 30,
+      "words": 11,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "和大多数地方一样，有钱人的生活确实过得很好。"
     },
     {
-      "id": "line-127",
+      "id": "line-124",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "Those who don’t have money live at various levels of poverty.",
+      "type": "narration",
+      "words": 12,
+      "start": 0,
+      "end": 0,
+      "translation": "而没有钱的人则生活在不同程度的贫困之中。"
+    },
+    {
+      "id": "line-125",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "But here the poor greatly outnumber the wealthy.",
+      "type": "narration",
+      "words": 8,
+      "start": 0,
+      "end": 0,
+      "translation": "但在这里，穷人的数量远远超过富人。"
+    },
+    {
+      "id": "line-126",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1453,21 +1568,23 @@
       "type": "narration",
       "words": 19,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "游客会发现富人住在海边或农村的公寓或西班牙式的房子里。"
     },
     {
-      "id": "line-128",
+      "id": "line-127",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Their service might include a cook, a maid and a nurse for the children.",
+      "text": "Their servants might include a cook, a maid, and a nurse for their children.",
       "type": "narration",
       "words": 14,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "他们的仆人可能包括一名厨师、一名女佣和一名照顾孩子的保姆。"
     },
     {
-      "id": "line-129",
+      "id": "line-128",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1475,10 +1592,11 @@
       "type": "narration",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "大多数人的生活水平远低于贫困线。"
     },
     {
-      "id": "line-130",
+      "id": "line-129",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1486,10 +1604,11 @@
       "type": "narration",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "在城镇里，他们拥挤地住在狭小的房子里。"
     },
     {
-      "id": "line-131",
+      "id": "line-130",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1497,10 +1616,11 @@
       "type": "narration",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "岛民们尽其所能地利用他们所拥有的一切。"
     },
     {
-      "id": "line-132",
+      "id": "line-131",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1508,21 +1628,23 @@
       "type": "narration",
       "words": 5,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "他们的家相当简陋。"
     },
     {
-      "id": "line-133",
+      "id": "line-132",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Sadly, most tourists never see this side of the Caribbean.",
+      "text": "Sadly, most tourists never see the side of the Caribbean.",
       "type": "narration",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "遗憾的是，大多数游客从未见过加勒比海的这一面。"
     },
     {
-      "id": "line-134",
+      "id": "line-133",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "Q16.",
@@ -1530,10 +1652,11 @@
       "type": "question",
       "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "发言者关于加勒比群岛的经济说了什么？"
     },
     {
-      "id": "line-135",
+      "id": "line-134",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "Q17.",
@@ -1541,10 +1664,11 @@
       "type": "question",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "加勒比群岛的主要产品是什么？"
     },
     {
-      "id": "line-136",
+      "id": "line-135",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "Q18.",
@@ -1552,54 +1676,47 @@
       "type": "question",
       "words": 13,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "关于加勒比群岛的大多数人，我们了解到了什么？"
+    },
+    {
+      "id": "line-136",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Talk to anyone who’s a generation not too older and they would most likely comment that children are more spoiled these days.",
+      "type": "narration",
+      "words": 23,
+      "start": 0,
+      "end": 0,
+      "translation": "和任何年纪不算太大、长一辈的人聊天，他们很可能会评论说现在的孩子更被娇惯了。"
     },
     {
       "id": "line-137",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Talk to anyone who is a generation or two older, and they would most likely comment that children are most spoiled these days.",
+      "text": "No one wants to have or be around demanding, selfish and spoiled children, those who get bad-tempered or silently-brute when they are not given everything they want immediately.",
       "type": "narration",
-      "words": 23,
+      "words": 30,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "没有人想拥有或接近那些要求高、自私且被惯坏的孩子——当他们想要的东西没有立刻得到满足时，他们就会发脾气或生闷气。"
     },
     {
       "id": "line-138",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "No one wants to have, or be around demanding, selfish and spoiled children.",
-      "type": "narration",
-      "words": 13,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-139",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "Those who get bad-tempered will silently brood when they're not given everything they want immediately.",
-      "type": "narration",
-      "words": 16,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-140",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "Paradoxically, the parents of such children encourage this demanding behavior in the mistaken belief that by giving their children everything they can, their children will be happy.",
+      "text": "Paradoxically, the parents of such children encourage this demanding behavior in the mistaken belief that by giving their children everything they can their children will be happy.",
       "type": "narration",
       "words": 27,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "矛盾的是，这类孩子的父母鼓励了这种索求无度的行为，因为他们错误地认为，通过尽其所能地给孩子想要的一切，孩子就会快乐。"
     },
     {
-      "id": "line-141",
+      "id": "line-139",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1607,10 +1724,11 @@
       "type": "narration",
       "words": 8,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "在短期内，也许他们是对的。"
     },
     {
-      "id": "line-142",
+      "id": "line-140",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1618,43 +1736,47 @@
       "type": "narration",
       "words": 25,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "但从长远来看，这些孩子最终会感到孤独、依赖性强、长期处于不满之中，甚至会怨恨那些如此努力去讨好他们的父母。"
+    },
+    {
+      "id": "line-141",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Undoubtedly parents want to raise happy children who are confident, capable and likable rather than spoiled and miserable.",
+      "type": "narration",
+      "words": 18,
+      "start": 0,
+      "end": 0,
+      "translation": "毫无疑问，父母都希望培养出快乐、自信、有能力且讨人喜欢的孩子，而不是被惯坏且痛苦的孩子。"
+    },
+    {
+      "id": "line-142",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "One factor hindering this is that parents can’t or don’t spend enough quality time with their kids, and substitute this deficit with toys, games, gadgets and the like.",
+      "type": "narration",
+      "words": 30,
+      "start": 0,
+      "end": 0,
+      "translation": "阻碍这一目标的一个因素是，父母不能或没有花足够的优质时间陪伴孩子，并用玩具、游戏、电子产品等来弥补这一缺失。"
     },
     {
       "id": "line-143",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Undoubtedly, parents want to raise happy children who are confident, capable, and likable rather than spoiled and miserable.",
-      "type": "narration",
-      "words": 18,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-144",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "One factor hindering this is that parents can't, or don't spend enough quality time with their kids and substitute this deficit with toys, games, gadgets, and the like.",
-      "type": "narration",
-      "words": 28,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-145",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "Rather than getting material things, children need parents' devoted attention.",
+      "text": "Rather than getting material things, children need parents’ devoted attention.",
       "type": "narration",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "比起获得物质财富，孩子们更需要父母全心全意的关注。"
     },
     {
-      "id": "line-146",
+      "id": "line-144",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1662,32 +1784,47 @@
       "type": "narration",
       "words": 15,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "在一起的时间长短不如这段时间包含的内容重要。"
+    },
+    {
+      "id": "line-145",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Instead of instantly satisfying their wishes, parents should help them work out a plan to earn things they’d like to have.",
+      "type": "narration",
+      "words": 22,
+      "start": 0,
+      "end": 0,
+      "translation": "父母不应该立刻满足他们的愿望，而是应该帮助他们制定一个计划，通过努力去赢得他们想要的东西。"
+    },
+    {
+      "id": "line-146",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "This teaches them to value the effort as well as what it achieves.",
+      "type": "narration",
+      "words": 13,
+      "start": 0,
+      "end": 0,
+      "translation": "这能教会他们既重视付出的努力，也珍视所取得的成果。"
     },
     {
       "id": "line-147",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Instead of instantly satisfying their wishes, parents should help them work out a plan to earn things they'd like to have.",
+      "text": "Allow them to enjoy anticipation.",
       "type": "narration",
-      "words": 21,
+      "words": 5,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "让他们享受期待的过程。"
     },
     {
       "id": "line-148",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "This teaches them to value the effort as well as what it achieves, and allows them to enjoy anticipation.",
-      "type": "narration",
-      "words": 19,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-149",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1695,65 +1832,71 @@
       "type": "narration",
       "words": 28,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "许多心理学研究表明，学会等待自己渴望之物的孩子，在以后的生活中更有可能在许多方面取得成功。"
+    },
+    {
+      "id": "line-149",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "One famous experiment in the 1960s involved 3- to 6-year-old children.",
+      "type": "narration",
+      "words": 13,
+      "start": 0,
+      "end": 0,
+      "translation": "20世纪60年代的一项著名实验涉及了3至6岁的儿童。"
     },
     {
       "id": "line-150",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "One famous experiment in the 1960s involved 3 to 6 year old children.",
+      "text": "They were given a choice between receiving a small reward, such as a cookie, immediately, or if they waited 15 minutes, they could have two.",
       "type": "narration",
-      "words": 13,
+      "words": 25,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "他们可以选择是立刻获得一个小的奖励（比如一块饼干），还是如果他们等待15分钟，就可以得到两个。"
     },
     {
       "id": "line-151",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "They were given a choice between receiving a small reward, such as a cookie immediately, or if they waited 15 minutes, they could have two.",
+      "text": "Follow up studies have found that those who chose to delay satisfaction are now more academically successful, have greater selfworth, and even tend to be healthier.",
       "type": "narration",
-      "words": 25,
+      "words": 26,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "后续的研究发现，那些选择延迟满足的孩子现在在学业上更成功，有更强的自我价值感，甚至往往更健康。"
     },
     {
       "id": "line-152",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Follow-up studies have found that those who chose to delay satisfaction are now more academically successful, have greater self-worth, and even tend to be healthier.",
+      "text": "If they fail, children should be encouraged to keep trying rather than to give up if they really want the desired result.",
       "type": "narration",
-      "words": 27,
+      "words": 22,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "如果他们失败了，应该鼓励孩子们继续尝试，而不是在真正想要得到预期结果时选择放弃。"
     },
     {
       "id": "line-153",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "If they fail, children should be encouraged to keep trying, rather than to give up, if they really want the desired result.",
-      "type": "narration",
-      "words": 22,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-154",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "This teaches them how to handle and recover from disappointment, which is associated with greater success and satisfaction academically, financially, and in personal relationships.",
+      "text": "This teaches them how to handle and recover from disappointment, which is associated with greater success and satisfaction academically, financially and in personal relationships.",
       "type": "narration",
       "words": 24,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "这能教会他们如何面对和从失望中恢复，而这种能力与在学业、财务 and 人际关系上获得更大的成功和满足感息息相关。"
     },
     {
-      "id": "line-155",
+      "id": "line-154",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1761,32 +1904,35 @@
       "type": "narration",
       "words": 21,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "最后，父母应该鼓励孩子们不仅从自己的角度，还要从他人的角度来看待生活。"
+    },
+    {
+      "id": "line-155",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "This teaches them to be understanding of and sympathetic towards others—qualities sure to take them a long way in life.",
+      "type": "narration",
+      "words": 21,
+      "start": 0,
+      "end": 0,
+      "translation": "这能教会他们去理解和同情他人——这些品质无疑会让他们的未来走得更远。"
     },
     {
       "id": "line-156",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "This teaches them to be understanding of and sympathetic towards others, qualities that will take them a long way in life.",
-      "type": "narration",
-      "words": 21,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-157",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
       "speaker": "Q19.",
-      "text": "What will happen to children if they always get immediate satisfaction?",
+      "text": "what will happen to children if they always get immediate satisfaction?",
       "type": "question",
       "words": 11,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "如果孩子们总是得到即时满足，他们会发生什么？"
     },
     {
-      "id": "line-158",
+      "id": "line-157",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "Q20.",
@@ -1794,10 +1940,11 @@
       "type": "question",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "是什么可能会阻碍父母培养出自信且有能力的孩子？"
     },
     {
-      "id": "line-159",
+      "id": "line-158",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "Q21.",
@@ -1805,32 +1952,35 @@
       "type": "question",
       "words": 11,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "为什么应该鼓励孩子们在失败时继续尝试？"
+    },
+    {
+      "id": "line-159",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "It is not hard to mess up an interview.",
+      "type": "narration",
+      "words": 9,
+      "start": 0,
+      "end": 0,
+      "translation": "把面试搞砸并不难。"
     },
     {
       "id": "line-160",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "It's not hard to mess up an interview.",
-      "type": "narration",
-      "words": 8,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-161",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Most people feel nervous sitting across from a hiring manager, answering questions that effectively open themselves up for judgement.",
+      "text": "Most people feel nervous sitting across from a hiring manager, answering questions that effectively open themselves up for judgment.",
       "type": "narration",
       "words": 19,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "大多数人坐在招聘经理对面时都会感到紧张，因为回答那些问题实际上是在让自己接受评判。"
     },
     {
-      "id": "line-162",
+      "id": "line-161",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1838,10 +1988,11 @@
       "type": "narration",
       "words": 25,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "而只要在错误的时间说了错误的话，你被认真考虑录用的机会就会迅速下滑。"
     },
     {
-      "id": "line-163",
+      "id": "line-162",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1849,10 +2000,11 @@
       "type": "narration",
       "words": 9,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "最明显不要做的事情就是抱怨。"
     },
     {
-      "id": "line-164",
+      "id": "line-163",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1860,10 +2012,11 @@
       "type": "narration",
       "words": 6,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "雇主们想雇佣积极乐观的人。"
     },
     {
-      "id": "line-165",
+      "id": "line-164",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1871,21 +2024,23 @@
       "type": "narration",
       "words": 28,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "消极地谈论前一份工作会引发担忧，即你可能很难管理，或者你可能是一个将自己糟糕的表现归咎于管理层的人。"
     },
     {
-      "id": "line-166",
+      "id": "line-165",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "Don't say that you've moved around in jobs because you haven't found the right fit or feel that you were not challenged enough.",
+      "text": "Don’t say that you’ve moved around in jobs because you haven’t found the right fit or feel that you were not challenged enough.",
       "type": "narration",
-      "words": 23,
+      "words": 26,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "不要说你频繁换工作是因为你没有找到合适的位置，或者觉得工作不够有挑战性。"
     },
     {
-      "id": "line-167",
+      "id": "line-166",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1893,21 +2048,23 @@
       "type": "narration",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "这样的说法会让你听起来漫无目的、迷失方向。"
     },
     {
-      "id": "line-168",
+      "id": "line-167",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "And an interviewer may well think why would this role be any different for you?",
+      "text": "An interviewer may well think, why would this role be any different for you?",
       "type": "narration",
-      "words": 15,
+      "words": 14,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "面试官很可能会想，这个职位对你来说会有什么不同呢？"
     },
     {
-      "id": "line-169",
+      "id": "line-168",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1915,65 +2072,71 @@
       "type": "narration",
       "words": 8,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "你可能在六个月后就会离开这里。"
+    },
+    {
+      "id": "line-169",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "It also bags the question of what type of relationship you had with your manager.",
+      "type": "narration",
+      "words": 15,
+      "start": 0,
+      "end": 0,
+      "translation": "这也引发了一个问题：你和你的经理之间是什么关系？"
     },
     {
       "id": "line-170",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "It also begs the question of what type of relationship you had with your manager.",
+      "text": "It doesn’t sound like you had open communication with him or her.",
       "type": "narration",
-      "words": 15,
+      "words": 13,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "听起来你和他（她）之间并没有进行公开坦诚的沟通。"
     },
     {
       "id": "line-171",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "It doesn't sound like you had open communication with him or her.",
+      "text": "Managers usually love people who can self-sustain and enable growth through taking initiative, who are strong at following through their work, and who bring ideas and solutions to the table.",
       "type": "narration",
-      "words": 12,
+      "words": 31,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "经理们通常喜欢那些能够自我维持并通过主动进取来促进发展的人，他们擅长坚持完成自己的工作，并能提出想法和解决方案。"
     },
     {
       "id": "line-172",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "Managers usually love people who can self-sustain and enable growth through taking initiative, who are strong at following through their work and who bring ideas and solutions to the table.",
+      "text": "If you were in a management or leadership position, when discussing your current role, never take all the credit for accomplishments or achievements.",
       "type": "narration",
-      "words": 31,
+      "words": 23,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "如果你曾处于管理或领导岗位，在讨论你目前的角色时，千万不要把所有的功劳或成就都揽在自己身上。"
     },
     {
       "id": "line-173",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "If you were in a management or leadership position when discussing your current role, never take all the credit for accomplishments or achievements.",
-      "type": "narration",
-      "words": 23,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-174",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Emphasize your team and how through their talents your vision was realized.",
+      "text": "Emphasize your team and how through their talents, your vision was realized.",
       "type": "narration",
       "words": 12,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "多强调你的团队，以及你的愿景是如何通过他们的才华得以实现的。"
     },
     {
-      "id": "line-175",
+      "id": "line-174",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1981,10 +2144,11 @@
       "type": "narration",
       "words": 13,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "大多数成功的领导者都知道，他们自身的优秀取决于团队的优秀。"
     },
     {
-      "id": "line-176",
+      "id": "line-175",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -1992,32 +2156,23 @@
       "type": "narration",
       "words": 27,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "在面试中承认这一点，对于表明你可能是你所申请职位的合适人选大有帮助。"
+    },
+    {
+      "id": "line-176",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Lastly, have a good idea of what your role will be and try and convey the idea that you’re flexible.",
+      "type": "narration",
+      "words": 21,
+      "start": 0,
+      "end": 0,
+      "translation": "最后，清楚地了解自己的角色应该是什么，并试着传达出你具有灵活性这一理念。"
     },
     {
       "id": "line-177",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Lastly, have a good idea of what your role is.",
-      "type": "narration",
-      "words": 10,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-178",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "And try and convey the idea that you're flexible.",
-      "type": "narration",
-      "words": 9,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-179",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -2025,10 +2180,11 @@
       "type": "narration",
       "words": 18,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "询问你的具体职责是什么，暗示着你会将自己纯粹限制在对你的期望范围内。"
     },
     {
-      "id": "line-180",
+      "id": "line-178",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -2036,10 +2192,11 @@
       "type": "narration",
       "words": 10,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "而在现实中，你的角色完全取决于你自己的作为。"
     },
     {
-      "id": "line-181",
+      "id": "line-179",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -2047,21 +2204,23 @@
       "type": "narration",
       "words": 20,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "在小公司尤其如此，在这些公司中，适应和承担新职责的能力备受重视。"
     },
     {
-      "id": "line-182",
+      "id": "line-180",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "And this is equally important if you're just starting out.",
+      "text": "And this is equally important if you’re just starting out.",
       "type": "narration",
-      "words": 10,
+      "words": 11,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "如果你是职场新人，这一点同样重要。"
     },
     {
-      "id": "line-183",
+      "id": "line-181",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -2069,21 +2228,23 @@
       "type": "narration",
       "words": 16,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "初级面试者最好能在大多数面试中展示出广泛的技能组合。"
     },
     {
-      "id": "line-184",
+      "id": "line-182",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "It's important to have a wide skillset, as many startups and small companies are moving really fast.",
+      "text": "It’s important to have a wide skill set as many startups and small companies are moving really fast.",
       "type": "narration",
-      "words": 17,
+      "words": 19,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "具备广泛的技能组合非常重要，因为许多初创公司和小公司的发展速度都非常快。"
     },
     {
-      "id": "line-185",
+      "id": "line-183",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
@@ -2091,10 +2252,11 @@
       "type": "narration",
       "words": 18,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "雇主们正在寻找聪明、能够迅速适应并在成长型公司中脱颖而出的求职者。"
     },
     {
-      "id": "line-186",
+      "id": "line-184",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "Q22.",
@@ -2102,40 +2264,44 @@
       "type": "question",
       "words": 14,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "发言者说，什么事情会很容易阻止面试者获得工作？"
+    },
+    {
+      "id": "line-185",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q23.",
+      "text": "What should the interviewee avoid doing in an interview?",
+      "type": "question",
+      "words": 9,
+      "start": 0,
+      "end": 0,
+      "translation": "面试者在面试中应该避免做什么？"
+    },
+    {
+      "id": "line-186",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q24.",
+      "text": "What kind of employees do companies like to recruit?",
+      "type": "question",
+      "words": 9,
+      "start": 0,
+      "end": 0,
+      "translation": "公司喜欢招聘什么样的员工？"
     },
     {
       "id": "line-187",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q23.",
-      "text": "What should interviewees avoid saying about previous jobs?",
-      "type": "question",
-      "words": 8,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-188",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "Q24.",
-      "text": "What kind of employees do managers usually like?",
-      "type": "question",
-      "words": 8,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-189",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
       "speaker": "Q25.",
-      "text": "What is important for entry level interviewees to demonstrate?",
+      "text": "What is especially important for those working in a small company?",
       "type": "question",
-      "words": 9,
+      "words": 11,
       "start": 0,
-      "end": 0
+      "end": 0,
+      "translation": "对于在小公司工作的人来说，什么特别重要？"
     }
   ]
 }
