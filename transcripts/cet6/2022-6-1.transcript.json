@@ -4,11 +4,11 @@
   "source": {
     "markdown": {
       "name": "2022-6-1.md",
-      "size": 14003,
-      "mtimeNs": 1778848762201494600
+      "size": 15231,
+      "mtimeNs": 1779424439973800900
     }
   },
-  "generatedAt": 1778848984,
+  "generatedAt": 1779424455,
   "sections": [
     {
       "id": "conversation-1",
@@ -23,7 +23,7 @@
     {
       "id": "passage-1",
       "title": "PASSAGE 1",
-      "firstLineId": "line-58"
+      "firstLineId": "line-60"
     },
     {
       "id": "passage-2",
@@ -38,12 +38,12 @@
     {
       "id": "recording-2",
       "title": "RECORDING 2",
-      "firstLineId": "line-130"
+      "firstLineId": "line-131"
     },
     {
       "id": "recording-3",
       "title": "RECORDING 3",
-      "firstLineId": "line-150"
+      "firstLineId": "line-157"
     }
   ],
   "lines": [
@@ -52,7 +52,7 @@
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "Mr. David Jackson, a staff writer at The New Yorker, is known for his non-fiction books of adventure.",
+      "text": "Mr. David Jackson, a staff writer at the New Yorker, is known for his non-fiction books of adventure.",
       "type": "dialogue",
       "words": 19,
       "start": 0,
@@ -74,7 +74,7 @@
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "David, as a parent of an 11- and a 14-year-old, what is the most interesting issue you are dealing with right now?",
+      "text": "David, as a parent of an 11-and a 14-year-old, what is the most interesting issue you are dealing with right now?",
       "type": "dialogue",
       "words": 24,
       "start": 0,
@@ -85,7 +85,7 @@
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
-      "text": "It's easy to focus on the challenges, but so far, I find these ages to be kind of wonderful.",
+      "text": "It's easy to focus on the challenges, but so far,I find these ages to be kind of wonderful.",
       "type": "dialogue",
       "words": 19,
       "start": 0,
@@ -349,7 +349,7 @@
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "In this episode of Money Talks, our guest is Molly Sanders, a university student and a successful young entrepreneur.",
+      "text": "In this episode of Money Talks, our guest is Molly Sanders,a university student and a successful young entrepreneur.",
       "type": "dialogue",
       "words": 19,
       "start": 0,
@@ -514,14 +514,25 @@
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "As you can see, I'm very tall and I couldn't find clothes that fit me in ordinary shops, so I kept trying and developed my skills over time.",
+      "text": "As you can see, I'm very tall and I couldn't find clothes that fit me in ordinary shops.",
       "type": "dialogue",
-      "words": 28,
+      "words": 18,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-43",
+      "sectionId": "conversation-2",
+      "sectionTitle": "CONVERSATION 2",
+      "speaker": "W:",
+      "text": "So I kept trying and developed my skills over time.",
+      "type": "dialogue",
+      "words": 10,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-44",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -532,7 +543,7 @@
       "end": 0
     },
     {
-      "id": "line-44",
+      "id": "line-45",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -543,7 +554,7 @@
       "end": 0
     },
     {
-      "id": "line-45",
+      "id": "line-46",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -554,7 +565,7 @@
       "end": 0
     },
     {
-      "id": "line-46",
+      "id": "line-47",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -565,7 +576,7 @@
       "end": 0
     },
     {
-      "id": "line-47",
+      "id": "line-48",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -576,7 +587,7 @@
       "end": 0
     },
     {
-      "id": "line-48",
+      "id": "line-49",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -587,7 +598,7 @@
       "end": 0
     },
     {
-      "id": "line-49",
+      "id": "line-50",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -598,7 +609,7 @@
       "end": 0
     },
     {
-      "id": "line-50",
+      "id": "line-51",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -609,7 +620,7 @@
       "end": 0
     },
     {
-      "id": "line-51",
+      "id": "line-52",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -620,18 +631,29 @@
       "end": 0
     },
     {
-      "id": "line-52",
+      "id": "line-53",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "No, I'll keep things online to keep costs down, but I will add more clothes for children, both girls and boys, and possibly even for infants.",
+      "text": "No. I'll keep things online to keep costs down.",
       "type": "dialogue",
-      "words": 26,
+      "words": 9,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-53",
+      "id": "line-54",
+      "sectionId": "conversation-2",
+      "sectionTitle": "CONVERSATION 2",
+      "speaker": "W:",
+      "text": "But I will add more clothes for children, both girls and boys, and possibly even for infants.",
+      "type": "dialogue",
+      "words": 17,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-55",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -642,7 +664,7 @@
       "end": 0
     },
     {
-      "id": "line-54",
+      "id": "line-56",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q5.",
@@ -653,7 +675,7 @@
       "end": 0
     },
     {
-      "id": "line-55",
+      "id": "line-57",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q6.",
@@ -664,7 +686,7 @@
       "end": 0
     },
     {
-      "id": "line-56",
+      "id": "line-58",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q7.",
@@ -675,7 +697,7 @@
       "end": 0
     },
     {
-      "id": "line-57",
+      "id": "line-59",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q8.",
@@ -686,7 +708,7 @@
       "end": 0
     },
     {
-      "id": "line-58",
+      "id": "line-60",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -697,7 +719,7 @@
       "end": 0
     },
     {
-      "id": "line-59",
+      "id": "line-61",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -708,18 +730,18 @@
       "end": 0
     },
     {
-      "id": "line-60",
+      "id": "line-62",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "According to a study published in the journal Cell, the compounds successfully removed deadly strains of bacteria in mice which are resistant to all known antibiotics.",
+      "text": "According to a study published in the journal Cell, the compound successfully removed deadly strains of bacteria in mice which are resistant to all known antibiotics.",
       "type": "narration",
       "words": 26,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-61",
+      "id": "line-63",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -730,7 +752,7 @@
       "end": 0
     },
     {
-      "id": "line-62",
+      "id": "line-64",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -741,7 +763,7 @@
       "end": 0
     },
     {
-      "id": "line-63",
+      "id": "line-65",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -752,29 +774,29 @@
       "end": 0
     },
     {
-      "id": "line-64",
+      "id": "line-66",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "This happens when bacteria developed the ability to survive the medications designed to kill them.",
+      "text": "This happens when bacteria develop the ability to survive the medications designed to kill them.",
       "type": "narration",
       "words": 15,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-65",
+      "id": "line-67",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "Antibiotic resistance is a serious threat to health, and the problem is growing.",
+      "text": "Antibiotic resistance is a serious threat to health and the problem is growing.",
       "type": "narration",
       "words": 13,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-66",
+      "id": "line-68",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -785,35 +807,13 @@
       "end": 0
     },
     {
-      "id": "line-67",
-      "sectionId": "passage-1",
-      "sectionTitle": "PASSAGE 1",
-      "speaker": "",
-      "text": "However, in recent decades, very few have been developed.",
-      "type": "narration",
-      "words": 9,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-68",
-      "sectionId": "passage-1",
-      "sectionTitle": "PASSAGE 1",
-      "speaker": "",
-      "text": "And those that have tend to be very similar to drugs already available.",
-      "type": "narration",
-      "words": 13,
-      "start": 0,
-      "end": 0
-    },
-    {
       "id": "line-69",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "These searches also tend to only focus on a narrow spectrum of chemical compounds.",
+      "text": "However, in recent decades, very few have been developed, and those that have tend to be very similar to drugs already available.",
       "type": "narration",
-      "words": 14,
+      "words": 22,
       "start": 0,
       "end": 0
     },
@@ -822,9 +822,9 @@
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "But this is where artificial intelligence comes in.",
+      "text": "The searches also tend to only focus on a narrow spectrum of chemical compounds, but this is where artificial intelligence comes in.",
       "type": "narration",
-      "words": 8,
+      "words": 22,
       "start": 0,
       "end": 0
     },
@@ -987,9 +987,9 @@
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "We may develop that theory from observations of those people we know well and see regularly.",
+      "text": "We may develop that theory from observations of those people we know well and see regularly, but we tend to generalize what we gather from that unscientific daily research and make it a universal theory.",
       "type": "narration",
-      "words": 16,
+      "words": 35,
       "start": 0,
       "end": 0
     },
@@ -998,9 +998,9 @@
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "But we tend to generalize what we gather from that unscientific daily research and make it a universal theory.",
+      "text": "So we might imagine that liars have evasive eyes, or the opposite—they simply stare at you.",
       "type": "narration",
-      "words": 19,
+      "words": 17,
       "start": 0,
       "end": 0
     },
@@ -1009,9 +1009,9 @@
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "So we might imagine that liars have evasive eyes or the opposite, they simply stare at you, or perhaps it is more generally nervous behavior we associate with lies.",
+      "text": "Or perhaps it is more generally nervous behavior we associate with lies.",
       "type": "narration",
-      "words": 29,
+      "words": 12,
       "start": 0,
       "end": 0
     },
@@ -1064,7 +1064,7 @@
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "But there's a problem with our theories, even though they're based on all this observation.",
+      "text": "But there's a problem with our theories, even though they're based on all these observations.",
       "type": "narration",
       "words": 15,
       "start": 0,
@@ -1075,7 +1075,7 @@
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "The average person, you and me, tested rigorously on how well we detect lies fails to do better than chance.",
+      "text": "The average person you and me tested rigorously on how well we detect lies fails to do better than chance.",
       "type": "narration",
       "words": 20,
       "start": 0,
@@ -1196,7 +1196,7 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Appear to be submissive, humble, grateful, and undemanding, show great pleasure when a doctor comes into your room, even if the visit is brief and useless.",
+      "text": "Appear to be submissive, humble, grateful and undemanding; show great pleasure when a doctor comes into your room, even if the visit is brief and useless.",
       "type": "narration",
       "words": 26,
       "start": 0,
@@ -1207,9 +1207,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Don't challenge anyone with authority unless you're famous or very rich.",
+      "text": "Don't challenge anyone with authority unless you are famous or very rich.",
       "type": "narration",
-      "words": 11,
+      "words": 12,
       "start": 0,
       "end": 0
     },
@@ -1273,7 +1273,7 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "My surgeon who is in his mid-30s looks tired.",
+      "text": "My surgeon, who is in his mid-thirties, looks tired.",
       "type": "narration",
       "words": 10,
       "start": 0,
@@ -1306,7 +1306,7 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "\"The health insurance company, Blue Cross, wants me to put you out in the snow tomorrow afternoon,\" he tells me after I have been in the hospital for more than a week.",
+      "text": "\"The health insurance company Blue Cross wants me to put you out in the snow tomorrow afternoon,\" he tells me after I have been in the hospital for more than a week.",
       "type": "narration",
       "words": 32,
       "start": 0,
@@ -1328,9 +1328,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "I can not walk or even lift my leg a few inches.",
+      "text": "I cannot walk or even lift my leg a few inches.",
       "type": "narration",
-      "words": 12,
+      "words": 11,
       "start": 0,
       "end": 0
     },
@@ -1339,9 +1339,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "The hospital social worker strikes me as an idiot, but my complaints about her only annoy my surgeon.",
+      "text": "The hospital social worker strikes me as an idiot.",
       "type": "narration",
-      "words": 18,
+      "words": 9,
       "start": 0,
       "end": 0
     },
@@ -1350,14 +1350,25 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "\"I have to work with these people,\" he tells my friend, Dr. Karen Brudney, when she mercifully intervenes on my behalf and arranges for me to be transferred to another hospital.",
+      "text": "But my complaints about her only annoy my surgeon.",
+      "type": "narration",
+      "words": 9,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-119",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "\"I have to work with these people,\" he tells my friend, Dr. Karen Brudlney, when she mercifully intervenes on my behalf and arranges for me to be transferred to another hospital.",
       "type": "narration",
       "words": 31,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-119",
+      "id": "line-120",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1368,7 +1379,7 @@
       "end": 0
     },
     {
-      "id": "line-120",
+      "id": "line-121",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1379,18 +1390,18 @@
       "end": 0
     },
     {
-      "id": "line-121",
+      "id": "line-122",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Always bring in an advocate, that is, any other person with you to the hospital, and write down every single question and the answer, the name of every doctor and nurse.",
+      "text": "Always bring an advocate, that is, any other person with you to the hospital, and write down every single question and the answer, the name of every doctor and nurse.",
       "type": "narration",
-      "words": 31,
+      "words": 30,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-122",
+      "id": "line-123",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1401,7 +1412,7 @@
       "end": 0
     },
     {
-      "id": "line-123",
+      "id": "line-124",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1412,7 +1423,7 @@
       "end": 0
     },
     {
-      "id": "line-124",
+      "id": "line-125",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1423,7 +1434,7 @@
       "end": 0
     },
     {
-      "id": "line-125",
+      "id": "line-126",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1434,7 +1445,7 @@
       "end": 0
     },
     {
-      "id": "line-126",
+      "id": "line-127",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
@@ -1445,7 +1456,7 @@
       "end": 0
     },
     {
-      "id": "line-127",
+      "id": "line-128",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "Q16.",
@@ -1456,7 +1467,7 @@
       "end": 0
     },
     {
-      "id": "line-128",
+      "id": "line-129",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "Q17.",
@@ -1467,24 +1478,13 @@
       "end": 0
     },
     {
-      "id": "line-129",
+      "id": "line-130",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "Q18.",
-      "text": "What do American doctors expect their patients to be according to Karen Brudney?",
+      "text": "What do American doctors expect their patients to be, according to Karen Brudney?",
       "type": "question",
       "words": 13,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-130",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "There are probably teams you've worked with that you never want to work with again.",
-      "type": "narration",
-      "words": 15,
       "start": 0,
       "end": 0
     },
@@ -1493,7 +1493,7 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "But there must have also been other teams that you would prize reuniting with professionally.",
+      "text": "There are probably teams you've worked with but you never want to work with again.",
       "type": "narration",
       "words": 15,
       "start": 0,
@@ -1504,6 +1504,17 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
+      "text": "But there must have also been other teams that you would prize reuniting with professionally.",
+      "type": "narration",
+      "words": 15,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-133",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
       "text": "In other words, your team had vitality.",
       "type": "narration",
       "words": 7,
@@ -1511,7 +1522,7 @@
       "end": 0
     },
     {
-      "id": "line-133",
+      "id": "line-134",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1522,7 +1533,7 @@
       "end": 0
     },
     {
-      "id": "line-134",
+      "id": "line-135",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1533,24 +1544,13 @@
       "end": 0
     },
     {
-      "id": "line-135",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "This question has been answered recently in a study published in a business journal.",
-      "type": "narration",
-      "words": 14,
-      "start": 0,
-      "end": 0
-    },
-    {
       "id": "line-136",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "One of the two key factors the research team discovered is sameness, specifically sharing the same gender or ethnic origin.",
+      "text": "This question has been answered recently in a study publisbed in a business journal.",
       "type": "narration",
-      "words": 20,
+      "words": 14,
       "start": 0,
       "end": 0
     },
@@ -1559,14 +1559,36 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "The more members of a team share similar demographics, the more inclined they'll be to remain associates long after the team has served its purpose.",
+      "text": "One of the two key factors the research team discovered is sameness.",
       "type": "narration",
-      "words": 25,
+      "words": 12,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-138",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Specifically, sharing the same gender or ethnic origin.",
+      "type": "narration",
+      "words": 8,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-139",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "The more members of a team share similar demographics, the more inclined they will be to remain associates long after the team has served its purpose.",
+      "type": "narration",
+      "words": 26,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-140",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1577,7 +1599,7 @@
       "end": 0
     },
     {
-      "id": "line-139",
+      "id": "line-141",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
@@ -1588,35 +1610,13 @@
       "end": 0
     },
     {
-      "id": "line-140",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "In effect, the more people in a team have in common, the stronger their loyalty to each other and the team will be.",
-      "type": "narration",
-      "words": 23,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-141",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "The second factor is that the experience must be memorable.",
-      "type": "narration",
-      "words": 10,
-      "start": 0,
-      "end": 0
-    },
-    {
       "id": "line-142",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Teams that have been through intense experiences together, such as working on a difficult project or dealing with a crisis, are more likely to stay in touch.",
+      "text": "In effect, people tend to create stronger and longer-lasting connections with similar others.",
       "type": "narration",
-      "words": 27,
+      "words": 14,
       "start": 0,
       "end": 0
     },
@@ -1625,9 +1625,9 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "These shared experiences create a bond that is hard to break.",
+      "text": "Someone who looks and sounds different from us may have the resources we need to be more successful.",
       "type": "narration",
-      "words": 11,
+      "words": 18,
       "start": 0,
       "end": 0
     },
@@ -1636,9 +1636,9 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "The study also found that the size of the team matters.",
+      "text": "Yet, we find then to be significantly less credible simply because they are different.",
       "type": "narration",
-      "words": 11,
+      "words": 14,
       "start": 0,
       "end": 0
     },
@@ -1647,9 +1647,9 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Smaller teams are more likely to have strong ties than larger teams.",
+      "text": "If you are a fierce advocate of workplace diversity, you'll no doubt be horrified by such a revelation.",
       "type": "narration",
-      "words": 12,
+      "words": 18,
       "start": 0,
       "end": 0
     },
@@ -1658,9 +1658,9 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "This is because in smaller teams, people have more opportunities to interact with each other on a personal level.",
+      "text": "The second factor identified by the researchers is the quality of the relationships among the team members.",
       "type": "narration",
-      "words": 19,
+      "words": 17,
       "start": 0,
       "end": 0
     },
@@ -1668,10 +1668,10 @@
       "id": "line-147",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
-      "speaker": "Q19.",
-      "text": "What does the speaker say about team vitality?",
-      "type": "question",
-      "words": 8,
+      "speaker": "",
+      "text": "The more they trust one another, share the same goals and depend on each other for the achievement of those goals, the stronger their chances of maintaining their connections, despite no longer working as one team.",
+      "type": "narration",
+      "words": 36,
       "start": 0,
       "end": 0
     },
@@ -1679,10 +1679,10 @@
       "id": "line-148",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
-      "speaker": "Q20.",
-      "text": "What is one of the key factors that make team members stay in contact?",
-      "type": "question",
-      "words": 14,
+      "speaker": "",
+      "text": "Teams with quality relationships have a shared belief that it's safe to take risks with each ether, and their members are obliged to share the workload and help out.",
+      "type": "narration",
+      "words": 29,
       "start": 0,
       "end": 0
     },
@@ -1690,87 +1690,87 @@
       "id": "line-149",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
-      "speaker": "Q21.",
-      "text": "Why are smaller teams more likely to have strong ties?",
+      "speaker": "",
+      "text": "From personal experience, I can see both the truth and the inconsistency of such studies.",
+      "type": "narration",
+      "words": 15,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-150",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "The truth is some of my closest friendships were formed as a result of having worked together on teams, and I actively seek opportunities to work with them again.",
+      "type": "narration",
+      "words": 29,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-151",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "The inconsistency, though, is that I've never worked for a team more successful and cohesive than the one of which I am a member right now.",
+      "type": "narration",
+      "words": 26,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-152",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "And yet, the four of us have very little in common and are completely different demographically.",
+      "type": "narration",
+      "words": 16,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-153",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "So I am unlikely to question the value of a diverse workforce.",
+      "type": "narration",
+      "words": 12,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-154",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "Q19.",
+      "text": "What does the speaker say about a team with vitality?",
       "type": "question",
       "words": 10,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-150",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Skin may seem like a superficial human attribute, but it is the first thing we notice about anyone we meet.",
-      "type": "narration",
-      "words": 20,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-151",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "As a zoologist focusing on the studies of apes and monkeys, I've been studying why humans evolved to become the naked ape, and why skin comes in so many different shades around the world.",
-      "type": "narration",
-      "words": 34,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-152",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "We can make a very good estimate from the fossil record that humans probably evolved naked skin around a million and a half years ago.",
-      "type": "narration",
-      "words": 25,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-153",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "And meanwhile, they mostly lost their coat of fur.",
-      "type": "narration",
-      "words": 9,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-154",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Today, we have only a few patches of hair left on our bodies.",
-      "type": "narration",
-      "words": 13,
-      "start": 0,
-      "end": 0
-    },
-    {
       "id": "line-155",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Why did we lose our fur?",
-      "type": "narration",
-      "words": 6,
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "Q20.",
+      "text": "What do the researchers find out about members of a team?",
+      "type": "question",
+      "words": 11,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-156",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Well, one theory is that it helped us to stay cool when we started walking upright and moving long distances in the hot African sun.",
-      "type": "narration",
-      "words": 25,
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "Q21.",
+      "text": "What do we learn about the team the speaker is currently working in?",
+      "type": "question",
+      "words": 13,
       "start": 0,
       "end": 0
     },
@@ -1779,9 +1779,9 @@
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "Another theory is that it helped us to avoid parasites such as ticks and lice.",
+      "text": "An American researcher who studied 600 millionaires found how rich you can get comes down to six wealth factors.",
       "type": "narration",
-      "words": 15,
+      "words": 19,
       "start": 0,
       "end": 0
     },
@@ -1790,9 +1790,9 @@
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "But the most interesting theory is that it helped us to communicate with each other.",
+      "text": "She found that six behaviors are related to net worth potential, regardless of age or income.",
       "type": "narration",
-      "words": 15,
+      "words": 16,
       "start": 0,
       "end": 0
     },
@@ -1801,9 +1801,9 @@
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "Our skin is full of nerve endings that allow us to feel touch, pressure, and temperature.",
+      "text": "These were thriftiness, confidence, responsibility, planning, focus and social indifference.",
       "type": "narration",
-      "words": 16,
+      "words": 10,
       "start": 0,
       "end": 0
     },
@@ -1812,9 +1812,9 @@
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "By losing our fur, we were able to use touch as a form of communication, such as hugging, kissing, and holding hands.",
+      "text": "Being thrifty comes as no great surprise.",
       "type": "narration",
-      "words": 22,
+      "words": 7,
       "start": 0,
       "end": 0
     },
@@ -1823,9 +1823,9 @@
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "As for the different shades of skin color, that is due to the amount of melanin in the skin.",
+      "text": "Spending above your means, spending instead of saving for retirement,spending in anticipation of becoming wealthy,makes you a slave to the paycheck.",
       "type": "narration",
-      "words": 19,
+      "words": 23,
       "start": 0,
       "end": 0
     },
@@ -1834,9 +1834,9 @@
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "Melanin is a pigment that protects the skin from the harmful effects of the sun's ultraviolet rays.",
+      "text": "\"Even with an astronomical level of income,\" she wrote, \"to properly build wealth, experts recommend saving 20% of your income and living off the remaining 80%.\"",
       "type": "narration",
-      "words": 17,
+      "words": 26,
       "start": 0,
       "end": 0
     },
@@ -1845,9 +1845,9 @@
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "People who live near the equator have more melanin in their skin, which makes it darker.",
+      "text": "Having confidence is another key characteristic, as it helps people to be thrifty.",
       "type": "narration",
-      "words": 16,
+      "words": 13,
       "start": 0,
       "end": 0
     },
@@ -1856,9 +1856,9 @@
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "People who live farther from the equator have less melanin, which makes their skin lighter.",
+      "text": "It takes confidence to live within your means.",
       "type": "narration",
-      "words": 15,
+      "words": 8,
       "start": 0,
       "end": 0
     },
@@ -1867,9 +1867,9 @@
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "This is because in areas with less sunlight, the body needs to produce more vitamin D, which is made when the skin is exposed to sunlight.",
+      "text": "It also takes confidence to invest properly.",
       "type": "narration",
-      "words": 26,
+      "words": 7,
       "start": 0,
       "end": 0
     },
@@ -1878,9 +1878,9 @@
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "Having lighter skin allows more sunlight to penetrate the skin, which helps the body to produce more vitamin D.",
+      "text": "Instead of making investing decisions with your emotions, financial planners advise that you should leave your investrnents alone and focus on a long term investment plan.",
       "type": "narration",
-      "words": 19,
+      "words": 26,
       "start": 0,
       "end": 0
     },
@@ -1888,10 +1888,10 @@
       "id": "line-167",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q22.",
-      "text": "What is the speaker's area of research?",
-      "type": "question",
-      "words": 7,
+      "speaker": "",
+      "text": "But people can't invest or manage their own money without accepting responsibility for the outcomes.",
+      "type": "narration",
+      "words": 15,
       "start": 0,
       "end": 0
     },
@@ -1899,10 +1899,10 @@
       "id": "line-168",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q23.",
-      "text": "When did humans probably evolve naked skin according to the fossil record?",
-      "type": "question",
-      "words": 12,
+      "speaker": "",
+      "text": "Many millionaires take on personal responsibility, and most also happen to be self-made, meaning they didn't acquire their wealth through luck.",
+      "type": "narration",
+      "words": 22,
       "start": 0,
       "end": 0
     },
@@ -1910,10 +1910,10 @@
       "id": "line-169",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q24.",
-      "text": "What is one theory about why humans lost their fur?",
-      "type": "question",
-      "words": 10,
+      "speaker": "",
+      "text": "Millionaires don't count on anyone else to make them rich, and they don't blame anyone else if they fall short.",
+      "type": "narration",
+      "words": 20,
       "start": 0,
       "end": 0
     },
@@ -1921,10 +1921,120 @@
       "id": "line-170",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q25.",
-      "text": "Why do people who live farther from the equator have lighter skin?",
+      "speaker": "",
+      "text": "They focus on things they can control and align their daily habits to the goals they have set for themselves.",
+      "type": "narration",
+      "words": 20,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-171",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "They tend to be goal-oriented and hard workers, which enables them to plan financially and focus on seeing those plans through.",
+      "type": "narration",
+      "words": 22,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-172",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "92% of the milionaires surveyed developed a longterm plan for their money and 97% almost always achieved the goals they set for themselves.",
+      "type": "narration",
+      "words": 23,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-173",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "And it is these behaviors that make it easy for them to be socially indifferent.",
+      "type": "narration",
+      "words": 15,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-174",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "They resist lifestyle creep, the tendency to spend more whenever one earns more.",
+      "type": "narration",
+      "words": 13,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-175",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Essentially, they don't yield to pressure to buy the latest thing or to keep up with others or what they have acquired.",
+      "type": "narration",
+      "words": 22,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-176",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Instead of being focused on what might make them happy today, they're focused on their long-term wealth-building plan.",
+      "type": "narration",
+      "words": 20,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-177",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q22.",
+      "text": "What do experts recommend concerning being thrifty?",
       "type": "question",
-      "words": 12,
+      "words": 7,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-178",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q23.",
+      "text": "How does confidence help people to be thrifty?",
+      "type": "question",
+      "words": 8,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-179",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q24.",
+      "text": "How do millionaires react when they fail in their investment?",
+      "type": "question",
+      "words": 10,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-180",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q25.",
+      "text": "Why does the speaker say millionaires are socially indifferent?",
+      "type": "question",
+      "words": 9,
       "start": 0,
       "end": 0
     }

@@ -6,8 +6,8 @@
   "source": {
     "markdown": {
       "name": "2022-6-1.md",
-      "size": 14003,
-      "mtimeNs": 1778848762201494600
+      "size": 15231,
+      "mtimeNs": 1779424439973800900
     },
     "audio": {
       "name": "2022-6-1.mp3",
@@ -15,8 +15,8 @@
       "mtimeNs": 1778848487967659700
     }
   },
-  "generatedAt": 1778849218,
-  "elapsedSeconds": 233.52,
+  "generatedAt": 1779424706,
+  "elapsedSeconds": 250.39,
   "mode": "faster-whisper",
   "model": "small.en",
   "device": "cpu",
@@ -44,7 +44,7 @@
     {
       "id": "passage-1",
       "title": "PASSAGE 1",
-      "firstLineId": "line-58"
+      "firstLineId": "line-60"
     },
     {
       "id": "passage-2",
@@ -59,12 +59,12 @@
     {
       "id": "recording-2",
       "title": "RECORDING 2",
-      "firstLineId": "line-130"
+      "firstLineId": "line-131"
     },
     {
       "id": "recording-3",
       "title": "RECORDING 3",
-      "firstLineId": "line-150"
+      "firstLineId": "line-157"
     }
   ],
   "lines": [
@@ -73,13 +73,13 @@
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "Mr. David Jackson, a staff writer at The New Yorker, is known for his non-fiction books of adventure.",
+      "text": "Mr. David Jackson, a staff writer at the New Yorker, is known for his non-fiction books of adventure.",
+      "translation": "《纽约客》的专职作家大卫·杰克逊先生以其冒险类纪实文学作品而闻名。",
       "type": "dialogue",
       "words": 19,
       "start": 56.6,
       "end": 66.42,
-      "matchedWords": 19,
-      "translation": "大卫·杰克逊先生是《纽约客》的专职撰稿人，以其冒险类非虚构类书籍而闻名。"
+      "matchedWords": 19
     },
     {
       "id": "line-1",
@@ -87,38 +87,38 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
       "text": "Today, we go on a different kind of adventure: Jackson's life of parenting his offspring.",
+      "translation": "今天，我们来谈谈一种不同的冒险：杰克逊养育后代的生活。",
       "type": "dialogue",
       "words": 15,
       "start": 66.42,
       "end": 73.7,
-      "matchedWords": 15,
-      "translation": "今天，我们要进行一次不同寻常的冒险：杰克逊养育后代的生活。"
+      "matchedWords": 15
     },
     {
       "id": "line-2",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "David, as a parent of an 11- and a 14-year-old, what is the most interesting issue you are dealing with right now?",
+      "text": "David, as a parent of an 11-and a 14-year-old, what is the most interesting issue you are dealing with right now?",
+      "translation": "大卫，作为一名11岁和14岁孩子的家长，你现在面临的最有趣的问题是什么？",
       "type": "dialogue",
       "words": 24,
       "start": 73.7,
       "end": 83.58,
-      "matchedWords": 24,
-      "translation": "大卫，作为一名11岁和14岁孩子的家长，你现在面临的最有趣的问题是什么？"
+      "matchedWords": 24
     },
     {
       "id": "line-3",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
-      "text": "It's easy to focus on the challenges, but so far, I find these ages to be kind of wonderful.",
+      "text": "It's easy to focus on the challenges, but so far,I find these ages to be kind of wonderful.",
+      "translation": "人们很容易把注意力集中在挑战上，但到目前为止，我觉得孩子们在这个年龄段其实挺美妙的。",
       "type": "dialogue",
       "words": 19,
       "start": 83.58,
       "end": 89.96,
-      "matchedWords": 19,
-      "translation": "关注挑战很容易，但到目前为止，我发现这些年龄段的孩子非常棒。"
+      "matchedWords": 19
     },
     {
       "id": "line-4",
@@ -126,12 +126,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
       "text": "They are independent, and they have their own curiosities and obsessions.",
+      "translation": "他们很独立，有自己的好奇心和痴迷的事物。",
       "type": "dialogue",
       "words": 11,
       "start": 89.96,
       "end": 95.74,
-      "matchedWords": 11,
-      "translation": "他们很独立，有自己的好奇心和痴迷的事物。"
+      "matchedWords": 11
     },
     {
       "id": "line-5",
@@ -139,12 +139,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
       "text": "You can talk to them about fairly sophisticated subject matter such as politics.",
+      "translation": "你可以和他们谈论相当复杂的题材，比如政治。",
       "type": "dialogue",
       "words": 13,
       "start": 95.74,
       "end": 100.78,
-      "matchedWords": 13,
-      "translation": "你可以和他们谈论相当复杂的话题，比如政治。"
+      "matchedWords": 13
     },
     {
       "id": "line-6",
@@ -152,12 +152,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
       "text": "Yes, that does sound refreshing compared with talking to younger children.",
+      "translation": "是的，与和更小的孩子聊天相比，这听起来确实让人耳目一新。",
       "type": "dialogue",
       "words": 11,
       "start": 100.78,
       "end": 107.06,
-      "matchedWords": 11,
-      "translation": "是的，与跟年幼的孩子交谈相比，这听起来确实令人耳目一新。"
+      "matchedWords": 11
     },
     {
       "id": "line-7",
@@ -165,12 +165,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
       "text": "Do they ask you to proofread their essays?",
+      "translation": "他们会让你帮他们修改文章吗？",
       "type": "dialogue",
       "words": 8,
       "start": 107.06,
       "end": 110.96,
-      "matchedWords": 8,
-      "translation": "他们会要求你校对他们的文章吗？"
+      "matchedWords": 8
     },
     {
       "id": "line-8",
@@ -178,12 +178,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
       "text": "Certainly, with writing they do.",
+      "translation": "当然，在写作方面他们会这么做。",
       "type": "dialogue",
       "words": 5,
       "start": 110.96,
       "end": 112.96,
-      "matchedWords": 5,
-      "translation": "当然，在写作方面他们会这么做。"
+      "matchedWords": 5
     },
     {
       "id": "line-9",
@@ -191,12 +191,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
       "text": "I really just try to be encouraging.",
+      "translation": "我其实只是努力给予鼓励。",
       "type": "dialogue",
       "words": 7,
       "start": 112.96,
       "end": 116.02,
-      "matchedWords": 7,
-      "translation": "我真的只是尽量给予鼓励。"
+      "matchedWords": 7
     },
     {
       "id": "line-10",
@@ -204,12 +204,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
       "text": "I think at this age, editorial guidance is less important than encouragement.",
+      "translation": "我认为在这个年龄段，文字上的指导不如鼓励重要。",
       "type": "dialogue",
       "words": 12,
       "start": 116.02,
       "end": 122.38,
-      "matchedWords": 12,
-      "translation": "我认为在这个年纪，鼓励比编辑指导更重要。"
+      "matchedWords": 12
     },
     {
       "id": "line-11",
@@ -217,12 +217,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
       "text": "Are there books that you think are important that your children read, and that all children read?",
+      "translation": "有没有哪些书，你认为对你的孩子以及所有孩子来说，阅读它们都是很重要的？",
       "type": "dialogue",
       "words": 17,
       "start": 122.38,
       "end": 128.98,
-      "matchedWords": 17,
-      "translation": "有没有你认为对你的孩子以及所有孩子都很重要的必读书籍？"
+      "matchedWords": 17
     },
     {
       "id": "line-12",
@@ -230,12 +230,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
       "text": "My general thought is to read widely and to incorporate a love for reading.",
+      "translation": "我的总体想法是广泛阅读，并融入对阅读的热爱。",
       "type": "dialogue",
       "words": 14,
       "start": 128.98,
       "end": 135.5,
-      "matchedWords": 14,
-      "translation": "我的总体想法是广泛阅读，并培养对阅读的热爱。"
+      "matchedWords": 14
     },
     {
       "id": "line-13",
@@ -243,12 +243,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
       "text": "Learning to love to read, I think, is the optimal thing, because it gives you a skill you can take anywhere.",
+      "translation": "我认为，学会热爱阅读是最理想的事情，因为这赋予了你一项可以带到任何地方的技能。",
       "type": "dialogue",
       "words": 21,
       "start": 135.5,
       "end": 142.8,
-      "matchedWords": 21,
-      "translation": "我认为，学会热爱阅读是最理想的事情，因为它赋予了你一项可以带到任何地方的技能。"
+      "matchedWords": 21
     },
     {
       "id": "line-14",
@@ -256,12 +256,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
       "text": "So you're not too concerned like some parents with the content they're reading?",
+      "translation": "所以你不像一些家长那样，太担心他们阅读的内容？",
       "type": "dialogue",
       "words": 13,
       "start": 142.8,
       "end": 148.72,
-      "matchedWords": 13,
-      "translation": "所以你不像有些家长那样太担心他们阅读的内容？"
+      "matchedWords": 13
     },
     {
       "id": "line-15",
@@ -269,12 +269,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
       "text": "I know I have some worries about that.",
+      "translation": "我知道在这方面我有些担心。",
       "type": "dialogue",
       "words": 8,
       "start": 148.72,
       "end": 151.8,
-      "matchedWords": 8,
-      "translation": "我知道我对那方面确实有些担心。"
+      "matchedWords": 8
     },
     {
       "id": "line-16",
@@ -282,12 +282,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
       "text": "Yeah, read what you like.",
+      "translation": "是的，读你喜欢的就好。",
       "type": "dialogue",
       "words": 5,
       "start": 151.8,
       "end": 153.58,
-      "matchedWords": 5,
-      "translation": "是的，读你喜欢的就行。"
+      "matchedWords": 5
     },
     {
       "id": "line-17",
@@ -295,12 +295,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
       "text": "If a child loves graphic novels or comic books, whatever it is, that is turning them on to read and turning on their imagination.",
+      "translation": "如果一个孩子喜欢绘本小说或漫画书，不管是什么，只要那能激发他们的阅读兴趣并启发他们的想象力就可以。",
       "type": "dialogue",
       "words": 24,
       "start": 153.58,
       "end": 163.84,
-      "matchedWords": 24,
-      "translation": "如果一个孩子喜欢图画小说或漫画书，不管是什么，只要能激发他们阅读的兴趣和想象力就好。"
+      "matchedWords": 24
     },
     {
       "id": "line-18",
@@ -308,12 +308,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
       "text": "I feel that children's tastes in books change as they reach adolescence.",
+      "translation": "我觉得随着孩子们步入青春期，他们对书籍的口味会发生变化。",
       "type": "dialogue",
       "words": 12,
       "start": 163.84,
       "end": 169.28,
-      "matchedWords": 12,
-      "translation": "我觉得孩子对书籍的口味在进入青春期后会发生变化。"
+      "matchedWords": 12
     },
     {
       "id": "line-19",
@@ -321,12 +321,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
       "text": "I know that mine certainly did when I was a teenager.",
+      "translation": "我知道我十几岁的时候肯定也是这样的。",
       "type": "dialogue",
       "words": 11,
       "start": 169.28,
       "end": 172.88,
-      "matchedWords": 11,
-      "translation": "我知道我十几岁时确实是这样的。"
+      "matchedWords": 11
     },
     {
       "id": "line-20",
@@ -334,12 +334,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
       "text": "What do you think?",
+      "translation": "你觉得呢？",
       "type": "dialogue",
       "words": 4,
       "start": 172.88,
       "end": 174.52,
-      "matchedWords": 4,
-      "translation": "你觉得呢？"
+      "matchedWords": 4
     },
     {
       "id": "line-21",
@@ -347,12 +347,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
       "text": "I think it's especially important as they get older to read subject matter that'll open their eyes to the world and people.",
+      "translation": "我认为，随着他们年龄的增长，阅读能让他们开阔眼界、了解世界和人类的题材显得尤为重要。",
       "type": "dialogue",
       "words": 22,
       "start": 174.52,
       "end": 182.36,
-      "matchedWords": 21,
-      "translation": "我认为，随着他们年龄的增长，阅读那些能开阔他们对世界和人类眼界的题材尤为重要。"
+      "matchedWords": 21
     },
     {
       "id": "line-22",
@@ -360,12 +360,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
       "text": "So I think both fiction and non-fiction are really important because they give you the power to begin to perceive the world through the lives of others.",
+      "translation": "所以我觉得小说 and 纪实文学都非常重要，因为它们能赋予你通过他人的生活来开始感知世界的力量。",
       "type": "dialogue",
       "words": 28,
       "start": 182.36,
       "end": 206.38,
-      "matchedWords": 26,
-      "translation": "所以我认为虚构和非虚构作品都非常重要，因为它们赋予了你通过他人的生活开始感知世界的能力。"
+      "matchedWords": 26
     },
     {
       "id": "line-23",
@@ -373,12 +373,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q1.",
       "text": "What do we learn about David Jackson from the conversation?",
+      "translation": "从对话中我们能了解到关于大卫·杰克逊的什么信息？",
       "type": "question",
       "words": 10,
       "start": 206.38,
       "end": 222.68,
-      "matchedWords": 0,
-      "translation": "关于大卫·杰克逊，我们从对话中了解到了什么？"
+      "matchedWords": 0
     },
     {
       "id": "line-24",
@@ -386,12 +386,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q2.",
       "text": "What does the man think of young teenagers?",
+      "translation": "这位男士如何看待青少年？",
       "type": "question",
       "words": 8,
       "start": 222.68,
       "end": 240.94,
-      "matchedWords": 8,
-      "translation": "这位男性如何看待十几岁的青少年？"
+      "matchedWords": 8
     },
     {
       "id": "line-25",
@@ -399,12 +399,12 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q3.",
       "text": "How does the man help his kids with their essays?",
+      "translation": "这位男士是如何帮助他的孩子们写文章的？",
       "type": "question",
       "words": 10,
       "start": 240.94,
       "end": 260.16,
-      "matchedWords": 10,
-      "translation": "这位男性如何帮助孩子们写文章？"
+      "matchedWords": 10
     },
     {
       "id": "line-26",
@@ -412,25 +412,25 @@
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q4.",
       "text": "What does the woman say about herself when she was a teenager?",
+      "translation": "这位女士说她自己十几岁时是什么样的？",
       "type": "question",
       "words": 12,
       "start": 260.16,
       "end": 280.08,
-      "matchedWords": 12,
-      "translation": "这位女性关于自己十几岁时说了什么？"
+      "matchedWords": 12
     },
     {
       "id": "line-27",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "In this episode of Money Talks, our guest is Molly Sanders, a university student and a successful young entrepreneur.",
+      "text": "In this episode of Money Talks, our guest is Molly Sanders,a university student and a successful young entrepreneur.",
+      "translation": "在本期《财富畅谈》节目中，我们的嘉宾是莫莉·桑德斯，她是一名大学生，也是一位成功的年轻创业者。",
       "type": "dialogue",
       "words": 19,
       "start": 280.08,
       "end": 290.88,
-      "matchedWords": 19,
-      "translation": "在本期《金钱谈》节目中，我们的嘉宾是莫莉·桑德斯，她是一名大学生，也是一位成功的年轻企业家。"
+      "matchedWords": 19
     },
     {
       "id": "line-28",
@@ -438,12 +438,12 @@
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
       "text": "Molly, tell us about your business.",
+      "translation": "莫莉，给我们讲讲你的业务吧。",
       "type": "dialogue",
       "words": 6,
       "start": 290.88,
       "end": 292.62,
-      "matchedWords": 6,
-      "translation": "莫莉，跟我们说说你的生意吧。"
+      "matchedWords": 6
     },
     {
       "id": "line-29",
@@ -451,12 +451,12 @@
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
       "text": "Well, I sell specialty clothes through a website, mainly for women who have trouble finding suitable clothes in main street shops because of their height or weight.",
+      "translation": "嗯，我通过一个网站销售特码服装，主要是针对那些因为身高或体重而在普通商业街商店里很难找到合适衣服的女性。",
       "type": "dialogue",
       "words": 27,
       "start": 292.62,
       "end": 305.9,
-      "matchedWords": 27,
-      "translation": "嗯，我通过一个网站销售特色服装，主要面向那些因为身高或体重很难在主流商店找到合适衣服的女性。"
+      "matchedWords": 27
     },
     {
       "id": "line-30",
@@ -464,12 +464,12 @@
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
       "text": "But I do some men's clothes too.",
+      "translation": "不过我也做一些男装。",
       "type": "dialogue",
       "words": 7,
       "start": 305.9,
-      "end": 309.0,
-      "matchedWords": 7,
-      "translation": "但我也做一些男装。"
+      "end": 309,
+      "matchedWords": 7
     },
     {
       "id": "line-31",
@@ -477,12 +477,12 @@
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
       "text": "How did you get started in this business at such a young age?",
+      "translation": "你是如何在这么年轻的时候开始做这项业务的？",
       "type": "dialogue",
       "words": 13,
-      "start": 309.0,
+      "start": 309,
       "end": 313.34,
-      "matchedWords": 13,
-      "translation": "你是如何在这么年轻的时候就开始创业的？你在学习服装设计吗？"
+      "matchedWords": 13
     },
     {
       "id": "line-32",
@@ -490,12 +490,12 @@
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
       "text": "Are you studying fashion design?",
+      "translation": "你学的是服装设计吗？",
       "type": "dialogue",
       "words": 5,
       "start": 313.34,
       "end": 315.92,
-      "matchedWords": 5,
-      "translation": "其实我的专业是财务，但我一直很喜欢衣服。我从14岁就开始自己做衣服了。"
+      "matchedWords": 5
     },
     {
       "id": "line-33",
@@ -503,12 +503,12 @@
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
       "text": "Actually, I'm majoring in finance, but I've always loved clothes.",
+      "translation": "事实上，我的主修专业是金融，但我一直很喜欢衣服。",
       "type": "dialogue",
       "words": 10,
       "start": 315.92,
       "end": 320.1,
-      "matchedWords": 10,
-      "translation": "你接受过设计或缝纫方面的任何培训吗？还是说这是一种天赋？"
+      "matchedWords": 10
     },
     {
       "id": "line-34",
@@ -516,12 +516,12 @@
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
       "text": "And I started making my own at 14.",
+      "translation": "而且我14岁时就绝开始做自己的衣服了。",
       "type": "dialogue",
       "words": 8,
       "start": 320.1,
       "end": 324.38,
-      "matchedWords": 7,
-      "translation": "这两个问题的答案都是否定的。没有人教我做衣服，我起初做的大多数东西简直是灾难。"
+      "matchedWords": 7
     },
     {
       "id": "line-35",
@@ -529,12 +529,12 @@
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
       "text": "Did you have any sort of training in design or sewing?",
+      "translation": "你接受过设计或缝纫方面的某种培训吗？",
       "type": "dialogue",
       "words": 11,
       "start": 324.38,
       "end": 328.22,
-      "matchedWords": 11,
-      "translation": "你为什么要坚持下去？我想大多数人在不断失败的情况下都会放弃，尤其是在那个年纪。"
+      "matchedWords": 11
     },
     {
       "id": "line-36",
@@ -542,12 +542,12 @@
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
       "text": "Or was it a natural ability?",
+      "translation": "还是这是一种天赋？",
       "type": "dialogue",
       "words": 6,
       "start": 328.22,
       "end": 331.4,
-      "matchedWords": 6,
-      "translation": "我坚持下去是出于必要。正如你所看到的，我非常高，在普通商店里找不到适合我的衣服，所以我一直尝试，并随着时间的推移提高了我的技能。"
+      "matchedWords": 6
     },
     {
       "id": "line-37",
@@ -555,12 +555,12 @@
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
       "text": "I'd have to say no to both.",
+      "translation": "这两个我都得说不。",
       "type": "dialogue",
       "words": 7,
       "start": 331.4,
       "end": 333.98,
-      "matchedWords": 7,
-      "translation": "嗯，我的记录显示你去年赚了5万美元的利润，对于一个20岁的学生来说，这是一个非凡的数字。这是怎么发生的？你是因为看到了市场空白并决定填补它吗？"
+      "matchedWords": 7
     },
     {
       "id": "line-38",
@@ -568,12 +568,12 @@
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
       "text": "No one taught me to make clothes and most of the things I made at first were disasters.",
+      "translation": "没有人教我做衣服，刚开始我做的绝大多数东西都是灾难。",
       "type": "dialogue",
       "words": 18,
       "start": 333.98,
       "end": 340.64,
-      "matchedWords": 18,
-      "translation": "不。我上大学时，一些同学赞美我的衣服。当我说明这些是我自己做的时，其他高个子女性开始问我是否可以给她们也做一些。我就照做了，不知不觉中，我就成了一名企业家。"
+      "matchedWords": 18
     },
     {
       "id": "line-39",
@@ -581,12 +581,12 @@
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
       "text": "Why did you persevere?",
+      "translation": "你为什么能坚持下来？",
       "type": "dialogue",
       "words": 4,
       "start": 340.64,
       "end": 342.76,
-      "matchedWords": 4,
-      "translation": "那你未来的计划是什么？你打算开一家实体店吗？"
+      "matchedWords": 4
     },
     {
       "id": "line-40",
@@ -594,12 +594,12 @@
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
       "text": "I think most people would give up if they kept failing, especially at that age.",
+      "translation": "我想大多数人如果一直失败都会放弃，尤其是在那个年纪。",
       "type": "dialogue",
       "words": 15,
       "start": 342.76,
       "end": 348.4,
-      "matchedWords": 15,
-      "translation": "不，我会继续在网上经营以降低成本，但我会增加更多的童装，包括女孩和男孩，甚至可能是婴儿装。我希望能扩大我的男装设计范围。"
+      "matchedWords": 15
     },
     {
       "id": "line-41",
@@ -607,389 +607,389 @@
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
       "text": "I kept on out of necessity.",
+      "translation": "我坚持下来是迫于无奈。",
       "type": "dialogue",
       "words": 6,
       "start": 348.4,
       "end": 350.76,
-      "matchedWords": 6,
-      "translation": "关于这位女性，我们了解到了什么？"
+      "matchedWords": 6
     },
     {
       "id": "line-42",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "As you can see, I'm very tall and I couldn't find clothes that fit me in ordinary shops, so I kept trying and developed my skills over time.",
+      "text": "As you can see, I'm very tall and I couldn't find clothes that fit me in ordinary shops.",
+      "translation": "正如你所见，我长得很高，在普通商店里找不到适合我尺寸的衣服。",
       "type": "dialogue",
-      "words": 28,
+      "words": 18,
       "start": 350.76,
-      "end": 362.52,
-      "matchedWords": 28,
-      "translation": "关于她起初做的衣服，这位女性说了什么？"
+      "end": 357.98,
+      "matchedWords": 18
     },
     {
       "id": "line-43",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
-      "speaker": "M:",
-      "text": "Well, my notes say you earned $50,000 in profits last year, an extraordinary amount for a 20-year-old student.",
+      "speaker": "W:",
+      "text": "So I kept trying and developed my skills over time.",
+      "translation": "所以我不断尝试，随着时间的推移提高了自己的技能。",
       "type": "dialogue",
-      "words": 21,
-      "start": 362.52,
-      "end": 371.98,
-      "matchedWords": 21,
-      "translation": "这位女性为什么要坚持为自己做衣服？"
+      "words": 10,
+      "start": 357.98,
+      "end": 362.52,
+      "matchedWords": 10
     },
     {
       "id": "line-44",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "How did that happen?",
+      "text": "Well, my notes say you earned $50,000 in profits last year, an extraordinary amount for a 20-year-old student.",
+      "translation": "嗯，我的笔记上写着你去年赚了5万美元的利润，这对于一个20岁的学生来说是一笔非凡的数目。",
       "type": "dialogue",
-      "words": 4,
-      "start": 371.98,
-      "end": 373.58,
-      "matchedWords": 4,
-      "translation": "这位女性计划未来做什么？"
+      "words": 21,
+      "start": 362.52,
+      "end": 371.98,
+      "matchedWords": 21
     },
     {
       "id": "line-45",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "Did you see a gap in the market and decide to fill it?",
+      "text": "How did that happen?",
+      "translation": "这是怎么做到的？",
       "type": "dialogue",
-      "words": 13,
-      "start": 373.58,
-      "end": 377.42,
-      "matchedWords": 13,
-      "translation": "研究人员利用人工智能发现了一种强效的新型抗生素化合物。"
+      "words": 4,
+      "start": 371.98,
+      "end": 373.58,
+      "matchedWords": 4
     },
     {
       "id": "line-46",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
-      "speaker": "W:",
-      "text": "No. When I started university, some classmates complimented my clothes.",
+      "speaker": "M:",
+      "text": "Did you see a gap in the market and decide to fill it?",
+      "translation": "你是看到了市场空白并决定去填补它吗？",
       "type": "dialogue",
-      "words": 10,
-      "start": 377.42,
-      "end": 382.92,
-      "matchedWords": 10,
-      "translation": "这种抗生素可以杀死非常危险的细菌。"
+      "words": 13,
+      "start": 373.58,
+      "end": 377.42,
+      "matchedWords": 13
     },
     {
       "id": "line-47",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "And when I said I made them myself, other tall women started asking if I would make theirs.",
+      "text": "No. When I started university, some classmates complimented my clothes.",
+      "translation": "不是的。当我开始上大学时，一些同学称赞了我的衣服。",
       "type": "dialogue",
-      "words": 18,
-      "start": 382.92,
-      "end": 390.36,
-      "matchedWords": 18,
-      "translation": "根据发表在《细胞》杂志上的一项研究，这些化合物成功清除了对所有已知抗生素都具有耐药性的小鼠体内的致命细菌菌株。"
+      "words": 10,
+      "start": 377.42,
+      "end": 382.92,
+      "matchedWords": 10
     },
     {
       "id": "line-48",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "And I did.",
+      "text": "And when I said I made them myself, other tall women started asking if I would make theirs.",
+      "translation": "当我说是自己做的时候，其他高个子女性开始询问我是否也能帮她们做。",
       "type": "dialogue",
-      "words": 3,
-      "start": 390.36,
-      "end": 391.58,
-      "matchedWords": 3,
-      "translation": "研究人员表示，这是首次利用人工智能发现强效的新型抗生素分子。"
+      "words": 18,
+      "start": 382.92,
+      "end": 390.36,
+      "matchedWords": 18
     },
     {
       "id": "line-49",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "And before I knew it, I was an entrepreneur.",
+      "text": "And I did.",
+      "translation": "于是我就做了。",
       "type": "dialogue",
-      "words": 9,
-      "start": 391.58,
-      "end": 394.76,
-      "matchedWords": 9,
-      "translation": "这为什么重要？"
+      "words": 3,
+      "start": 390.36,
+      "end": 391.58,
+      "matchedWords": 3
     },
     {
       "id": "line-50",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
-      "speaker": "M:",
-      "text": "So what are your plans for the future?",
+      "speaker": "W:",
+      "text": "And before I knew it, I was an entrepreneur.",
+      "translation": "不知不觉中，我就成了一名创业者。",
       "type": "dialogue",
-      "words": 8,
-      "start": 394.76,
-      "end": 397.56,
-      "matchedWords": 8,
-      "translation": "答案是抗生素耐药性。当细菌进化出抵御旨在杀死它们的药物的能力时，就会发生这种情况。"
+      "words": 9,
+      "start": 391.58,
+      "end": 394.76,
+      "matchedWords": 9
     },
     {
       "id": "line-51",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "Do you intend to open a physical store?",
+      "text": "So what are your plans for the future?",
+      "translation": "那么你未来的计划是什么？",
       "type": "dialogue",
       "words": 8,
-      "start": 397.56,
-      "end": 399.94,
-      "matchedWords": 8,
-      "translation": "抗生素耐药性是对健康的严重威胁，而且这个问题正在日益严重。这使得寻找新的抗生素变得非常重要。"
+      "start": 394.76,
+      "end": 397.56,
+      "matchedWords": 8
     },
     {
       "id": "line-52",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
-      "speaker": "W:",
-      "text": "No, I'll keep things online to keep costs down, but I will add more clothes for children, both girls and boys, and possibly even for infants.",
+      "speaker": "M:",
+      "text": "Do you intend to open a physical store?",
+      "translation": "你有打算开一家实体店吗？",
       "type": "dialogue",
-      "words": 26,
-      "start": 399.94,
-      "end": 412.24,
-      "matchedWords": 26,
-      "translation": "然而，近几十年来，研发出的新抗生素寥寥无几，而且已有的那些往往与市面上的药物非常相似。这些搜索也往往只集中在狭窄的化学化合物范围内。"
+      "words": 8,
+      "start": 397.56,
+      "end": 399.94,
+      "matchedWords": 8
     },
     {
       "id": "line-53",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "And I hope to add to my range of designs for men.",
+      "text": "No. I'll keep things online to keep costs down.",
+      "translation": "不打算。我会继续保持在线销售，以降低成本。",
       "type": "dialogue",
-      "words": 12,
-      "start": 412.24,
-      "end": 424.76,
-      "matchedWords": 12,
-      "translation": "但这正是人工智能派上用场的地方。为什么？为了寻找新药，科学家们筛选分子以预测它们的有效性。"
+      "words": 9,
+      "start": 399.94,
+      "end": 404.72,
+      "matchedWords": 9
     },
     {
       "id": "line-54",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
-      "speaker": "Q5.",
-      "text": "What do we learn about the woman?",
-      "type": "question",
-      "words": 7,
-      "start": 424.76,
-      "end": 441.9,
-      "matchedWords": 7,
-      "translation": "通常情况下，这种筛选是由人类在实验室中完成的，既昂贵又缓慢。人工智能则不同，它速度快，且能处理大量数据。"
+      "speaker": "W:",
+      "text": "But I will add more clothes for children, both girls and boys, and possibly even for infants.",
+      "translation": "但我会增加更多的童装，包括男孩和女孩的，甚至可能还有婴儿装。",
+      "type": "dialogue",
+      "words": 17,
+      "start": 404.72,
+      "end": 412.24,
+      "matchedWords": 17
     },
     {
       "id": "line-55",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
-      "speaker": "Q6.",
-      "text": "What does the woman say about the clothes she made at first?",
-      "type": "question",
+      "speaker": "W:",
+      "text": "And I hope to add to my range of designs for men.",
+      "translation": "我也希望扩大我的男装设计范围。",
+      "type": "dialogue",
       "words": 12,
-      "start": 441.9,
-      "end": 459.8,
-      "matchedWords": 12,
-      "translation": "它可以筛选数亿种化合物，以确定少数需要进行实验测试的目标。人工智能还能预测化合物是否具有毒性。"
+      "start": 412.24,
+      "end": 424.76,
+      "matchedWords": 12
     },
     {
       "id": "line-56",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
-      "speaker": "Q7.",
-      "text": "Why did the woman persevere in making clothes for herself?",
+      "speaker": "Q5.",
+      "text": "What do we learn about the woman?",
+      "translation": "我们能了解到关于这位女士的什么信息？",
       "type": "question",
-      "words": 10,
-      "start": 459.8,
-      "end": 480.02,
-      "matchedWords": 10,
-      "translation": "一些专家声称，这项工作标志着抗生素发现领域的范式转变。它可能会更广泛地改变药物发现过程。"
+      "words": 7,
+      "start": 424.76,
+      "end": 441.9,
+      "matchedWords": 7
     },
     {
       "id": "line-57",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
+      "speaker": "Q6.",
+      "text": "What does the woman say about the clothes she made at first?",
+      "translation": "关于她一开始做的衣服，这位女士说了什么？",
+      "type": "question",
+      "words": 12,
+      "start": 441.9,
+      "end": 459.8,
+      "matchedWords": 12
+    },
+    {
+      "id": "line-58",
+      "sectionId": "conversation-2",
+      "sectionTitle": "CONVERSATION 2",
+      "speaker": "Q7.",
+      "text": "Why did the woman persevere in making clothes for herself?",
+      "translation": "为什么这位女士会坚持为自己做衣服？",
+      "type": "question",
+      "words": 10,
+      "start": 459.8,
+      "end": 480.02,
+      "matchedWords": 10
+    },
+    {
+      "id": "line-59",
+      "sectionId": "conversation-2",
+      "sectionTitle": "CONVERSATION 2",
       "speaker": "Q8.",
       "text": "What does the woman plan to do in the future?",
+      "translation": "这位女士未来计划做什么？",
       "type": "question",
       "words": 10,
       "start": 480.02,
       "end": 529.92,
-      "matchedWords": 10,
-      "translation": "研究人员历史上首次做了什么？"
-    },
-    {
-      "id": "line-58",
-      "sectionId": "passage-1",
-      "sectionTitle": "PASSAGE 1",
-      "speaker": "",
-      "text": "Researchers have identified a potent new antibiotic compound using artificial intelligence.",
-      "type": "narration",
-      "words": 11,
-      "start": 529.92,
-      "end": 538.16,
-      "matchedWords": 11,
-      "translation": "为什么寻找新的抗生素药物很重要？"
-    },
-    {
-      "id": "line-59",
-      "sectionId": "passage-1",
-      "sectionTitle": "PASSAGE 1",
-      "speaker": "",
-      "text": "The antibiotic can kill very dangerous bacteria.",
-      "type": "narration",
-      "words": 7,
-      "start": 538.16,
-      "end": 542.44,
-      "matchedWords": 7,
-      "translation": "关于人工智能在抗生素研究中的作用，这篇文章说了什么？"
+      "matchedWords": 10
     },
     {
       "id": "line-60",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "According to a study published in the journal Cell, the compounds successfully removed deadly strains of bacteria in mice which are resistant to all known antibiotics.",
+      "text": "Researchers have identified a potent new antibiotic compound using artificial intelligence.",
+      "translation": "研究人员利用人工智能发现了一种强效的新型抗生素化合物。",
       "type": "narration",
-      "words": 26,
-      "start": 542.44,
-      "end": 555.24,
-      "matchedWords": 25,
-      "translation": "最近的一项研究推翻了我们对谎言的固有认知。"
+      "words": 11,
+      "start": 529.92,
+      "end": 538.16,
+      "matchedWords": 11
     },
     {
       "id": "line-61",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "The researchers say this is the first time that artificial intelligence has been used to find a powerful new antibiotic molecule.",
+      "text": "The antibiotic can kill very dangerous bacteria.",
+      "translation": "这种抗生素可以杀死非常危险的细菌。",
       "type": "narration",
-      "words": 21,
-      "start": 555.24,
-      "end": 564.98,
-      "matchedWords": 21,
-      "translation": "我们大多数人对于如何判断某人是否在撒谎都有一套理论。"
+      "words": 7,
+      "start": 538.16,
+      "end": 542.44,
+      "matchedWords": 7
     },
     {
       "id": "line-62",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "Why does this matter?",
+      "text": "According to a study published in the journal Cell, the compound successfully removed deadly strains of bacteria in mice which are resistant to all known antibiotics.",
+      "translation": "根据发表在《细胞》杂志上的一项研究，该化合物成功清除了小鼠体内对所有已知抗生素都具有耐药性的致命细菌菌株。",
       "type": "narration",
-      "words": 4,
-      "start": 564.98,
-      "end": 566.74,
-      "matchedWords": 4,
-      "translation": "我们可能会通过观察那些我们熟悉且经常见面的人来形成这套理论。但我们往往会概括从那些非科学的日常观察中收集到的信息，并将其变成一套普遍的理论。"
+      "words": 26,
+      "start": 542.44,
+      "end": 555.24,
+      "matchedWords": 26
     },
     {
       "id": "line-63",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "The answer is antibiotic resistance.",
+      "text": "The researchers say this is the first time that artificial intelligence has been used to find a powerful new antibiotic molecule.",
+      "translation": "研究人员表示，这是首次利用人工智能寻找强效的新型抗生素分子。",
       "type": "narration",
-      "words": 5,
-      "start": 566.74,
-      "end": 569.94,
-      "matchedWords": 5,
-      "translation": "所以我们可能会想象撒谎者眼神躲闪，或者恰恰相反，他们只是盯着你看，或者更普遍地，我们将紧张的行为与谎言联系在一起。"
+      "words": 21,
+      "start": 555.24,
+      "end": 564.98,
+      "matchedWords": 21
     },
     {
       "id": "line-64",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "This happens when bacteria developed the ability to survive the medications designed to kill them.",
+      "text": "Why does this matter?",
+      "translation": "这为什么重要？",
       "type": "narration",
-      "words": 15,
-      "start": 569.94,
-      "end": 577.26,
-      "matchedWords": 14,
-      "translation": "无论具体的理论是什么，它通常都是基于对我们所认识的人的密切观察。而且我们有很多练习机会。平均而言，我们每天会被欺骗大约200次。这些大多是无伤大雅的谎言，但仍然是谎言。"
+      "words": 4,
+      "start": 564.98,
+      "end": 566.74,
+      "matchedWords": 4
     },
     {
       "id": "line-65",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "Antibiotic resistance is a serious threat to health, and the problem is growing.",
+      "text": "The answer is antibiotic resistance.",
+      "translation": "答案是抗生素耐药性。",
       "type": "narration",
-      "words": 13,
-      "start": 577.26,
-      "end": 583.68,
-      "matchedWords": 13,
-      "translation": "但我们的理论存在一个问题，尽管它们是基于这些观察的。对于普通人，也就是你和我，在探测谎言方面的严格测试显示，我们的表现并不比随机猜测好。这在许多研究中都得到了证实，研究人员也多次尝试找出可靠的探测谎言的方法。"
+      "words": 5,
+      "start": 566.74,
+      "end": 569.94,
+      "matchedWords": 5
     },
     {
       "id": "line-66",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "This makes finding new antibiotics very important.",
+      "text": "This happens when bacteria develop the ability to survive the medications designed to kill them.",
+      "translation": "当细菌发展出在旨在杀死它们的药物中存活的能力时，就会发生这种情况。",
       "type": "narration",
-      "words": 7,
-      "start": 583.68,
-      "end": 587.94,
-      "matchedWords": 7,
-      "translation": "通过训练呼吸技巧和抑制症状，甚至连测谎仪（测谎的金标准）也相对容易被欺骗。"
+      "words": 15,
+      "start": 569.94,
+      "end": 577.26,
+      "matchedWords": 15
     },
     {
       "id": "line-67",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "However, in recent decades, very few have been developed.",
+      "text": "Antibiotic resistance is a serious threat to health and the problem is growing.",
+      "translation": "抗生素耐药性是对健康的严重威胁，且这一问题正在日益严重。",
       "type": "narration",
-      "words": 9,
-      "start": 587.94,
-      "end": 592.84,
-      "matchedWords": 9,
-      "translation": "有什么方法可以提高探测谎言的能力吗？这项新研究提供了一些令人惊讶的建议：停止观看，转而倾听。事实证明，如果我们看不到对方的脸，而是专注于对方的声音，我们的准确率就会大大提高。"
+      "words": 13,
+      "start": 577.26,
+      "end": 583.68,
+      "matchedWords": 13
     },
     {
       "id": "line-68",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "And those that have tend to be very similar to drugs already available.",
+      "text": "This makes finding new antibiotics very important.",
+      "translation": "这使得寻找新型抗生素变得非常重要。",
       "type": "narration",
-      "words": 13,
-      "start": 592.84,
-      "end": 598.38,
-      "matchedWords": 13,
-      "translation": "根据文章，大多数人如何探测谎言？"
+      "words": 7,
+      "start": 583.68,
+      "end": 587.94,
+      "matchedWords": 7
     },
     {
       "id": "line-69",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "These searches also tend to only focus on a narrow spectrum of chemical compounds.",
+      "text": "However, in recent decades, very few have been developed, and those that have tend to be very similar to drugs already available.",
+      "translation": "然而，在最近几十年中，研发出来的新抗生素极少，而且那些研发出来的往往与现有药物非常相似。",
       "type": "narration",
-      "words": 14,
-      "start": 598.38,
-      "end": 606.5,
-      "matchedWords": 14,
-      "translation": "关于大多数谎言，这篇文章说了什么？"
+      "words": 22,
+      "start": 587.94,
+      "end": 599.14,
+      "matchedWords": 22
     },
     {
       "id": "line-70",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
-      "text": "But this is where artificial intelligence comes in.",
+      "text": "The searches also tend to only focus on a narrow spectrum of chemical compounds, but this is where artificial intelligence comes in.",
+      "translation": "寻找过程也往往只侧重于范围很窄的化合物，而这正是人工智能大显身手的地方。",
       "type": "narration",
-      "words": 8,
-      "start": 606.5,
+      "words": 22,
+      "start": 599.14,
       "end": 610.08,
-      "matchedWords": 8,
-      "translation": "关于普通人探测谎言的能力，许多研究发现了什么？"
+      "matchedWords": 21
     },
     {
       "id": "line-71",
@@ -997,12 +997,12 @@
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
       "text": "Why?",
+      "translation": "为什么？",
       "type": "narration",
       "words": 1,
       "start": 610.08,
       "end": 611.24,
-      "matchedWords": 1,
-      "translation": "关于探测谎言，这项新研究提供了什么建议？"
+      "matchedWords": 1
     },
     {
       "id": "line-72",
@@ -1010,12 +1010,12 @@
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
       "text": "To find new drugs, scientists screen molecules to predict how effective they might be.",
+      "translation": "为了寻找新药，科学家们会对分子进行筛选，以预测它们可能有多大疗效。",
       "type": "narration",
       "words": 14,
       "start": 611.24,
       "end": 618.36,
-      "matchedWords": 14,
-      "translation": "表现出顺从、谦卑、感激且不苛求的样子；当医生进入你的房间时，表现出极大的快乐，即使那次探视既简短又毫无用处。"
+      "matchedWords": 14
     },
     {
       "id": "line-73",
@@ -1023,12 +1023,12 @@
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
       "text": "Typically, such screening is done by humans in the lab, which is both costly and slow.",
+      "translation": "通常，这种筛选是由人类在实验室中完成的，既昂贵又缓慢。",
       "type": "narration",
       "words": 16,
       "start": 618.36,
       "end": 624.96,
-      "matchedWords": 16,
-      "translation": "除非你很有名或非常富有，否则不要挑战任何权威。这些是应对当今美国医疗机构的一些策略。"
+      "matchedWords": 16
     },
     {
       "id": "line-74",
@@ -1036,12 +1036,12 @@
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
       "text": "Artificial intelligence is different.",
+      "translation": "人工智能则不同。",
       "type": "narration",
       "words": 4,
       "start": 624.96,
-      "end": 628.0,
-      "matchedWords": 4,
-      "translation": "患者想要的是受到尊重和体谅。但在我的经验中，很少有医院和医生准备这样做。"
+      "end": 628,
+      "matchedWords": 4
     },
     {
       "id": "line-75",
@@ -1049,12 +1049,12 @@
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
       "text": "It's fast, and it can process a high volume.",
+      "translation": "它速度快，并且可以处理大量数据。",
       "type": "narration",
       "words": 9,
-      "start": 628.0,
+      "start": 628,
       "end": 632.38,
-      "matchedWords": 9,
-      "translation": "小说家雷诺兹·普莱斯在其著作《全新的生活》中回忆道，他的医生选择在拥挤的走廊里告诉他他的脊髓上可能有肿瘤。这两位医生并没有意识到，走廊并不是宣布那条特定消息最合适的地方。"
+      "matchedWords": 9
     },
     {
       "id": "line-76",
@@ -1062,12 +1062,12 @@
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
       "text": "It can screen hundreds of millions of compounds to identify a few interesting candidates that require experimental testing.",
+      "translation": "它可以筛选数以亿计的化合物，从而识别出少数几个需要进行实验测试的有价值的候选物。",
       "type": "narration",
       "words": 18,
       "start": 632.38,
       "end": 642.52,
-      "matchedWords": 18,
-      "translation": "我的外科医生30岁出头，看起来很疲惫。由于冬天的冰雪导致摔倒的病人太多，他应接不暇。他是个幽默的人，但有时他的幽默并不合时宜。"
+      "matchedWords": 18
     },
     {
       "id": "line-77",
@@ -1075,12 +1075,12 @@
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
       "text": "Artificial intelligence is also able to predict if compounds are likely to be toxic.",
+      "translation": "人工智能还能够预测化合物是否可能具有毒性。",
       "type": "narration",
       "words": 14,
       "start": 642.52,
       "end": 649.5,
-      "matchedWords": 14,
-      "translation": "“蓝十字健康保险公司想让我明天下午把你放到雪地里去，”在我住院一个多星期后，他这样告诉我。我被吓坏了，因为我不知道该去哪里。我不能走路，甚至不能把腿抬高几英寸。"
+      "matchedWords": 14
     },
     {
       "id": "line-78",
@@ -1088,12 +1088,12 @@
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
       "text": "Some experts assert that this work signifies a paradigm shift in antibiotic discovery.",
+      "translation": "一些专家断言，这项工作标志着抗生素发现领域的范式转变。",
       "type": "narration",
       "words": 13,
       "start": 649.5,
       "end": 656.64,
-      "matchedWords": 13,
-      "translation": "医院的社会工作者让我觉得像个白痴，但我对她的投诉只会激怒我的外科医生。“我必须和这些人共事，”当我的朋友凯伦·布鲁德尼医生慈悲地介入并安排我转院时，他这样对她说。"
+      "matchedWords": 13
     },
     {
       "id": "line-79",
@@ -1101,12 +1101,12 @@
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
       "text": "It could change drug discovery more generally.",
+      "translation": "它还可以更广泛地改变药物研发。",
       "type": "narration",
       "words": 7,
       "start": 656.64,
       "end": 669.06,
-      "matchedWords": 7,
-      "translation": "“如果你说一件负面的事情，他们就会产生防御心理，”她后来告诉我。“他们有这种机构忠诚感。去医院时一定要带上一位倡导者，也就是说，任何陪同你的人，并写下每一个问题和答案，以及每一位医生和护士的名字。当人们知道你记下了他们的名字时，他们的表现会更好。”"
+      "matchedWords": 7
     },
     {
       "id": "line-80",
@@ -1114,12 +1114,12 @@
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q9.",
       "text": "What have researchers done for the first time in history?",
+      "translation": "研究人员在历史上首次做到了什么？",
       "type": "question",
       "words": 10,
       "start": 669.06,
       "end": 688.16,
-      "matchedWords": 10,
-      "translation": "布鲁德尼补充道：“如果你作为一名患者，暗示你可能想要控制局面的哪怕一部分，或者想要被咨询或被告知，那么你就被认为是难对付的。他们希望你完全被动。整个医疗系统，尤其是医院和养老院，其存在的理由与照顾病人毫无关系。病人只是次要的。”"
+      "matchedWords": 10
     },
     {
       "id": "line-81",
@@ -1127,12 +1127,12 @@
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q10.",
       "text": "What makes it important to find new antibiotic drugs?",
+      "translation": "是什么让寻找新型抗生素药物变得重要？",
       "type": "question",
       "words": 9,
       "start": 688.16,
       "end": 706.72,
-      "matchedWords": 9,
-      "translation": "关于大多数美国医院，说话者说了什么？"
+      "matchedWords": 9
     },
     {
       "id": "line-82",
@@ -1140,12 +1140,12 @@
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q11.",
       "text": "What does the passage say artificial intelligence is able to do in antibiotic research?",
+      "translation": "文章说人工智能在抗生素研究中能够做什么？",
       "type": "question",
       "words": 14,
       "start": 706.72,
       "end": 726.16,
-      "matchedWords": 14,
-      "translation": "凯伦·布鲁德尼建议患者怎么做？"
+      "matchedWords": 14
     },
     {
       "id": "line-83",
@@ -1153,12 +1153,12 @@
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
       "text": "A recent study overturned what we think we know about lying.",
+      "translation": "最近的一项研究推翻了我们自认为对说谎的了解。",
       "type": "narration",
       "words": 11,
       "start": 726.16,
       "end": 733.24,
-      "matchedWords": 11,
-      "translation": "根据凯伦·布鲁德尼的说法，美国医生希望他们的病人是什么样的？"
+      "matchedWords": 11
     },
     {
       "id": "line-84",
@@ -1166,51 +1166,51 @@
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
       "text": "Most of us have a theory about how to tell if someone is telling a lie.",
+      "translation": "我们大多数人都有关于如何辨别某人是否在说谎的理论。",
       "type": "narration",
       "words": 16,
       "start": 733.24,
       "end": 738.58,
-      "matchedWords": 16,
-      "translation": "可能有些你曾与之合作过的团队，你再也不想与之合作了。但肯定也有一些团队，你会非常珍惜在职业上再次重聚的机会。换句话说，你的团队拥有生命力。"
+      "matchedWords": 16
     },
     {
       "id": "line-85",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "We may develop that theory from observations of those people we know well and see regularly.",
+      "text": "We may develop that theory from observations of those people we know well and see regularly, but we tend to generalize what we gather from that unscientific daily research and make it a universal theory.",
+      "translation": "我们可能会通过对那些我们熟悉且经常见到的人的观察来发展这种理论，但我们往往会把从这种非科学的日常研究所收集到的信息进行过度概括，使其成为一种放之四海而皆准的普适理论。",
       "type": "narration",
-      "words": 16,
+      "words": 35,
       "start": 738.58,
-      "end": 745.98,
-      "matchedWords": 16,
-      "translation": "生命力产生于人们与团队成员建立的联系，使得他们在团队解散后依然保持联系。什么样的团队特征会使其成员在不再一起工作的情况下更有可能保持联系呢？"
+      "end": 755.08,
+      "matchedWords": 35
     },
     {
       "id": "line-86",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "But we tend to generalize what we gather from that unscientific daily research and make it a universal theory.",
+      "text": "So we might imagine that liars have evasive eyes, or the opposite—they simply stare at you.",
+      "translation": "所以我们可能会认为说谎者的眼神会闪躲，或者恰恰相反——他们只是直勾勾地盯着你。",
       "type": "narration",
-      "words": 19,
-      "start": 745.98,
-      "end": 755.08,
-      "matchedWords": 19,
-      "translation": "最近发表在一本商业期刊上的一项研究回答了这个问题。研究团队发现的两个关键因素之一是相似性，特别是拥有相同的性别或种族背景。一个团队的成员在人口统计特征上越相似，他们在团队完成使命后保持交往的意愿就越强。联系建立后，相似性会加强这种联系。因此，他们会对这些人产生更大的信任和相互理解，从而激励他们寻求进一步的合作机会。实际上，一个团队中人们的共同点越多，他们对彼此和团队的忠诚度就越强。"
+      "words": 17,
+      "start": 755.08,
+      "end": 762.56,
+      "matchedWords": 17
     },
     {
       "id": "line-87",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "So we might imagine that liars have evasive eyes or the opposite, they simply stare at you, or perhaps it is more generally nervous behavior we associate with lies.",
+      "text": "Or perhaps it is more generally nervous behavior we associate with lies.",
+      "translation": "又或者我们通常会将紧张的行为与谎言联系在一起。",
       "type": "narration",
-      "words": 29,
-      "start": 755.08,
+      "words": 12,
+      "start": 762.56,
       "end": 767.94,
-      "matchedWords": 29,
-      "translation": "第二个因素是那段经历必须令人难忘。那些一起经历过激烈体验的团队，比如合作完成一个困难的项目或应对危机，更有可能保持联系。这些共同的经历创造了一种难以打破的纽带。"
+      "matchedWords": 12
     },
     {
       "id": "line-88",
@@ -1218,12 +1218,12 @@
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
       "text": "Whatever the particular theory, it's usually based on close observation of people we know.",
+      "translation": "无论具体理论是什么，它通常都是基于对我们认识的人的密切观察。",
       "type": "narration",
       "words": 14,
       "start": 767.94,
       "end": 775.24,
-      "matchedWords": 14,
-      "translation": "研究还发现，团队的规模也很重要。小团队比大团队更有可能建立牢固的联系。这是因为在小团队中，人们有更多机会在个人层面上进行互动。"
+      "matchedWords": 14
     },
     {
       "id": "line-89",
@@ -1231,12 +1231,12 @@
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
       "text": "And we get lots of practice.",
+      "translation": "而且我们得到了大量的实践。",
       "type": "narration",
       "words": 6,
       "start": 775.24,
       "end": 777.5,
-      "matchedWords": 6,
-      "translation": "说话者关于团队生命力说了什么？"
+      "matchedWords": 6
     },
     {
       "id": "line-90",
@@ -1244,12 +1244,12 @@
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
       "text": "On average, we're lied to some 200 times per day.",
+      "translation": "平均而言，我们每天会被人欺骗大约200次。",
       "type": "narration",
       "words": 10,
       "start": 777.5,
       "end": 782.4,
-      "matchedWords": 10,
-      "translation": "促使团队成员保持联系的关键因素之一是什么？"
+      "matchedWords": 10
     },
     {
       "id": "line-91",
@@ -1257,38 +1257,38 @@
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
       "text": "These are mostly harmless lies, but lies nonetheless.",
+      "translation": "这些大多是善意或无伤大雅的谎言，但无论如何都是谎言。",
       "type": "narration",
       "words": 8,
       "start": 782.4,
       "end": 787.06,
-      "matchedWords": 8,
-      "translation": "为什么小团队更有可能建立牢固的联系？"
+      "matchedWords": 8
     },
     {
       "id": "line-92",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "But there's a problem with our theories, even though they're based on all this observation.",
+      "text": "But there's a problem with our theories, even though they're based on all these observations.",
+      "translation": "但尽管我们的理论是基于所有这些观察，它们仍然存在问题。",
       "type": "narration",
       "words": 15,
       "start": 787.06,
       "end": 792.52,
-      "matchedWords": 15,
-      "translation": "皮肤可能看起来只是一种表面的人类属性，但它是我们对所遇到的任何人注意到的第一件事。作为一名专注于猿类和猴子研究的动物学家，我一直在研究为什么人类进化成了“裸猿”，以及为什么世界各地皮肤的颜色有这么多深浅不同的色调。"
+      "matchedWords": 13
     },
     {
       "id": "line-93",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "The average person, you and me, tested rigorously on how well we detect lies fails to do better than chance.",
+      "text": "The average person you and me tested rigorously on how well we detect lies fails to do better than chance.",
+      "translation": "像你我这样的普通人，在接受关于如何精准识别谎言的严密测试时，其表现并不比纯凭运气好。",
       "type": "narration",
       "words": 20,
       "start": 792.52,
       "end": 802.94,
-      "matchedWords": 20,
-      "translation": "我们可以从化石记录中做出非常准确的估计，人类可能在大约150万年前进化出了裸露的皮肤。与此同时，他们大部分失去了皮毛。如今，我们身上只剩下了几片毛发。我们为什么失去了皮毛呢？"
+      "matchedWords": 20
     },
     {
       "id": "line-94",
@@ -1296,12 +1296,12 @@
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
       "text": "That's well established over many studies and lots of attempts by researchers to work out reliable ways to detect lies.",
+      "translation": "这一点已在许多研究以及研究人员试图找出可靠的测谎方法的多次尝试中得到了充分证实。",
       "type": "narration",
       "words": 20,
       "start": 802.94,
       "end": 812.46,
-      "matchedWords": 20,
-      "translation": "一种理论认为，当我们开始直立行走并在炎热的非洲阳光下长距离移动时，这有助于我们保持凉爽。另一种理论认为，这有助于我们避开蜱虫和虱子等寄生虫。但最有趣的理论是，它有助于我们相互交流。我们的皮肤布满了神经末梢，能让我们感受到触摸、压力和温度。通过失去皮毛，我们能够使用触摸作为一种交流形式，如拥抱、亲吻和握手。"
+      "matchedWords": 20
     },
     {
       "id": "line-95",
@@ -1309,12 +1309,12 @@
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
       "text": "It's even relatively easy to fool lie detectors, the gold standard of lie detection, by training yourself in breathing techniques and symptom suppression.",
+      "translation": "通过训练自己的呼吸技巧和抑制生理症状，甚至相对容易欺骗测谎仪——这可是谎言检测的黄金标准。",
       "type": "narration",
       "words": 23,
       "start": 812.46,
       "end": 824.2,
-      "matchedWords": 23,
-      "translation": "至于肤色的深浅不同，那是由于皮肤中黑色素含量的不同。黑色素是一种保护皮肤免受太阳紫外线伤害的色素。生活在赤道附近的人皮肤中含有更多的黑色素，这使得肤色更深。远离赤道生活的人黑色素较少，这使得他们的肤色较浅。这是因为在阳光较少的地区，身体需要产生更多的维生素D，而维生素D是在皮肤暴露于阳光时产生的。拥有较浅的皮肤可以让更多的阳光穿透皮肤，从而帮助身体产生更多的维生素D。"
+      "matchedWords": 23
     },
     {
       "id": "line-96",
@@ -1322,12 +1322,12 @@
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
       "text": "Is there any way to get better at detecting lies?",
+      "translation": "有什么办法能让我们更擅长识别谎言吗？",
       "type": "narration",
       "words": 10,
       "start": 824.2,
       "end": 829.34,
-      "matchedWords": 10,
-      "translation": "说话者的研究领域是什么？"
+      "matchedWords": 10
     },
     {
       "id": "line-97",
@@ -1335,12 +1335,12 @@
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
       "text": "The new research offers some surprising advice.",
+      "translation": "这项新研究提供了一些令人意想不到的建议。",
       "type": "narration",
       "words": 7,
       "start": 829.34,
       "end": 833.08,
-      "matchedWords": 7,
-      "translation": "根据化石记录，人类大约在什么时候进化出了裸露的皮肤？"
+      "matchedWords": 7
     },
     {
       "id": "line-98",
@@ -1348,12 +1348,12 @@
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
       "text": "Stop looking and listen instead.",
+      "translation": "别再看，改为用耳朵听。",
       "type": "narration",
       "words": 5,
       "start": 833.08,
       "end": 835.88,
-      "matchedWords": 5,
-      "translation": "关于人类为什么失去皮毛，其中一个理论是什么？"
+      "matchedWords": 5
     },
     {
       "id": "line-99",
@@ -1361,12 +1361,12 @@
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
       "text": "It turns out that if we're unable to see the face, but rather focus on the voice of the person in question, our accuracy rate improves considerably.",
+      "translation": "事实证明，如果我们看不到对方的脸，而是把注意力集中在当事人的声音上，我们的准确率就会大大提高。",
       "type": "narration",
       "words": 27,
       "start": 835.88,
       "end": 857.04,
-      "matchedWords": 27,
-      "translation": "为什么生活在远离赤道地区的人肤色较浅？"
+      "matchedWords": 27
     },
     {
       "id": "line-100",
@@ -1374,12 +1374,12 @@
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q12.",
       "text": "According to the passage, how do most people detect lying?",
+      "translation": "根据文章，大多数人是如何辨别谎言的？",
       "type": "question",
       "words": 10,
       "start": 857.04,
       "end": 877.2,
-      "matchedWords": 10,
-      "translation": "根据这篇文章，大多数人是如何识破谎言的？"
+      "matchedWords": 10
     },
     {
       "id": "line-101",
@@ -1387,12 +1387,12 @@
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q13.",
       "text": "What does the passage say about most lies?",
+      "translation": "关于大多数谎言，文章说了什么？",
       "type": "question",
       "words": 8,
       "start": 877.2,
       "end": 895.82,
-      "matchedWords": 8,
-      "translation": "关于大多数谎言，这篇文章说了什么？"
+      "matchedWords": 8
     },
     {
       "id": "line-102",
@@ -1400,12 +1400,12 @@
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q14.",
       "text": "What have many studies uncovered about the average person's lie detection?",
+      "translation": "许多研究揭示了关于普通人测谎能力的什么事实？",
       "type": "question",
       "words": 11,
       "start": 895.82,
       "end": 916.42,
-      "matchedWords": 7,
-      "translation": "关于普通人识别谎言的能力，许多研究揭示了什么？"
+      "matchedWords": 7
     },
     {
       "id": "line-103",
@@ -1413,38 +1413,38 @@
       "sectionTitle": "PASSAGE 2",
       "speaker": "Q15.",
       "text": "What advice does the new research offer regarding lie detection?",
+      "translation": "关于谎言检测，这项新研究提供了什么建议？",
       "type": "question",
       "words": 10,
       "start": 916.42,
       "end": 968.55,
-      "matchedWords": 10,
-      "translation": "关于识别谎言，这项新研究提供了什么建议？"
+      "matchedWords": 10
     },
     {
       "id": "line-104",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Appear to be submissive, humble, grateful, and undemanding, show great pleasure when a doctor comes into your room, even if the visit is brief and useless.",
+      "text": "Appear to be submissive, humble, grateful and undemanding; show great pleasure when a doctor comes into your room, even if the visit is brief and useless.",
+      "translation": "表现得顺从、谦逊、感激且不苛求；当医生走进你的房间时，表现出极大的高兴，即使这次查房非常短暂且毫无用处。",
       "type": "narration",
       "words": 26,
       "start": 968.55,
       "end": 980.94,
-      "matchedWords": 26,
-      "translation": "表现得顺从、谦卑、感激且不苛求，当医生进房间时表现出极大的愉悦，即使这次探视既短暂又无用。"
+      "matchedWords": 26
     },
     {
       "id": "line-105",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Don't challenge anyone with authority unless you're famous or very rich.",
+      "text": "Don't challenge anyone with authority unless you are famous or very rich.",
+      "translation": "除非你成名或非常有钱，否则不要挑战任何权威人士。",
       "type": "narration",
-      "words": 11,
+      "words": 12,
       "start": 980.94,
       "end": 986.44,
-      "matchedWords": 11,
-      "translation": "除非你很有名或非常富有，否则不要挑战任何权威人士。"
+      "matchedWords": 10
     },
     {
       "id": "line-106",
@@ -1452,12 +1452,12 @@
       "sectionTitle": "RECORDING 1",
       "speaker": "",
       "text": "Those are a few strategies for dealing with today's American medical establishment.",
+      "translation": "这些是应对当今美国医疗体制的一些策略。",
       "type": "narration",
       "words": 12,
       "start": 986.44,
       "end": 993.04,
-      "matchedWords": 12,
-      "translation": "这些是应对当今美国医疗机构的一些策略。"
+      "matchedWords": 12
     },
     {
       "id": "line-107",
@@ -1465,12 +1465,12 @@
       "sectionTitle": "RECORDING 1",
       "speaker": "",
       "text": "What patients want is to be treated with respect and consideration.",
+      "translation": "患者想要的是受到尊重和体谅。",
       "type": "narration",
       "words": 11,
       "start": 993.04,
       "end": 998.2,
-      "matchedWords": 11,
-      "translation": "患者想要的是被尊重和体谅。"
+      "matchedWords": 11
     },
     {
       "id": "line-108",
@@ -1478,12 +1478,12 @@
       "sectionTitle": "RECORDING 1",
       "speaker": "",
       "text": "But in my experience, too few hospitals and doctors are ready to do that.",
+      "translation": "但在我的经验中，准备好这样做的医院和医生太少了。",
       "type": "narration",
       "words": 14,
       "start": 998.2,
       "end": 1004.38,
-      "matchedWords": 14,
-      "translation": "但根据我的经验，太少的医院和医生准备好这样做。"
+      "matchedWords": 14
     },
     {
       "id": "line-109",
@@ -1491,12 +1491,12 @@
       "sectionTitle": "RECORDING 1",
       "speaker": "",
       "text": "In his book, A Whole New Life, novelist Reynolds Price recalls that his doctors chose a crowded hallway as the place to tell him he might have a tumor on his spinal cord.",
+      "translation": "小说家雷诺兹·普莱斯在他的《崭新的生活》一书中回忆道，他的医生们选择了一个拥挤的走廊来告诉他，他的脊髓上可能长了肿瘤。",
       "type": "narration",
       "words": 33,
       "start": 1004.38,
       "end": 1018.52,
-      "matchedWords": 33,
-      "translation": "小说家雷诺兹·普莱斯在他的书《崭新的生活》中回忆道，他的医生选择在拥挤的走廊里告诉他，他的脊髓上可能长了肿瘤。"
+      "matchedWords": 33
     },
     {
       "id": "line-110",
@@ -1504,25 +1504,25 @@
       "sectionTitle": "RECORDING 1",
       "speaker": "",
       "text": "It did not occur to the two physicians that a hallway was not the most appropriate place for that particular piece of news.",
+      "translation": "这两位医生并没有意识到，走廊并不是告知这一特定消息的最合适场所。",
       "type": "narration",
       "words": 23,
       "start": 1018.52,
       "end": 1028.1,
-      "matchedWords": 23,
-      "translation": "那两位医生并没有意识到，走廊并不是宣布那条特殊消息的最合适场所。"
+      "matchedWords": 23
     },
     {
       "id": "line-111",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "My surgeon who is in his mid-30s looks tired.",
+      "text": "My surgeon, who is in his mid-thirties, looks tired.",
+      "translation": "我的主治外科医生三十多岁，看起来很疲惫。",
       "type": "narration",
       "words": 10,
       "start": 1028.1,
       "end": 1032.76,
-      "matchedWords": 9,
-      "translation": "我的外科医生三十五六岁，看起来很疲惫。"
+      "matchedWords": 10
     },
     {
       "id": "line-112",
@@ -1530,12 +1530,12 @@
       "sectionTitle": "RECORDING 1",
       "speaker": "",
       "text": "He has been overwhelmed with patients who have fallen on the winter ice.",
+      "translation": "他已经被那些在冬日冰面上滑倒的病人弄得应接不暇了。",
       "type": "narration",
       "words": 13,
       "start": 1032.76,
       "end": 1038.16,
-      "matchedWords": 13,
-      "translation": "他被那些在冬天冰面上摔伤的病人搞得应接不暇。"
+      "matchedWords": 13
     },
     {
       "id": "line-113",
@@ -1543,25 +1543,25 @@
       "sectionTitle": "RECORDING 1",
       "speaker": "",
       "text": "He is a witty man, but sometimes his wit is unwelcome.",
+      "translation": "他是一个风趣的人，但有时他的幽默并不受欢迎。",
       "type": "narration",
       "words": 11,
       "start": 1038.16,
       "end": 1043.34,
-      "matchedWords": 11,
-      "translation": "他是个风趣的人，但有时他的幽默并不受欢迎。"
+      "matchedWords": 11
     },
     {
       "id": "line-114",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "\"The health insurance company, Blue Cross, wants me to put you out in the snow tomorrow afternoon,\" he tells me after I have been in the hospital for more than a week.",
+      "text": "\"The health insurance company Blue Cross wants me to put you out in the snow tomorrow afternoon,\" he tells me after I have been in the hospital for more than a week.",
+      "translation": "在我住院一个多星期后，他告诉我：“蓝十字医保公司想让我在明天下午把你赶到雪地里去。”",
       "type": "narration",
       "words": 32,
       "start": 1043.34,
       "end": 1054.44,
-      "matchedWords": 32,
-      "translation": "“蓝十字保险公司想让我明天下午把你赶到雪地里去，”在我住院一个多星期后他对我说道。"
+      "matchedWords": 32
     },
     {
       "id": "line-115",
@@ -1569,727 +1569,857 @@
       "sectionTitle": "RECORDING 1",
       "speaker": "",
       "text": "I'm terrified because I have no idea where to go.",
+      "translation": "我很惊恐，因为我完全不知道该去哪里。",
       "type": "narration",
       "words": 10,
       "start": 1054.44,
       "end": 1059.72,
-      "matchedWords": 10,
-      "translation": "我吓坏了，因为我不知道该去哪里。"
+      "matchedWords": 10
     },
     {
       "id": "line-116",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "I can not walk or even lift my leg a few inches.",
+      "text": "I cannot walk or even lift my leg a few inches.",
+      "translation": "我无法行走，甚至连把腿抬高几英寸都做不到。",
       "type": "narration",
-      "words": 12,
+      "words": 11,
       "start": 1059.72,
       "end": 1064.3,
-      "matchedWords": 10,
-      "translation": "我不能走路，甚至连腿都抬不起来几英寸。"
+      "matchedWords": 11
     },
     {
       "id": "line-117",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "The hospital social worker strikes me as an idiot, but my complaints about her only annoy my surgeon.",
+      "text": "The hospital social worker strikes me as an idiot.",
+      "translation": "医院的社工在我看来就像个白痴。",
       "type": "narration",
-      "words": 18,
+      "words": 9,
       "start": 1064.3,
-      "end": 1072.96,
-      "matchedWords": 18,
-      "translation": "医院的社会工作者给我的印象是个白痴，但我对她的抱怨只会让我的外科医生感到厌烦。"
+      "end": 1068.4,
+      "matchedWords": 9
     },
     {
       "id": "line-118",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "\"I have to work with these people,\" he tells my friend, Dr. Karen Brudney, when she mercifully intervenes on my behalf and arranges for me to be transferred to another hospital.",
+      "text": "But my complaints about her only annoy my surgeon.",
+      "translation": "但我对她的抱怨只会惹恼我的外科医生。",
       "type": "narration",
-      "words": 31,
-      "start": 1072.96,
-      "end": 1086.12,
-      "matchedWords": 31,
-      "translation": "当我的朋友凯伦·布鲁德尼医生出于怜悯代表我出面干预，并安排我转院时，他告诉她：“我必须和这些人共事。”"
+      "words": 9,
+      "start": 1068.4,
+      "end": 1072.96,
+      "matchedWords": 9
     },
     {
       "id": "line-119",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "\"If you say one negative thing, they get defensive,\" she tells me later.",
+      "text": "\"I have to work with these people,\" he tells my friend, Dr. Karen Brudlney, when she mercifully intervenes on my behalf and arranges for me to be transferred to another hospital.",
+      "translation": "当我的朋友凯伦·布鲁德尼医生仁慈地代表我介入并安排我转到另一家医院时，他告诉她：“我必须和这些人共事。”",
       "type": "narration",
-      "words": 13,
-      "start": 1086.12,
-      "end": 1091.46,
-      "matchedWords": 13,
-      "translation": "“如果你说一句负面的话，他们就会产生防御心理，”她后来告诉我。"
+      "words": 31,
+      "start": 1072.96,
+      "end": 1086.12,
+      "matchedWords": 30
     },
     {
       "id": "line-120",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "\"They have this kind of institutional loyalty.",
+      "text": "\"If you say one negative thing, they get defensive,\" she tells me later.",
+      "translation": "“如果你说了一句负面的话，他们就会产生防御心理，”她后来告诉我。",
       "type": "narration",
-      "words": 7,
-      "start": 1091.46,
-      "end": 1095.3,
-      "matchedWords": 7,
-      "translation": "“他们有一种机构忠诚度。"
+      "words": 13,
+      "start": 1086.12,
+      "end": 1091.46,
+      "matchedWords": 13
     },
     {
       "id": "line-121",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Always bring in an advocate, that is, any other person with you to the hospital, and write down every single question and the answer, the name of every doctor and nurse.",
+      "text": "\"They have this kind of institutional loyalty.",
+      "translation": "“他们有这种对机构的忠诚。",
       "type": "narration",
-      "words": 31,
-      "start": 1095.3,
-      "end": 1108.76,
-      "matchedWords": 30,
-      "translation": "永远带一个辩护人，也就是陪你一起去医院的任何人，并记下每一个问题和答案，以及每一位医生和护士的名字。"
+      "words": 7,
+      "start": 1091.46,
+      "end": 1095.3,
+      "matchedWords": 7
     },
     {
       "id": "line-122",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "When people know you have their names, they behave better.",
+      "text": "Always bring an advocate, that is, any other person with you to the hospital, and write down every single question and the answer, the name of every doctor and nurse.",
+      "translation": "去医院时一定要带上一位倡导者，也就是任何陪同你的人，并写下每一个问题和答案，以及每一位医生和护士的名字。",
       "type": "narration",
-      "words": 10,
-      "start": 1108.76,
-      "end": 1113.5,
-      "matchedWords": 10,
-      "translation": "当人们知道你掌握了他们的名字，他们会表现得更好。"
+      "words": 30,
+      "start": 1095.3,
+      "end": 1108.76,
+      "matchedWords": 30
     },
     {
       "id": "line-123",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "And,\" Brudney adds, \"if you, as a patient, suggest that you might like to control even part of the situation or be consulted or informed, then you are considered difficult.",
+      "text": "When people know you have their names, they behave better.",
+      "translation": "当人们知道你记下了他们的名字时，他们的表现就会好一些。",
       "type": "narration",
-      "words": 30,
-      "start": 1113.5,
-      "end": 1128.02,
-      "matchedWords": 29,
-      "translation": "布鲁德尼补充道：“而且，作为一名病人，如果你建议想要掌控局面的一部分，或者希望被咨询、被告知，那你就会被认为是难缠的。”"
+      "words": 10,
+      "start": 1108.76,
+      "end": 1113.5,
+      "matchedWords": 10
     },
     {
       "id": "line-124",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "They want you to be totally passive.",
+      "text": "And,\" Brudney adds, \"if you, as a patient, suggest that you might like to control even part of the situation or be consulted or informed, then you are considered difficult.",
+      "translation": "而且，”布鲁德尼补充道，“如果你作为一名患者，表现出想要控制哪怕一部分局势，或者希望被咨询、被告知，那么你就会被认为很挑剔、很难难缠。",
       "type": "narration",
-      "words": 7,
-      "start": 1128.02,
-      "end": 1131.06,
-      "matchedWords": 7,
-      "translation": "他们想要你完全顺从。"
+      "words": 30,
+      "start": 1113.5,
+      "end": 1128.02,
+      "matchedWords": 29
     },
     {
       "id": "line-125",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "The entire health care system, particularly hospitals and nursing homes, exists for reasons that have nothing to do with taking care of patients.",
+      "text": "They want you to be totally passive.",
+      "translation": "他们希望你完全被动。",
       "type": "narration",
-      "words": 23,
-      "start": 1131.06,
-      "end": 1142.24,
-      "matchedWords": 21,
-      "translation": "整个医疗保健系统，特别是医院和疗养院，其存在的原因与照顾病人毫无关系。"
+      "words": 7,
+      "start": 1128.02,
+      "end": 1131.06,
+      "matchedWords": 7
     },
     {
       "id": "line-126",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Patients are incidental.\"",
+      "text": "The entire health care system, particularly hospitals and nursing homes, exists for reasons that have nothing to do with taking care of patients.",
+      "translation": "整个医疗体系，特别是医院和养老院，其存在的理由与照顾患者毫无关系。",
       "type": "narration",
-      "words": 3,
-      "start": 1142.24,
-      "end": 1147.916,
-      "matchedWords": 3,
-      "translation": "病人只是附带的。”"
+      "words": 23,
+      "start": 1131.06,
+      "end": 1142.24,
+      "matchedWords": 21
     },
     {
       "id": "line-127",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
-      "speaker": "Q16.",
-      "text": "What does the speaker say about most American hospitals?",
-      "type": "question",
-      "words": 9,
-      "start": 1147.916,
-      "end": 1173.46,
-      "matchedWords": 0,
-      "translation": "关于大多数美国医院，演讲者说了什么？"
+      "speaker": "",
+      "text": "Patients are incidental.\"",
+      "translation": "患者只是顺带的。”",
+      "type": "narration",
+      "words": 3,
+      "start": 1142.24,
+      "end": 1147.916,
+      "matchedWords": 3
     },
     {
       "id": "line-128",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
-      "speaker": "Q17.",
-      "text": "What does Karen Brudney suggest patients do?",
+      "speaker": "Q16.",
+      "text": "What does the speaker say about most American hospitals?",
+      "translation": "发言者对大多数美国医院有什么看法？",
       "type": "question",
-      "words": 7,
-      "start": 1173.46,
-      "end": 1191.82,
-      "matchedWords": 7,
-      "translation": "凯伦·布鲁德尼建议病人怎么做？"
+      "words": 9,
+      "start": 1147.916,
+      "end": 1173.46,
+      "matchedWords": 0
     },
     {
       "id": "line-129",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
+      "speaker": "Q17.",
+      "text": "What does Karen Brudney suggest patients do?",
+      "translation": "凯伦·布鲁德尼建议患者怎么做？",
+      "type": "question",
+      "words": 7,
+      "start": 1173.46,
+      "end": 1191.82,
+      "matchedWords": 7
+    },
+    {
+      "id": "line-130",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "Q18.",
-      "text": "What do American doctors expect their patients to be according to Karen Brudney?",
+      "text": "What do American doctors expect their patients to be, according to Karen Brudney?",
+      "translation": "根据凯伦·布鲁德尼的说法，美国的医生期望他们的患者是什么样的？",
       "type": "question",
       "words": 13,
       "start": 1191.82,
       "end": 1211.92,
-      "matchedWords": 13,
-      "translation": "根据凯伦·布鲁德尼的说法，美国医生期望他们的病人是什么样的？"
-    },
-    {
-      "id": "line-130",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "There are probably teams you've worked with that you never want to work with again.",
-      "type": "narration",
-      "words": 15,
-      "start": 1211.92,
-      "end": 1219.66,
-      "matchedWords": 15,
-      "translation": "可能有些你曾经合作过的团队，你再也不想和他们共事了。"
+      "matchedWords": 13
     },
     {
       "id": "line-131",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "But there must have also been other teams that you would prize reuniting with professionally.",
+      "text": "There are probably teams you've worked with but you never want to work with again.",
+      "translation": "可能有一些团队你曾与其合作过，但再也不想与他们合作了。",
       "type": "narration",
       "words": 15,
-      "start": 1219.66,
-      "end": 1226.52,
-      "matchedWords": 15,
-      "translation": "但肯定也还有其他一些团队，是你非常珍惜并渴望在职业生涯中再次重聚的。"
+      "start": 1211.92,
+      "end": 1219.66,
+      "matchedWords": 14
     },
     {
       "id": "line-132",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "In other words, your team had vitality.",
+      "text": "But there must have also been other teams that you would prize reuniting with professionally.",
+      "translation": "但也一定有其他一些团队，你会在职业生涯中非常珍惜与他们再度重聚的机会。",
       "type": "narration",
-      "words": 7,
-      "start": 1226.52,
-      "end": 1230.8,
-      "matchedWords": 7,
-      "translation": "换句话说，你的团队具有生命力。"
+      "words": 15,
+      "start": 1219.66,
+      "end": 1226.52,
+      "matchedWords": 15
     },
     {
       "id": "line-133",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Vitality comes about when the ties people form with their fellow team members are such that they stay connected even after the team breaks up.",
+      "text": "In other words, your team had vitality.",
+      "translation": "换句话说，你的团队拥有活力。",
       "type": "narration",
-      "words": 25,
-      "start": 1230.8,
-      "end": 1241.36,
-      "matchedWords": 25,
-      "translation": "当人们与团队成员建立的关系能够让他们在团队解散后仍保持联系时，团队就产生了生命力。"
+      "words": 7,
+      "start": 1226.52,
+      "end": 1230.8,
+      "matchedWords": 7
     },
     {
       "id": "line-134",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "What characteristics of a team make its members more likely to stay in contact despite no longer working together?",
+      "text": "Vitality comes about when the ties people form with their fellow team members are such that they stay connected even after the team breaks up.",
+      "translation": "当人们与团队其他成员形成的纽带使得他们在团队解散后仍保持联系时，活力就产生了。",
       "type": "narration",
-      "words": 19,
-      "start": 1241.36,
-      "end": 1252.3,
-      "matchedWords": 19,
-      "translation": "团队的哪些特征使得成员在不再共事后仍更有可能保持联系？"
+      "words": 25,
+      "start": 1230.8,
+      "end": 1241.36,
+      "matchedWords": 25
     },
     {
       "id": "line-135",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "This question has been answered recently in a study published in a business journal.",
+      "text": "What characteristics of a team make its members more likely to stay in contact despite no longer working together?",
+      "translation": "一个团队的哪些特征会让其成员在不再一起工作的情况下，仍更倾向于保持联系？",
       "type": "narration",
-      "words": 14,
-      "start": 1252.3,
-      "end": 1256.5,
-      "matchedWords": 6,
-      "translation": "这个问题最近在《商业杂志》上发表的一项研究中得到了解答。"
+      "words": 19,
+      "start": 1241.36,
+      "end": 1252.3,
+      "matchedWords": 19
     },
     {
       "id": "line-136",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "One of the two key factors the research team discovered is sameness, specifically sharing the same gender or ethnic origin.",
+      "text": "This question has been answered recently in a study publisbed in a business journal.",
+      "translation": "最近发表在一家商业期刊上的一项研究回答了这个问题。",
       "type": "narration",
-      "words": 20,
-      "start": 1256.5,
-      "end": 1266.86,
-      "matchedWords": 20,
-      "translation": "研究小组发现的两个关键因素之一是“同一性”，特别是拥有相同的性别或种族出身。"
+      "words": 14,
+      "start": 1252.3,
+      "end": 1256.5,
+      "matchedWords": 5
     },
     {
       "id": "line-137",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "The more members of a team share similar demographics, the more inclined they'll be to remain associates long after the team has served its purpose.",
+      "text": "One of the two key factors the research team discovered is sameness.",
+      "translation": "研究团队发现的两个关键因素之一是‘同质性’。",
       "type": "narration",
-      "words": 25,
-      "start": 1266.86,
-      "end": 1277.74,
-      "matchedWords": 25,
-      "translation": "团队成员的背景特征越相似，在团队完成使命后的很长一段时间里，他们就越倾向于保持联系。"
+      "words": 12,
+      "start": 1256.5,
+      "end": 1262.3,
+      "matchedWords": 12
     },
     {
       "id": "line-138",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "After ties are established, similarity strengthens them.",
+      "text": "Specifically, sharing the same gender or ethnic origin.",
+      "translation": "具体来说，就是拥有相同的性别或种族出身。",
       "type": "narration",
-      "words": 7,
-      "start": 1277.74,
-      "end": 1282.88,
-      "matchedWords": 7,
-      "translation": "在关系建立之后，相似性会加强这种关系。"
+      "words": 8,
+      "start": 1262.3,
+      "end": 1266.86,
+      "matchedWords": 8
     },
     {
       "id": "line-139",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "As a result, they regard these individuals with greater trust and mutual understanding, which motivates them to seek further opportunities for collaboration.",
+      "text": "The more members of a team share similar demographics, the more inclined they will be to remain associates long after the team has served its purpose.",
+      "translation": "一个团队中拥有相似人口统计学特征的成员越多，在团队完成其使命后的很长一段时间里，他们就越倾向于保持伙伴关系。",
       "type": "narration",
-      "words": 22,
-      "start": 1282.88,
-      "end": 1293.98,
-      "matchedWords": 22,
-      "translation": "因此，他们会以更大的信任和相互理解来对待这些人，这激励他们寻求进一步的合作机会。"
+      "words": 26,
+      "start": 1266.86,
+      "end": 1277.74,
+      "matchedWords": 24
     },
     {
       "id": "line-140",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "In effect, the more people in a team have in common, the stronger their loyalty to each other and the team will be.",
+      "text": "After ties are established, similarity strengthens them.",
+      "translation": "在纽带建立之后，相似性会巩固它们。",
       "type": "narration",
-      "words": 23,
-      "start": 1293.98,
-      "end": 1466.515,
-      "matchedWords": 14,
-      "translation": "实际上，团队成员之间的共同点越多，他们对彼此及对团队的忠诚度就越强。"
+      "words": 7,
+      "start": 1277.74,
+      "end": 1282.88,
+      "matchedWords": 7
     },
     {
       "id": "line-141",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "The second factor is that the experience must be memorable.",
+      "text": "As a result, they regard these individuals with greater trust and mutual understanding, which motivates them to seek further opportunities for collaboration.",
+      "translation": "因此，他们对这些人抱有更大的信任和相互理解，这激励着他们寻找进一步的合作机会。",
       "type": "narration",
-      "words": 10,
-      "start": 1466.515,
-      "end": 1541.53,
-      "matchedWords": 0,
-      "translation": "第二个因素是经历必须是难忘的。"
+      "words": 22,
+      "start": 1282.88,
+      "end": 1293.98,
+      "matchedWords": 22
     },
     {
       "id": "line-142",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Teams that have been through intense experiences together, such as working on a difficult project or dealing with a crisis, are more likely to stay in touch.",
+      "text": "In effect, people tend to create stronger and longer-lasting connections with similar others.",
+      "translation": "实际上，人们往往会与相似的人建立起更强大、更持久的联系。",
       "type": "narration",
-      "words": 27,
-      "start": 1541.53,
-      "end": 1595.533,
-      "matchedWords": 6,
-      "translation": "那些共同经历过紧张时刻的团队，比如合作完成一个困难项目或应对危机，更有可能保持联系。"
+      "words": 14,
+      "start": 1293.98,
+      "end": 1301.7,
+      "matchedWords": 14
     },
     {
       "id": "line-143",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "These shared experiences create a bond that is hard to break.",
+      "text": "Someone who looks and sounds different from us may have the resources we need to be more successful.",
+      "translation": "有些在外貌或声音上与我们不同的人可能拥有我们获得更大成功所需的资源。",
       "type": "narration",
-      "words": 11,
-      "start": 1595.533,
-      "end": 1617.535,
-      "matchedWords": 0,
-      "translation": "这些共同的经历创造了一种难以打破的纽带。"
+      "words": 18,
+      "start": 1301.7,
+      "end": 1308.48,
+      "matchedWords": 18
     },
     {
       "id": "line-144",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "The study also found that the size of the team matters.",
+      "text": "Yet, we find then to be significantly less credible simply because they are different.",
+      "translation": "然而，仅仅因为他们与众不同，我们就会觉得他们的可信度明显降低。",
       "type": "narration",
-      "words": 11,
-      "start": 1617.535,
-      "end": 1639.536,
-      "matchedWords": 0,
-      "translation": "研究还发现，团队的规模也很重要。"
+      "words": 14,
+      "start": 1308.48,
+      "end": 1314.96,
+      "matchedWords": 13
     },
     {
       "id": "line-145",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Smaller teams are more likely to have strong ties than larger teams.",
+      "text": "If you are a fierce advocate of workplace diversity, you'll no doubt be horrified by such a revelation.",
+      "translation": "如果你是职场多元化的坚定倡导者，你无疑会被这一发现吓一跳。",
       "type": "narration",
-      "words": 12,
-      "start": 1639.536,
-      "end": 1663.538,
-      "matchedWords": 0,
-      "translation": "与大团队相比，小团队更有可能拥有紧密的联系。"
+      "words": 18,
+      "start": 1314.96,
+      "end": 1323.14,
+      "matchedWords": 18
     },
     {
       "id": "line-146",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "This is because in smaller teams, people have more opportunities to interact with each other on a personal level.",
+      "text": "The second factor identified by the researchers is the quality of the relationships among the team members.",
+      "translation": "研究人员确定的第二个因素是团队成员之间关系的质量。",
       "type": "narration",
-      "words": 19,
-      "start": 1663.538,
-      "end": 1701.54,
-      "matchedWords": 0,
-      "translation": "这是因为在较小的团队中，人们有更多机会在个人层面进行互动。"
+      "words": 17,
+      "start": 1323.14,
+      "end": 1330.72,
+      "matchedWords": 17
     },
     {
       "id": "line-147",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
-      "speaker": "Q19.",
-      "text": "What does the speaker say about team vitality?",
-      "type": "question",
-      "words": 8,
-      "start": 1701.54,
-      "end": 1702.369,
-      "matchedWords": 4,
-      "translation": "关于团队生命力，演讲者说了什么？"
+      "speaker": "",
+      "text": "The more they trust one another, share the same goals and depend on each other for the achievement of those goals, the stronger their chances of maintaining their connections, despite no longer working as one team.",
+      "translation": "他们越是信任彼此、共享相同的目标，并在实现这些目标时互相依赖，那么尽管不再作为一个团队工作，他们保持联系的机会就越大。",
+      "type": "narration",
+      "words": 36,
+      "start": 1330.72,
+      "end": 1345.4,
+      "matchedWords": 36
     },
     {
       "id": "line-148",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
-      "speaker": "Q20.",
-      "text": "What is one of the key factors that make team members stay in contact?",
-      "type": "question",
-      "words": 14,
-      "start": 1702.369,
-      "end": 1703.491,
-      "matchedWords": 0,
-      "translation": "使得团队成员保持联系的关键因素之一是什么？"
+      "speaker": "",
+      "text": "Teams with quality relationships have a shared belief that it's safe to take risks with each ether, and their members are obliged to share the workload and help out.",
+      "translation": "拥有高质量关系的团队有一种共同的信念，即相互之间承担风险是安全的，而且其成员有义务分担工作量并互相帮助。",
+      "type": "narration",
+      "words": 29,
+      "start": 1345.4,
+      "end": 1357.82,
+      "matchedWords": 27
     },
     {
       "id": "line-149",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
-      "speaker": "Q21.",
-      "text": "Why are smaller teams more likely to have strong ties?",
-      "type": "question",
-      "words": 10,
-      "start": 1703.491,
-      "end": 1704.417,
-      "matchedWords": 0,
-      "translation": "为什么小团队更有可能拥有紧密的联系？"
+      "speaker": "",
+      "text": "From personal experience, I can see both the truth and the inconsistency of such studies.",
+      "translation": "从个人经验来看，我既能看出此类研究的真实性，也能看出其不一致性。",
+      "type": "narration",
+      "words": 15,
+      "start": 1357.82,
+      "end": 1363.9,
+      "matchedWords": 15
     },
     {
       "id": "line-150",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Skin may seem like a superficial human attribute, but it is the first thing we notice about anyone we meet.",
+      "text": "The truth is some of my closest friendships were formed as a result of having worked together on teams, and I actively seek opportunities to work with them again.",
+      "translation": "事实是，我的一些最亲密的友谊是在团队合作中建立起来的，而且我积极寻找再次与他们共事的机会。",
       "type": "narration",
-      "words": 20,
-      "start": 1704.417,
-      "end": 1705.393,
-      "matchedWords": 0,
-      "translation": "皮肤可能看起来是人类的一种表面特征，但它是我们见到任何人时首先注意到的东西。"
+      "words": 29,
+      "start": 1363.9,
+      "end": 1376.44,
+      "matchedWords": 29
     },
     {
       "id": "line-151",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "As a zoologist focusing on the studies of apes and monkeys, I've been studying why humans evolved to become the naked ape, and why skin comes in so many different shades around the world.",
+      "text": "The inconsistency, though, is that I've never worked for a team more successful and cohesive than the one of which I am a member right now.",
+      "translation": "然而，不一致之处在于，我从未在比我现在所处团队更成功、更具凝聚力的团队中工作过。",
       "type": "narration",
-      "words": 34,
-      "start": 1705.393,
-      "end": 1707.051,
-      "matchedWords": 0,
-      "translation": "作为一名专注于猿类和猴类研究的动物学家，我一直在研究为什么人类进化成了“裸猿”，以及为什么世界各地的人皮肤颜色各异。"
+      "words": 26,
+      "start": 1376.44,
+      "end": 1385.92,
+      "matchedWords": 24
     },
     {
       "id": "line-152",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "We can make a very good estimate from the fossil record that humans probably evolved naked skin around a million and a half years ago.",
+      "text": "And yet, the four of us have very little in common and are completely different demographically.",
+      "translation": "然而，我们四个人几乎没有共同点，在人口统计学特征上完全不同。",
       "type": "narration",
-      "words": 25,
-      "start": 1707.051,
-      "end": 1708.27,
-      "matchedWords": 0,
-      "translation": "我们可以根据化石记录做出非常准确的估计，人类大约在150万年前进化出了裸露的皮肤。"
+      "words": 16,
+      "start": 1385.92,
+      "end": 1391.66,
+      "matchedWords": 16
     },
     {
       "id": "line-153",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "And meanwhile, they mostly lost their coat of fur.",
+      "text": "So I am unlikely to question the value of a diverse workforce.",
+      "translation": "因此，我不太可能去质疑多元化员工队伍的价值。",
       "type": "narration",
-      "words": 9,
-      "start": 1708.27,
-      "end": 1708.709,
-      "matchedWords": 0,
-      "translation": "与此同时，他们大部分的皮毛都脱落了。"
+      "words": 12,
+      "start": 1391.66,
+      "end": 1404.86,
+      "matchedWords": 10
     },
     {
       "id": "line-154",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Today, we have only a few patches of hair left on our bodies.",
-      "type": "narration",
-      "words": 13,
-      "start": 1708.709,
-      "end": 1709.343,
-      "matchedWords": 0,
-      "translation": "今天，我们的身体上只剩下几处毛发。"
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "Q19.",
+      "text": "What does the speaker say about a team with vitality?",
+      "translation": "发言者对充满活力的团队有什么看法？",
+      "type": "question",
+      "words": 10,
+      "start": 1404.86,
+      "end": 1425.76,
+      "matchedWords": 0
     },
     {
       "id": "line-155",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Why did we lose our fur?",
-      "type": "narration",
-      "words": 6,
-      "start": 1709.343,
-      "end": 1709.636,
-      "matchedWords": 0,
-      "translation": "我们为什么要脱掉皮毛？"
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "Q20.",
+      "text": "What do the researchers find out about members of a team?",
+      "translation": "研究人员对团队成员有什么发现？",
+      "type": "question",
+      "words": 11,
+      "start": 1425.76,
+      "end": 1445.28,
+      "matchedWords": 11
     },
     {
       "id": "line-156",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Well, one theory is that it helped us to stay cool when we started walking upright and moving long distances in the hot African sun.",
-      "type": "narration",
-      "words": 25,
-      "start": 1709.636,
-      "end": 1710.855,
-      "matchedWords": 0,
-      "translation": "嗯，一种理论是，当我们开始直立行走并在炎热的非洲烈日下长距离移动时，这有助于我们保持凉爽。"
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "Q21.",
+      "text": "What do we learn about the team the speaker is currently working in?",
+      "translation": "我们对发言者目前所在的团队有什么了解？",
+      "type": "question",
+      "words": 13,
+      "start": 1445.28,
+      "end": 1464.52,
+      "matchedWords": 13
     },
     {
       "id": "line-157",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "Another theory is that it helped us to avoid parasites such as ticks and lice.",
+      "text": "An American researcher who studied 600 millionaires found how rich you can get comes down to six wealth factors.",
+      "translation": "一位研究了600位百万富翁的美国研究人员发现，你能变得多富有归结为六个财富因素。",
       "type": "narration",
-      "words": 15,
-      "start": 1710.855,
-      "end": 1711.586,
-      "matchedWords": 0,
-      "translation": "另一种理论是，它帮助我们躲避像蜱虫和虱子这样的寄生虫。"
+      "words": 19,
+      "start": 1464.52,
+      "end": 1474.4,
+      "matchedWords": 19
     },
     {
       "id": "line-158",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "But the most interesting theory is that it helped us to communicate with each other.",
+      "text": "She found that six behaviors are related to net worth potential, regardless of age or income.",
+      "translation": "她发现，无论年龄或收入如何，有六种行为都与净资产潜力相关。",
       "type": "narration",
-      "words": 15,
-      "start": 1711.586,
-      "end": 1712.318,
-      "matchedWords": 0,
-      "translation": "但最有趣的理论是，它帮助我们相互交流。"
+      "words": 16,
+      "start": 1474.4,
+      "end": 1483.14,
+      "matchedWords": 16
     },
     {
       "id": "line-159",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "Our skin is full of nerve endings that allow us to feel touch, pressure, and temperature.",
+      "text": "These were thriftiness, confidence, responsibility, planning, focus and social indifference.",
+      "translation": "它们是：节俭、自信、责任感、规划、专注和社交冷漠。",
       "type": "narration",
-      "words": 16,
-      "start": 1712.318,
-      "end": 1713.098,
-      "matchedWords": 0,
-      "translation": "我们的皮肤充满了神经末梢，能让我们感受到触碰、压力和温度。"
+      "words": 10,
+      "start": 1483.14,
+      "end": 1491.86,
+      "matchedWords": 10
     },
     {
       "id": "line-160",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "By losing our fur, we were able to use touch as a form of communication, such as hugging, kissing, and holding hands.",
+      "text": "Being thrifty comes as no great surprise.",
+      "translation": "保持节俭并不令人感到十分意外。",
       "type": "narration",
-      "words": 22,
-      "start": 1713.098,
-      "end": 1714.171,
-      "matchedWords": 0,
-      "translation": "失去了皮毛，我们能够将触摸作为一种交流方式，比如拥抱、亲吻和握手。"
+      "words": 7,
+      "start": 1491.86,
+      "end": 1495.4,
+      "matchedWords": 7
     },
     {
       "id": "line-161",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "As for the different shades of skin color, that is due to the amount of melanin in the skin.",
+      "text": "Spending above your means, spending instead of saving for retirement,spending in anticipation of becoming wealthy,makes you a slave to the paycheck.",
+      "translation": "入不敷出、消费而不为退休攒钱、预支未来可能拥有的财富进行消费，会让你成为薪水的奴隶。",
       "type": "narration",
-      "words": 19,
-      "start": 1714.171,
-      "end": 1715.098,
-      "matchedWords": 0,
-      "translation": "至于肤色的不同深浅，那是由于皮肤中黑色素含量的不同造成的。"
+      "words": 23,
+      "start": 1495.4,
+      "end": 1506.27,
+      "matchedWords": 23
     },
     {
       "id": "line-162",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "Melanin is a pigment that protects the skin from the harmful effects of the sun's ultraviolet rays.",
+      "text": "\"Even with an astronomical level of income,\" she wrote, \"to properly build wealth, experts recommend saving 20% of your income and living off the remaining 80%.\"",
+      "translation": "她写道：“即使收入极高，专家也建议将收入的20%存起来，依靠剩下的80%生活，以此来妥善积累财富。”",
       "type": "narration",
-      "words": 17,
-      "start": 1715.098,
-      "end": 1715.927,
-      "matchedWords": 0,
-      "translation": "黑色素是一种保护皮肤免受太阳紫外线伤害的色素。"
+      "words": 26,
+      "start": 1506.27,
+      "end": 1519.35,
+      "matchedWords": 26
     },
     {
       "id": "line-163",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "People who live near the equator have more melanin in their skin, which makes it darker.",
+      "text": "Having confidence is another key characteristic, as it helps people to be thrifty.",
+      "translation": "拥有自信是另一个关键特征，因为它有助于人们保持节俭。",
       "type": "narration",
-      "words": 16,
-      "start": 1715.927,
-      "end": 1716.707,
-      "matchedWords": 0,
-      "translation": "生活在赤道附近的人皮肤中的黑色素更多，这使得他们的肤色更深。"
+      "words": 13,
+      "start": 1519.35,
+      "end": 1525.03,
+      "matchedWords": 13
     },
     {
       "id": "line-164",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "People who live farther from the equator have less melanin, which makes their skin lighter.",
+      "text": "It takes confidence to live within your means.",
+      "translation": "量入为出需要自信。",
       "type": "narration",
-      "words": 15,
-      "start": 1716.707,
-      "end": 1717.438,
-      "matchedWords": 0,
-      "translation": "远离赤道的人黑色素较少，这使得他们的肤色更浅。"
+      "words": 8,
+      "start": 1525.03,
+      "end": 1529.11,
+      "matchedWords": 8
     },
     {
       "id": "line-165",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "This is because in areas with less sunlight, the body needs to produce more vitamin D, which is made when the skin is exposed to sunlight.",
+      "text": "It also takes confidence to invest properly.",
+      "translation": "进行妥善的投资同样需要自信。",
       "type": "narration",
-      "words": 26,
-      "start": 1717.438,
-      "end": 1718.706,
-      "matchedWords": 0,
-      "translation": "这是因为在光照较少的地区，身体需要产生更多的维生素D，而维生素D是皮肤暴露在阳光下时产生的。"
+      "words": 7,
+      "start": 1529.11,
+      "end": 1532.59,
+      "matchedWords": 7
     },
     {
       "id": "line-166",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "Having lighter skin allows more sunlight to penetrate the skin, which helps the body to produce more vitamin D.",
+      "text": "Instead of making investing decisions with your emotions, financial planners advise that you should leave your investrnents alone and focus on a long term investment plan.",
+      "translation": "理财规划师建议，不要凭感情做投资决定，而应该不去动你的投资，而是专注于长期投资计划。",
       "type": "narration",
-      "words": 19,
-      "start": 1718.706,
-      "end": 1719.633,
-      "matchedWords": 0,
-      "translation": "较浅的肤色能让更多的阳光穿透皮肤，从而帮助身体产生更多的维生素D。"
+      "words": 26,
+      "start": 1532.59,
+      "end": 1544.91,
+      "matchedWords": 25
     },
     {
       "id": "line-167",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q22.",
-      "text": "What is the speaker's area of research?",
-      "type": "question",
-      "words": 7,
-      "start": 1719.633,
-      "end": 1720.413,
-      "matchedWords": 0,
-      "translation": "演讲者的研究领域是什么？"
+      "speaker": "",
+      "text": "But people can't invest or manage their own money without accepting responsibility for the outcomes.",
+      "translation": "但如果不为结果承担责任，人们就无法投资或管理自己的钱财。",
+      "type": "narration",
+      "words": 15,
+      "start": 1544.91,
+      "end": 1552.95,
+      "matchedWords": 15
     },
     {
       "id": "line-168",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q23.",
-      "text": "When did humans probably evolve naked skin according to the fossil record?",
-      "type": "question",
-      "words": 12,
-      "start": 1720.413,
-      "end": 1721.437,
-      "matchedWords": 0,
-      "translation": "根据化石记录，人类可能是在什么时候进化出裸露皮肤的？"
+      "speaker": "",
+      "text": "Many millionaires take on personal responsibility, and most also happen to be self-made, meaning they didn't acquire their wealth through luck.",
+      "translation": "许多百万富翁承担起个人责任，而且他们大多数人恰好是白手起家的，这意味着他们并不是靠运气获得财富的。",
+      "type": "narration",
+      "words": 22,
+      "start": 1552.95,
+      "end": 1564.83,
+      "matchedWords": 22
     },
     {
       "id": "line-169",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q24.",
-      "text": "What is one theory about why humans lost their fur?",
-      "type": "question",
-      "words": 10,
-      "start": 1721.437,
-      "end": 1721.487,
-      "matchedWords": 0,
-      "translation": "关于人类为什么脱掉皮毛，其中一个理论是什么？"
+      "speaker": "",
+      "text": "Millionaires don't count on anyone else to make them rich, and they don't blame anyone else if they fall short.",
+      "translation": "百万富翁不指望别人让他们变富，如果没能达到预期，他们也不会怪罪别人。",
+      "type": "narration",
+      "words": 20,
+      "start": 1564.83,
+      "end": 1573.01,
+      "matchedWords": 20
     },
     {
       "id": "line-170",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q25.",
-      "text": "Why do people who live farther from the equator have lighter skin?",
+      "speaker": "",
+      "text": "They focus on things they can control and align their daily habits to the goals they have set for themselves.",
+      "translation": "他们专注于自己可以控制的事情，并将日常习惯与为自己设定的目标保持一致。",
+      "type": "narration",
+      "words": 20,
+      "start": 1573.01,
+      "end": 1581.2,
+      "matchedWords": 19
+    },
+    {
+      "id": "line-171",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "They tend to be goal-oriented and hard workers, which enables them to plan financially and focus on seeing those plans through.",
+      "translation": "他们往往以目标为导向，工作努力，这使他们能够做好财务规划并专注于将这些计划执行到底。",
+      "type": "narration",
+      "words": 22,
+      "start": 1581.2,
+      "end": 1591.64,
+      "matchedWords": 22
+    },
+    {
+      "id": "line-172",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "92% of the milionaires surveyed developed a longterm plan for their money and 97% almost always achieved the goals they set for themselves.",
+      "translation": "在接受调查的百万富翁中，92%的人为他们的资金制定了长期计划，97%的人几乎总能实现他们为自己设定的目标。",
+      "type": "narration",
+      "words": 23,
+      "start": 1591.64,
+      "end": 1604.26,
+      "matchedWords": 20
+    },
+    {
+      "id": "line-173",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "And it is these behaviors that make it easy for them to be socially indifferent.",
+      "translation": "正是这些行为让他们很容易在社交上保持冷漠（即不在意他人眼光）。",
+      "type": "narration",
+      "words": 15,
+      "start": 1604.26,
+      "end": 1610.02,
+      "matchedWords": 15
+    },
+    {
+      "id": "line-174",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "They resist lifestyle creep, the tendency to spend more whenever one earns more.",
+      "translation": "他们抵制“生活方式攀升”（即赚得越多花得越多的倾向）。",
+      "type": "narration",
+      "words": 13,
+      "start": 1610.02,
+      "end": 1616.8,
+      "matchedWords": 13
+    },
+    {
+      "id": "line-175",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Essentially, they don't yield to pressure to buy the latest thing or to keep up with others or what they have acquired.",
+      "translation": "从本质上讲，他们不会屈服于购买最新潮产品、攀比他人或炫耀已有财富的压力。",
+      "type": "narration",
+      "words": 22,
+      "start": 1616.8,
+      "end": 1624.82,
+      "matchedWords": 22
+    },
+    {
+      "id": "line-176",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Instead of being focused on what might make them happy today, they're focused on their long-term wealth-building plan.",
+      "translation": "他们没有把注意力放在今天能让他们快乐的事情上，而是专注于他们的长期财富积累计划。",
+      "type": "narration",
+      "words": 20,
+      "start": 1624.82,
+      "end": 1645.842,
+      "matchedWords": 20
+    },
+    {
+      "id": "line-177",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q22.",
+      "text": "What do experts recommend concerning being thrifty?",
+      "translation": "关于保持节俭，专家有什么建议？",
       "type": "question",
-      "words": 12,
-      "start": 1721.487,
+      "words": 7,
+      "start": 1645.842,
+      "end": 1662.66,
+      "matchedWords": 0
+    },
+    {
+      "id": "line-178",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q23.",
+      "text": "How does confidence help people to be thrifty?",
+      "translation": "自信如何帮助人们保持节俭？",
+      "type": "question",
+      "words": 8,
+      "start": 1662.66,
+      "end": 1681.4,
+      "matchedWords": 8
+    },
+    {
+      "id": "line-179",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q24.",
+      "text": "How do millionaires react when they fail in their investment?",
+      "translation": "百万富翁在投资失败时会如何反应？",
+      "type": "question",
+      "words": 10,
+      "start": 1681.4,
+      "end": 1701.18,
+      "matchedWords": 10
+    },
+    {
+      "id": "line-180",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q25.",
+      "text": "Why does the speaker say millionaires are socially indifferent?",
+      "translation": "发言者为什么说百万富翁在社交上很冷漠（不在意他人看法）？",
+      "type": "question",
+      "words": 9,
+      "start": 1701.18,
       "end": 1722.364,
-      "matchedWords": 0,
-      "translation": "为什么远离赤道的人皮肤较浅？"
+      "matchedWords": 9
     }
   ]
 }
