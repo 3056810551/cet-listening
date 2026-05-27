@@ -78,7 +78,8 @@
       "words": 3,
       "start": 40.74,
       "end": 42.76,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "这太令人难以置信了。"
     },
     {
       "id": "line-1",
@@ -90,7 +91,8 @@
       "words": 20,
       "start": 42.76,
       "end": 49.82,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "它和我以前玩过的任何电子游戏都不同，虽然很无聊，但同时又让人感到非常放松。"
     },
     {
       "id": "line-2",
@@ -102,7 +104,8 @@
       "words": 8,
       "start": 49.82,
       "end": 52.86,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "你是怎么听说这个驾驶模拟器的？"
     },
     {
       "id": "line-3",
@@ -113,8 +116,9 @@
       "type": "dialogue",
       "words": 8,
       "start": 52.86,
-      "end": 56.0,
-      "matchedWords": 8
+      "end": 56,
+      "matchedWords": 8,
+      "translation": "我哥哥去年把它介绍给我的。"
     },
     {
       "id": "line-4",
@@ -124,9 +128,10 @@
       "text": "I was surprised to find how educational and realistic it was.",
       "type": "dialogue",
       "words": 11,
-      "start": 56.0,
+      "start": 56,
       "end": 60.4,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "我很惊讶地发现它竟然如此具有教育意义且如此逼真。"
     },
     {
       "id": "line-5",
@@ -138,7 +143,8 @@
       "words": 18,
       "start": 60.4,
       "end": 66.74,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "它叫《欧洲卡车模拟》，但他们也有美洲等其他版本的衍生作品。"
     },
     {
       "id": "line-6",
@@ -150,7 +156,8 @@
       "words": 7,
       "start": 66.74,
       "end": 69.08,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "我真的被里面的风景吸引了。"
     },
     {
       "id": "line-7",
@@ -162,7 +169,8 @@
       "words": 16,
       "start": 69.08,
       "end": 74.02,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "这些路线会穿过一些你作为游客平时根本见不到的国家区域。"
     },
     {
       "id": "line-8",
@@ -174,7 +182,8 @@
       "words": 5,
       "start": 74.02,
       "end": 75.62,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "是的，我看得出来。"
     },
     {
       "id": "line-9",
@@ -186,7 +195,8 @@
       "words": 19,
       "start": 75.62,
       "end": 83.28,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "它看起来如此简单，只是把货物从A点运到B点，从一个城市开到另一个城市。"
     },
     {
       "id": "line-10",
@@ -198,7 +208,8 @@
       "words": 12,
       "start": 83.28,
       "end": 87.46,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "但我真的很赞赏这款游戏中所融入的所有细节。"
     },
     {
       "id": "line-11",
@@ -210,7 +221,8 @@
       "words": 17,
       "start": 87.46,
       "end": 92.92,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "它甚至让我对物流行业和道路交通有了新的认识和理解。"
     },
     {
       "id": "line-12",
@@ -222,7 +234,8 @@
       "words": 3,
       "start": 92.92,
       "end": 94.66,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "我完全同意。"
     },
     {
       "id": "line-13",
@@ -234,7 +247,8 @@
       "words": 15,
       "start": 94.66,
       "end": 100.22,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "我哥哥还给我推荐了一些人在网上直播玩这款游戏的视频。"
     },
     {
       "id": "line-14",
@@ -246,7 +260,8 @@
       "words": 6,
       "start": 100.22,
       "end": 101.96,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "看那个真的非常有意思。"
     },
     {
       "id": "line-15",
@@ -258,7 +273,8 @@
       "words": 20,
       "start": 101.96,
       "end": 112.1,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "那个人开车非常小心，遵守所有的路标和交通规则——这与大多数暴力游戏形成了鲜明的对比。"
     },
     {
       "id": "line-16",
@@ -270,7 +286,8 @@
       "words": 11,
       "start": 112.1,
       "end": 115.98,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "说实话，玩这个游戏激发了我去进一步了解这个行业的兴趣。"
     },
     {
       "id": "line-17",
@@ -282,7 +299,8 @@
       "words": 19,
       "start": 115.98,
       "end": 123.22,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "我读过一些文章，说自动驾驶卡车可能很快就会问世，并可能对货物物流产生巨大影响。"
     },
     {
       "id": "line-18",
@@ -294,7 +312,8 @@
       "words": 21,
       "start": 123.22,
       "end": 129.856,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "考虑到驾驶这些大型车辆所需的各种复杂操作，我们很快就能拥有这种技术真是太不可思议了。"
     },
     {
       "id": "line-19",
@@ -306,7 +325,8 @@
       "words": 1,
       "start": 129.856,
       "end": 131.12,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "哈。"
     },
     {
       "id": "line-20",
@@ -318,7 +338,8 @@
       "words": 6,
       "start": 131.12,
       "end": 133.22,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "我做得更彻底。"
     },
     {
       "id": "line-21",
@@ -330,7 +351,8 @@
       "words": 15,
       "start": 133.22,
       "end": 138.94,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "我报名参加了一个安全驾驶课程，以提高我现实生活中的驾驶技术。"
     },
     {
       "id": "line-22",
@@ -342,7 +364,8 @@
       "words": 18,
       "start": 138.94,
       "end": 144.94,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "在某种程度上，我觉得和班上的其他学生相比，我已经占了先机。"
     },
     {
       "id": "line-23",
@@ -354,7 +377,8 @@
       "words": 11,
       "start": 144.94,
       "end": 149.98,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "玩这个电子游戏已经让我进行了一些车辆操控方面的练习。"
     },
     {
       "id": "line-24",
@@ -366,7 +390,8 @@
       "words": 15,
       "start": 149.98,
       "end": 153.94,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "我不确定这款电子游戏与现实生活中的情况相比有多准确。"
     },
     {
       "id": "line-25",
@@ -378,7 +403,8 @@
       "words": 22,
       "start": 153.94,
       "end": 169.38,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "但如果它能让更多的司机在进入交叉路口前先看两边，我会说那是一个积极的结果。"
     },
     {
       "id": "line-26",
@@ -390,7 +416,8 @@
       "words": 7,
       "start": 169.38,
       "end": 186.52,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "说话者主要在谈论什么？"
     },
     {
       "id": "line-27",
@@ -402,7 +429,8 @@
       "words": 9,
       "start": 186.52,
       "end": 204.4,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "关于这个驾驶模拟器，这位男士说了什么？"
     },
     {
       "id": "line-28",
@@ -414,7 +442,8 @@
       "words": 8,
       "start": 204.4,
       "end": 221.9,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "这位女士说她真正赞赏的是什么？"
     },
     {
       "id": "line-29",
@@ -426,7 +455,8 @@
       "words": 10,
       "start": 221.9,
       "end": 240.62,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "这位女士期望从驾驶模拟器中得到什么结果？"
     },
     {
       "id": "line-30",
@@ -438,7 +468,8 @@
       "words": 7,
       "start": 240.62,
       "end": 243.74,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "你觉得自主创业（自由职业）怎么样？"
     },
     {
       "id": "line-31",
@@ -450,7 +481,8 @@
       "words": 26,
       "start": 243.74,
       "end": 254.14,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "好处是显而易见的，尽管我似乎并没有得到预期的自由，因为我好像根本无法拒绝别人提供的工作机会。"
     },
     {
       "id": "line-32",
@@ -462,7 +494,8 @@
       "words": 17,
       "start": 254.14,
       "end": 261.48,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "而且独自工作，有时候我会发现单靠金钱并不能提供足够的动力。"
     },
     {
       "id": "line-33",
@@ -474,7 +507,8 @@
       "words": 11,
       "start": 261.48,
       "end": 265.36,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "自从你开始为自己工作以来，你也有过同样的经历吗？"
     },
     {
       "id": "line-34",
@@ -486,7 +520,8 @@
       "words": 2,
       "start": 265.36,
       "end": 267.06,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "有时是的。"
     },
     {
       "id": "line-35",
@@ -498,7 +533,8 @@
       "words": 33,
       "start": 267.06,
       "end": 279.5,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "其他上班族在感到懒散或无聊时会有经理来督促激励，而我们这些自主创业的人在做工作时，没有经理来提振我们的精神。"
     },
     {
       "id": "line-36",
@@ -510,7 +546,8 @@
       "words": 22,
       "start": 279.5,
       "end": 287.54,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "身边没有人给予赞赏或发起合作，也没有人能更好地利用我们的兴趣和才能。"
     },
     {
       "id": "line-37",
@@ -522,7 +559,8 @@
       "words": 4,
       "start": 287.54,
       "end": 289.3,
-      "matchedWords": 2
+      "matchedWords": 2,
+      "translation": "这确实是事实。"
     },
     {
       "id": "line-38",
@@ -534,7 +572,8 @@
       "words": 11,
       "start": 289.3,
       "end": 293.54,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "当然，并不是每个经理都有这样的意识和关怀。"
     },
     {
       "id": "line-39",
@@ -546,7 +585,8 @@
       "words": 12,
       "start": 293.54,
       "end": 298.1,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "而且肯定不是所有经理都懂得如何去激励员工。"
     },
     {
       "id": "line-40",
@@ -558,7 +598,8 @@
       "words": 29,
       "start": 298.1,
       "end": 308.96,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "尽管如此，身边有个经理至少意味着，当你的精力和注意力开始消耗殆尽时，他们有可能还算通情达理地来关照你。"
     },
     {
       "id": "line-41",
@@ -570,7 +611,8 @@
       "words": 7,
       "start": 308.96,
       "end": 312.18,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "我最看重的动力源泉是自主权。"
     },
     {
       "id": "line-42",
@@ -582,7 +624,8 @@
       "words": 24,
       "start": 312.18,
       "end": 320.36,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "我已经学会了不要通过没日没夜地工作以及对客户的每个要求都说“好”，来牺牲我所珍视的自主权。"
     },
     {
       "id": "line-43",
@@ -594,7 +637,8 @@
       "words": 1,
       "start": 320.36,
       "end": 321.04,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "是的。"
     },
     {
       "id": "line-44",
@@ -606,7 +650,8 @@
       "words": 13,
       "start": 321.04,
       "end": 326.1,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "我需要提醒自己，我选择这种生活方式是为了独立。"
     },
     {
       "id": "line-45",
@@ -618,7 +663,8 @@
       "words": 24,
       "start": 326.1,
       "end": 337.22,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "我一点也不怀念全职固定工作中那些我讨厌的方面，比如办公室政治、缺乏工作安全感、僵化的时间安排等等。"
     },
     {
       "id": "line-46",
@@ -630,7 +676,8 @@
       "words": 19,
       "start": 337.22,
       "end": 343.24,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "不过，我倒不介意多得到一些形式上的赞赏，那种有记录在案的赞赏。"
     },
     {
       "id": "line-47",
@@ -642,7 +689,8 @@
       "words": 5,
       "start": 343.24,
       "end": 344.7,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "那会随着时间推移而到来的。"
     },
     {
       "id": "line-48",
@@ -654,7 +702,8 @@
       "words": 7,
       "start": 344.7,
       "end": 349.12,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "归属感（人际联系）必然是在人际互动中培养出来的。"
     },
     {
       "id": "line-49",
@@ -666,7 +715,8 @@
       "words": 30,
       "start": 349.12,
       "end": 361.86,
-      "matchedWords": 26
+      "matchedWords": 26,
+      "translation": "与客户接洽、获得书面证明和推荐信、事后与客户保持联系，你会发现这些事情自会水到渠成，并为你提供动力。"
     },
     {
       "id": "line-50",
@@ -678,7 +728,8 @@
       "words": 3,
       "start": 361.86,
       "end": 363.22,
-      "matchedWords": 1
+      "matchedWords": 1,
+      "translation": "你说得对。"
     },
     {
       "id": "line-51",
@@ -690,7 +741,8 @@
       "words": 24,
       "start": 363.22,
       "end": 378.5,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "这确实是我需要投入更多精力的地方——与那些使用我的服务和技能的人建立更紧密的联系。"
     },
     {
       "id": "line-52",
@@ -702,7 +754,8 @@
       "words": 12,
       "start": 378.5,
       "end": 396.86,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "关于自主创业的生活，这位男士说了什么？"
     },
     {
       "id": "line-53",
@@ -714,7 +767,8 @@
       "words": 7,
       "start": 396.86,
       "end": 413.92,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "关于经理，这位男士说了什么？"
     },
     {
       "id": "line-54",
@@ -726,7 +780,8 @@
       "words": 9,
       "start": 413.92,
       "end": 432.64,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "两位说话者最看重自主创业的什么？"
     },
     {
       "id": "line-55",
@@ -738,7 +793,8 @@
       "words": 10,
       "start": 432.64,
       "end": 479.84,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "在哪个观点上，这位男士同意这位女士的看法？"
     },
     {
       "id": "line-56",
@@ -750,7 +806,8 @@
       "words": 19,
       "start": 479.84,
       "end": 486.62,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "天气是我们生活中一种恒定的力量，但关于它如何影响商业的营销研究却很少。"
     },
     {
       "id": "line-57",
@@ -762,7 +819,8 @@
       "words": 13,
       "start": 486.62,
       "end": 493.16,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "现在，一项新研究揭示了晴天和下雪天气是如何影响消费者行为的。"
     },
     {
       "id": "line-58",
@@ -774,7 +832,8 @@
       "words": 15,
       "start": 493.16,
       "end": 500.72,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "这些天气条件会触发消费者在脑海中想象使用与相应天气相关的产品。"
     },
     {
       "id": "line-59",
@@ -786,7 +845,8 @@
       "words": 11,
       "start": 500.72,
       "end": 504.85,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "这导致消费者对这些产品赋予更高的价值。"
     },
     {
       "id": "line-60",
@@ -798,7 +858,8 @@
       "words": 11,
       "start": 504.85,
       "end": 507.89,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "也就是说，他们愿意为此支付更多的钱。"
     },
     {
       "id": "line-61",
@@ -810,7 +871,8 @@
       "words": 12,
       "start": 507.89,
       "end": 512.45,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "但这种相关性仅在与户外活动相关的产品中被发现。"
     },
     {
       "id": "line-62",
@@ -822,7 +884,8 @@
       "words": 4,
       "start": 512.45,
       "end": 514.05,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "这是如何起作用的呢？"
     },
     {
       "id": "line-63",
@@ -834,7 +897,8 @@
       "words": 8,
       "start": 514.05,
       "end": 516.99,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "研究人员以沙滩巾为例。"
     },
     {
       "id": "line-64",
@@ -846,7 +910,8 @@
       "words": 29,
       "start": 516.99,
       "end": 526.55,
-      "matchedWords": 29
+      "matchedWords": 29,
+      "translation": "在晴天，看到该产品的消费者不仅仅是在看浴巾本身，他们很可能在想象自己躺在阳光下的浴巾上。"
     },
     {
       "id": "line-65",
@@ -858,7 +923,8 @@
       "words": 17,
       "start": 526.55,
       "end": 532.69,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "这种使用浴巾的脑海画面提升了该产品在消费者心中的价值。"
     },
     {
       "id": "line-66",
@@ -870,7 +936,8 @@
       "words": 10,
       "start": 532.69,
       "end": 537.39,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "研究人员提出了以下假设来解释他们的发现。"
     },
     {
       "id": "line-67",
@@ -882,7 +949,8 @@
       "words": 21,
       "start": 537.39,
       "end": 545.99,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "他们认为脑海画面在晴天和下雪时起作用，是因为这些天气条件与户外活动有积极的关联。"
     },
     {
       "id": "line-68",
@@ -894,7 +962,8 @@
       "words": 8,
       "start": 545.99,
       "end": 548.91,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "这种效应在下雨天则看不到。"
     },
     {
       "id": "line-69",
@@ -906,7 +975,8 @@
       "words": 15,
       "start": 548.91,
       "end": 553.93,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "研究人员断言，这是因为没有多少活动是由下雨促成的。"
     },
     {
       "id": "line-70",
@@ -918,7 +988,8 @@
       "words": 20,
       "start": 553.93,
       "end": 561.97,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "大多数与雨相关的产品（如雨伞）仅用于防雨，而不是为了进行任何活动。"
     },
     {
       "id": "line-71",
@@ -930,7 +1001,8 @@
       "words": 21,
       "start": 561.97,
       "end": 569.87,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "研究人员认为，在网上销售种类繁多产品的公司能从这项研究提供的见解中获益最多。"
     },
     {
       "id": "line-72",
@@ -942,7 +1014,8 @@
       "words": 19,
       "start": 569.87,
       "end": 578.35,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "在线卖家经常使用复杂的数学公式来决定展示哪些产品以及如何为这些产品定价。"
     },
     {
       "id": "line-73",
@@ -954,7 +1027,8 @@
       "words": 12,
       "start": 578.35,
       "end": 582.95,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "纳入更多关于天气的数据将使他们能够做出更好的决策。"
     },
     {
       "id": "line-74",
@@ -966,7 +1040,8 @@
       "words": 4,
       "start": 582.95,
       "end": 591.67,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "这可以刺激销售。"
     },
     {
       "id": "line-75",
@@ -978,7 +1053,8 @@
       "words": 11,
       "start": 591.67,
       "end": 609.11,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "关于这项新研究的发现，我们了解到了什么？"
     },
     {
       "id": "line-76",
@@ -990,7 +1066,8 @@
       "words": 13,
       "start": 609.11,
       "end": 628.79,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "文章说可能是什么增加了产品对消费者的价值？"
     },
     {
       "id": "line-77",
@@ -1002,7 +1079,8 @@
       "words": 15,
       "start": 628.79,
       "end": 650.33,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "根据研究人员的说法，这项新研究的发现如何能让在线卖家受益？"
     },
     {
       "id": "line-78",
@@ -1014,7 +1092,8 @@
       "words": 15,
       "start": 650.33,
       "end": 657.31,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "将办公室空调设定在22℃左右已成为世界各地的标准做法。"
     },
     {
       "id": "line-79",
@@ -1026,7 +1105,8 @@
       "words": 18,
       "start": 657.31,
       "end": 666.05,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "全球许多关于供暖、通风和空调的指导手册都声称，办公室的工作效率在22度时达到峰值。"
     },
     {
       "id": "line-80",
@@ -1038,7 +1118,8 @@
       "words": 13,
       "start": 666.05,
       "end": 671.59,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "在空调办公室里，许多人确实从酷暑的高温中得到了解脱。"
     },
     {
       "id": "line-81",
@@ -1050,7 +1131,8 @@
       "words": 15,
       "start": 671.59,
       "end": 678.17,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "但最近的研究挑战了“凉爽的办公室效率更高”这一普遍公认的观点。"
     },
     {
       "id": "line-82",
@@ -1062,7 +1144,8 @@
       "words": 5,
       "start": 678.17,
       "end": 681.93,
-      "matchedWords": 5
+      "matchedWords": 5,
+      "translation": "现实情况更为复杂。"
     },
     {
       "id": "line-83",
@@ -1074,7 +1157,8 @@
       "words": 13,
       "start": 681.93,
       "end": 687.73,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "研究人员对所有关于空调与生产力（效率）相关的研究进行了系统审查。"
     },
     {
       "id": "line-84",
@@ -1086,7 +1170,8 @@
       "words": 16,
       "start": 687.73,
       "end": 694.79,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "他们发现，即使在盛夏，22度可能也有点太凉了。"
     },
     {
       "id": "line-85",
@@ -1098,7 +1183,8 @@
       "words": 18,
       "start": 694.79,
       "end": 703.23,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "对于一个穿着典型夏季服装的人来说，最适宜的温度范围应该在23到26度之间。"
     },
     {
       "id": "line-86",
@@ -1110,7 +1196,8 @@
       "words": 20,
       "start": 703.23,
       "end": 711.29,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "而且只要人们能够调整自己的衣着和预期心理，他们甚至可以忍受超出这个舒适区的温度。"
     },
     {
       "id": "line-87",
@@ -1122,7 +1209,8 @@
       "words": 16,
       "start": 711.29,
       "end": 717.73,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "事实上，即使在非常炎热的日子里，将空调调高几度（减少冷气）也是明智的。"
     },
     {
       "id": "line-88",
@@ -1134,7 +1222,8 @@
       "words": 15,
       "start": 717.73,
       "end": 724.63,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "人们常常只追求一个最理想的温度，这在人们感到炎热时是可以理解的。"
     },
     {
       "id": "line-89",
@@ -1146,7 +1235,8 @@
       "words": 19,
       "start": 724.63,
       "end": 732.41,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "但是存在着至少有三到四度波动的范围，在这个范围内是不会产生任何负面影响的。"
     },
     {
       "id": "line-90",
@@ -1158,7 +1248,8 @@
       "words": 15,
       "start": 732.41,
       "end": 738.57,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "与此相关的另一个问题是，人们可能会对空调产生心理依赖。"
     },
     {
       "id": "line-91",
@@ -1170,7 +1261,8 @@
       "words": 17,
       "start": 738.57,
       "end": 744.67,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "如果他们习惯了有空调的环境，他们往往会更倾向于更低的温度。"
     },
     {
       "id": "line-92",
@@ -1182,7 +1274,8 @@
       "words": 14,
       "start": 744.67,
       "end": 750.63,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "但研究发现，几乎所有人都能习惯新的温度。"
     },
     {
       "id": "line-93",
@@ -1194,7 +1287,8 @@
       "words": 16,
       "start": 750.63,
       "end": 757.43,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "只有在温度范围的极端两端，人们的生产效率才会受到损害。"
     },
     {
       "id": "line-94",
@@ -1206,7 +1300,8 @@
       "words": 10,
       "start": 757.43,
       "end": 769.91,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "这个范围是指26度以上和19度以下。"
     },
     {
       "id": "line-95",
@@ -1218,7 +1313,8 @@
       "words": 9,
       "start": 769.91,
       "end": 788.73,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "关于办公室环境，普遍公认的观点是什么？"
     },
     {
       "id": "line-96",
@@ -1230,7 +1326,8 @@
       "words": 16,
       "start": 788.73,
       "end": 809.43,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "研究人员从他们对所有关于空调与生产力相关研究的审查中发现了什么？"
     },
     {
       "id": "line-97",
@@ -1242,7 +1339,8 @@
       "words": 14,
       "start": 809.43,
       "end": 830.59,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "关于在炎热天气里少用一点空调（调高温度），我们了解到了什么？"
     },
     {
       "id": "line-98",
@@ -1254,7 +1352,8 @@
       "words": 11,
       "start": 830.59,
       "end": 877.25,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "当人们习惯了空调环境后会发生什么？"
     },
     {
       "id": "line-99",
@@ -1266,7 +1365,8 @@
       "words": 11,
       "start": 877.25,
       "end": 882.87,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "心理学研究往往将独处描绘成一种消极的体验。"
     },
     {
       "id": "line-100",
@@ -1278,7 +1378,8 @@
       "words": 21,
       "start": 882.87,
       "end": 892.45,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "在20世纪70年代和90年代进行的研究表明，与和他人在一起相比，人们在独自一人时感到不那么快乐。"
     },
     {
       "id": "line-101",
@@ -1290,7 +1391,8 @@
       "words": 17,
       "start": 892.45,
       "end": 900.27,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "然而，一篇新论文展示了对独处的另一种看法，即独处也可以是积极的。"
     },
     {
       "id": "line-102",
@@ -1302,7 +1404,8 @@
       "words": 8,
       "start": 900.27,
       "end": 903.43,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "让我们首先来看一下早期的研究。"
     },
     {
       "id": "line-103",
@@ -1314,7 +1417,8 @@
       "words": 6,
       "start": 903.43,
       "end": 906.47,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "它有几个缺点。"
     },
     {
       "id": "line-104",
@@ -1326,7 +1430,8 @@
       "words": 23,
       "start": 906.47,
       "end": 917.55,
-      "matchedWords": 23
+      "matchedWords": 23,
+      "translation": "第一，它在从积极到消极的单一维度上衡量情绪，忽略了我们的积极情绪和消极情绪可以独立波动的可能性。"
     },
     {
       "id": "line-105",
@@ -1338,7 +1443,8 @@
       "words": 9,
       "start": 917.55,
       "end": 922.49,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "此外，它把情绪简单地归类为积极或消极。"
     },
     {
       "id": "line-106",
@@ -1350,7 +1456,8 @@
       "words": 26,
       "start": 922.49,
       "end": 931.49,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "它没有考虑到情绪会激发我们到不同的程度，而且积极和消极的情绪都可以强烈地或轻微地激发我们。"
     },
     {
       "id": "line-107",
@@ -1362,7 +1469,8 @@
       "words": 15,
       "start": 931.49,
       "end": 936.89,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "也就是说，无论积极还是消极，情绪都可以是高唤醒（高强度）或低唤醒（低强度）的。"
     },
     {
       "id": "line-108",
@@ -1374,7 +1482,8 @@
       "words": 31,
       "start": 936.89,
       "end": 951.09,
-      "matchedWords": 31
+      "matchedWords": 31,
+      "translation": "高唤醒情绪包括积极一面的兴奋或消极一面的愤怒；而低唤醒情绪包括积极一面的平静或消极一面的孤独。"
     },
     {
       "id": "line-109",
@@ -1386,7 +1495,8 @@
       "words": 8,
       "start": 951.09,
       "end": 955.03,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "这项新研究试图克服这些缺点。"
     },
     {
       "id": "line-110",
@@ -1398,7 +1508,8 @@
       "words": 6,
       "start": 955.03,
       "end": 957.57,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "研究人员从一项简单的研究开始。"
     },
     {
       "id": "line-111",
@@ -1410,7 +1521,8 @@
       "words": 23,
       "start": 957.57,
       "end": 966.63,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "他们要求参与者独自静坐15分钟，不进行任何活动，并测量这种独处如何影响他们的情绪状态。"
     },
     {
       "id": "line-112",
@@ -1422,7 +1534,8 @@
       "words": 14,
       "start": 966.63,
       "end": 974.11,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "这个实验特别旨在确定独处对高唤醒情绪的影响。"
     },
     {
       "id": "line-113",
@@ -1434,7 +1547,8 @@
       "words": 19,
       "start": 974.11,
       "end": 983.77,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "它观察了诸如兴奋或感兴趣等积极情绪，以及包括害怕或痛苦在内的消极情绪。"
     },
     {
       "id": "line-114",
@@ -1446,7 +1560,8 @@
       "words": 4,
       "start": 983.77,
       "end": 985.61,
-      "matchedWords": 4
+      "matchedWords": 4,
+      "translation": "结果非常明了。"
     },
     {
       "id": "line-115",
@@ -1458,7 +1573,8 @@
       "words": 14,
       "start": 985.61,
       "end": 991.81,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "在独处15分钟后，参与者的这两种情绪都有所减弱。"
     },
     {
       "id": "line-116",
@@ -1470,7 +1586,8 @@
       "words": 12,
       "start": 991.81,
       "end": 996.37,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "第二项研究测量了独处对低唤醒情绪的影响。"
     },
     {
       "id": "line-117",
@@ -1482,7 +1599,8 @@
       "words": 15,
       "start": 996.37,
       "end": 1004.29,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "这些包括积极和消极的情情绪，例如感到平静、放松、悲伤或孤独。"
     },
     {
       "id": "line-118",
@@ -1494,7 +1612,8 @@
       "words": 13,
       "start": 1004.29,
       "end": 1008.99,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "该实验发现，所有这些情绪都会因为独自一人呆着而增强。"
     },
     {
       "id": "line-119",
@@ -1506,7 +1625,8 @@
       "words": 9,
       "start": 1008.99,
       "end": 1012.99,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "因此，过去对独处的描绘似乎是错误的。"
     },
     {
       "id": "line-120",
@@ -1518,7 +1638,8 @@
       "words": 16,
       "start": 1012.99,
       "end": 1018.45,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "它并没有一个可以被简单定性为好或坏的情绪效应。"
     },
     {
       "id": "line-121",
@@ -1530,7 +1651,8 @@
       "words": 9,
       "start": 1018.45,
       "end": 1022.15,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "更确切地说，它改变了我们内心体验的强度。"
     },
     {
       "id": "line-122",
@@ -1542,7 +1664,8 @@
       "words": 12,
       "start": 1022.15,
       "end": 1028.79,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "它放大了较平静的情绪，但减弱了较强烈情感的强度。"
     },
     {
       "id": "line-123",
@@ -1554,7 +1677,8 @@
       "words": 14,
       "start": 1028.79,
       "end": 1034.05,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "需要澄清的是，这些发现与相对较短时间的独处有关。"
     },
     {
       "id": "line-124",
@@ -1566,7 +1690,8 @@
       "words": 6,
       "start": 1034.05,
       "end": 1037.43,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "这与长期的孤独是截然不同的。"
     },
     {
       "id": "line-125",
@@ -1578,7 +1703,8 @@
       "words": 17,
       "start": 1037.43,
       "end": 1044.53,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "研究已经表明，后者与各种负面的生理和心理效应相关。"
     },
     {
       "id": "line-126",
@@ -1590,7 +1716,8 @@
       "words": 7,
       "start": 1044.53,
       "end": 1046.43,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "人们如何能从独处中获益？"
     },
     {
       "id": "line-127",
@@ -1602,7 +1729,8 @@
       "words": 13,
       "start": 1046.43,
       "end": 1052.33,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这里的发现表明，人们可以利用独处来调节自己的情绪。"
     },
     {
       "id": "line-128",
@@ -1614,7 +1742,8 @@
       "words": 18,
       "start": 1052.33,
       "end": 1067.648,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "独处可以帮助我们在兴奋之后回归安静，在愤怒发作后冷静下来，或者仅仅是感到内心平和。"
     },
     {
       "id": "line-129",
@@ -1626,7 +1755,8 @@
       "words": 13,
       "start": 1067.648,
       "end": 1086.37,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "针对早期关于独处的研究，其中一个批评是什么？"
     },
     {
       "id": "line-130",
@@ -1638,7 +1768,8 @@
       "words": 11,
       "start": 1086.37,
       "end": 1104.41,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "关于这项新研究的结果，我们了解到了什么？"
     },
     {
       "id": "line-131",
@@ -1650,7 +1781,8 @@
       "words": 12,
       "start": 1104.41,
       "end": 1123.11,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "新研究中的第二个实验发现了关于独处的什么结论？"
     },
     {
       "id": "line-132",
@@ -1662,7 +1794,8 @@
       "words": 24,
       "start": 1123.11,
       "end": 1132.97,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "1984年，世界国际象棋锦标赛突然宣告取消，原因是一位正在争夺冠军的选手身体极度消瘦虚弱。"
     },
     {
       "id": "line-133",
@@ -1674,7 +1807,8 @@
       "words": 13,
       "start": 1132.97,
       "end": 1137.01,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "在承受这款游戏带来的极端生理影响方面，他并不是唯一的个例。"
     },
     {
       "id": "line-134",
@@ -1686,7 +1820,8 @@
       "words": 15,
       "start": 1137.01,
       "end": 1144.35,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "据报道，顶尖棋手在一天内可以消耗掉高达荒谬的6000卡路里。"
     },
     {
       "id": "line-135",
@@ -1698,7 +1833,8 @@
       "words": 13,
       "start": 1144.35,
       "end": 1149.03,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这是否意味着更用力地去思考是减肥的一条捷径？"
     },
     {
       "id": "line-136",
@@ -1710,7 +1846,8 @@
       "words": 25,
       "start": 1149.03,
       "end": 1158.37,
-      "matchedWords": 22
+      "matchedWords": 22,
+      "translation": "好吧，我们知道当身体处于休息状态时，大脑会消耗掉人体总能量的20%到25%，这个比例令人吃惊。"
     },
     {
       "id": "line-137",
@@ -1722,7 +1859,8 @@
       "words": 29,
       "start": 1158.37,
       "end": 1171.09,
-      "matchedWords": 27
+      "matchedWords": 27,
+      "translation": "这种利用水平实际上使大脑成为体内最耗能的器官，然而它却仅占人体总重量的2%。"
     },
     {
       "id": "line-138",
@@ -1734,7 +1872,8 @@
       "words": 15,
       "start": 1171.09,
       "end": 1175.55,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "那么，我们越让这个器官工作，燃烧的卡路里就越多吗？"
     },
     {
       "id": "line-139",
@@ -1746,7 +1885,8 @@
       "words": 9,
       "start": 1175.55,
       "end": 1181.13,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "从技术上讲，对于认知难度大的任务，答案是肯定的。"
     },
     {
       "id": "line-140",
@@ -1758,7 +1898,8 @@
       "words": 10,
       "start": 1181.13,
       "end": 1185.93,
-      "matchedWords": 10
+      "matchedWords": 10,
+      "translation": "什么算是“困难”的心理任务因人而异。"
     },
     {
       "id": "line-141",
@@ -1770,7 +1911,8 @@
       "words": 25,
       "start": 1185.93,
       "end": 1198.17,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "但总的来说，它可以被描述为大脑无法利用先前学到的常规轻松解决的事情，或者是条件不断发生变化的任务。"
     },
     {
       "id": "line-142",
@@ -1782,7 +1924,8 @@
       "words": 15,
       "start": 1198.17,
       "end": 1203.15,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "然而，深度思考并不能消耗掉吃含糖零食所摄入的卡路里。"
     },
     {
       "id": "line-143",
@@ -1794,7 +1937,8 @@
       "words": 30,
       "start": 1203.15,
       "end": 1217.35,
-      "matchedWords": 28
+      "matchedWords": 28,
+      "translation": "因为相对于大脑用于处理众多任务的巨大总能量消耗而言，仅仅为了更努力思考所需的能量实际上是微不足道的。"
     },
     {
       "id": "line-144",
@@ -1806,7 +1950,8 @@
       "words": 13,
       "start": 1217.35,
       "end": 1222.31,
-      "matchedWords": 9
+      "matchedWords": 9,
+      "translation": "我们对消耗大脑大部分能量的活动是毫无意识的。"
     },
     {
       "id": "line-145",
@@ -1818,7 +1963,8 @@
       "words": 19,
       "start": 1222.31,
       "end": 1230.13,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "许多此类活动与学唱歌或弹吉他等有意识的活动无关。"
     },
     {
       "id": "line-146",
@@ -1830,7 +1976,8 @@
       "words": 20,
       "start": 1230.13,
       "end": 1236.71,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "大脑能够将血液（也就是能量）分配给当时正处于活跃状态的特定区域。"
     },
     {
       "id": "line-147",
@@ -1842,7 +1989,8 @@
       "words": 13,
       "start": 1236.71,
       "end": 1242.15,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "但大脑中的整体可用能量被认为是恒定的。"
     },
     {
       "id": "line-148",
@@ -1854,7 +2002,8 @@
       "words": 40,
       "start": 1242.15,
       "end": 1258.53,
-      "matchedWords": 36
+      "matchedWords": 36,
+      "translation": "因此，虽然当我们执行困难的认知任务时，大脑局部区域的能量消耗可能会显著增加，但就整个大脑的总能量预算而言，这些活动并不会显著改变它。"
     },
     {
       "id": "line-149",
@@ -1866,7 +2015,8 @@
       "words": 15,
       "start": 1258.53,
       "end": 1263.97,
-      "matchedWords": 15
+      "matchedWords": 15,
+      "translation": "那么，为什么这位象棋冠军会变得太瘦而无法参加他的象棋比赛呢？"
     },
     {
       "id": "line-150",
@@ -1878,7 +2028,8 @@
       "words": 18,
       "start": 1263.97,
       "end": 1272.75,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "普遍的共识是，这主要归因于压力和进食量减少，而不是精神衰竭。"
     },
     {
       "id": "line-151",
@@ -1890,7 +2041,8 @@
       "words": 16,
       "start": 1272.75,
       "end": 1278.67,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "让身体长时间保持高度集中的临战状态是非常消耗能量的。"
     },
     {
       "id": "line-152",
@@ -1902,7 +2054,8 @@
       "words": 21,
       "start": 1278.67,
       "end": 1294.63,
-      "matchedWords": 19
+      "matchedWords": 19,
+      "translation": "如果你不能像平时那样经常或吃那么多东西——那么你可能就会体重减轻。"
     },
     {
       "id": "line-153",
@@ -1914,7 +2067,8 @@
       "words": 13,
       "start": 1294.63,
       "end": 1311.35,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "当身体处于休息状态时，我们对大脑有了什么了解？"
     },
     {
       "id": "line-154",
@@ -1926,7 +2080,8 @@
       "words": 13,
       "start": 1311.35,
       "end": 1329.99,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "发言者关于大脑能量的消耗说了什么？"
     },
     {
       "id": "line-155",
@@ -1938,7 +2093,8 @@
       "words": 12,
       "start": 1329.99,
       "end": 1349.57,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "关于大脑的整体可用能量，我们了解到了什么？"
     },
     {
       "id": "line-156",
@@ -1950,7 +2106,8 @@
       "words": 30,
       "start": 1349.57,
       "end": 1360.45,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "“谈谈你自己吧”似乎是一个简单的求职面试问题，但这个问题开放式的性质往往让求职者不知从何说起。"
     },
     {
       "id": "line-157",
@@ -1962,7 +2119,8 @@
       "words": 15,
       "start": 1360.45,
       "end": 1366.11,
-      "matchedWords": 13
+      "matchedWords": 13,
+      "translation": "这个常见的问题实际上是对求职者沟通能力的一项关键测试。"
     },
     {
       "id": "line-158",
@@ -1974,7 +2132,8 @@
       "words": 14,
       "start": 1366.11,
       "end": 1370.23,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "因此，重要的是不要给出一个毫无准备的回答，或者把事情搞砸。"
     },
     {
       "id": "line-159",
@@ -1986,7 +2145,8 @@
       "words": 20,
       "start": 1370.23,
       "end": 1379.49,
-      "matchedWords": 20
+      "matchedWords": 20,
+      "translation": "当专业的职业导师提供面试指导时，“谈谈你自己吧”往往是他们让求职者准备第一个问题。"
     },
     {
       "id": "line-160",
@@ -1998,7 +2158,8 @@
       "words": 26,
       "start": 1379.49,
       "end": 1387.25,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "这是求职者掌控话语权、并以一种对听众（面试官）真正重要的方式讲述自己故事的机会。"
     },
     {
       "id": "line-161",
@@ -2010,7 +2171,8 @@
       "words": 12,
       "start": 1387.25,
       "end": 1391.77,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "要回答好这个问题需要付出努力和广泛的准备。"
     },
     {
       "id": "line-162",
@@ -2022,7 +2184,8 @@
       "words": 25,
       "start": 1391.77,
       "end": 1401.13,
-      "matchedWords": 21
+      "matchedWords": 21,
+      "translation": "当一个人去参加求职面试时，他们的面试官想必已经看过了他们的简历，所以他们不需要重复这些信息。"
     },
     {
       "id": "line-163",
@@ -2034,7 +2197,8 @@
       "words": 23,
       "start": 1401.13,
       "end": 1408.03,
-      "matchedWords": 17
+      "matchedWords": 17,
+      "translation": "但大多数人都会这样做，因为背诵简历上已经有的内容是他们的本能。"
     },
     {
       "id": "line-164",
@@ -2046,7 +2210,8 @@
       "words": 14,
       "start": 1408.03,
       "end": 1412.93,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "求职者在两个关键方面做好功课非常重要。"
     },
     {
       "id": "line-165",
@@ -2058,7 +2223,8 @@
       "words": 11,
       "start": 1412.93,
       "end": 1417.31,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "第一，他们不仅仅是在向某人陈述一个关于他们自己的事实。"
     },
     {
       "id": "line-166",
@@ -2070,7 +2236,8 @@
       "words": 5,
       "start": 1417.31,
       "end": 1418.69,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "他们是在讲一个故事。"
     },
     {
       "id": "line-167",
@@ -2082,7 +2249,8 @@
       "words": 6,
       "start": 1418.69,
       "end": 1420.51,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "而故事是需要花心思去创作的。"
     },
     {
       "id": "line-168",
@@ -2094,7 +2262,8 @@
       "words": 26,
       "start": 1420.51,
       "end": 1430.83,
-      "matchedWords": 24
+      "matchedWords": 24,
+      "translation": "想出一个好故事意味着要反思是什么铸就了他们的职业成就——那些让他们引以为豪的事情，以及这些成就凸显了哪些优势。"
     },
     {
       "id": "line-169",
@@ -2106,7 +2275,8 @@
       "words": 16,
       "start": 1430.83,
       "end": 1436.91,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "应聘者不应该选择一个宽泛、笼统的优点来阐述，比如“我很聪明”。"
     },
     {
       "id": "line-170",
@@ -2118,7 +2288,8 @@
       "words": 8,
       "start": 1436.91,
       "end": 1439.17,
-      "matchedWords": 8
+      "matchedWords": 8,
+      "translation": "“我很努力，而且能把事情办好。”"
     },
     {
       "id": "line-171",
@@ -2130,7 +2301,8 @@
       "words": 40,
       "start": 1439.17,
       "end": 1457.05,
-      "matchedWords": 40
+      "matchedWords": 40,
+      "translation": "为了针对不同的面试问题想出多个职业成就或例子，求职者应该与他人交谈，尤其是了解他们的人、伴侣、朋友或同事，他们会提及一些与求职者自己记忆中不同的故事。"
     },
     {
       "id": "line-172",
@@ -2142,7 +2314,8 @@
       "words": 14,
       "start": 1457.05,
       "end": 1462.63,
-      "matchedWords": 14
+      "matchedWords": 14,
+      "translation": "其次，应聘者应该了解这个职位空缺对公司的利害关系所在。"
     },
     {
       "id": "line-173",
@@ -2154,7 +2327,8 @@
       "words": 16,
       "start": 1462.63,
       "end": 1467.53,
-      "matchedWords": 16
+      "matchedWords": 16,
+      "translation": "他们真正想问你的是：“告诉我，你将如何帮助我。”"
     },
     {
       "id": "line-174",
@@ -2164,9 +2338,10 @@
       "text": "” If the person is a prepared candidate, they should have already figured out those things.",
       "type": "narration",
       "words": 15,
-      "start": 1467.53,
-      "end": 1473.01,
-      "matchedWords": 15
+      "start": 1473.01,
+      "end": 1476.97,
+      "matchedWords": 11,
+      "translation": "如果这个人是一个有准备的应聘者，他们应该已经弄清楚了这些事情。"
     },
     {
       "id": "line-175",
@@ -2178,7 +2353,8 @@
       "words": 13,
       "start": 1473.01,
       "end": 1476.97,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "他们已经阅读了职位说明，并在互联网上对该公司进行了研究。"
     },
     {
       "id": "line-176",
@@ -2190,7 +2366,8 @@
       "words": 30,
       "start": 1476.97,
       "end": 1487.79,
-      "matchedWords": 30
+      "matchedWords": 30,
+      "translation": "求职者应该寻找的是这家公司目前在做什么、他们试图实现什么目标，以及是什么在阻碍他们实现这些目标。"
     },
     {
       "id": "line-177",
@@ -2202,7 +2379,8 @@
       "words": 7,
       "start": 1487.79,
       "end": 1489.89,
-      "matchedWords": 7
+      "matchedWords": 7,
+      "translation": "回答应该花多长时间？"
     },
     {
       "id": "line-178",
@@ -2214,7 +2392,8 @@
       "words": 3,
       "start": 1489.89,
       "end": 1491.57,
-      "matchedWords": 3
+      "matchedWords": 3,
+      "translation": "一分钟左右。"
     },
     {
       "id": "line-179",
@@ -2226,7 +2405,8 @@
       "words": 10,
       "start": 1491.57,
       "end": 1494.73,
-      "matchedWords": 6
+      "matchedWords": 6,
+      "translation": "这正符合大多数人的注意力持续时间。"
     },
     {
       "id": "line-180",
@@ -2238,7 +2418,8 @@
       "words": 18,
       "start": 1494.73,
       "end": 1500.43,
-      "matchedWords": 18
+      "matchedWords": 18,
+      "translation": "少于一分钟可能显得太仓促，而超过两分钟就会开始感觉更像是在做演讲。"
     },
     {
       "id": "line-181",
@@ -2250,7 +2431,8 @@
       "words": 25,
       "start": 1500.43,
       "end": 1520.003,
-      "matchedWords": 25
+      "matchedWords": 25,
+      "translation": "但回答的长度并不是一门精确的科学，应聘者需要让他们的职业故事保持焦点，并因人制宜地迎合听众。"
     },
     {
       "id": "line-182",
@@ -2262,7 +2444,8 @@
       "words": 14,
       "start": 1520.003,
       "end": 1538.01,
-      "matchedWords": 0
+      "matchedWords": 0,
+      "translation": "发言人关于求职面试问题“谈谈你自己”说了什么？"
     },
     {
       "id": "line-183",
@@ -2274,7 +2457,8 @@
       "words": 12,
       "start": 1538.01,
       "end": 1556.93,
-      "matchedWords": 12
+      "matchedWords": 12,
+      "translation": "大多数人在参加求职面试时会怎么做？"
     },
     {
       "id": "line-184",
@@ -2286,7 +2470,8 @@
       "words": 11,
       "start": 1556.93,
       "end": 1577.33,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "为什么求职者应该与伴侣、朋友和同事交谈？"
     },
     {
       "id": "line-185",
@@ -2298,7 +2483,8 @@
       "words": 11,
       "start": 1577.33,
       "end": 1600.213,
-      "matchedWords": 11
+      "matchedWords": 11,
+      "translation": "求职者在面试前还应该做哪些重要的准备工作？"
     }
   ]
 }
