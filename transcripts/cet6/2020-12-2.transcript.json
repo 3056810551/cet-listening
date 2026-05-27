@@ -4,11 +4,11 @@
   "source": {
     "markdown": {
       "name": "2020-12-2.md",
-      "size": 14284,
-      "mtimeNs": 1778850817507552200
+      "size": 16481,
+      "mtimeNs": 1779866736109606700
     }
   },
-  "generatedAt": 1778851290,
+  "generatedAt": 1779866824,
   "sections": [
     {
       "id": "conversation-1",
@@ -18,32 +18,32 @@
     {
       "id": "conversation-2",
       "title": "CONVERSATION 2",
-      "firstLineId": "line-31"
+      "firstLineId": "line-30"
     },
     {
       "id": "passage-1",
       "title": "PASSAGE 1",
-      "firstLineId": "line-57"
+      "firstLineId": "line-56"
     },
     {
       "id": "passage-2",
       "title": "PASSAGE 2",
-      "firstLineId": "line-79"
+      "firstLineId": "line-78"
     },
     {
       "id": "recording-1",
       "title": "RECORDING 1",
-      "firstLineId": "line-98"
+      "firstLineId": "line-99"
     },
     {
       "id": "recording-2",
       "title": "RECORDING 2",
-      "firstLineId": "line-117"
+      "firstLineId": "line-132"
     },
     {
       "id": "recording-3",
       "title": "RECORDING 3",
-      "firstLineId": "line-136"
+      "firstLineId": "line-156"
     }
   ],
   "lines": [
@@ -63,25 +63,14 @@
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "Unlike any video game I’ve ever played before.",
+      "text": "Unlike any video game I’ve ever played before, it’s so boring, yet so relaxing at the same time.",
       "type": "dialogue",
-      "words": 9,
+      "words": 20,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-2",
-      "sectionId": "conversation-1",
-      "sectionTitle": "CONVERSATION 1",
-      "speaker": "W:",
-      "text": "It’s so boring yet so relaxing at the same time.",
-      "type": "dialogue",
-      "words": 11,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-3",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -92,7 +81,7 @@
       "end": 0
     },
     {
-      "id": "line-4",
+      "id": "line-3",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -103,7 +92,7 @@
       "end": 0
     },
     {
-      "id": "line-5",
+      "id": "line-4",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -114,7 +103,7 @@
       "end": 0
     },
     {
-      "id": "line-6",
+      "id": "line-5",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -125,7 +114,7 @@
       "end": 0
     },
     {
-      "id": "line-7",
+      "id": "line-6",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -136,7 +125,7 @@
       "end": 0
     },
     {
-      "id": "line-8",
+      "id": "line-7",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -147,7 +136,7 @@
       "end": 0
     },
     {
-      "id": "line-9",
+      "id": "line-8",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -158,7 +147,7 @@
       "end": 0
     },
     {
-      "id": "line-10",
+      "id": "line-9",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -169,7 +158,7 @@
       "end": 0
     },
     {
-      "id": "line-11",
+      "id": "line-10",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -180,7 +169,7 @@
       "end": 0
     },
     {
-      "id": "line-12",
+      "id": "line-11",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -191,7 +180,7 @@
       "end": 0
     },
     {
-      "id": "line-13",
+      "id": "line-12",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -202,7 +191,7 @@
       "end": 0
     },
     {
-      "id": "line-14",
+      "id": "line-13",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -213,7 +202,7 @@
       "end": 0
     },
     {
-      "id": "line-15",
+      "id": "line-14",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -224,18 +213,18 @@
       "end": 0
     },
     {
-      "id": "line-16",
+      "id": "line-15",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
-      "text": "This guy drove very carefully, obeyed all the road signs and traffic rules — such a contrast to most violent games.",
+      "text": "This guy drove very carefully, obeyed all the road signs and traffic rules—such a contrast to most violent games.",
       "type": "dialogue",
       "words": 20,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-17",
+      "id": "line-16",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -246,7 +235,7 @@
       "end": 0
     },
     {
-      "id": "line-18",
+      "id": "line-17",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -257,7 +246,7 @@
       "end": 0
     },
     {
-      "id": "line-19",
+      "id": "line-18",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -268,7 +257,7 @@
       "end": 0
     },
     {
-      "id": "line-20",
+      "id": "line-19",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -279,7 +268,7 @@
       "end": 0
     },
     {
-      "id": "line-21",
+      "id": "line-20",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -290,7 +279,7 @@
       "end": 0
     },
     {
-      "id": "line-22",
+      "id": "line-21",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -301,7 +290,7 @@
       "end": 0
     },
     {
-      "id": "line-23",
+      "id": "line-22",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -312,18 +301,18 @@
       "end": 0
     },
     {
-      "id": "line-24",
+      "id": "line-23",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
-      "text": "Playing this video game has given me some maneuvering practice already.",
+      "text": "Playing this video game has given me some maneuvering practices already.",
       "type": "dialogue",
       "words": 11,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-25",
+      "id": "line-24",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -334,18 +323,18 @@
       "end": 0
     },
     {
-      "id": "line-26",
+      "id": "line-25",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "But if it results in more drivers looking both ways before entering an intersection, I’d say that’s a positive outcome.",
+      "text": "But if it results in more drivers looking both ways before entering an intersection, I’d say that’s a postive outcome.",
       "type": "dialogue",
       "words": 22,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-27",
+      "id": "line-26",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q1.",
@@ -356,7 +345,7 @@
       "end": 0
     },
     {
-      "id": "line-28",
+      "id": "line-27",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q2.",
@@ -367,7 +356,7 @@
       "end": 0
     },
     {
-      "id": "line-29",
+      "id": "line-28",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q3.",
@@ -378,7 +367,7 @@
       "end": 0
     },
     {
-      "id": "line-30",
+      "id": "line-29",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q4.",
@@ -389,7 +378,7 @@
       "end": 0
     },
     {
-      "id": "line-31",
+      "id": "line-30",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -400,7 +389,7 @@
       "end": 0
     },
     {
-      "id": "line-32",
+      "id": "line-31",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -411,7 +400,7 @@
       "end": 0
     },
     {
-      "id": "line-33",
+      "id": "line-32",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -422,7 +411,7 @@
       "end": 0
     },
     {
-      "id": "line-34",
+      "id": "line-33",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -433,7 +422,7 @@
       "end": 0
     },
     {
-      "id": "line-35",
+      "id": "line-34",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -444,7 +433,7 @@
       "end": 0
     },
     {
-      "id": "line-36",
+      "id": "line-35",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -455,7 +444,7 @@
       "end": 0
     },
     {
-      "id": "line-37",
+      "id": "line-36",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -466,7 +455,7 @@
       "end": 0
     },
     {
-      "id": "line-38",
+      "id": "line-37",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -477,7 +466,7 @@
       "end": 0
     },
     {
-      "id": "line-39",
+      "id": "line-38",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -488,7 +477,7 @@
       "end": 0
     },
     {
-      "id": "line-40",
+      "id": "line-39",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -499,18 +488,18 @@
       "end": 0
     },
     {
-      "id": "line-41",
+      "id": "line-40",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "Still, having a manager nearby at least indicates there’s an opportunity they’ll be decent enough to look out for you when your energy and focus begin to deplete.",
+      "text": "Still, having a manager nearby at least indicates there’s an opportunity they'll be decent enough to look out for you when your energy and focus begin to deplete.",
       "type": "dialogue",
-      "words": 30,
+      "words": 29,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-42",
+      "id": "line-41",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -521,7 +510,7 @@
       "end": 0
     },
     {
-      "id": "line-43",
+      "id": "line-42",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -532,7 +521,7 @@
       "end": 0
     },
     {
-      "id": "line-44",
+      "id": "line-43",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -543,7 +532,7 @@
       "end": 0
     },
     {
-      "id": "line-45",
+      "id": "line-44",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -554,7 +543,7 @@
       "end": 0
     },
     {
-      "id": "line-46",
+      "id": "line-45",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -565,7 +554,7 @@
       "end": 0
     },
     {
-      "id": "line-47",
+      "id": "line-46",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -576,7 +565,7 @@
       "end": 0
     },
     {
-      "id": "line-48",
+      "id": "line-47",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -587,7 +576,7 @@
       "end": 0
     },
     {
-      "id": "line-49",
+      "id": "line-48",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -598,18 +587,18 @@
       "end": 0
     },
     {
-      "id": "line-50",
+      "id": "line-49",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "Engaging with clients, getting written testimony and recommendations, staying in contact with clients afterwards — these are things you’ll find will come in due course and provide you with motivation.",
+      "text": "Engaging with clients, getting written testimony and recommendations, staying in contact with clients afterwards, these are things you’ll find will come in due course and provide you with motivation.",
       "type": "dialogue",
       "words": 30,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-51",
+      "id": "line-50",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -620,18 +609,18 @@
       "end": 0
     },
     {
-      "id": "line-52",
+      "id": "line-51",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "That’s an area I do need to put some more effort into — building closer relationships with those who engage my services and skills.",
+      "text": "That’s an area I do need to put some more effort into—building closer relationships with those who engage my services and skills.",
       "type": "dialogue",
       "words": 24,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-53",
+      "id": "line-52",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q5.",
@@ -642,7 +631,7 @@
       "end": 0
     },
     {
-      "id": "line-54",
+      "id": "line-53",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q6.",
@@ -653,7 +642,7 @@
       "end": 0
     },
     {
-      "id": "line-55",
+      "id": "line-54",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q7.",
@@ -664,7 +653,7 @@
       "end": 0
     },
     {
-      "id": "line-56",
+      "id": "line-55",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q8.",
@@ -675,7 +664,7 @@
       "end": 0
     },
     {
-      "id": "line-57",
+      "id": "line-56",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -686,7 +675,7 @@
       "end": 0
     },
     {
-      "id": "line-58",
+      "id": "line-57",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -697,7 +686,7 @@
       "end": 0
     },
     {
-      "id": "line-59",
+      "id": "line-58",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -708,7 +697,7 @@
       "end": 0
     },
     {
-      "id": "line-60",
+      "id": "line-59",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -719,7 +708,7 @@
       "end": 0
     },
     {
-      "id": "line-61",
+      "id": "line-60",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -730,7 +719,7 @@
       "end": 0
     },
     {
-      "id": "line-62",
+      "id": "line-61",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -741,7 +730,7 @@
       "end": 0
     },
     {
-      "id": "line-63",
+      "id": "line-62",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -752,7 +741,7 @@
       "end": 0
     },
     {
-      "id": "line-64",
+      "id": "line-63",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -763,7 +752,7 @@
       "end": 0
     },
     {
-      "id": "line-65",
+      "id": "line-64",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -774,7 +763,7 @@
       "end": 0
     },
     {
-      "id": "line-66",
+      "id": "line-65",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -785,7 +774,7 @@
       "end": 0
     },
     {
-      "id": "line-67",
+      "id": "line-66",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -796,7 +785,7 @@
       "end": 0
     },
     {
-      "id": "line-68",
+      "id": "line-67",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -807,7 +796,7 @@
       "end": 0
     },
     {
-      "id": "line-69",
+      "id": "line-68",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -818,7 +807,7 @@
       "end": 0
     },
     {
-      "id": "line-70",
+      "id": "line-69",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -829,7 +818,7 @@
       "end": 0
     },
     {
-      "id": "line-71",
+      "id": "line-70",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -840,7 +829,7 @@
       "end": 0
     },
     {
-      "id": "line-72",
+      "id": "line-71",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -851,7 +840,7 @@
       "end": 0
     },
     {
-      "id": "line-73",
+      "id": "line-72",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -862,7 +851,7 @@
       "end": 0
     },
     {
-      "id": "line-74",
+      "id": "line-73",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -873,7 +862,7 @@
       "end": 0
     },
     {
-      "id": "line-75",
+      "id": "line-74",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -884,7 +873,7 @@
       "end": 0
     },
     {
-      "id": "line-76",
+      "id": "line-75",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q9.",
@@ -895,7 +884,7 @@
       "end": 0
     },
     {
-      "id": "line-77",
+      "id": "line-76",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q10.",
@@ -906,18 +895,18 @@
       "end": 0
     },
     {
-      "id": "line-78",
+      "id": "line-77",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q11.",
-      "text": "How can online sellers benefit from the findings of the new study?",
+      "text": "How can the findings of the new study benefit online sellers according to the researchers?",
       "type": "question",
-      "words": 12,
+      "words": 15,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-79",
+      "id": "line-78",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -928,7 +917,7 @@
       "end": 0
     },
     {
-      "id": "line-80",
+      "id": "line-79",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -939,7 +928,7 @@
       "end": 0
     },
     {
-      "id": "line-81",
+      "id": "line-80",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -950,7 +939,7 @@
       "end": 0
     },
     {
-      "id": "line-82",
+      "id": "line-81",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -961,7 +950,7 @@
       "end": 0
     },
     {
-      "id": "line-83",
+      "id": "line-82",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -972,7 +961,7 @@
       "end": 0
     },
     {
-      "id": "line-84",
+      "id": "line-83",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -983,7 +972,7 @@
       "end": 0
     },
     {
-      "id": "line-85",
+      "id": "line-84",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -994,7 +983,7 @@
       "end": 0
     },
     {
-      "id": "line-86",
+      "id": "line-85",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1005,7 +994,7 @@
       "end": 0
     },
     {
-      "id": "line-87",
+      "id": "line-86",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1016,7 +1005,7 @@
       "end": 0
     },
     {
-      "id": "line-88",
+      "id": "line-87",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1027,7 +1016,7 @@
       "end": 0
     },
     {
-      "id": "line-89",
+      "id": "line-88",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1038,7 +1027,7 @@
       "end": 0
     },
     {
-      "id": "line-90",
+      "id": "line-89",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1049,18 +1038,18 @@
       "end": 0
     },
     {
-      "id": "line-91",
+      "id": "line-90",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "Another issue related to this is that people can become psychologically dependent on air-conditioning.",
+      "text": "Another issue related to this is that people can become psychologically dependent on air conditioning.",
       "type": "narration",
       "words": 15,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-92",
+      "id": "line-91",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1071,13 +1060,24 @@
       "end": 0
     },
     {
+      "id": "line-92",
+      "sectionId": "passage-2",
+      "sectionTitle": "PASSAGE 2",
+      "speaker": "",
+      "text": "But the studies found that almost all humans became accustomed to the new temperature.",
+      "type": "narration",
+      "words": 14,
+      "start": 0,
+      "end": 0
+    },
+    {
       "id": "line-93",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "But studies have found that people who regularly experience thermal comfort are more likely to remain satisfied with their working conditions and actually be more productive.",
+      "text": "It was only at the extreme ends of the temperature range where people’s productivity suffered.",
       "type": "narration",
-      "words": 26,
+      "words": 16,
       "start": 0,
       "end": 0
     },
@@ -1085,10 +1085,10 @@
       "id": "line-94",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
-      "speaker": "Q12.",
-      "text": "What is the accepted wisdom concerning office air-conditioning?",
-      "type": "question",
-      "words": 9,
+      "speaker": "",
+      "text": "This range was above 26 degrees and below 19 degrees.",
+      "type": "narration",
+      "words": 10,
       "start": 0,
       "end": 0
     },
@@ -1096,10 +1096,10 @@
       "id": "line-95",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
-      "speaker": "Q13.",
-      "text": "What did researchers find about office air-conditioning?",
+      "speaker": "Q12.",
+      "text": "What is the accepted wisdom concerning the office environment?",
       "type": "question",
-      "words": 8,
+      "words": 9,
       "start": 0,
       "end": 0
     },
@@ -1107,10 +1107,10 @@
       "id": "line-96",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
-      "speaker": "Q14.",
-      "text": "What does the passage say about a temperature range of 3 to 4 degrees?",
+      "speaker": "Q13.",
+      "text": "What did researchers find from their review of all studies relating to air-conditioning and productivity?",
       "type": "question",
-      "words": 14,
+      "words": 16,
       "start": 0,
       "end": 0
     },
@@ -1118,21 +1118,21 @@
       "id": "line-97",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
-      "speaker": "Q15.",
-      "text": "What happens when people get used to an air-conditioned environment?",
+      "speaker": "Q14.",
+      "text": "What do we learn about using a little less air-conditioning during hot weather?",
       "type": "question",
-      "words": 11,
+      "words": 14,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-98",
-      "sectionId": "recording-1",
-      "sectionTitle": "RECORDING 1",
-      "speaker": "",
-      "text": "For many years, researchers have studied how emotions affect our well-being.",
-      "type": "narration",
-      "words": 12,
+      "sectionId": "passage-2",
+      "sectionTitle": "PASSAGE 2",
+      "speaker": "Q15.",
+      "text": "What happens when people are used to an air-conditioned environment?",
+      "type": "question",
+      "words": 11,
       "start": 0,
       "end": 0
     },
@@ -1141,9 +1141,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "But until recently, most of this research has focused on positive emotions versus negative emotions.",
+      "text": "Psychology research has tended to portray solitude as a negative experience.",
       "type": "narration",
-      "words": 15,
+      "words": 11,
       "start": 0,
       "end": 0
     },
@@ -1152,9 +1152,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "This simple classification, however, overlooks the fact that emotions vary in intensity as well as in valence.",
+      "text": "Studies conducted in the 1970s and 1990s suggested that people felt less happy when alone as compared to being with others.",
       "type": "narration",
-      "words": 17,
+      "words": 21,
       "start": 0,
       "end": 0
     },
@@ -1163,9 +1163,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "A new study conducted by psychologists at the University of California, Berkeley, has found that solitude has a different effect on high-arousal emotions than on low-arousal emotions.",
+      "text": "However, a new paper shows an alternative view of solitude, one in which solitude can be positive.",
       "type": "narration",
-      "words": 29,
+      "words": 17,
       "start": 0,
       "end": 0
     },
@@ -1174,9 +1174,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "High-arousal emotions include things like anger, fear, excitement and joy.",
+      "text": "Let's start by looking at the earlier research.",
       "type": "narration",
-      "words": 11,
+      "words": 8,
       "start": 0,
       "end": 0
     },
@@ -1185,9 +1185,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Low-arousal emotions include sadness, contentment, calmness and boredom.",
+      "text": "It had a couple of shortcomings.",
       "type": "narration",
-      "words": 9,
+      "words": 6,
       "start": 0,
       "end": 0
     },
@@ -1196,9 +1196,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "In the study, participants were asked to sit alone in a room without any distractions for 15 minutes.",
+      "text": "First, it measured emotion on a scale from positive to negative, overlooking the possibility that our positive and negative emotions can fluctuate independently.",
       "type": "narration",
-      "words": 18,
+      "words": 23,
       "start": 0,
       "end": 0
     },
@@ -1207,9 +1207,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Before and after this period, they completed a questionnaire measuring their emotional states.",
+      "text": "Also, it categorized emotions as simply positive or negative.",
       "type": "narration",
-      "words": 13,
+      "words": 9,
       "start": 0,
       "end": 0
     },
@@ -1218,9 +1218,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "The researchers found that solitude had a reductive effect on high-arousal emotions, both positive and negative.",
+      "text": "It didn’t consider that emotions arouse us to different degrees, and that both positive and negative emotions can arouse us a lot or a little.",
       "type": "narration",
-      "words": 17,
+      "words": 26,
       "start": 0,
       "end": 0
     },
@@ -1229,9 +1229,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "That is, people felt less angry, less fearful, less excited and less joyful after sitting alone for 15 minutes.",
+      "text": "That is, whether positive or negative, emotions can be either high-arousal or low-arousal.",
       "type": "narration",
-      "words": 19,
+      "words": 15,
       "start": 0,
       "end": 0
     },
@@ -1240,9 +1240,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "However, solitude had no significant effect on low-arousal emotions.",
+      "text": "High-arousal emotions include excitement on the positive side or anger on the negative side, while low-arousal ones include feeling calm on the positive side or lonely on the negative.",
       "type": "narration",
-      "words": 10,
+      "words": 31,
       "start": 0,
       "end": 0
     },
@@ -1251,9 +1251,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "This suggests that solitude may be particularly effective at calming us down when we are feeling highly aroused, whether positively or negatively.",
+      "text": "This new research attempted to overcome these shortcomings.",
       "type": "narration",
-      "words": 22,
+      "words": 8,
       "start": 0,
       "end": 0
     },
@@ -1262,9 +1262,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "It also challenges the common belief that solitude is always a negative experience that makes people feel sad or lonely.",
+      "text": "Researchers began with a simple study.",
       "type": "narration",
-      "words": 20,
+      "words": 6,
       "start": 0,
       "end": 0
     },
@@ -1273,9 +1273,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "The researchers note that these findings have important implications for our daily lives.",
+      "text": "They asked participants to spend 15 minutes sitting alone without engaging in any activity, and measured how this solitude influences their emotional state.",
       "type": "narration",
-      "words": 13,
+      "words": 23,
       "start": 0,
       "end": 0
     },
@@ -1284,9 +1284,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "For example, if you’re feeling stressed or angry after a long day at work, taking a few minutes to sit alone in a quiet room may help you calm down.",
+      "text": "This experiment specifically aimed to determine the effect of solitude on high-arousal emotions.",
       "type": "narration",
-      "words": 31,
+      "words": 14,
       "start": 0,
       "end": 0
     },
@@ -1295,9 +1295,9 @@
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Similarly, if you’re feeling overly excited and need to focus, solitude can help you center yourself.",
+      "text": "It looked at positive emotions such as being excited or interested and negative emotions including being scared or distressed.",
       "type": "narration",
-      "words": 17,
+      "words": 19,
       "start": 0,
       "end": 0
     },
@@ -1305,10 +1305,10 @@
       "id": "line-114",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
-      "speaker": "Q16.",
-      "text": "What does the speaker say about most previous research on emotions?",
-      "type": "question",
-      "words": 11,
+      "speaker": "",
+      "text": "The results were clear.",
+      "type": "narration",
+      "words": 4,
       "start": 0,
       "end": 0
     },
@@ -1316,10 +1316,10 @@
       "id": "line-115",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
-      "speaker": "Q17.",
-      "text": "What did the new study find about the effect of solitude?",
-      "type": "question",
-      "words": 11,
+      "speaker": "",
+      "text": "After 15 minutes of solitude, the participants showed reductions in both types of emotion.",
+      "type": "narration",
+      "words": 14,
       "start": 0,
       "end": 0
     },
@@ -1327,175 +1327,175 @@
       "id": "line-116",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
-      "speaker": "Q18.",
-      "text": "What does the speaker say about low-arousal emotions?",
-      "type": "question",
-      "words": 9,
+      "speaker": "",
+      "text": "A second study measured the effects of solitude on low-arousal emotions.",
+      "type": "narration",
+      "words": 12,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-117",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Did you know that your brain uses more energy than any other organ in your body?",
+      "text": "These included both positive and negative emotions, such as feeling calm, relaxed, sad or lonely.",
       "type": "narration",
-      "words": 16,
+      "words": 15,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-118",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Even though it makes up only about 2% of your body weight, it consumes approximately 20% of your total daily energy expenditure.",
+      "text": "That experiment found that all of these emotions were increased by time alone.",
       "type": "narration",
-      "words": 22,
+      "words": 13,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-119",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "This high energy consumption is due to the fact that your brain is constantly active, even when you’re sleeping.",
-      "type": "narration",
-      "words": 20,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-120",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "Most of this energy is used to power the electrical signals that neurons use to communicate with each other.",
-      "type": "narration",
-      "words": 19,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-121",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "These signals are responsible for everything from your thoughts and memories to your movements and senses.",
-      "type": "narration",
-      "words": 16,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-122",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "In fact, even when you’re resting, your brain is still working hard to maintain basic functions like breathing, heart rate and body temperature.",
-      "type": "narration",
-      "words": 24,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-123",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "Contrary to popular belief, the brain does not use significantly more energy when you’re engaged in difficult cognitive tasks like solving math problems or learning a new language.",
-      "type": "narration",
-      "words": 29,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-124",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "Studies have shown that the difference in energy consumption between resting and performing complex mental tasks is only about 5%.",
-      "type": "narration",
-      "words": 20,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-125",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "This is because most of the brain’s energy is used for ongoing, background processes that are essential for survival.",
-      "type": "narration",
-      "words": 20,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-126",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "So where does all this energy come from?",
-      "type": "narration",
-      "words": 8,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-127",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "The brain relies almost exclusively on glucose for fuel.",
+      "text": "Thus it seems past depictions of solitude were wrong.",
       "type": "narration",
       "words": 9,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-128",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
+      "id": "line-120",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Glucose is a type of sugar that is obtained from the food we eat.",
+      "text": "It doesn’t have a simple emotional effect that can be characterized as good or bad.",
+      "type": "narration",
+      "words": 16,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-121",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "Rather, it changes the intensity of our inner experience.",
+      "type": "narration",
+      "words": 9,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-122",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "It amplifies quieter emotions, but it diminishes the intensity of stronger feelings.",
+      "type": "narration",
+      "words": 12,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-123",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "It’s worth clarifying that these findings relate to relatively brief periods of solitude.",
       "type": "narration",
       "words": 14,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-129",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
+      "id": "line-124",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "It is transported to the brain through the bloodstream, where it is used to produce ATP, the molecule that provides energy for all cellular processes.",
+      "text": "This is distinct from prolonged loneliness.",
       "type": "narration",
-      "words": 25,
+      "words": 6,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-125",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "Research has demonstrated that the latter is correlated with an assortment of negative physical and psychological effects.",
+      "type": "narration",
+      "words": 17,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-126",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "How can people benefit from being alone?",
+      "type": "narration",
+      "words": 7,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-127",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "The findings here suggest that people can use solitude to regulate their emotions.",
+      "type": "narration",
+      "words": 13,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-128",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "",
+      "text": "Solitude can help us become quiet after excitement, calm after an angry episode, or simply feel at peace.",
+      "type": "narration",
+      "words": 18,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-129",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "Q16.",
+      "text": "What is one of the criticisms directed at the early research on solitude?",
+      "type": "question",
+      "words": 13,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-130",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "Because the brain cannot store glucose, it needs a constant supply of it from the blood.",
-      "type": "narration",
-      "words": 16,
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "Q17.",
+      "text": "What do we learn about the results of the new research?",
+      "type": "question",
+      "words": 11,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-131",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "If blood glucose levels drop too low, the brain cannot function properly, which can lead to symptoms like dizziness, confusion and even loss of consciousness.",
-      "type": "narration",
-      "words": 25,
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "Q18.",
+      "text": "What did the second experiment in the new research find about solitude?",
+      "type": "question",
+      "words": 12,
       "start": 0,
       "end": 0
     },
@@ -1504,9 +1504,9 @@
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "This is why it’s important to eat a balanced diet that provides a steady supply of glucose throughout the day.",
+      "text": "In 1984, the World Chess Championship was called off abruptly, due to the withered frame of a player who was competing for the title.",
       "type": "narration",
-      "words": 21,
+      "words": 24,
       "start": 0,
       "end": 0
     },
@@ -1514,10 +1514,10 @@
       "id": "line-133",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
-      "speaker": "Q19.",
-      "text": "What does the speaker say about the brain’s energy consumption?",
-      "type": "question",
-      "words": 11,
+      "speaker": "",
+      "text": "He wasn’t alone in experiencing the extreme physical effects of the game.",
+      "type": "narration",
+      "words": 13,
       "start": 0,
       "end": 0
     },
@@ -1525,10 +1525,10 @@
       "id": "line-134",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
-      "speaker": "Q20.",
-      "text": "What is most of the brain’s energy used for?",
-      "type": "question",
-      "words": 10,
+      "speaker": "",
+      "text": "Elite players can reportedly burn up to an absurd 6,000 calories in one day.",
+      "type": "narration",
+      "words": 15,
       "start": 0,
       "end": 0
     },
@@ -1536,230 +1536,230 @@
       "id": "line-135",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
-      "speaker": "Q21.",
-      "text": "What do we learn about the brain’s energy use during difficult cognitive tasks?",
-      "type": "question",
-      "words": 14,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-136",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
       "speaker": "",
-      "text": "One of the most common questions asked in a job interview is \"Tell me about yourself.\"",
-      "type": "narration",
-      "words": 16,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-137",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "This question may seem simple, but it is actually one of the most important questions you will be asked.",
-      "type": "narration",
-      "words": 19,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-138",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "It gives you the opportunity to make a good first impression and to highlight your skills and experience.",
-      "type": "narration",
-      "words": 18,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-139",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Many job seekers make the mistake of answering this question by reciting their resume.",
-      "type": "narration",
-      "words": 14,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-140",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "This is a big mistake because the interviewer has already read your resume.",
+      "text": "Does that mean that thinking harder is a simple route to losing weight?",
       "type": "narration",
       "words": 13,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-141",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "id": "line-136",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "What they want to know is who you are as a person, what your strengths are, and why you are the best candidate for the job.",
-      "type": "narration",
-      "words": 26,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-142",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "The best way to answer \"Tell me about yourself\" is to tell a story.",
-      "type": "narration",
-      "words": 14,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-143",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Your story should be concise, engaging, and relevant to the job you are applying for.",
-      "type": "narration",
-      "words": 15,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-144",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "It should highlight your most important skills and experiences, and it should show how you have used those skills to achieve success in the past.",
+      "text": "Well, when the body is at rest, we know that the brain uses up a startling 20% to 25% of the body’s overall energy.",
       "type": "narration",
       "words": 25,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-145",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "id": "line-137",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "When telling your story, it’s important to focus on your achievements rather than your responsibilities.",
+      "text": "This level of utilization actually makes the brain the most energy-expensive organ in the body, and yet it makes up only 2% of the body’s weight overall.",
       "type": "narration",
-      "words": 16,
+      "words": 29,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-138",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "So the more we put this organ to work, the more calories we’ll burn?",
+      "type": "narration",
+      "words": 15,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-139",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Technically, the answer is yes, for cognitively difficult tasks.",
+      "type": "narration",
+      "words": 9,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-140",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "What counts as a “difficult” mental task varies between individuals.",
+      "type": "narration",
+      "words": 10,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-141",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "But generally, it could be described as something that the brain cannot solve easily using previously learned routines, or tasks that change the conditions continuously.",
+      "type": "narration",
+      "words": 25,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-142",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "However, deep thinking will not burn off the calories gained from eating a sugary snack.",
+      "type": "narration",
+      "words": 15,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-143",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Because in relation to the brain’s huge overall energy usage, which is devoted to a multitude of tasks, the energy required just to think harder is actually comparatively tiny.",
+      "type": "narration",
+      "words": 30,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-144",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "We are unconscious of most of what uses up the brain’s energy.",
+      "type": "narration",
+      "words": 13,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-145",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "A lot of that activity is unrelated to conscious activities like learning how to sing or play the guitar.",
+      "type": "narration",
+      "words": 19,
       "start": 0,
       "end": 0
     },
     {
       "id": "line-146",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "For example, instead of saying \"I was responsible for managing a team of five people,\" you could say \"I led a team of five people to increase sales by 25% in one year.\"",
-      "type": "narration",
-      "words": 33,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-147",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "This shows the interviewer that you are results-oriented and that you can deliver tangible results.",
-      "type": "narration",
-      "words": 16,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-148",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "It’s also important to tailor your story to the specific job you are applying for.",
-      "type": "narration",
-      "words": 16,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-149",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Before the interview, take the time to research the company and the job description.",
-      "type": "narration",
-      "words": 14,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-150",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Identify the key skills and qualities that the company is looking for, and make sure your story highlights those skills and qualities.",
-      "type": "narration",
-      "words": 22,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-151",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Finally, practice your story before the interview.",
-      "type": "narration",
-      "words": 7,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-152",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "The more you practice, the more confident and natural you will sound.",
-      "type": "narration",
-      "words": 12,
-      "start": 0,
-      "end": 0
-    },
-    {
-      "id": "line-153",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Remember, the goal of answering \"Tell me about yourself\" is to make the interviewer want to learn more about you.",
+      "text": "The brain is able to allocate blood (and thus energy) to particular regions that are being active at that point.",
       "type": "narration",
       "words": 20,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-154",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "id": "line-147",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "If you can do that, you will be well on your way to getting the job.",
+      "text": "But the overall energy availability in the brain is thought to be constant.",
+      "type": "narration",
+      "words": 13,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-148",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "So, while there might be significant increases in energy use at localized regions of the brain when we perform difficult cognitive tasks, when it comes to the whole brain’s energy budget overall, these activities don’t significantly alter it.",
+      "type": "narration",
+      "words": 40,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-149",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "So why did the chess champion grow too skinny to compete in his chess competition?",
+      "type": "narration",
+      "words": 15,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-150",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "The general consensus is that it mostly comes down to stress and reduced food consumption, not mental exhaustion.",
+      "type": "narration",
+      "words": 18,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-151",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "Keeping your body pumped up for action for long periods of time is very energy demanding.",
       "type": "narration",
       "words": 16,
       "start": 0,
       "end": 0
     },
     {
-      "id": "line-155",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "Q22.",
-      "text": "What does the speaker say about the question \"Tell me about yourself\" in a job interview?",
+      "id": "line-152",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "",
+      "text": "If you can’t eat as often or as much as you can or would normally—then you might lose weight.",
+      "type": "narration",
+      "words": 21,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-153",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "Q19.",
+      "text": "What do we learn about the brain when the body is at rest?",
       "type": "question",
-      "words": 16,
+      "words": 13,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-154",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "Q20.",
+      "text": "What does the speaker say about the consumption of the brain’s energy?",
+      "type": "question",
+      "words": 13,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-155",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "Q21.",
+      "text": "What do we learn about the overall energy availability in the brain?",
+      "type": "question",
+      "words": 12,
       "start": 0,
       "end": 0
     },
@@ -1767,10 +1767,10 @@
       "id": "line-156",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q23.",
-      "text": "What mistake do many job seekers make when answering this question?",
-      "type": "question",
-      "words": 11,
+      "speaker": "",
+      "text": "“Tell me about yourself” may seem like an easy job interview question, but the open-ended nature of this question often leaves job seekers at a loss where to start.",
+      "type": "narration",
+      "words": 30,
       "start": 0,
       "end": 0
     },
@@ -1778,10 +1778,10 @@
       "id": "line-157",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q24.",
-      "text": "What does the speaker advise job seekers to do when answering this question?",
-      "type": "question",
-      "words": 13,
+      "speaker": "",
+      "text": "This common question is actually a critical test of a job candidate’s communication skills.",
+      "type": "narration",
+      "words": 15,
       "start": 0,
       "end": 0
     },
@@ -1789,10 +1789,307 @@
       "id": "line-158",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q25.",
-      "text": "What should job seekers do before the interview according to the speaker?",
+      "speaker": "",
+      "text": "So it’s important not to give an unprepared response or mess it up.",
+      "type": "narration",
+      "words": 14,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-159",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "“Tell me about yourself” is often the first question professional career coaches prepare people for when they give interview guidance.",
+      "type": "narration",
+      "words": 20,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-160",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "It’s the opportunity for the candidate to take control of the narrative and tell their story in a way that really matters to their audience.",
+      "type": "narration",
+      "words": 26,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-161",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "It takes hard work and extensive preparation to answer this question well.",
+      "type": "narration",
+      "words": 12,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-162",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "When a person goes to a job interview, their interviewer has presumably read their résumé, so they don’t need to repeat the information.",
+      "type": "narration",
+      "words": 25,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-163",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "But that’s what most people will do, as it’s their instinct to recite things that are already on their résumé.",
+      "type": "narration",
+      "words": 23,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-164",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "It’s important for job seekers to do their homework on two crucial aspects.",
+      "type": "narration",
+      "words": 14,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-165",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "First, they are not just telling someone a fact about themselves.",
+      "type": "narration",
+      "words": 11,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-166",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "They’re telling a story.",
+      "type": "narration",
+      "words": 5,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-167",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "And stories take work to create.",
+      "type": "narration",
+      "words": 6,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-168",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Coming up with a good story means getting reflective about what made their career accomplishments—something they’re proud of, and what strengths those accomplishments highlight.",
+      "type": "narration",
+      "words": 26,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-169",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Candidates shouldn’t pick a broad general strength to elaborate on, such as “I’m smart.",
+      "type": "narration",
+      "words": 16,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-170",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "I work hard and I get things done.",
+      "type": "narration",
+      "words": 8,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-171",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "” To come up with multiple career accomplishments or examples for different interview questions, job seekers should talk with others, especially people who know them, partners, friends or co-workers who will bring up different stories than the ones they remember.",
+      "type": "narration",
+      "words": 40,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-172",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Secondly, candidates should know what's at stake for the company with this job opening.",
+      "type": "narration",
+      "words": 14,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-173",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "What they really are asking you is “tell me why you are going to help me.",
+      "type": "narration",
+      "words": 16,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-174",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "” If the person is a prepared candidate, they should have already figured out those things.",
+      "type": "narration",
+      "words": 15,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-175",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "They’ve read the job description and researched the company on the Internet.",
+      "type": "narration",
+      "words": 13,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-176",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "What job applicants ought to be looking for is what the company is up to, what they are trying to accomplish and what is preventing them from accomplishing those things.",
+      "type": "narration",
+      "words": 30,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-177",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "How long should it take to answer?",
+      "type": "narration",
+      "words": 7,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-178",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Around a minute.",
+      "type": "narration",
+      "words": 3,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-179",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "That’s about right for most people’s attention spans.",
+      "type": "narration",
+      "words": 10,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-180",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Under a minute could seem rushed, while over two minutes will start to feel more like a speech.",
+      "type": "narration",
+      "words": 18,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-181",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "But the length of the answer is not an exact science, and candidates need to keep their career story focused and tailored to their audience.",
+      "type": "narration",
+      "words": 25,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-182",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q22.",
+      "text": "What does the speaker say about the job interview question “tell me about yourself”?",
+      "type": "question",
+      "words": 14,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-183",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q23.",
+      "text": "What will most people do when they come to a job interview?",
       "type": "question",
       "words": 12,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-184",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q24.",
+      "text": "Why should job seekers talk with partners, friends and co-workers?",
+      "type": "question",
+      "words": 11,
+      "start": 0,
+      "end": 0
+    },
+    {
+      "id": "line-185",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q25.",
+      "text": "What other important preparations should job seekers make before an interview?",
+      "type": "question",
+      "words": 11,
       "start": 0,
       "end": 0
     }

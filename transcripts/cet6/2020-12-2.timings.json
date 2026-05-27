@@ -6,8 +6,8 @@
   "source": {
     "markdown": {
       "name": "2020-12-2.md",
-      "size": 14284,
-      "mtimeNs": 1778850817507552200
+      "size": 16481,
+      "mtimeNs": 1779866736109606700
     },
     "audio": {
       "name": "2020-12-2.mp3",
@@ -15,8 +15,8 @@
       "mtimeNs": 1778850589007929400
     }
   },
-  "generatedAt": 1778851563,
-  "elapsedSeconds": 273.28,
+  "generatedAt": 1779867045,
+  "elapsedSeconds": 221.94,
   "mode": "faster-whisper",
   "model": "small.en",
   "device": "cpu",
@@ -39,32 +39,32 @@
     {
       "id": "conversation-2",
       "title": "CONVERSATION 2",
-      "firstLineId": "line-31"
+      "firstLineId": "line-30"
     },
     {
       "id": "passage-1",
       "title": "PASSAGE 1",
-      "firstLineId": "line-57"
+      "firstLineId": "line-56"
     },
     {
       "id": "passage-2",
       "title": "PASSAGE 2",
-      "firstLineId": "line-79"
+      "firstLineId": "line-78"
     },
     {
       "id": "recording-1",
       "title": "RECORDING 1",
-      "firstLineId": "line-98"
+      "firstLineId": "line-99"
     },
     {
       "id": "recording-2",
       "title": "RECORDING 2",
-      "firstLineId": "line-117"
+      "firstLineId": "line-132"
     },
     {
       "id": "recording-3",
       "title": "RECORDING 3",
-      "firstLineId": "line-136"
+      "firstLineId": "line-156"
     }
   ],
   "lines": [
@@ -78,37 +78,22 @@
       "words": 3,
       "start": 40.74,
       "end": 42.76,
-      "matchedWords": 3,
-      "translation": "这真是令人难以置信。"
+      "matchedWords": 3
     },
     {
       "id": "line-1",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "Unlike any video game I’ve ever played before.",
+      "text": "Unlike any video game I’ve ever played before, it’s so boring, yet so relaxing at the same time.",
       "type": "dialogue",
-      "words": 9,
+      "words": 20,
       "start": 42.76,
-      "end": 46.2,
-      "matchedWords": 7,
-      "translation": "不像我以前玩过的任何电子游戏。"
+      "end": 49.82,
+      "matchedWords": 16
     },
     {
       "id": "line-2",
-      "sectionId": "conversation-1",
-      "sectionTitle": "CONVERSATION 1",
-      "speaker": "W:",
-      "text": "It’s so boring yet so relaxing at the same time.",
-      "type": "dialogue",
-      "words": 11,
-      "start": 46.2,
-      "end": 49.82,
-      "matchedWords": 9,
-      "translation": "它既枯燥，同时又让人感到很放松。"
-    },
-    {
-      "id": "line-3",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -117,11 +102,10 @@
       "words": 8,
       "start": 49.82,
       "end": 52.86,
-      "matchedWords": 8,
-      "translation": "你是怎么听说这个驾驶模拟器的？"
+      "matchedWords": 8
     },
     {
-      "id": "line-4",
+      "id": "line-3",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -130,11 +114,10 @@
       "words": 8,
       "start": 52.86,
       "end": 56.0,
-      "matchedWords": 8,
-      "translation": "我哥哥去年把它介绍给我的。"
+      "matchedWords": 8
     },
     {
-      "id": "line-5",
+      "id": "line-4",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -143,11 +126,10 @@
       "words": 11,
       "start": 56.0,
       "end": 60.4,
-      "matchedWords": 11,
-      "translation": "我很惊讶地发现它既有教育意义又很真实。"
+      "matchedWords": 11
     },
     {
-      "id": "line-6",
+      "id": "line-5",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -156,11 +138,10 @@
       "words": 18,
       "start": 60.4,
       "end": 66.74,
-      "matchedWords": 16,
-      "translation": "它叫《欧洲卡车模拟》，但他们也有美国版等其他版本。"
+      "matchedWords": 16
     },
     {
-      "id": "line-7",
+      "id": "line-6",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -169,11 +150,10 @@
       "words": 7,
       "start": 66.74,
       "end": 69.08,
-      "matchedWords": 7,
-      "translation": "我真的被那里的风景吸引住了。"
+      "matchedWords": 7
     },
     {
-      "id": "line-8",
+      "id": "line-7",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -182,11 +162,10 @@
       "words": 16,
       "start": 69.08,
       "end": 74.02,
-      "matchedWords": 14,
-      "translation": "路线经过该国一些你作为游客通常看不到的地方。"
+      "matchedWords": 14
     },
     {
-      "id": "line-9",
+      "id": "line-8",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -195,11 +174,10 @@
       "words": 5,
       "start": 74.02,
       "end": 75.62,
-      "matchedWords": 5,
-      "translation": "是的，我能看出来。"
+      "matchedWords": 5
     },
     {
-      "id": "line-10",
+      "id": "line-9",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -208,11 +186,10 @@
       "words": 19,
       "start": 75.62,
       "end": 83.28,
-      "matchedWords": 19,
-      "translation": "它看起来很简单，只是把货物从A点运到B点，从一个城市开到另一个城市。"
+      "matchedWords": 19
     },
     {
-      "id": "line-11",
+      "id": "line-10",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -221,11 +198,10 @@
       "words": 12,
       "start": 83.28,
       "end": 87.46,
-      "matchedWords": 12,
-      "translation": "但我真的很欣赏这款游戏中包含的所有细节。"
+      "matchedWords": 12
     },
     {
-      "id": "line-12",
+      "id": "line-11",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -234,11 +210,10 @@
       "words": 17,
       "start": 87.46,
       "end": 92.92,
-      "matchedWords": 15,
-      "translation": "它甚至让我对物流行业和道路交通有了新的认识。"
+      "matchedWords": 15
     },
     {
-      "id": "line-13",
+      "id": "line-12",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -247,11 +222,10 @@
       "words": 3,
       "start": 92.92,
       "end": 94.66,
-      "matchedWords": 3,
-      "translation": "我完全同意。"
+      "matchedWords": 3
     },
     {
-      "id": "line-14",
+      "id": "line-13",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -260,11 +234,10 @@
       "words": 15,
       "start": 94.66,
       "end": 100.22,
-      "matchedWords": 15,
-      "translation": "我哥哥还给我介绍了一些人在网上直播游戏的视频。"
+      "matchedWords": 15
     },
     {
-      "id": "line-15",
+      "id": "line-14",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -273,24 +246,22 @@
       "words": 6,
       "start": 100.22,
       "end": 101.96,
-      "matchedWords": 6,
-      "translation": "看这些真的很有趣。"
+      "matchedWords": 6
     },
     {
-      "id": "line-16",
+      "id": "line-15",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
-      "text": "This guy drove very carefully, obeyed all the road signs and traffic rules — such a contrast to most violent games.",
+      "text": "This guy drove very carefully, obeyed all the road signs and traffic rules—such a contrast to most violent games.",
       "type": "dialogue",
       "words": 20,
       "start": 101.96,
       "end": 112.1,
-      "matchedWords": 20,
-      "translation": "这家伙开车非常小心，遵守所有的路标和交通规则——与大多数暴力游戏形成了鲜明的对比。"
+      "matchedWords": 20
     },
     {
-      "id": "line-17",
+      "id": "line-16",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -299,11 +270,10 @@
       "words": 11,
       "start": 112.1,
       "end": 115.98,
-      "matchedWords": 11,
-      "translation": "老实说，玩这个游戏激发了我对这个行业的进一步探索。"
+      "matchedWords": 11
     },
     {
-      "id": "line-18",
+      "id": "line-17",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -312,11 +282,10 @@
       "words": 19,
       "start": 115.98,
       "end": 123.22,
-      "matchedWords": 17,
-      "translation": "我读过一些关于自动驾驶卡车可能很快就会问世，并可能极大地影响货物物流的文章。"
+      "matchedWords": 17
     },
     {
-      "id": "line-19",
+      "id": "line-18",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -325,11 +294,10 @@
       "words": 21,
       "start": 123.22,
       "end": 129.856,
-      "matchedWords": 19,
-      "translation": "考虑到驾驶这些大型车辆所涉及的一切，我们很快就能拥有这种技术，真是太神奇了。"
+      "matchedWords": 19
     },
     {
-      "id": "line-20",
+      "id": "line-19",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -338,11 +306,10 @@
       "words": 1,
       "start": 129.856,
       "end": 131.12,
-      "matchedWords": 0,
-      "translation": "哈。"
+      "matchedWords": 0
     },
     {
-      "id": "line-21",
+      "id": "line-20",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -351,11 +318,10 @@
       "words": 6,
       "start": 131.12,
       "end": 133.22,
-      "matchedWords": 4,
-      "translation": "我更进了一步。"
+      "matchedWords": 4
     },
     {
-      "id": "line-22",
+      "id": "line-21",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -364,11 +330,10 @@
       "words": 15,
       "start": 133.22,
       "end": 138.94,
-      "matchedWords": 15,
-      "translation": "我报名参加了一个安全驾驶课程，以提高我在现实生活中的驾驶技能。"
+      "matchedWords": 15
     },
     {
-      "id": "line-23",
+      "id": "line-22",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
@@ -377,24 +342,22 @@
       "words": 18,
       "start": 138.94,
       "end": 144.94,
-      "matchedWords": 18,
-      "translation": "在某种程度上，我觉得与其他同学相比，我有了一个领先的优势。"
+      "matchedWords": 18
     },
     {
-      "id": "line-24",
+      "id": "line-23",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "M:",
-      "text": "Playing this video game has given me some maneuvering practice already.",
+      "text": "Playing this video game has given me some maneuvering practices already.",
       "type": "dialogue",
       "words": 11,
       "start": 144.94,
       "end": 149.98,
-      "matchedWords": 11,
-      "translation": "玩这款电子游戏已经给我提供了一些操作练习。"
+      "matchedWords": 10
     },
     {
-      "id": "line-25",
+      "id": "line-24",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
@@ -403,24 +366,22 @@
       "words": 15,
       "start": 149.98,
       "end": 153.94,
-      "matchedWords": 13,
-      "translation": "我不确定这款电子游戏与现实生活相比有多准确。"
+      "matchedWords": 13
     },
     {
-      "id": "line-26",
+      "id": "line-25",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "W:",
-      "text": "But if it results in more drivers looking both ways before entering an intersection, I’d say that’s a positive outcome.",
+      "text": "But if it results in more drivers looking both ways before entering an intersection, I’d say that’s a postive outcome.",
       "type": "dialogue",
       "words": 22,
       "start": 153.94,
       "end": 169.38,
-      "matchedWords": 18,
-      "translation": "但如果它能让更多的驾驶员在进入路口前向两边看，我会说这是一个积极的结果。"
+      "matchedWords": 17
     },
     {
-      "id": "line-27",
+      "id": "line-26",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q1.",
@@ -429,11 +390,10 @@
       "words": 7,
       "start": 169.38,
       "end": 186.52,
-      "matchedWords": 7,
-      "translation": "说话者主要在谈论什么？"
+      "matchedWords": 7
     },
     {
-      "id": "line-28",
+      "id": "line-27",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q2.",
@@ -442,11 +402,10 @@
       "words": 9,
       "start": 186.52,
       "end": 204.4,
-      "matchedWords": 9,
-      "translation": "男子关于驾驶模拟器说了什么？"
+      "matchedWords": 9
     },
     {
-      "id": "line-29",
+      "id": "line-28",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q3.",
@@ -455,11 +414,10 @@
       "words": 8,
       "start": 204.4,
       "end": 221.9,
-      "matchedWords": 8,
-      "translation": "女士说她真正欣赏的是什么？"
+      "matchedWords": 8
     },
     {
-      "id": "line-30",
+      "id": "line-29",
       "sectionId": "conversation-1",
       "sectionTitle": "CONVERSATION 1",
       "speaker": "Q4.",
@@ -468,11 +426,10 @@
       "words": 10,
       "start": 221.9,
       "end": 240.62,
-      "matchedWords": 10,
-      "translation": "女士期望驾驶模拟器产生什么样的结果？"
+      "matchedWords": 10
     },
     {
-      "id": "line-31",
+      "id": "line-30",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -481,11 +438,10 @@
       "words": 7,
       "start": 240.62,
       "end": 243.74,
-      "matchedWords": 7,
-      "translation": "你觉得个体经营（自我雇佣）怎么样？"
+      "matchedWords": 7
     },
     {
-      "id": "line-32",
+      "id": "line-31",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -494,11 +450,10 @@
       "words": 26,
       "start": 243.74,
       "end": 254.14,
-      "matchedWords": 22,
-      "translation": "有明显的益处，尽管我似乎没有预想中的那种自由，因为我似乎无法拒绝工作的邀约。"
+      "matchedWords": 22
     },
     {
-      "id": "line-33",
+      "id": "line-32",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -507,11 +462,10 @@
       "words": 17,
       "start": 254.14,
       "end": 261.48,
-      "matchedWords": 15,
-      "translation": "而且独自工作，有时我发现金钱本身并不能提供足够的动力。"
+      "matchedWords": 15
     },
     {
-      "id": "line-34",
+      "id": "line-33",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -520,11 +474,10 @@
       "words": 11,
       "start": 261.48,
       "end": 265.36,
-      "matchedWords": 11,
-      "translation": "自从你开始为自己工作以来，你有同样的经历吗？"
+      "matchedWords": 11
     },
     {
-      "id": "line-35",
+      "id": "line-34",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -533,11 +486,10 @@
       "words": 2,
       "start": 265.36,
       "end": 267.06,
-      "matchedWords": 2,
-      "translation": "有时确实如此。"
+      "matchedWords": 2
     },
     {
-      "id": "line-36",
+      "id": "line-35",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -546,11 +498,10 @@
       "words": 33,
       "start": 267.06,
       "end": 279.5,
-      "matchedWords": 31,
-      "translation": "与那些有经理在他们感到懒惰或无聊时激发动力的其他劳动者不同，我们个体经营者在没有经理提振精神的情况下完成工作。"
+      "matchedWords": 31
     },
     {
-      "id": "line-37",
+      "id": "line-36",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -559,11 +510,10 @@
       "words": 22,
       "start": 279.5,
       "end": 287.54,
-      "matchedWords": 20,
-      "translation": "周围没有人给予表扬或发起协作，没有人能更好地利用我们的兴趣和天赋。"
+      "matchedWords": 20
     },
     {
-      "id": "line-38",
+      "id": "line-37",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -572,11 +522,10 @@
       "words": 4,
       "start": 287.54,
       "end": 289.3,
-      "matchedWords": 2,
-      "translation": "这是事实。"
+      "matchedWords": 2
     },
     {
-      "id": "line-39",
+      "id": "line-38",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -585,11 +534,10 @@
       "words": 11,
       "start": 289.3,
       "end": 293.54,
-      "matchedWords": 11,
-      "translation": "当然，并非每个经理都能表现出这样的觉悟和关怀。"
+      "matchedWords": 11
     },
     {
-      "id": "line-40",
+      "id": "line-39",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -598,24 +546,22 @@
       "words": 12,
       "start": 293.54,
       "end": 298.1,
-      "matchedWords": 12,
-      "translation": "而且当然并非所有经理都懂得如何激励员工。"
+      "matchedWords": 12
     },
     {
-      "id": "line-41",
+      "id": "line-40",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "Still, having a manager nearby at least indicates there’s an opportunity they’ll be decent enough to look out for you when your energy and focus begin to deplete.",
+      "text": "Still, having a manager nearby at least indicates there’s an opportunity they'll be decent enough to look out for you when your energy and focus begin to deplete.",
       "type": "dialogue",
-      "words": 30,
+      "words": 29,
       "start": 298.1,
       "end": 308.96,
-      "matchedWords": 26,
-      "translation": "尽管如此，身边有一个经理至少意味着，当你精力和注意力开始耗尽时，他们有可能表现得足够得体来关照你。"
+      "matchedWords": 26
     },
     {
-      "id": "line-42",
+      "id": "line-41",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -624,11 +570,10 @@
       "words": 7,
       "start": 308.96,
       "end": 312.18,
-      "matchedWords": 7,
-      "translation": "我最看重的激励因素是自主权。"
+      "matchedWords": 7
     },
     {
-      "id": "line-43",
+      "id": "line-42",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -637,11 +582,10 @@
       "words": 24,
       "start": 312.18,
       "end": 320.36,
-      "matchedWords": 22,
-      "translation": "我学会了不要为了整天工作以及答应客户的每一个要求而牺牲我珍视的自主权。"
+      "matchedWords": 22
     },
     {
-      "id": "line-44",
+      "id": "line-43",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -650,11 +594,10 @@
       "words": 1,
       "start": 320.36,
       "end": 321.04,
-      "matchedWords": 1,
-      "translation": "是的。"
+      "matchedWords": 1
     },
     {
-      "id": "line-45",
+      "id": "line-44",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -663,11 +606,10 @@
       "words": 13,
       "start": 321.04,
       "end": 326.1,
-      "matchedWords": 13,
-      "translation": "我需要提醒自己，我选择这种生活方式是为了独立。"
+      "matchedWords": 13
     },
     {
-      "id": "line-46",
+      "id": "line-45",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -676,11 +618,10 @@
       "words": 24,
       "start": 326.1,
       "end": 337.22,
-      "matchedWords": 22,
-      "translation": "我不怀念那些我不喜欢的长期全职工作的方方面面，比如办公室政治、工作不稳定性、僵化的工时等等。"
+      "matchedWords": 22
     },
     {
-      "id": "line-47",
+      "id": "line-46",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -689,11 +630,10 @@
       "words": 19,
       "start": 337.22,
       "end": 343.24,
-      "matchedWords": 17,
-      "translation": "不过我不介意多一点表扬，那种记录在案的表扬。"
+      "matchedWords": 17
     },
     {
-      "id": "line-48",
+      "id": "line-47",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -702,11 +642,10 @@
       "words": 5,
       "start": 343.24,
       "end": 344.7,
-      "matchedWords": 3,
-      "translation": "那会随着时间的推移而到来的。"
+      "matchedWords": 3
     },
     {
-      "id": "line-49",
+      "id": "line-48",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
@@ -715,24 +654,22 @@
       "words": 7,
       "start": 344.7,
       "end": 349.12,
-      "matchedWords": 7,
-      "translation": "关联性必然通过人际互动来培养。"
+      "matchedWords": 7
     },
     {
-      "id": "line-50",
+      "id": "line-49",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "W:",
-      "text": "Engaging with clients, getting written testimony and recommendations, staying in contact with clients afterwards — these are things you’ll find will come in due course and provide you with motivation.",
+      "text": "Engaging with clients, getting written testimony and recommendations, staying in contact with clients afterwards, these are things you’ll find will come in due course and provide you with motivation.",
       "type": "dialogue",
       "words": 30,
       "start": 349.12,
       "end": 361.86,
-      "matchedWords": 26,
-      "translation": "与客户接触，获得书面证明和推荐，之后与客户保持联系——你会发现这些事情会在适当的时候到来，并为你提供动力。"
+      "matchedWords": 26
     },
     {
-      "id": "line-51",
+      "id": "line-50",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
@@ -741,24 +678,22 @@
       "words": 3,
       "start": 361.86,
       "end": 363.22,
-      "matchedWords": 1,
-      "translation": "你说得对。"
+      "matchedWords": 1
     },
     {
-      "id": "line-52",
+      "id": "line-51",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "M:",
-      "text": "That’s an area I do need to put some more effort into — building closer relationships with those who engage my services and skills.",
+      "text": "That’s an area I do need to put some more effort into—building closer relationships with those who engage my services and skills.",
       "type": "dialogue",
       "words": 24,
       "start": 363.22,
       "end": 378.5,
-      "matchedWords": 22,
-      "translation": "那是我的确需要投入更多精力的一个领域——与那些雇用我的服务和技能的人建立更紧密的关系。"
+      "matchedWords": 22
     },
     {
-      "id": "line-53",
+      "id": "line-52",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q5.",
@@ -767,11 +702,10 @@
       "words": 12,
       "start": 378.5,
       "end": 396.86,
-      "matchedWords": 12,
-      "translation": "男子关于他的个体经营生活说了什么？"
+      "matchedWords": 12
     },
     {
-      "id": "line-54",
+      "id": "line-53",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q6.",
@@ -780,11 +714,10 @@
       "words": 7,
       "start": 396.86,
       "end": 413.92,
-      "matchedWords": 7,
-      "translation": "男子关于经理说了什么？"
+      "matchedWords": 7
     },
     {
-      "id": "line-55",
+      "id": "line-54",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q7.",
@@ -793,11 +726,10 @@
       "words": 9,
       "start": 413.92,
       "end": 432.64,
-      "matchedWords": 9,
-      "translation": "两位说话者最看重个体经营的哪一点？"
+      "matchedWords": 9
     },
     {
-      "id": "line-56",
+      "id": "line-55",
       "sectionId": "conversation-2",
       "sectionTitle": "CONVERSATION 2",
       "speaker": "Q8.",
@@ -806,11 +738,10 @@
       "words": 10,
       "start": 432.64,
       "end": 479.84,
-      "matchedWords": 10,
-      "translation": "男子在哪个观点上同意女士？"
+      "matchedWords": 10
     },
     {
-      "id": "line-57",
+      "id": "line-56",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -819,11 +750,10 @@
       "words": 19,
       "start": 479.84,
       "end": 486.62,
-      "matchedWords": 17,
-      "translation": "天气是我们生活中一种恒定的力量，但关于它如何影响企业的营销研究却很少。"
+      "matchedWords": 17
     },
     {
-      "id": "line-58",
+      "id": "line-57",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -832,11 +762,10 @@
       "words": 13,
       "start": 486.62,
       "end": 493.16,
-      "matchedWords": 13,
-      "translation": "现在，一项新研究揭示了晴天和雪天如何影响消费行为。"
+      "matchedWords": 13
     },
     {
-      "id": "line-59",
+      "id": "line-58",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -845,11 +774,10 @@
       "words": 15,
       "start": 493.16,
       "end": 500.72,
-      "matchedWords": 15,
-      "translation": "这些天气条件会触发消费者在脑海中想象使用与相应天气相关的产品。"
+      "matchedWords": 15
     },
     {
-      "id": "line-60",
+      "id": "line-59",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -858,11 +786,10 @@
       "words": 11,
       "start": 500.72,
       "end": 504.85,
-      "matchedWords": 11,
-      "translation": "这导致消费者对这些产品赋予更高的价值。"
+      "matchedWords": 11
     },
     {
-      "id": "line-61",
+      "id": "line-60",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -871,11 +798,10 @@
       "words": 11,
       "start": 504.85,
       "end": 507.89,
-      "matchedWords": 9,
-      "translation": "也就是说，他们愿意为这些产品支付更多的钱。"
+      "matchedWords": 9
     },
     {
-      "id": "line-62",
+      "id": "line-61",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -884,11 +810,10 @@
       "words": 12,
       "start": 507.89,
       "end": 512.45,
-      "matchedWords": 12,
-      "translation": "但这种相关性仅在与户外活动相关的产品中发现。"
+      "matchedWords": 12
     },
     {
-      "id": "line-63",
+      "id": "line-62",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -897,11 +822,10 @@
       "words": 4,
       "start": 512.45,
       "end": 514.05,
-      "matchedWords": 4,
-      "translation": "这是如何运作的？"
+      "matchedWords": 4
     },
     {
-      "id": "line-64",
+      "id": "line-63",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -910,11 +834,10 @@
       "words": 8,
       "start": 514.05,
       "end": 516.99,
-      "matchedWords": 8,
-      "translation": "研究人员以沙滩巾为例。"
+      "matchedWords": 8
     },
     {
-      "id": "line-65",
+      "id": "line-64",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -923,11 +846,10 @@
       "words": 29,
       "start": 516.99,
       "end": 526.55,
-      "matchedWords": 29,
-      "translation": "在晴天，看到该产品的消费者不仅是在看毛巾本身，他们很可能在想象自己躺在阳光下的毛巾上。"
+      "matchedWords": 29
     },
     {
-      "id": "line-66",
+      "id": "line-65",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -936,11 +858,10 @@
       "words": 17,
       "start": 526.55,
       "end": 532.69,
-      "matchedWords": 17,
-      "translation": "这种使用毛巾的心理图景增加了产品在消费者心目中的价值。"
+      "matchedWords": 17
     },
     {
-      "id": "line-67",
+      "id": "line-66",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -949,11 +870,10 @@
       "words": 10,
       "start": 532.69,
       "end": 537.39,
-      "matchedWords": 10,
-      "translation": "研究人员提出了以下假设来解释他们的发现。"
+      "matchedWords": 10
     },
     {
-      "id": "line-68",
+      "id": "line-67",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -962,11 +882,10 @@
       "words": 21,
       "start": 537.39,
       "end": 545.99,
-      "matchedWords": 21,
-      "translation": "他们认为心理图景在阳光和雪天起作用，是因为这些天气条件与户外活动有积极的联系。"
+      "matchedWords": 21
     },
     {
-      "id": "line-69",
+      "id": "line-68",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -975,11 +894,10 @@
       "words": 8,
       "start": 545.99,
       "end": 548.91,
-      "matchedWords": 8,
-      "translation": "这种效应在阴雨天气中并不存在。"
+      "matchedWords": 8
     },
     {
-      "id": "line-70",
+      "id": "line-69",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -988,11 +906,10 @@
       "words": 15,
       "start": 548.91,
       "end": 553.93,
-      "matchedWords": 13,
-      "translation": "研究人员断言，这是因为下雨能促成的活动并不多。"
+      "matchedWords": 13
     },
     {
-      "id": "line-71",
+      "id": "line-70",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -1001,11 +918,10 @@
       "words": 20,
       "start": 553.93,
       "end": 561.97,
-      "matchedWords": 20,
-      "translation": "大多数与雨相关的产品，如雨伞，仅用于防御天气，而不是为了任何活动。"
+      "matchedWords": 20
     },
     {
-      "id": "line-72",
+      "id": "line-71",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -1014,11 +930,10 @@
       "words": 21,
       "start": 561.97,
       "end": 569.87,
-      "matchedWords": 21,
-      "translation": "研究人员认为，在线销售各种产品的公司可以从这项研究提供的见解中获益最多。"
+      "matchedWords": 21
     },
     {
-      "id": "line-73",
+      "id": "line-72",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -1027,11 +942,10 @@
       "words": 19,
       "start": 569.87,
       "end": 578.35,
-      "matchedWords": 18,
-      "translation": "在线销售商经常使用复杂的数学公式来确定展示哪些产品以及如何为这些产品定价。"
+      "matchedWords": 18
     },
     {
-      "id": "line-74",
+      "id": "line-73",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -1040,11 +954,10 @@
       "words": 12,
       "start": 578.35,
       "end": 582.95,
-      "matchedWords": 12,
-      "translation": "纳入更多关于天气的数据将使他们能够做出更好的决策。"
+      "matchedWords": 12
     },
     {
-      "id": "line-75",
+      "id": "line-74",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "",
@@ -1053,11 +966,10 @@
       "words": 4,
       "start": 582.95,
       "end": 591.67,
-      "matchedWords": 4,
-      "translation": "这可以提振销售额。"
+      "matchedWords": 4
     },
     {
-      "id": "line-76",
+      "id": "line-75",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q9.",
@@ -1066,11 +978,10 @@
       "words": 11,
       "start": 591.67,
       "end": 609.11,
-      "matchedWords": 11,
-      "translation": "关于这项新研究的发现，我们了解到了什么？"
+      "matchedWords": 11
     },
     {
-      "id": "line-77",
+      "id": "line-76",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q10.",
@@ -1079,24 +990,22 @@
       "words": 13,
       "start": 609.11,
       "end": 628.79,
-      "matchedWords": 13,
-      "translation": "文章说，什么可能会增加产品对消费者的价值？"
+      "matchedWords": 13
     },
     {
-      "id": "line-78",
+      "id": "line-77",
       "sectionId": "passage-1",
       "sectionTitle": "PASSAGE 1",
       "speaker": "Q11.",
-      "text": "How can online sellers benefit from the findings of the new study?",
+      "text": "How can the findings of the new study benefit online sellers according to the researchers?",
       "type": "question",
-      "words": 12,
+      "words": 15,
       "start": 628.79,
       "end": 650.33,
-      "matchedWords": 8,
-      "translation": "在线销售商如何从这项新研究的发现中获益？"
+      "matchedWords": 15
     },
     {
-      "id": "line-79",
+      "id": "line-78",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1105,11 +1014,10 @@
       "words": 15,
       "start": 650.33,
       "end": 657.31,
-      "matchedWords": 15,
-      "translation": "将办公室空调设定在22℃左右已成为全世界的标准做法。"
+      "matchedWords": 15
     },
     {
-      "id": "line-80",
+      "id": "line-79",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1118,11 +1026,10 @@
       "words": 18,
       "start": 657.31,
       "end": 666.05,
-      "matchedWords": 18,
-      "translation": "世界各地无数关于供暖、通风和空调的指南都声称，办公室绩效在22度时达到峰值。"
+      "matchedWords": 18
     },
     {
-      "id": "line-81",
+      "id": "line-80",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1131,11 +1038,10 @@
       "words": 13,
       "start": 666.05,
       "end": 671.59,
-      "matchedWords": 13,
-      "translation": "在空调办公室里，许多人的确从酷暑中得到了解脱。"
+      "matchedWords": 13
     },
     {
-      "id": "line-82",
+      "id": "line-81",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1144,11 +1050,10 @@
       "words": 15,
       "start": 671.59,
       "end": 678.17,
-      "matchedWords": 15,
-      "translation": "但最近的研究挑战了“凉爽的办公室效率更高”这一公认观点。"
+      "matchedWords": 15
     },
     {
-      "id": "line-83",
+      "id": "line-82",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1157,11 +1062,10 @@
       "words": 5,
       "start": 678.17,
       "end": 681.93,
-      "matchedWords": 5,
-      "translation": "现实更为复杂。"
+      "matchedWords": 5
     },
     {
-      "id": "line-84",
+      "id": "line-83",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1170,11 +1074,10 @@
       "words": 13,
       "start": 681.93,
       "end": 687.73,
-      "matchedWords": 12,
-      "translation": "研究人员对所有关于空调与生产力的研究进行了回顾。"
+      "matchedWords": 12
     },
     {
-      "id": "line-85",
+      "id": "line-84",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1183,11 +1086,10 @@
       "words": 16,
       "start": 687.73,
       "end": 694.79,
-      "matchedWords": 16,
-      "translation": "他们发现，即使是在盛夏，22度可能也有点冷。"
+      "matchedWords": 16
     },
     {
-      "id": "line-86",
+      "id": "line-85",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1196,11 +1098,10 @@
       "words": 18,
       "start": 694.79,
       "end": 703.23,
-      "matchedWords": 18,
-      "translation": "对于穿着典型夏季服装的人来说，最佳范围应该在23到26度之间。"
+      "matchedWords": 18
     },
     {
-      "id": "line-87",
+      "id": "line-86",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1209,11 +1110,10 @@
       "words": 20,
       "start": 703.23,
       "end": 711.29,
-      "matchedWords": 20,
-      "translation": "只要人们能调整自己的穿着和预期，他们甚至可以忍受超出这个舒适区的温度。"
+      "matchedWords": 20
     },
     {
-      "id": "line-88",
+      "id": "line-87",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1222,11 +1122,10 @@
       "words": 16,
       "start": 711.29,
       "end": 717.73,
-      "matchedWords": 16,
-      "translation": "事实上，即使在非常炎热的日子里，调高空调度数也是合理的。"
+      "matchedWords": 16
     },
     {
-      "id": "line-89",
+      "id": "line-88",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1235,11 +1134,10 @@
       "words": 15,
       "start": 717.73,
       "end": 724.63,
-      "matchedWords": 15,
-      "translation": "人们经常追求单一的最佳温度，当人们感到炎热时，这是可以理解的。"
+      "matchedWords": 15
     },
     {
-      "id": "line-90",
+      "id": "line-89",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1248,24 +1146,22 @@
       "words": 19,
       "start": 724.63,
       "end": 732.41,
-      "matchedWords": 17,
-      "translation": "但至少有三到四度的范围不会产生任何不利影响。"
+      "matchedWords": 17
     },
     {
-      "id": "line-91",
+      "id": "line-90",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "Another issue related to this is that people can become psychologically dependent on air-conditioning.",
+      "text": "Another issue related to this is that people can become psychologically dependent on air conditioning.",
       "type": "narration",
       "words": 15,
       "start": 732.41,
       "end": 738.57,
-      "matchedWords": 15,
-      "translation": "与此相关的另一个问题是，人们会对空调产生心理依赖。"
+      "matchedWords": 15
     },
     {
-      "id": "line-92",
+      "id": "line-91",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
@@ -1274,866 +1170,1135 @@
       "words": 17,
       "start": 738.57,
       "end": 744.67,
-      "matchedWords": 15,
-      "translation": "如果他们习惯了有空调的环境，他们往往会更喜欢更低的温度。"
+      "matchedWords": 15
+    },
+    {
+      "id": "line-92",
+      "sectionId": "passage-2",
+      "sectionTitle": "PASSAGE 2",
+      "speaker": "",
+      "text": "But the studies found that almost all humans became accustomed to the new temperature.",
+      "type": "narration",
+      "words": 14,
+      "start": 744.67,
+      "end": 750.63,
+      "matchedWords": 14
     },
     {
       "id": "line-93",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
       "speaker": "",
-      "text": "But studies have found that people who regularly experience thermal comfort are more likely to remain satisfied with their working conditions and actually be more productive.",
+      "text": "It was only at the extreme ends of the temperature range where people’s productivity suffered.",
       "type": "narration",
-      "words": 26,
-      "start": 744.67,
-      "end": 769.91,
-      "matchedWords": 5,
-      "translation": "但研究发现，经常体验到热舒适感的人更有可能对自己的工作环境保持满意，并实际上更有效率。"
+      "words": 16,
+      "start": 750.63,
+      "end": 757.43,
+      "matchedWords": 14
     },
     {
       "id": "line-94",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
-      "speaker": "Q12.",
-      "text": "What is the accepted wisdom concerning office air-conditioning?",
-      "type": "question",
-      "words": 9,
-      "start": 769.91,
-      "end": 788.73,
-      "matchedWords": 7,
-      "translation": "关于办公室空调，公认的观点是什么？"
+      "speaker": "",
+      "text": "This range was above 26 degrees and below 19 degrees.",
+      "type": "narration",
+      "words": 10,
+      "start": 757.43,
+      "end": 769.91,
+      "matchedWords": 10
     },
     {
       "id": "line-95",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
-      "speaker": "Q13.",
-      "text": "What did researchers find about office air-conditioning?",
+      "speaker": "Q12.",
+      "text": "What is the accepted wisdom concerning the office environment?",
       "type": "question",
-      "words": 8,
-      "start": 788.73,
-      "end": 806.52,
-      "matchedWords": 6,
-      "translation": "研究人员关于办公室空调发现了什么？"
+      "words": 9,
+      "start": 769.91,
+      "end": 788.73,
+      "matchedWords": 9
     },
     {
       "id": "line-96",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
-      "speaker": "Q14.",
-      "text": "What does the passage say about a temperature range of 3 to 4 degrees?",
+      "speaker": "Q13.",
+      "text": "What did researchers find from their review of all studies relating to air-conditioning and productivity?",
       "type": "question",
-      "words": 14,
-      "start": 806.52,
-      "end": 830.59,
-      "matchedWords": 0,
-      "translation": "文章关于3到4度的温度范围说了什么？"
+      "words": 16,
+      "start": 788.73,
+      "end": 809.43,
+      "matchedWords": 16
     },
     {
       "id": "line-97",
       "sectionId": "passage-2",
       "sectionTitle": "PASSAGE 2",
-      "speaker": "Q15.",
-      "text": "What happens when people get used to an air-conditioned environment?",
+      "speaker": "Q14.",
+      "text": "What do we learn about using a little less air-conditioning during hot weather?",
       "type": "question",
-      "words": 11,
-      "start": 830.59,
-      "end": 844.852,
-      "matchedWords": 10,
-      "translation": "当人们习惯了空调环境时会发生什么？"
+      "words": 14,
+      "start": 809.43,
+      "end": 830.59,
+      "matchedWords": 14
     },
     {
       "id": "line-98",
-      "sectionId": "recording-1",
-      "sectionTitle": "RECORDING 1",
-      "speaker": "",
-      "text": "For many years, researchers have studied how emotions affect our well-being.",
-      "type": "narration",
-      "words": 12,
-      "start": 844.852,
-      "end": 853.41,
-      "matchedWords": 0,
-      "translation": "多年来，研究人员一直在研究情绪如何影响我们的幸福感。"
+      "sectionId": "passage-2",
+      "sectionTitle": "PASSAGE 2",
+      "speaker": "Q15.",
+      "text": "What happens when people are used to an air-conditioned environment?",
+      "type": "question",
+      "words": 11,
+      "start": 830.59,
+      "end": 877.25,
+      "matchedWords": 11
     },
     {
       "id": "line-99",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "But until recently, most of this research has focused on positive emotions versus negative emotions.",
+      "text": "Psychology research has tended to portray solitude as a negative experience.",
       "type": "narration",
-      "words": 15,
-      "start": 853.41,
-      "end": 908.01,
-      "matchedWords": 7,
-      "translation": "但直到最近，大部分研究都集中在正面情绪与负面情绪的对比上。"
+      "words": 11,
+      "start": 877.25,
+      "end": 882.87,
+      "matchedWords": 11
     },
     {
       "id": "line-100",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "This simple classification, however, overlooks the fact that emotions vary in intensity as well as in valence.",
+      "text": "Studies conducted in the 1970s and 1990s suggested that people felt less happy when alone as compared to being with others.",
       "type": "narration",
-      "words": 17,
-      "start": 908.01,
-      "end": 969.89,
-      "matchedWords": 0,
-      "translation": "然而，这种简单的分类忽略了情绪在强度和效价（valence）上都有所不同这一事实。"
+      "words": 21,
+      "start": 882.87,
+      "end": 892.45,
+      "matchedWords": 21
     },
     {
       "id": "line-101",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "A new study conducted by psychologists at the University of California, Berkeley, has found that solitude has a different effect on high-arousal emotions than on low-arousal emotions.",
+      "text": "However, a new paper shows an alternative view of solitude, one in which solitude can be positive.",
       "type": "narration",
-      "words": 29,
-      "start": 969.89,
-      "end": 979.873,
-      "matchedWords": 11,
-      "translation": "加州大学伯克利分校的心理学家进行的一项新研究发现，独处对高唤起情绪的影响与对低唤起情绪的影响不同。"
+      "words": 17,
+      "start": 892.45,
+      "end": 900.27,
+      "matchedWords": 17
     },
     {
       "id": "line-102",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "High-arousal emotions include things like anger, fear, excitement and joy.",
+      "text": "Let's start by looking at the earlier research.",
       "type": "narration",
-      "words": 11,
-      "start": 979.873,
-      "end": 983.66,
-      "matchedWords": 0,
-      "translation": "高唤起情绪包括愤怒、恐惧、兴奋和喜悦等。"
+      "words": 8,
+      "start": 900.27,
+      "end": 903.43,
+      "matchedWords": 8
     },
     {
       "id": "line-103",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Low-arousal emotions include sadness, contentment, calmness and boredom.",
+      "text": "It had a couple of shortcomings.",
       "type": "narration",
-      "words": 9,
-      "start": 983.66,
-      "end": 986.758,
-      "matchedWords": 0,
-      "translation": "低唤起情绪包括悲伤、满足、平静和厌倦。"
+      "words": 6,
+      "start": 903.43,
+      "end": 906.47,
+      "matchedWords": 6
     },
     {
       "id": "line-104",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "In the study, participants were asked to sit alone in a room without any distractions for 15 minutes.",
+      "text": "First, it measured emotion on a scale from positive to negative, overlooking the possibility that our positive and negative emotions can fluctuate independently.",
       "type": "narration",
-      "words": 18,
-      "start": 986.758,
-      "end": 992.955,
-      "matchedWords": 0,
-      "translation": "在研究中，参与者被要求独自坐在一间没有任何干扰的房间里15分钟。"
+      "words": 23,
+      "start": 906.47,
+      "end": 917.55,
+      "matchedWords": 23
     },
     {
       "id": "line-105",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Before and after this period, they completed a questionnaire measuring their emotional states.",
+      "text": "Also, it categorized emotions as simply positive or negative.",
       "type": "narration",
-      "words": 13,
-      "start": 992.955,
-      "end": 997.43,
-      "matchedWords": 0,
-      "translation": "在此期间之前和之后，他们完成了一份测量其情绪状态的问卷。"
+      "words": 9,
+      "start": 917.55,
+      "end": 922.49,
+      "matchedWords": 9
     },
     {
       "id": "line-106",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "The researchers found that solitude had a reductive effect on high-arousal emotions, both positive and negative.",
+      "text": "It didn’t consider that emotions arouse us to different degrees, and that both positive and negative emotions can arouse us a lot or a little.",
       "type": "narration",
-      "words": 17,
-      "start": 997.43,
-      "end": 1001.668,
-      "matchedWords": 4,
-      "translation": "研究人员发现，独处对高唤起情绪（无论是正面的还是负面的）都有削减作用。"
+      "words": 26,
+      "start": 922.49,
+      "end": 931.49,
+      "matchedWords": 24
     },
     {
       "id": "line-107",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "That is, people felt less angry, less fearful, less excited and less joyful after sitting alone for 15 minutes.",
+      "text": "That is, whether positive or negative, emotions can be either high-arousal or low-arousal.",
       "type": "narration",
-      "words": 19,
-      "start": 1001.668,
-      "end": 1006.405,
-      "matchedWords": 0,
-      "translation": "也就是说，在独坐15分钟后，人们感到愤怒、恐惧、兴奋和喜悦的程度都降低了。"
+      "words": 15,
+      "start": 931.49,
+      "end": 936.89,
+      "matchedWords": 15
     },
     {
       "id": "line-108",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "However, solitude had no significant effect on low-arousal emotions.",
+      "text": "High-arousal emotions include excitement on the positive side or anger on the negative side, while low-arousal ones include feeling calm on the positive side or lonely on the negative.",
       "type": "narration",
-      "words": 10,
-      "start": 1006.405,
-      "end": 1008.899,
-      "matchedWords": 0,
-      "translation": "然而，独处对低唤起情绪没有显著影响。"
+      "words": 31,
+      "start": 936.89,
+      "end": 951.09,
+      "matchedWords": 31
     },
     {
       "id": "line-109",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "This suggests that solitude may be particularly effective at calming us down when we are feeling highly aroused, whether positively or negatively.",
+      "text": "This new research attempted to overcome these shortcomings.",
       "type": "narration",
-      "words": 22,
-      "start": 1008.899,
-      "end": 1014.384,
-      "matchedWords": 0,
-      "translation": "这表明，当我们感到高度兴奋或激动（无论是正面还是负面的）时，独处可能在让我们冷静下来方面特别有效。"
+      "words": 8,
+      "start": 951.09,
+      "end": 955.03,
+      "matchedWords": 8
     },
     {
       "id": "line-110",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "It also challenges the common belief that solitude is always a negative experience that makes people feel sad or lonely.",
+      "text": "Researchers began with a simple study.",
       "type": "narration",
-      "words": 20,
-      "start": 1014.384,
-      "end": 1019.37,
-      "matchedWords": 0,
-      "translation": "它还挑战了普遍的看法，即独处总是一种让人感到悲伤或孤独的负面体验。"
+      "words": 6,
+      "start": 955.03,
+      "end": 957.57,
+      "matchedWords": 6
     },
     {
       "id": "line-111",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "The researchers note that these findings have important implications for our daily lives.",
+      "text": "They asked participants to spend 15 minutes sitting alone without engaging in any activity, and measured how this solitude influences their emotional state.",
       "type": "narration",
-      "words": 13,
-      "start": 1019.37,
-      "end": 1028.305,
-      "matchedWords": 4,
-      "translation": "研究人员指出，这些发现对我们的日常生活具有重要意义。"
+      "words": 23,
+      "start": 957.57,
+      "end": 966.63,
+      "matchedWords": 22
     },
     {
       "id": "line-112",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "For example, if you’re feeling stressed or angry after a long day at work, taking a few minutes to sit alone in a quiet room may help you calm down.",
+      "text": "This experiment specifically aimed to determine the effect of solitude on high-arousal emotions.",
       "type": "narration",
-      "words": 31,
-      "start": 1028.305,
-      "end": 1049.61,
-      "matchedWords": 0,
-      "translation": "例如，如果你在漫长的一天工作后感到压力大或愤怒，花几分钟独自坐在安静的房间里可能会帮你冷静下来。"
+      "words": 14,
+      "start": 966.63,
+      "end": 974.11,
+      "matchedWords": 14
     },
     {
       "id": "line-113",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Similarly, if you’re feeling overly excited and need to focus, solitude can help you center yourself.",
+      "text": "It looked at positive emotions such as being excited or interested and negative emotions including being scared or distressed.",
       "type": "narration",
-      "words": 17,
-      "start": 1049.61,
-      "end": 1086.37,
-      "matchedWords": 4,
-      "translation": "同样，如果你感到过度兴奋而需要集中注意力，独处可以帮你找回自我。"
+      "words": 19,
+      "start": 974.11,
+      "end": 983.77,
+      "matchedWords": 19
     },
     {
       "id": "line-114",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
-      "speaker": "Q16.",
-      "text": "What does the speaker say about most previous research on emotions?",
-      "type": "question",
-      "words": 11,
-      "start": 1086.37,
-      "end": 1104.41,
-      "matchedWords": 3,
-      "translation": "关于以往大多数情绪研究，说话人说了什么？"
+      "speaker": "",
+      "text": "The results were clear.",
+      "type": "narration",
+      "words": 4,
+      "start": 983.77,
+      "end": 985.61,
+      "matchedWords": 4
     },
     {
       "id": "line-115",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
-      "speaker": "Q17.",
-      "text": "What did the new study find about the effect of solitude?",
-      "type": "question",
-      "words": 11,
-      "start": 1104.41,
-      "end": 1129.031,
-      "matchedWords": 8,
-      "translation": "关于独处的影响，这项新研究发现了什么？"
+      "speaker": "",
+      "text": "After 15 minutes of solitude, the participants showed reductions in both types of emotion.",
+      "type": "narration",
+      "words": 14,
+      "start": 985.61,
+      "end": 991.81,
+      "matchedWords": 14
     },
     {
       "id": "line-116",
       "sectionId": "recording-1",
       "sectionTitle": "RECORDING 1",
-      "speaker": "Q18.",
-      "text": "What does the speaker say about low-arousal emotions?",
-      "type": "question",
-      "words": 9,
-      "start": 1129.031,
-      "end": 1151.19,
-      "matchedWords": 0,
-      "translation": "关于低唤起情绪，说话人说了什么？"
+      "speaker": "",
+      "text": "A second study measured the effects of solitude on low-arousal emotions.",
+      "type": "narration",
+      "words": 12,
+      "start": 991.81,
+      "end": 996.37,
+      "matchedWords": 12
     },
     {
       "id": "line-117",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Did you know that your brain uses more energy than any other organ in your body?",
+      "text": "These included both positive and negative emotions, such as feeling calm, relaxed, sad or lonely.",
       "type": "narration",
-      "words": 16,
-      "start": 1151.19,
-      "end": 1166.11,
-      "matchedWords": 8,
-      "translation": "你知道你的大脑比你身体的任何其他器官消耗的能量都要多吗？"
+      "words": 15,
+      "start": 996.37,
+      "end": 1004.29,
+      "matchedWords": 15
     },
     {
       "id": "line-118",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Even though it makes up only about 2% of your body weight, it consumes approximately 20% of your total daily energy expenditure.",
+      "text": "That experiment found that all of these emotions were increased by time alone.",
       "type": "narration",
-      "words": 22,
-      "start": 1166.11,
-      "end": 1204.93,
-      "matchedWords": 8,
-      "translation": "尽管它仅占你体重的约2%，但它消耗了你每日总能量支出的约20%。"
+      "words": 13,
+      "start": 1004.29,
+      "end": 1008.99,
+      "matchedWords": 13
     },
     {
       "id": "line-119",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "This high energy consumption is due to the fact that your brain is constantly active, even when you’re sleeping.",
+      "text": "Thus it seems past depictions of solitude were wrong.",
       "type": "narration",
-      "words": 20,
-      "start": 1204.93,
-      "end": 1215.649,
-      "matchedWords": 6,
-      "translation": "这种高能耗是由于你的大脑一直在活动，即使在你睡觉的时候。"
+      "words": 9,
+      "start": 1008.99,
+      "end": 1012.99,
+      "matchedWords": 9
     },
     {
       "id": "line-120",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Most of this energy is used to power the electrical signals that neurons use to communicate with each other.",
+      "text": "It doesn’t have a simple emotional effect that can be characterized as good or bad.",
       "type": "narration",
-      "words": 19,
-      "start": 1215.649,
-      "end": 1225.832,
-      "matchedWords": 0,
-      "translation": "这些能量大部分用于为神经元之间相互通信的电信号提供动力。"
+      "words": 16,
+      "start": 1012.99,
+      "end": 1018.45,
+      "matchedWords": 14
     },
     {
       "id": "line-121",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "These signals are responsible for everything from your thoughts and memories to your movements and senses.",
+      "text": "Rather, it changes the intensity of our inner experience.",
       "type": "narration",
-      "words": 16,
-      "start": 1225.832,
-      "end": 1234.407,
-      "matchedWords": 0,
-      "translation": "这些信号负责从你的思想和记忆到你的运动和感官的一切。"
+      "words": 9,
+      "start": 1018.45,
+      "end": 1022.15,
+      "matchedWords": 9
     },
     {
       "id": "line-122",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "In fact, even when you’re resting, your brain is still working hard to maintain basic functions like breathing, heart rate and body temperature.",
+      "text": "It amplifies quieter emotions, but it diminishes the intensity of stronger feelings.",
       "type": "narration",
-      "words": 24,
-      "start": 1234.407,
-      "end": 1247.27,
-      "matchedWords": 0,
-      "translation": "事实上，即使当你休息时，你的大脑仍在努力维持呼吸、心率和体温等基本功能。"
+      "words": 12,
+      "start": 1022.15,
+      "end": 1028.79,
+      "matchedWords": 12
     },
     {
       "id": "line-123",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Contrary to popular belief, the brain does not use significantly more energy when you’re engaged in difficult cognitive tasks like solving math problems or learning a new language.",
+      "text": "It’s worth clarifying that these findings relate to relatively brief periods of solitude.",
       "type": "narration",
-      "words": 29,
-      "start": 1247.27,
-      "end": 1248.424,
-      "matchedWords": 6,
-      "translation": "与普遍看法相反，当你从事解数学题或学习新语言等困难的认知任务时，大脑并不会显著消耗更多的能量。"
+      "words": 14,
+      "start": 1028.79,
+      "end": 1034.05,
+      "matchedWords": 12
     },
     {
       "id": "line-124",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Studies have shown that the difference in energy consumption between resting and performing complex mental tasks is only about 5%.",
+      "text": "This is distinct from prolonged loneliness.",
       "type": "narration",
-      "words": 20,
-      "start": 1248.424,
-      "end": 1249.22,
-      "matchedWords": 0,
-      "translation": "研究表明，休息与执行复杂心理任务之间的能量消耗差异仅为5%左右。"
+      "words": 6,
+      "start": 1034.05,
+      "end": 1037.43,
+      "matchedWords": 6
     },
     {
       "id": "line-125",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "This is because most of the brain’s energy is used for ongoing, background processes that are essential for survival.",
+      "text": "Research has demonstrated that the latter is correlated with an assortment of negative physical and psychological effects.",
       "type": "narration",
-      "words": 20,
-      "start": 1249.22,
-      "end": 1250.016,
-      "matchedWords": 0,
-      "translation": "这是因为大脑的大部分能量用于对生存至关重要的持续后台过程。"
+      "words": 17,
+      "start": 1037.43,
+      "end": 1044.53,
+      "matchedWords": 17
     },
     {
       "id": "line-126",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "So where does all this energy come from?",
+      "text": "How can people benefit from being alone?",
       "type": "narration",
-      "words": 8,
-      "start": 1250.016,
-      "end": 1250.335,
-      "matchedWords": 0,
-      "translation": "那么所有这些能量是从哪里来的呢？"
+      "words": 7,
+      "start": 1044.53,
+      "end": 1046.43,
+      "matchedWords": 7
     },
     {
       "id": "line-127",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "The brain relies almost exclusively on glucose for fuel.",
+      "text": "The findings here suggest that people can use solitude to regulate their emotions.",
       "type": "narration",
-      "words": 9,
-      "start": 1250.335,
-      "end": 1250.693,
-      "matchedWords": 0,
-      "translation": "大脑几乎完全依靠葡萄糖作为燃料。"
+      "words": 13,
+      "start": 1046.43,
+      "end": 1052.33,
+      "matchedWords": 13
     },
     {
       "id": "line-128",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
       "speaker": "",
-      "text": "Glucose is a type of sugar that is obtained from the food we eat.",
+      "text": "Solitude can help us become quiet after excitement, calm after an angry episode, or simply feel at peace.",
       "type": "narration",
-      "words": 14,
-      "start": 1250.693,
-      "end": 1251.25,
-      "matchedWords": 0,
-      "translation": "葡萄糖是我们从食物中获取的一种糖。"
+      "words": 18,
+      "start": 1052.33,
+      "end": 1067.648,
+      "matchedWords": 18
     },
     {
       "id": "line-129",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "It is transported to the brain through the bloodstream, where it is used to produce ATP, the molecule that provides energy for all cellular processes.",
-      "type": "narration",
-      "words": 25,
-      "start": 1251.25,
-      "end": 1268.52,
-      "matchedWords": 7,
-      "translation": "它通过血液运输到大脑，在大脑中用于产生ATP，即为所有细胞过程提供能量的分子。"
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "Q16.",
+      "text": "What is one of the criticisms directed at the early research on solitude?",
+      "type": "question",
+      "words": 13,
+      "start": 1067.648,
+      "end": 1086.37,
+      "matchedWords": 0
     },
     {
       "id": "line-130",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "Because the brain cannot store glucose, it needs a constant supply of it from the blood.",
-      "type": "narration",
-      "words": 16,
-      "start": 1268.52,
-      "end": 1279.573,
-      "matchedWords": 0,
-      "translation": "因为大脑不能储存葡萄糖，它需要血液持续不断地供应。"
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "Q17.",
+      "text": "What do we learn about the results of the new research?",
+      "type": "question",
+      "words": 11,
+      "start": 1086.37,
+      "end": 1104.41,
+      "matchedWords": 11
     },
     {
       "id": "line-131",
-      "sectionId": "recording-2",
-      "sectionTitle": "RECORDING 2",
-      "speaker": "",
-      "text": "If blood glucose levels drop too low, the brain cannot function properly, which can lead to symptoms like dizziness, confusion and even loss of consciousness.",
-      "type": "narration",
-      "words": 25,
-      "start": 1279.573,
-      "end": 1296.843,
-      "matchedWords": 0,
-      "translation": "如果血糖水平降得太低，大脑就无法正常工作，这可能导致头晕、意识模糊甚至丧失意识等症状。"
+      "sectionId": "recording-1",
+      "sectionTitle": "RECORDING 1",
+      "speaker": "Q18.",
+      "text": "What did the second experiment in the new research find about solitude?",
+      "type": "question",
+      "words": 12,
+      "start": 1104.41,
+      "end": 1123.11,
+      "matchedWords": 12
     },
     {
       "id": "line-132",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "This is why it’s important to eat a balanced diet that provides a steady supply of glucose throughout the day.",
+      "text": "In 1984, the World Chess Championship was called off abruptly, due to the withered frame of a player who was competing for the title.",
       "type": "narration",
-      "words": 21,
-      "start": 1296.843,
-      "end": 1311.35,
-      "matchedWords": 0,
-      "translation": "这就是为什么摄入均衡饮食，全天提供稳定的葡萄糖供应非常重要的原因。"
+      "words": 24,
+      "start": 1123.11,
+      "end": 1132.97,
+      "matchedWords": 24
     },
     {
       "id": "line-133",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
-      "speaker": "Q19.",
-      "text": "What does the speaker say about the brain’s energy consumption?",
-      "type": "question",
-      "words": 11,
-      "start": 1311.35,
-      "end": 1313.29,
-      "matchedWords": 8,
-      "translation": "关于大脑的能量消耗，说话人说了什么？"
+      "speaker": "",
+      "text": "He wasn’t alone in experiencing the extreme physical effects of the game.",
+      "type": "narration",
+      "words": 13,
+      "start": 1132.97,
+      "end": 1137.01,
+      "matchedWords": 11
     },
     {
       "id": "line-134",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
-      "speaker": "Q20.",
-      "text": "What is most of the brain’s energy used for?",
-      "type": "question",
-      "words": 10,
-      "start": 1313.29,
-      "end": 1329.99,
-      "matchedWords": 3,
-      "translation": "大脑的大部分能量用于什么？"
+      "speaker": "",
+      "text": "Elite players can reportedly burn up to an absurd 6,000 calories in one day.",
+      "type": "narration",
+      "words": 15,
+      "start": 1137.01,
+      "end": 1144.35,
+      "matchedWords": 15
     },
     {
       "id": "line-135",
       "sectionId": "recording-2",
       "sectionTitle": "RECORDING 2",
-      "speaker": "Q21.",
-      "text": "What do we learn about the brain’s energy use during difficult cognitive tasks?",
-      "type": "question",
-      "words": 14,
-      "start": 1329.99,
-      "end": 1349.57,
-      "matchedWords": 7,
-      "translation": "关于大脑在困难认知任务期间的能量使用情况，我们了解到了什么？"
+      "speaker": "",
+      "text": "Does that mean that thinking harder is a simple route to losing weight?",
+      "type": "narration",
+      "words": 13,
+      "start": 1144.35,
+      "end": 1149.03,
+      "matchedWords": 13
     },
     {
       "id": "line-136",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "One of the most common questions asked in a job interview is \"Tell me about yourself.\"",
+      "text": "Well, when the body is at rest, we know that the brain uses up a startling 20% to 25% of the body’s overall energy.",
       "type": "narration",
-      "words": 16,
-      "start": 1349.57,
-      "end": 1355.69,
-      "matchedWords": 4,
-      "translation": "求职面试中最常见的问题之一是“请介绍一下你自己”。"
+      "words": 25,
+      "start": 1149.03,
+      "end": 1158.37,
+      "matchedWords": 22
     },
     {
       "id": "line-137",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "This question may seem simple, but it is actually one of the most important questions you will be asked.",
+      "text": "This level of utilization actually makes the brain the most energy-expensive organ in the body, and yet it makes up only 2% of the body’s weight overall.",
       "type": "narration",
-      "words": 19,
-      "start": 1355.69,
-      "end": 1358.76,
-      "matchedWords": 6,
-      "translation": "这个问题看起来很简单，但实际上它是你将被问到的最重要的一个问题。"
+      "words": 29,
+      "start": 1158.37,
+      "end": 1171.09,
+      "matchedWords": 27
     },
     {
       "id": "line-138",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "It gives you the opportunity to make a good first impression and to highlight your skills and experience.",
+      "text": "So the more we put this organ to work, the more calories we’ll burn?",
       "type": "narration",
-      "words": 18,
-      "start": 1358.76,
-      "end": 1361.668,
-      "matchedWords": 0,
-      "translation": "它让你有机会留下良好的第一印象，并突出你的技能和经验。"
+      "words": 15,
+      "start": 1171.09,
+      "end": 1175.55,
+      "matchedWords": 13
     },
     {
       "id": "line-139",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Many job seekers make the mistake of answering this question by reciting their resume.",
+      "text": "Technically, the answer is yes, for cognitively difficult tasks.",
       "type": "narration",
-      "words": 14,
-      "start": 1361.668,
-      "end": 1363.929,
-      "matchedWords": 0,
-      "translation": "许多求职者在回答这个问题时犯了背诵简历的错误。"
+      "words": 9,
+      "start": 1175.55,
+      "end": 1181.13,
+      "matchedWords": 9
     },
     {
       "id": "line-140",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "This is a big mistake because the interviewer has already read your resume.",
+      "text": "What counts as a “difficult” mental task varies between individuals.",
       "type": "narration",
-      "words": 13,
-      "start": 1363.929,
-      "end": 1366.03,
-      "matchedWords": 0,
-      "translation": "这是一个大错误，因为面试官已经读过你的简历了。"
+      "words": 10,
+      "start": 1181.13,
+      "end": 1185.93,
+      "matchedWords": 10
     },
     {
       "id": "line-141",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "What they want to know is who you are as a person, what your strengths are, and why you are the best candidate for the job.",
+      "text": "But generally, it could be described as something that the brain cannot solve easily using previously learned routines, or tasks that change the conditions continuously.",
       "type": "narration",
-      "words": 26,
-      "start": 1366.03,
-      "end": 1370.23,
-      "matchedWords": 0,
-      "translation": "他们想知道的是你作为一个什么样的人，你的优势是什么，以及为什么你是这份工作的最佳人选。"
+      "words": 25,
+      "start": 1185.93,
+      "end": 1198.17,
+      "matchedWords": 25
     },
     {
       "id": "line-142",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "The best way to answer \"Tell me about yourself\" is to tell a story.",
+      "text": "However, deep thinking will not burn off the calories gained from eating a sugary snack.",
       "type": "narration",
-      "words": 14,
-      "start": 1370.23,
-      "end": 1372.218,
-      "matchedWords": 8,
-      "translation": "回答“介绍你自己”的最佳方式是讲一个故事。"
+      "words": 15,
+      "start": 1198.17,
+      "end": 1203.15,
+      "matchedWords": 15
     },
     {
       "id": "line-143",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Your story should be concise, engaging, and relevant to the job you are applying for.",
+      "text": "Because in relation to the brain’s huge overall energy usage, which is devoted to a multitude of tasks, the energy required just to think harder is actually comparatively tiny.",
       "type": "narration",
-      "words": 15,
-      "start": 1372.218,
-      "end": 1374.348,
-      "matchedWords": 0,
-      "translation": "你的故事应该简洁、引人入胜，并且与你申请的工作相关。"
+      "words": 30,
+      "start": 1203.15,
+      "end": 1217.35,
+      "matchedWords": 28
     },
     {
       "id": "line-144",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "It should highlight your most important skills and experiences, and it should show how you have used those skills to achieve success in the past.",
+      "text": "We are unconscious of most of what uses up the brain’s energy.",
       "type": "narration",
-      "words": 25,
-      "start": 1374.348,
-      "end": 1377.898,
-      "matchedWords": 0,
-      "translation": "它应该突出你最重要的技能和经历，并展示你过去是如何利用这些技能取得成功的。"
+      "words": 13,
+      "start": 1217.35,
+      "end": 1222.31,
+      "matchedWords": 9
     },
     {
       "id": "line-145",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "When telling your story, it’s important to focus on your achievements rather than your responsibilities.",
+      "text": "A lot of that activity is unrelated to conscious activities like learning how to sing or play the guitar.",
       "type": "narration",
-      "words": 16,
-      "start": 1377.898,
-      "end": 1380.169,
-      "matchedWords": 0,
-      "translation": "在讲故事时，重要的是关注你的成就而不是你的职责。"
+      "words": 19,
+      "start": 1222.31,
+      "end": 1230.13,
+      "matchedWords": 19
     },
     {
       "id": "line-146",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "For example, instead of saying \"I was responsible for managing a team of five people,\" you could say \"I led a team of five people to increase sales by 25% in one year.\"",
+      "text": "The brain is able to allocate blood (and thus energy) to particular regions that are being active at that point.",
       "type": "narration",
-      "words": 33,
-      "start": 1380.169,
-      "end": 1384.855,
-      "matchedWords": 0,
-      "translation": "例如，与其说“我负责管理一个五个人的团队”，你可以说“我带领一个五人的团队在一年内使销售额增长了25%”。"
+      "words": 20,
+      "start": 1230.13,
+      "end": 1236.71,
+      "matchedWords": 20
     },
     {
       "id": "line-147",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "This shows the interviewer that you are results-oriented and that you can deliver tangible results.",
+      "text": "But the overall energy availability in the brain is thought to be constant.",
       "type": "narration",
-      "words": 16,
-      "start": 1384.855,
-      "end": 1387.127,
-      "matchedWords": 0,
-      "translation": "这向面试官表明你是以结果为导向的，并且你能提供切实的成果。"
+      "words": 13,
+      "start": 1236.71,
+      "end": 1242.15,
+      "matchedWords": 13
     },
     {
       "id": "line-148",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "It’s also important to tailor your story to the specific job you are applying for.",
+      "text": "So, while there might be significant increases in energy use at localized regions of the brain when we perform difficult cognitive tasks, when it comes to the whole brain’s energy budget overall, these activities don’t significantly alter it.",
       "type": "narration",
-      "words": 16,
-      "start": 1387.127,
-      "end": 1389.399,
-      "matchedWords": 0,
-      "translation": "针对你申请的具体工作量身定制你的故事也很重要。"
+      "words": 40,
+      "start": 1242.15,
+      "end": 1258.53,
+      "matchedWords": 36
     },
     {
       "id": "line-149",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Before the interview, take the time to research the company and the job description.",
+      "text": "So why did the chess champion grow too skinny to compete in his chess competition?",
       "type": "narration",
-      "words": 14,
-      "start": 1389.399,
-      "end": 1391.387,
-      "matchedWords": 0,
-      "translation": "面试前，花点时间研究公司和职位描述。"
+      "words": 15,
+      "start": 1258.53,
+      "end": 1263.97,
+      "matchedWords": 15
     },
     {
       "id": "line-150",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Identify the key skills and qualities that the company is looking for, and make sure your story highlights those skills and qualities.",
+      "text": "The general consensus is that it mostly comes down to stress and reduced food consumption, not mental exhaustion.",
       "type": "narration",
-      "words": 22,
-      "start": 1391.387,
-      "end": 1394.511,
-      "matchedWords": 0,
-      "translation": "确定公司正在寻找的关键技能和素质，并确保你的故事突出了这些技能和素质。"
+      "words": 18,
+      "start": 1263.97,
+      "end": 1272.75,
+      "matchedWords": 18
     },
     {
       "id": "line-151",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "Finally, practice your story before the interview.",
+      "text": "Keeping your body pumped up for action for long periods of time is very energy demanding.",
       "type": "narration",
-      "words": 7,
-      "start": 1394.511,
-      "end": 1395.505,
-      "matchedWords": 0,
-      "translation": "最后，面试前练习你的故事。"
+      "words": 16,
+      "start": 1272.75,
+      "end": 1278.67,
+      "matchedWords": 16
     },
     {
       "id": "line-152",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
       "speaker": "",
-      "text": "The more you practice, the more confident and natural you will sound.",
+      "text": "If you can’t eat as often or as much as you can or would normally—then you might lose weight.",
       "type": "narration",
-      "words": 12,
-      "start": 1395.505,
-      "end": 1397.209,
-      "matchedWords": 0,
-      "translation": "练习得越多，听起来就会越自信、越自然。"
+      "words": 21,
+      "start": 1278.67,
+      "end": 1294.63,
+      "matchedWords": 19
     },
     {
       "id": "line-153",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "Remember, the goal of answering \"Tell me about yourself\" is to make the interviewer want to learn more about you.",
-      "type": "narration",
-      "words": 20,
-      "start": 1397.209,
-      "end": 1400.048,
-      "matchedWords": 0,
-      "translation": "记住，回答“介绍你自己”的目标是让面试官想要更多地了解你。"
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "Q19.",
+      "text": "What do we learn about the brain when the body is at rest?",
+      "type": "question",
+      "words": 13,
+      "start": 1294.63,
+      "end": 1311.35,
+      "matchedWords": 0
     },
     {
       "id": "line-154",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "",
-      "text": "If you can do that, you will be well on your way to getting the job.",
-      "type": "narration",
-      "words": 16,
-      "start": 1400.048,
-      "end": 1402.32,
-      "matchedWords": 0,
-      "translation": "如果你能做到这一点，你就在获得工作的道路上迈出了坚实的一步。"
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "Q20.",
+      "text": "What does the speaker say about the consumption of the brain’s energy?",
+      "type": "question",
+      "words": 13,
+      "start": 1311.35,
+      "end": 1329.99,
+      "matchedWords": 11
     },
     {
       "id": "line-155",
-      "sectionId": "recording-3",
-      "sectionTitle": "RECORDING 3",
-      "speaker": "Q22.",
-      "text": "What does the speaker say about the question \"Tell me about yourself\" in a job interview?",
+      "sectionId": "recording-2",
+      "sectionTitle": "RECORDING 2",
+      "speaker": "Q21.",
+      "text": "What do we learn about the overall energy availability in the brain?",
       "type": "question",
-      "words": 16,
-      "start": 1402.32,
-      "end": 1405.87,
-      "matchedWords": 0,
-      "translation": "关于面试中“介绍你自己”这个问题，说话人说了什么？"
+      "words": 12,
+      "start": 1329.99,
+      "end": 1349.57,
+      "matchedWords": 12
     },
     {
       "id": "line-156",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q23.",
-      "text": "What mistake do many job seekers make when answering this question?",
-      "type": "question",
-      "words": 11,
-      "start": 1405.87,
-      "end": 1408.71,
-      "matchedWords": 0,
-      "translation": "许多求职者在回答这个问题时犯了什么错误？"
+      "speaker": "",
+      "text": "“Tell me about yourself” may seem like an easy job interview question, but the open-ended nature of this question often leaves job seekers at a loss where to start.",
+      "type": "narration",
+      "words": 30,
+      "start": 1349.57,
+      "end": 1360.45,
+      "matchedWords": 30
     },
     {
       "id": "line-157",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q24.",
-      "text": "What does the speaker advise job seekers to do when answering this question?",
-      "type": "question",
-      "words": 13,
-      "start": 1408.71,
-      "end": 1557.15,
-      "matchedWords": 6,
-      "translation": "说话人建议求职者在回答这个问题时怎么做？"
+      "speaker": "",
+      "text": "This common question is actually a critical test of a job candidate’s communication skills.",
+      "type": "narration",
+      "words": 15,
+      "start": 1360.45,
+      "end": 1366.11,
+      "matchedWords": 13
     },
     {
       "id": "line-158",
       "sectionId": "recording-3",
       "sectionTitle": "RECORDING 3",
-      "speaker": "Q25.",
-      "text": "What should job seekers do before the interview according to the speaker?",
+      "speaker": "",
+      "text": "So it’s important not to give an unprepared response or mess it up.",
+      "type": "narration",
+      "words": 14,
+      "start": 1366.11,
+      "end": 1370.23,
+      "matchedWords": 12
+    },
+    {
+      "id": "line-159",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "“Tell me about yourself” is often the first question professional career coaches prepare people for when they give interview guidance.",
+      "type": "narration",
+      "words": 20,
+      "start": 1370.23,
+      "end": 1379.49,
+      "matchedWords": 20
+    },
+    {
+      "id": "line-160",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "It’s the opportunity for the candidate to take control of the narrative and tell their story in a way that really matters to their audience.",
+      "type": "narration",
+      "words": 26,
+      "start": 1379.49,
+      "end": 1387.25,
+      "matchedWords": 24
+    },
+    {
+      "id": "line-161",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "It takes hard work and extensive preparation to answer this question well.",
+      "type": "narration",
+      "words": 12,
+      "start": 1387.25,
+      "end": 1391.77,
+      "matchedWords": 12
+    },
+    {
+      "id": "line-162",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "When a person goes to a job interview, their interviewer has presumably read their résumé, so they don’t need to repeat the information.",
+      "type": "narration",
+      "words": 25,
+      "start": 1391.77,
+      "end": 1401.13,
+      "matchedWords": 21
+    },
+    {
+      "id": "line-163",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "But that’s what most people will do, as it’s their instinct to recite things that are already on their résumé.",
+      "type": "narration",
+      "words": 23,
+      "start": 1401.13,
+      "end": 1408.03,
+      "matchedWords": 17
+    },
+    {
+      "id": "line-164",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "It’s important for job seekers to do their homework on two crucial aspects.",
+      "type": "narration",
+      "words": 14,
+      "start": 1408.03,
+      "end": 1412.93,
+      "matchedWords": 12
+    },
+    {
+      "id": "line-165",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "First, they are not just telling someone a fact about themselves.",
+      "type": "narration",
+      "words": 11,
+      "start": 1412.93,
+      "end": 1417.31,
+      "matchedWords": 11
+    },
+    {
+      "id": "line-166",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "They’re telling a story.",
+      "type": "narration",
+      "words": 5,
+      "start": 1417.31,
+      "end": 1418.69,
+      "matchedWords": 3
+    },
+    {
+      "id": "line-167",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "And stories take work to create.",
+      "type": "narration",
+      "words": 6,
+      "start": 1418.69,
+      "end": 1420.51,
+      "matchedWords": 6
+    },
+    {
+      "id": "line-168",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Coming up with a good story means getting reflective about what made their career accomplishments—something they’re proud of, and what strengths those accomplishments highlight.",
+      "type": "narration",
+      "words": 26,
+      "start": 1420.51,
+      "end": 1430.83,
+      "matchedWords": 24
+    },
+    {
+      "id": "line-169",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Candidates shouldn’t pick a broad general strength to elaborate on, such as “I’m smart.",
+      "type": "narration",
+      "words": 16,
+      "start": 1430.83,
+      "end": 1436.91,
+      "matchedWords": 12
+    },
+    {
+      "id": "line-170",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "I work hard and I get things done.",
+      "type": "narration",
+      "words": 8,
+      "start": 1436.91,
+      "end": 1439.17,
+      "matchedWords": 8
+    },
+    {
+      "id": "line-171",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "” To come up with multiple career accomplishments or examples for different interview questions, job seekers should talk with others, especially people who know them, partners, friends or co-workers who will bring up different stories than the ones they remember.",
+      "type": "narration",
+      "words": 40,
+      "start": 1439.17,
+      "end": 1457.05,
+      "matchedWords": 40
+    },
+    {
+      "id": "line-172",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Secondly, candidates should know what's at stake for the company with this job opening.",
+      "type": "narration",
+      "words": 14,
+      "start": 1457.05,
+      "end": 1462.63,
+      "matchedWords": 14
+    },
+    {
+      "id": "line-173",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "What they really are asking you is “tell me why you are going to help me.",
+      "type": "narration",
+      "words": 16,
+      "start": 1462.63,
+      "end": 1467.53,
+      "matchedWords": 16
+    },
+    {
+      "id": "line-174",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "” If the person is a prepared candidate, they should have already figured out those things.",
+      "type": "narration",
+      "words": 15,
+      "start": 1467.53,
+      "end": 1473.01,
+      "matchedWords": 15
+    },
+    {
+      "id": "line-175",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "They’ve read the job description and researched the company on the Internet.",
+      "type": "narration",
+      "words": 13,
+      "start": 1473.01,
+      "end": 1476.97,
+      "matchedWords": 11
+    },
+    {
+      "id": "line-176",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "What job applicants ought to be looking for is what the company is up to, what they are trying to accomplish and what is preventing them from accomplishing those things.",
+      "type": "narration",
+      "words": 30,
+      "start": 1476.97,
+      "end": 1487.79,
+      "matchedWords": 30
+    },
+    {
+      "id": "line-177",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "How long should it take to answer?",
+      "type": "narration",
+      "words": 7,
+      "start": 1487.79,
+      "end": 1489.89,
+      "matchedWords": 7
+    },
+    {
+      "id": "line-178",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Around a minute.",
+      "type": "narration",
+      "words": 3,
+      "start": 1489.89,
+      "end": 1491.57,
+      "matchedWords": 3
+    },
+    {
+      "id": "line-179",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "That’s about right for most people’s attention spans.",
+      "type": "narration",
+      "words": 10,
+      "start": 1491.57,
+      "end": 1494.73,
+      "matchedWords": 6
+    },
+    {
+      "id": "line-180",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "Under a minute could seem rushed, while over two minutes will start to feel more like a speech.",
+      "type": "narration",
+      "words": 18,
+      "start": 1494.73,
+      "end": 1500.43,
+      "matchedWords": 18
+    },
+    {
+      "id": "line-181",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "",
+      "text": "But the length of the answer is not an exact science, and candidates need to keep their career story focused and tailored to their audience.",
+      "type": "narration",
+      "words": 25,
+      "start": 1500.43,
+      "end": 1520.003,
+      "matchedWords": 25
+    },
+    {
+      "id": "line-182",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q22.",
+      "text": "What does the speaker say about the job interview question “tell me about yourself”?",
+      "type": "question",
+      "words": 14,
+      "start": 1520.003,
+      "end": 1538.01,
+      "matchedWords": 0
+    },
+    {
+      "id": "line-183",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q23.",
+      "text": "What will most people do when they come to a job interview?",
       "type": "question",
       "words": 12,
-      "start": 1557.15,
+      "start": 1538.01,
+      "end": 1556.93,
+      "matchedWords": 12
+    },
+    {
+      "id": "line-184",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q24.",
+      "text": "Why should job seekers talk with partners, friends and co-workers?",
+      "type": "question",
+      "words": 11,
+      "start": 1556.93,
+      "end": 1577.33,
+      "matchedWords": 11
+    },
+    {
+      "id": "line-185",
+      "sectionId": "recording-3",
+      "sectionTitle": "RECORDING 3",
+      "speaker": "Q25.",
+      "text": "What other important preparations should job seekers make before an interview?",
+      "type": "question",
+      "words": 11,
+      "start": 1577.33,
       "end": 1600.213,
-      "matchedWords": 5,
-      "translation": "根据说话人的说法，求职者在面试前应该做什么？"
+      "matchedWords": 11
     }
   ]
 }
