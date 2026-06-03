@@ -171,7 +171,7 @@ def run():
 
     for candidate in range(start_port, start_port + 50):
         try:
-            server = ThreadingHTTPServer(("127.0.0.1", candidate), ListeningHandler)
+            server = ThreadingHTTPServer(("0.0.0.0", candidate), ListeningHandler)
             port = candidate
             break
         except OSError:
@@ -180,8 +180,8 @@ def run():
     if server is None:
         raise RuntimeError("No available local port found.")
 
-    print(f"CET-6 listening player: http://127.0.0.1:{port}/cet6/")
-    print(f"CET-4 listening player: http://127.0.0.1:{port}/cet4/")
+    print(f"CET-6 listening player: http://0.0.0.0:{port}/cet6/")
+    print(f"CET-4 listening player: http://0.0.0.0:{port}/cet4/")
     print("Root path / is disabled. Open /cet6/ or /cet4/ directly.")
     print("Static server only. Generate timings locally with: python data_tools/scan.py --gen")
     print("\n[IMPORTANT] If the page looks broken, please press Ctrl + F5 to force refresh your browser cache.")
