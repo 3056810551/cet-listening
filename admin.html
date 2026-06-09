@@ -1,0 +1,419 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1"
+    />
+    <title>CET听力数据管理</title>
+    <link
+      rel="icon"
+      href="/ui/cet-icon.svg"
+      type="image/svg+xml"
+    />
+    <link
+      rel="stylesheet"
+      href="/ui/admin.css"
+    />
+    <script
+      defer
+      src="/ui/admin.js"
+    ></script>
+  </head>
+  <body>
+    <div class="admin-shell">
+      <header class="admin-topbar">
+        <div class="brand-block">
+          <h1>数据管理</h1>
+          <span id="rootPath">正在读取项目状态...</span>
+        </div>
+        <nav
+          class="top-actions"
+          aria-label="快捷入口"
+        >
+          <a href="/cet6/">CET-6</a>
+          <a href="/cet4/">CET-4</a>
+          <button
+            id="refreshStatus"
+            type="button"
+          >
+            刷新
+          </button>
+        </nav>
+      </header>
+
+      <main class="admin-layout">
+        <section
+          class="status-panel"
+          aria-labelledby="statusTitle"
+        >
+          <div class="panel-heading">
+            <h2 id="statusTitle">题库状态</h2>
+            <div
+              id="toolBadges"
+              class="tool-badges"
+              aria-label="工具状态"
+            ></div>
+          </div>
+
+          <div
+            id="metricGrid"
+            class="metric-grid"
+          ></div>
+
+          <div class="filter-row">
+            <label>
+              <span>类型</span>
+              <select id="statusExamFilter">
+                <option value="all">全部</option>
+                <option value="cet6">CET-6</option>
+                <option value="cet4">CET-4</option>
+              </select>
+            </label>
+            <label>
+              <span>搜索</span>
+              <input
+                id="trackSearch"
+                type="search"
+                placeholder="年份、月份、套数"
+              />
+            </label>
+          </div>
+
+          <div class="track-table-wrap">
+            <table class="track-table">
+              <thead>
+                <tr>
+                  <th>套题</th>
+                  <th>音频</th>
+                  <th>原文</th>
+                  <th>标准化</th>
+                  <th>时间轴</th>
+                  <th></th>
+                </tr>
+              </thead>
+              <tbody id="trackRows"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section
+          class="ops-panel"
+          aria-labelledby="opsTitle"
+        >
+          <div class="panel-heading">
+            <h2 id="opsTitle">操作</h2>
+            <span
+              id="notice"
+              class="notice"
+              role="status"
+            ></span>
+          </div>
+
+          <form
+            id="scanForm"
+            class="tool-panel"
+          >
+            <h3>扫描题库</h3>
+            <div class="form-grid two">
+              <label>
+                <span>范围</span>
+                <select id="scanExam">
+                  <option value="all">全部</option>
+                  <option value="cet6">CET-6</option>
+                  <option value="cet4">CET-4</option>
+                </select>
+              </label>
+              <label class="check-line">
+                <input
+                  id="scanGenerate"
+                  type="checkbox"
+                />
+                <span>同时生成缺失时间轴</span>
+              </label>
+            </div>
+            <div class="action-row">
+              <label class="check-line">
+                <input
+                  id="scanForce"
+                  type="checkbox"
+                />
+                <span>强制重建</span>
+              </label>
+              <button type="submit">开始扫描</button>
+            </div>
+          </form>
+
+          <form
+            id="singleForm"
+            class="tool-panel"
+          >
+            <h3>单套处理</h3>
+            <div class="form-grid two">
+              <label>
+                <span>套题</span>
+                <select id="singleTrack"></select>
+              </label>
+              <label>
+                <span>模型</span>
+                <input
+                  id="whisperModel"
+                  type="text"
+                  value="small.en"
+                />
+              </label>
+              <label>
+                <span>设备</span>
+                <select id="whisperDevice">
+                  <option value="cpu">cpu</option>
+                  <option value="cuda">cuda</option>
+                </select>
+              </label>
+              <label>
+                <span>计算类型</span>
+                <select id="whisperComputeType">
+                  <option value="int8">int8</option>
+                  <option value="float16">float16</option>
+                  <option value="float32">float32</option>
+                </select>
+              </label>
+            </div>
+            <div class="action-row split">
+              <div class="inline-checks">
+                <label class="check-line">
+                  <input
+                    id="singleForce"
+                    type="checkbox"
+                  />
+                  <span>强制重建</span>
+                </label>
+                <label class="check-line">
+                  <input
+                    id="singleRefreshCatalog"
+                    type="checkbox"
+                    checked
+                  />
+                  <span>刷新题库</span>
+                </label>
+              </div>
+              <div class="button-group">
+                <button
+                  type="button"
+                  data-single-task="transcript"
+                >
+                  标准化原文
+                </button>
+                <button
+                  type="button"
+                  data-single-task="timings"
+                >
+                  生成时间轴
+                </button>
+              </div>
+            </div>
+          </form>
+
+          <form
+            id="uploadForm"
+            class="tool-panel"
+          >
+            <h3>上传材料</h3>
+            <div class="form-grid two">
+              <label>
+                <span>类型</span>
+                <select id="uploadExam">
+                  <option value="cet6">CET-6</option>
+                  <option value="cet4">CET-4</option>
+                </select>
+              </label>
+              <label>
+                <span>套题 ID</span>
+                <input
+                  id="uploadTrackId"
+                  type="text"
+                  placeholder="2026-6-1"
+                  pattern="\d{4}-\d{1,2}-\d{1,2}"
+                  required
+                />
+              </label>
+              <label>
+                <span>音频</span>
+                <input
+                  id="audioFile"
+                  type="file"
+                  accept=".mp3,.m4a,.wav,.ogg,.flac,.aac,audio/*"
+                />
+              </label>
+              <label>
+                <span>原文</span>
+                <input
+                  id="markdownFile"
+                  type="file"
+                  accept=".md,text/markdown,text/plain"
+                />
+              </label>
+            </div>
+            <div class="action-row">
+              <label class="check-line">
+                <input
+                  id="uploadForce"
+                  type="checkbox"
+                />
+                <span>覆盖已有文件</span>
+              </label>
+              <div class="button-group">
+                <button
+                  id="uploadAudio"
+                  type="button"
+                >
+                  上传音频
+                </button>
+                <button
+                  id="uploadMarkdown"
+                  type="button"
+                >
+                  上传原文
+                </button>
+              </div>
+            </div>
+          </form>
+
+          <form
+            id="markdownForm"
+            class="tool-panel"
+          >
+            <h3>保存原文</h3>
+            <div class="form-grid two">
+              <label>
+                <span>类型</span>
+                <select id="markdownExam">
+                  <option value="cet6">CET-6</option>
+                  <option value="cet4">CET-4</option>
+                </select>
+              </label>
+              <label>
+                <span>套题 ID</span>
+                <input
+                  id="markdownTrackId"
+                  type="text"
+                  placeholder="2026-6-1"
+                  pattern="\d{4}-\d{1,2}-\d{1,2}"
+                  required
+                />
+              </label>
+            </div>
+            <textarea
+              id="markdownContent"
+              rows="10"
+              spellcheck="false"
+              placeholder="## CONVERSATION 1&#10;&#10;W: ...&#10;M: ...&#10;Q1. ..."
+            ></textarea>
+            <div class="action-row">
+              <label class="check-line">
+                <input
+                  id="markdownForce"
+                  type="checkbox"
+                />
+                <span>覆盖已有文件</span>
+              </label>
+              <button type="submit">保存原文</button>
+            </div>
+          </form>
+
+          <form
+            id="normalizeForm"
+            class="tool-panel"
+          >
+            <h3>拆分总稿</h3>
+            <div class="form-grid two">
+              <label>
+                <span>输入文件</span>
+                <input
+                  id="normalizeInput"
+                  list="combinedInputs"
+                  type="text"
+                  value="data_tools/0.md"
+                  required
+                />
+                <datalist id="combinedInputs"></datalist>
+              </label>
+              <label>
+                <span>类型</span>
+                <select id="normalizeExam">
+                  <option value="cet6">CET-6</option>
+                  <option value="cet4">CET-4</option>
+                </select>
+              </label>
+              <label>
+                <span>年份</span>
+                <input
+                  id="normalizeYear"
+                  type="number"
+                  min="2000"
+                  max="2100"
+                  placeholder="2026"
+                  required
+                />
+              </label>
+              <label>
+                <span>月份</span>
+                <input
+                  id="normalizeMonth"
+                  type="number"
+                  min="1"
+                  max="12"
+                  placeholder="6"
+                  required
+                />
+              </label>
+              <label>
+                <span>套数</span>
+                <input
+                  id="normalizeSet"
+                  type="number"
+                  min="1"
+                  placeholder="全部"
+                />
+              </label>
+              <label class="check-line bottom-align">
+                <input
+                  id="normalizeForce"
+                  type="checkbox"
+                />
+                <span>覆盖已有文件</span>
+              </label>
+            </div>
+            <div class="action-row end">
+              <button type="submit">开始拆分</button>
+            </div>
+          </form>
+        </section>
+
+        <aside
+          class="jobs-panel"
+          aria-labelledby="jobsTitle"
+        >
+          <div class="panel-heading">
+            <h2 id="jobsTitle">任务日志</h2>
+            <button
+              id="refreshJobs"
+              type="button"
+            >
+              刷新
+            </button>
+          </div>
+          <div
+            id="jobList"
+            class="job-list"
+          ></div>
+          <pre
+            id="jobLog"
+            class="job-log"
+            aria-live="polite"
+          >暂无任务</pre>
+        </aside>
+      </main>
+    </div>
+  </body>
+</html>

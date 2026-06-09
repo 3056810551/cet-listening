@@ -22,6 +22,7 @@
 - 断点续看：会自动恢复上次打开的套题、播放进度、题库滚动位置和原文滚动位置。
 - 分享定位：URL 支持 `/cet6/2025-12-2` 这样的形式，方便直接打开指定考试和套题。
 - 音频 Range 支持：本地 Python 服务支持浏览器分段请求，拖动进度条和大音频播放更稳定。
+- Web 数据管理：本机管理页支持上传音频/原文、保存 Markdown、扫描题库、拆分总稿、生成 transcript 和 timings，并显示后台任务日志。
 
 ## 技术栈
 
@@ -89,9 +90,10 @@ python server.py
 ```text
 http://127.0.0.1:5173/cet6/
 http://127.0.0.1:5173/cet4/
+http://127.0.0.1:5173/admin/
 ```
 
-根路径 `http://127.0.0.1:5173/` 不作为应用入口使用。如果 `5173` 已被占用，服务会自动尝试后续端口。
+`/admin/` 是本机数据管理入口，默认只允许从当前电脑访问。根路径 `http://127.0.0.1:5173/` 不作为应用入口使用。如果 `5173` 已被占用，服务会自动尝试后续端口。
 
 ### 指定端口
 
@@ -147,8 +149,11 @@ PORT=5180 python3 server.py
 │   │   └── 2025-12-2.timings.json
 │   └── cet4/
 ├── ui/
+│   ├── admin.css                  # Web 数据管理页样式
+│   ├── admin.js                   # Web 数据管理页逻辑
 │   ├── app.js                     # 播放器、题库、原文渲染和交互逻辑
 │   └── styles.css                 # 页面样式和响应式布局
+├── admin.html                     # Web 数据管理入口
 ├── index.html                     # 应用入口
 ├── server.py                      # 本地静态服务和音频 Range 服务
 ├── start.bat                      # Windows 一键启动脚本
@@ -239,6 +244,18 @@ Q9. What does the speaker mainly talk about?
 如果某一行额外带有 `translation` 字段，前端还可以在“显示翻译”开启时渲染对应的中文翻译。
 
 ## 数据维护流程
+
+### 使用 Web 管理页
+
+启动 `server.py` 后打开：
+
+```text
+http://127.0.0.1:5173/admin/
+```
+
+管理页可以完成常用本地维护动作：上传音频和原文、直接粘贴保存 Markdown、扫描并刷新 `tracks.json`、拆分 `data_tools/0.md` 这类整合稿、为单套材料生成 transcript JSON 或 timings JSON。耗时任务会在后台运行，右侧任务日志会显示命令输出。
+
+如果需要在局域网内访问管理页，可以启动前设置 `ALLOW_REMOTE_ADMIN=1`。这个入口可以写文件和执行本项目的数据脚本，只建议在可信网络中开启。
 
 ### 添加一套新材料
 
@@ -476,6 +493,9 @@ python3 data_tools/scan.py --gen --force
 - `index.html`：页面结构。
 - `ui/styles.css`：布局和视觉样式。
 - `ui/app.js`：播放器、题库、原文和交互逻辑。
+- `admin.html`：Web 数据管理页结构。
+- `ui/admin.css`：Web 数据管理页样式。
+- `ui/admin.js`：Web 数据管理页逻辑。
 
 本地服务入口是 `server.py`。它继承 `SimpleHTTPRequestHandler`，并为音频文件补充了：
 
