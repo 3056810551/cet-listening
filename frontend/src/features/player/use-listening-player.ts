@@ -41,6 +41,7 @@ export function useListeningPlayer({
   const activeIndexRef = useRef(lines.length ? 0 : -1)
   const restoreTimeRef = useRef<number | null>(track ? readSavedTrackAudioTime(track) : null)
   const lastPlaybackStateSaveAtRef = useRef(0)
+  const suppressInitialAutoScrollRef = useRef(false)
 
   const [isPlaying, setIsPlaying] = useState(false)
   const [currentTime, setCurrentTime] = useState(0)
@@ -73,6 +74,7 @@ export function useListeningPlayer({
   useEffect(() => {
     restoreTimeRef.current = track ? readSavedTrackAudioTime(track) : null
     lastPlaybackStateSaveAtRef.current = 0
+    suppressInitialAutoScrollRef.current = false
 
     if (track) {
       writeCurrentTrack(track)
@@ -221,6 +223,7 @@ export function useListeningPlayer({
         )
 
         restoreTimeRef.current = null
+        suppressInitialAutoScrollRef.current = true
         audio.currentTime = nextTime
         setCurrentTime(nextTime)
         updateActiveLine(nextTime, { suppressAutoScroll: true })
@@ -235,14 +238,21 @@ export function useListeningPlayer({
         setCurrentTime(audio.currentTime)
       }
 
-      updateActiveLine(audio.currentTime)
+      const suppressAutoScroll = suppressInitialAutoScrollRef.current
+      updateActiveLine(
+        audio.currentTime,
+        suppressAutoScroll ? { suppressAutoScroll: true } : undefined,
+      )
+      suppressInitialAutoScrollRef.current = false
       enforceLoop()
       persistPlaybackState()
     }
 
     const handleSeeked = () => {
       setCurrentTime(audio.currentTime)
-      updateActiveLine(audio.currentTime, { suppressAutoScroll: true })
+      const suppressAutoScroll = suppressInitialAutoScrollRef.current
+      updateActiveLine(audio.currentTime, { suppressAutoScroll: suppressAutoScroll })
+      suppressInitialAutoScrollRef.current = false
       persistPlaybackState(true)
     }
 

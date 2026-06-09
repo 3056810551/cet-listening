@@ -1,5 +1,6 @@
 import {
   Fragment,
+  useCallback,
   useEffect,
   useRef,
   useState,
@@ -11,6 +12,12 @@ import { Link, useLoaderData } from 'react-router-dom'
 import { useListeningPlayer } from '../features/player/use-listening-player'
 import { getExamPath, getTrackPath } from '../shared/api/listening.api'
 import { normalizeAssetPath } from '../shared/api/http'
+import {
+  readSavedTrackListScrollTop,
+  readSavedTrackViewState,
+  writeTrackListScrollTop,
+  writeTrackViewState,
+} from '../shared/listening-view-state'
 import type {
   Exam,
   Section,
@@ -67,6 +74,12 @@ function ListeningRouteContent({ data }: { data: ListeningRouteData }) {
   const lines = timings?.lines ?? []
   const sections = timings?.sections ?? []
   const playerRef = useRef<HTMLElement>(null)
+  const sectionNavRef = useRef<HTMLElement>(null)
+  const trackListRef = useRef<HTMLElement>(null)
+  const workspaceRef = useRef<HTMLElement>(null)
+  const trackListSaveTimerRef = useRef<number | null>(null)
+  const trackViewSaveTimerRef = useRef<number | null>(null)
+  const restoredTrackViewKeyRef = useRef<string | null>(null)
   const [sortDirection, setSortDirection] = useState<SortDirection>(() =>
     readStoredSortDirection(),
   )
@@ -174,6 +187,61 @@ function ListeningRouteContent({ data }: { data: ListeningRouteData }) {
     ? normalizeAssetPath(data.currentTrack.audio)
     : null
   const trackMeta = getTrackMeta(data, lines.length)
+  const currentTrackKey = data.currentTrack
+    ? `${data.currentTrack.exam}:${data.currentTrack.id}`
+    : null
+
+  const flushTrackListScrollState = useCallback(() => {
+    if (trackListSaveTimerRef.current !== null) {
+      window.clearTimeout(trackListSaveTimerRef.current)
+      trackListSaveTimerRef.current = null
+    }
+
+    const trackList = trackListRef.current
+    if (!trackList) {
+      return
+    }
+
+    writeTrackListScrollTop(data.exam, trackList.scrollTop)
+  }, [data.exam])
+
+  const flushTrackViewState = useCallback(() => {
+    if (trackViewSaveTimerRef.current !== null) {
+      window.clearTimeout(trackViewSaveTimerRef.current)
+      trackViewSaveTimerRef.current = null
+    }
+
+    if (!data.currentTrack) {
+      return
+    }
+
+    writeTrackViewState(data.currentTrack, {
+      workspaceScrollTop: Math.max(0, Math.round(workspaceRef.current?.scrollTop ?? 0)),
+      sectionNavScrollTop: Math.max(0, Math.round(sectionNavRef.current?.scrollTop ?? 0)),
+    })
+  }, [data.currentTrack])
+
+  const scheduleTrackListScrollStateSave = useCallback(() => {
+    if (trackListSaveTimerRef.current !== null) {
+      window.clearTimeout(trackListSaveTimerRef.current)
+    }
+
+    trackListSaveTimerRef.current = window.setTimeout(() => {
+      trackListSaveTimerRef.current = null
+      flushTrackListScrollState()
+    }, 160)
+  }, [flushTrackListScrollState])
+
+  const scheduleTrackViewStateSave = useCallback(() => {
+    if (trackViewSaveTimerRef.current !== null) {
+      window.clearTimeout(trackViewSaveTimerRef.current)
+    }
+
+    trackViewSaveTimerRef.current = window.setTimeout(() => {
+      trackViewSaveTimerRef.current = null
+      flushTrackViewState()
+    }, 160)
+  }, [flushTrackViewState])
 
   useEffect(() => {
     writeStoredValue(TRACK_SORT_KEY, sortDirection)
@@ -267,6 +335,127 @@ function ListeningRouteContent({ data }: { data: ListeningRouteData }) {
     setPlayerPosition(nextPosition)
     saveStoredPlayerPosition(nextPosition)
   }, [isCompactLayout, playerPosition])
+
+  useEffect(() => {
+    const trackList = trackListRef.current
+    if (!trackList) {
+      return
+    }
+
+    const savedScrollTop = readSavedTrackListScrollTop(data.exam)
+
+    requestAnimationFrame(() => {
+      trackList.scrollTop = Math.max(0, savedScrollTop)
+
+      const activeItem = trackList.querySelector('.track-list-item.active')
+      if (!(activeItem instanceof HTMLElement)) {
+        return
+      }
+
+      const listRect = trackList.getBoundingClientRect()
+      const itemRect = activeItem.getBoundingClientRect()
+      const isFullyVisible =
+        itemRect.top >= listRect.top &&
+        itemRect.bottom <= listRect.bottom
+
+      if (!isFullyVisible) {
+        activeItem.scrollIntoView({ block: 'nearest' })
+      }
+    })
+  }, [currentTrackKey, data.exam, orderedCatalog.length])
+
+  useEffect(() => {
+    if (!data.currentTrack) {
+      return
+    }
+
+    const savedTrackViewState = readSavedTrackViewState(data.currentTrack)
+
+    if (
+      restoredTrackViewKeyRef.current === currentTrackKey ||
+      (savedTrackViewState.audioTime > 0 && currentTime <= 0)
+    ) {
+      return
+    }
+
+    restoredTrackViewKeyRef.current = currentTrackKey
+
+    const restoreTrackViewScroll = () => {
+      if (workspaceRef.current) {
+        workspaceRef.current.scrollTop = Math.max(
+          0,
+          savedTrackViewState.workspaceScrollTop,
+        )
+      }
+
+      if (sectionNavRef.current) {
+        sectionNavRef.current.scrollTop = Math.max(
+          0,
+          savedTrackViewState.sectionNavScrollTop,
+        )
+      }
+    }
+
+    requestAnimationFrame(() => {
+      restoreTrackViewScroll()
+      requestAnimationFrame(() => {
+        restoreTrackViewScroll()
+      })
+    })
+    const delayedRestoreTimer = window.setTimeout(() => {
+      restoreTrackViewScroll()
+    }, 180)
+
+    return () => {
+      window.clearTimeout(delayedRestoreTimer)
+    }
+  }, [currentTime, currentTrackKey, data.currentTrack, lines.length, sections.length])
+
+  useEffect(() => {
+    const handlePageHide = () => {
+      flushTrackListScrollState()
+      flushTrackViewState()
+    }
+
+    const handleVisibilityChange = () => {
+      if (document.hidden) {
+        flushTrackListScrollState()
+        flushTrackViewState()
+      }
+    }
+
+    window.addEventListener('pagehide', handlePageHide)
+    document.addEventListener('visibilitychange', handleVisibilityChange)
+
+    return () => {
+      window.removeEventListener('pagehide', handlePageHide)
+      document.removeEventListener('visibilitychange', handleVisibilityChange)
+      flushTrackListScrollState()
+      flushTrackViewState()
+    }
+  }, [flushTrackListScrollState, flushTrackViewState])
+
+  useEffect(() => {
+    const trackList = trackListRef.current
+    const workspace = workspaceRef.current
+    const sectionNav = sectionNavRef.current
+
+    trackList?.addEventListener('scroll', scheduleTrackListScrollStateSave, {
+      passive: true,
+    })
+    workspace?.addEventListener('scroll', scheduleTrackViewStateSave, {
+      passive: true,
+    })
+    sectionNav?.addEventListener('scroll', scheduleTrackViewStateSave, {
+      passive: true,
+    })
+
+    return () => {
+      trackList?.removeEventListener('scroll', scheduleTrackListScrollStateSave)
+      workspace?.removeEventListener('scroll', scheduleTrackViewStateSave)
+      sectionNav?.removeEventListener('scroll', scheduleTrackViewStateSave)
+    }
+  }, [scheduleTrackListScrollStateSave, scheduleTrackViewStateSave])
 
   function handlePlayerPointerDown(event: ReactPointerEvent<HTMLElement>) {
     if (
@@ -433,7 +622,11 @@ function ListeningRouteContent({ data }: { data: ListeningRouteData }) {
           ))}
         </nav>
 
-        <nav className="track-list" aria-label="听力年份列表">
+        <nav
+          ref={trackListRef}
+          className="track-list"
+          aria-label="听力年份列表"
+        >
           {orderedCatalog.length ? (
             orderedCatalog.map((track) => (
               <Link
@@ -638,7 +831,12 @@ function ListeningRouteContent({ data }: { data: ListeningRouteData }) {
           <audio ref={audioRef} preload="metadata" src={audioSrc ?? undefined} />
         </section>
 
-        <section className="workspace" hidden={!showTranscript} aria-label="听力原文">
+        <section
+          ref={workspaceRef}
+          className="workspace"
+          hidden={!showTranscript}
+          aria-label="听力原文"
+        >
           <div className="transcript" aria-live="polite">
             {!data.currentTrack ? (
               <div className="empty-state">当前还没有这个考试的可用内容。</div>
@@ -757,7 +955,11 @@ function ListeningRouteContent({ data }: { data: ListeningRouteData }) {
           <span id="trackMeta">{trackMeta}</span>
         </div>
 
-        <nav className="section-nav" aria-label="段落导航">
+        <nav
+          ref={sectionNavRef}
+          className="section-nav"
+          aria-label="段落导航"
+        >
           {sections.length ? (
             sections.map((section) => {
               const firstLine = getFirstLineForSection(section, lines)

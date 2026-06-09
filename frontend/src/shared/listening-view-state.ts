@@ -11,6 +11,8 @@ type StoredTrackViewState = {
   sectionNavScrollTop: number
 }
 
+export type SavedTrackViewState = StoredTrackViewState
+
 type ListeningBrowserState = {
   currentExam: Exam
   currentTrackIds: Record<string, string>
@@ -34,22 +36,56 @@ export function writeCurrentTrack(track: Track) {
   })
 }
 
-export function readSavedTrackAudioTime(track: Track) {
+export function readSavedTrackListScrollTop(exam: Exam) {
   const state = readBrowserState()
-  const trackState = state.tracks[getTrackStateKey(track)]
 
-  return toFiniteNumber(trackState?.audioTime)
+  return toFiniteNumber(state.examTrackListScrollTop[normalizeExam(exam)])
+}
+
+export function writeTrackListScrollTop(exam: Exam, scrollTop: number) {
+  updateBrowserState((state) => {
+    const normalizedExam = normalizeExam(exam)
+    state.currentExam = normalizedExam
+    state.examTrackListScrollTop[normalizedExam] = Math.max(
+      0,
+      Math.round(toFiniteNumber(scrollTop)),
+    )
+  })
+}
+
+export function readSavedTrackViewState(track: Track): SavedTrackViewState {
+  const state = readBrowserState()
+
+  return {
+    ...createEmptyTrackViewState(),
+    ...state.tracks[getTrackStateKey(track)],
+  }
+}
+
+export function readSavedTrackAudioTime(track: Track) {
+  return toFiniteNumber(readSavedTrackViewState(track).audioTime)
 }
 
 export function writeTrackAudioTime(track: Track, audioTime: number) {
+  writeTrackViewState(track, {
+    audioTime: roundPlaybackTime(audioTime),
+  })
+}
+
+export function writeTrackViewState(
+  track: Track,
+  nextTrackState: Partial<SavedTrackViewState>,
+) {
   updateBrowserState((state) => {
     state.currentExam = normalizeExam(track.exam)
     state.currentTrackIds[state.currentExam] = track.id
 
     const trackKey = getTrackStateKey(track)
-    const nextTrackState = state.tracks[trackKey] ?? createEmptyTrackViewState()
-    nextTrackState.audioTime = roundPlaybackTime(audioTime)
-    state.tracks[trackKey] = nextTrackState
+    state.tracks[trackKey] = {
+      ...createEmptyTrackViewState(),
+      ...state.tracks[trackKey],
+      ...nextTrackState,
+    }
   })
 }
 
