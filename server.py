@@ -3,12 +3,37 @@ from __future__ import annotations
 import os
 import re
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
-from pathlib import Path
-from urllib.parse import urlparse
+from pathlib import Path, PurePosixPath
+from urllib.parse import unquote, urlparse
 
 ROOT = Path(__file__).resolve().parent
+LEGACY_APP_ROOT = ROOT
+REACT_APP_ROOT = ROOT / "frontend" / "dist"
 MEDIA_SUFFIXES = {".mp3", ".m4a", ".wav", ".ogg", ".flac", ".aac"}
 APP_EXAMS = {"cet6", "cet4"}
+
+
+def get_requested_frontend_mode():
+    return os.environ.get("FRONTEND_MODE", "legacy").strip().lower()
+
+
+def get_active_frontend_mode():
+    requested_mode = get_requested_frontend_mode()
+    if requested_mode == "react" and (REACT_APP_ROOT / "index.html").is_file():
+        return "react"
+    return "legacy"
+
+
+def get_app_index_path():
+    if get_active_frontend_mode() == "react":
+        return REACT_APP_ROOT / "index.html"
+    return LEGACY_APP_ROOT / "index.html"
+
+
+def get_static_roots():
+    if get_active_frontend_mode() == "react":
+        return [REACT_APP_ROOT, ROOT]
+    return [ROOT]
 
 
 class ListeningHandler(SimpleHTTPRequestHandler):
@@ -48,7 +73,7 @@ class ListeningHandler(SimpleHTTPRequestHandler):
         return re.fullmatch(r"/(?:cet6|cet4)(?:/[^/.]+)?/?", request_path) is not None
 
     def serve_index(self, head_only=False):
-        file_path = ROOT / "index.html"
+        file_path = get_app_index_path()
         if not file_path.is_file():
             self.send_error(404, "File not found")
             return
@@ -67,9 +92,14 @@ class ListeningHandler(SimpleHTTPRequestHandler):
     def translate_path(self, path):
         parsed = urlparse(path)
         request_path = parsed.path or "/"
-        stripped = self.strip_exam_prefix(request_path)
+        relative_path = self.get_relative_static_path(request_path)
 
-        return super().translate_path(stripped)
+        for static_root in get_static_roots():
+            candidate = self.safe_join(static_root, relative_path)
+            if candidate.exists():
+                return str(candidate)
+
+        return str(self.safe_join(ROOT, relative_path))
 
     def strip_exam_prefix(self, request_path):
         for exam in APP_EXAMS:
@@ -79,6 +109,24 @@ class ListeningHandler(SimpleHTTPRequestHandler):
             if request_path.startswith(f"{prefix}/"):
                 return request_path[len(prefix):]
         return request_path
+
+    def get_relative_static_path(self, request_path):
+        stripped = self.strip_exam_prefix(request_path)
+        parts = []
+        for part in PurePosixPath(unquote(stripped)).parts:
+            if part in {"", "/", ".", ".."}:
+                continue
+            parts.append(part)
+        return Path(*parts)
+
+    def safe_join(self, root, relative_path):
+        root_path = Path(root).resolve()
+        candidate = (root_path / relative_path).resolve()
+        try:
+            candidate.relative_to(root_path)
+        except ValueError:
+            return root_path
+        return candidate
 
     def is_media_request(self, request_path):
         return Path(request_path).suffix.lower() in MEDIA_SUFFIXES
@@ -166,6 +214,8 @@ def parse_range(range_header, file_size):
 
 def run():
     start_port = int(os.environ.get("PORT", "5173"))
+    requested_mode = get_requested_frontend_mode()
+    active_mode = get_active_frontend_mode()
     server = None
     port = start_port
 
@@ -183,6 +233,12 @@ def run():
     print(f"CET-6 listening player: http://0.0.0.0:{port}/cet6/")
     print(f"CET-4 listening player: http://0.0.0.0:{port}/cet4/")
     print("Root path / is disabled. Open /cet6/ or /cet4/ directly.")
+    if requested_mode == "react" and active_mode != "react":
+        print("Frontend mode: legacy (React build not found, fallback applied)")
+    elif active_mode == "react":
+        print(f"Frontend mode: react ({REACT_APP_ROOT})")
+    else:
+        print("Frontend mode: legacy")
     print("Static server only. Generate timings locally with: python data_tools/scan.py --gen")
     print("\n[IMPORTANT] If the page looks broken, please press Ctrl + F5 to force refresh your browser cache.")
     server.serve_forever()
