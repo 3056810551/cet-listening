@@ -10,6 +10,7 @@ import {
   type TrackBundle,
 } from '../shared/api/listening.api'
 import { examSchema, type Catalog, type Exam, type Track } from '../shared/api/listening.schemas'
+import { readSavedTrackId } from '../shared/listening-view-state'
 
 export type ListeningRouteData = {
   exam: Exam
@@ -45,7 +46,12 @@ async function loadListeningRouteData(
   }
 
   if (!trackId) {
-    const nextTrack = getFirstAvailableTrack(examCatalog)
+    const savedTrackId = readSavedTrackId(exam)
+    const savedTrack = savedTrackId
+      ? examCatalog.find((track) => track.id === savedTrackId) ?? null
+      : null
+    const nextTrack = savedTrack ?? getFirstAvailableTrack(examCatalog) ?? examCatalog[0]
+
     if (nextTrack) {
       return redirect(getTrackPath(exam, nextTrack.id))
     }

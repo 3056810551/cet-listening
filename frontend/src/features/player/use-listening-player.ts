@@ -1,10 +1,23 @@
-import { useCallback, useEffect, useRef, useState } from 'react'
+import {
+  useCallback,
+  useEffect,
+  useRef,
+  useState,
+  type SetStateAction,
+} from 'react'
 
 import type {
   Section,
   Track,
   TranscriptLine,
 } from '../../shared/api/listening.schemas'
+import {
+  readSavedTrackAudioTime,
+  readTranslationVisible,
+  writeCurrentTrack,
+  writeTrackAudioTime,
+  writeTranslationVisible,
+} from '../../shared/listening-view-state'
 
 type SeekOptions = {
   preserveLoop?: boolean
@@ -26,13 +39,17 @@ export function useListeningPlayer({
   const audioRef = useRef<HTMLAudioElement>(null)
   const loopFrameRef = useRef<number | null>(null)
   const activeIndexRef = useRef(lines.length ? 0 : -1)
+  const restoreTimeRef = useRef<number | null>(track ? readSavedTrackAudioTime(track) : null)
+  const lastPlaybackStateSaveAtRef = useRef(0)
 
   const [isPlaying, setIsPlaying] = useState(false)
   const [currentTime, setCurrentTime] = useState(0)
   const [duration, setDuration] = useState(fallbackDuration)
   const [playbackRate, setPlaybackRateState] = useState(1)
   const [showTranscript, setShowTranscript] = useState(true)
-  const [showTranslation, setShowTranslation] = useState(false)
+  const [showTranslation, setShowTranslationState] = useState(() =>
+    readTranslationVisible(),
+  )
   const [autoScroll, setAutoScroll] = useState(true)
   const [activeIndex, setActiveIndex] = useState(lines.length ? 0 : -1)
   const [userSeeking, setUserSeeking] = useState(false)
@@ -52,6 +69,15 @@ export function useListeningPlayer({
   useEffect(() => {
     activeIndexRef.current = activeIndex
   }, [activeIndex])
+
+  useEffect(() => {
+    restoreTimeRef.current = track ? readSavedTrackAudioTime(track) : null
+    lastPlaybackStateSaveAtRef.current = 0
+
+    if (track) {
+      writeCurrentTrack(track)
+    }
+  }, [track])
 
   useEffect(() => {
     const audio = audioRef.current
@@ -130,6 +156,22 @@ export function useListeningPlayer({
     stopLoopMonitor(loopFrameRef)
   }, [])
 
+  const persistPlaybackState = useCallback((force = false) => {
+    const audio = audioRef.current
+
+    if (!audio || !track) {
+      return
+    }
+
+    const now = Date.now()
+    if (!force && now - lastPlaybackStateSaveAtRef.current < 1000) {
+      return
+    }
+
+    lastPlaybackStateSaveAtRef.current = now
+    writeTrackAudioTime(track, audio.currentTime)
+  }, [track])
+
   const enforceLoop = useCallback(() => {
     if ((!loopLineId && !loopSectionId) || userSeeking) {
       return
@@ -169,6 +211,22 @@ export function useListeningPlayer({
 
     const handleLoadedMetadata = () => {
       setDuration(getDuration(audio, fallbackDuration))
+
+      const restoredTime = restoreTimeRef.current
+      if (typeof restoredTime === 'number' && restoredTime > 0) {
+        const nextTime = clamp(
+          restoredTime,
+          0,
+          getDuration(audio, fallbackDuration),
+        )
+
+        restoreTimeRef.current = null
+        audio.currentTime = nextTime
+        setCurrentTime(nextTime)
+        updateActiveLine(nextTime, { suppressAutoScroll: true })
+        return
+      }
+
       updateActiveLine(audio.currentTime, { suppressAutoScroll: true })
     }
 
@@ -179,19 +237,23 @@ export function useListeningPlayer({
 
       updateActiveLine(audio.currentTime)
       enforceLoop()
+      persistPlaybackState()
     }
 
     const handleSeeked = () => {
       setCurrentTime(audio.currentTime)
       updateActiveLine(audio.currentTime, { suppressAutoScroll: true })
+      persistPlaybackState(true)
     }
 
     const handlePlay = () => {
       setIsPlaying(true)
+      persistPlaybackState()
     }
 
     const handlePause = () => {
       setIsPlaying(false)
+      persistPlaybackState(true)
     }
 
     const handleEnded = () => {
@@ -199,12 +261,14 @@ export function useListeningPlayer({
 
       if (!bounds) {
         setIsPlaying(false)
+        persistPlaybackState(true)
         return
       }
 
       audio.currentTime = bounds.start
       setCurrentTime(bounds.start)
       void audio.play().catch(() => {})
+      persistPlaybackState(true)
     }
 
     audio.addEventListener('loadedmetadata', handleLoadedMetadata)
@@ -214,6 +278,10 @@ export function useListeningPlayer({
     audio.addEventListener('pause', handlePause)
     audio.addEventListener('ended', handleEnded)
 
+    if (audio.readyState >= HTMLMediaElement.HAVE_METADATA) {
+      handleLoadedMetadata()
+    }
+
     return () => {
       audio.removeEventListener('loadedmetadata', handleLoadedMetadata)
       audio.removeEventListener('timeupdate', handleTimeUpdate)
@@ -222,7 +290,35 @@ export function useListeningPlayer({
       audio.removeEventListener('pause', handlePause)
       audio.removeEventListener('ended', handleEnded)
     }
-  }, [enforceLoop, fallbackDuration, getActiveLoopBounds, updateActiveLine, userSeeking])
+  }, [
+    enforceLoop,
+    fallbackDuration,
+    getActiveLoopBounds,
+    persistPlaybackState,
+    updateActiveLine,
+    userSeeking,
+  ])
+
+  useEffect(() => {
+    const handlePageHide = () => {
+      persistPlaybackState(true)
+    }
+
+    const handleVisibilityChange = () => {
+      if (document.hidden) {
+        persistPlaybackState(true)
+      }
+    }
+
+    window.addEventListener('pagehide', handlePageHide)
+    document.addEventListener('visibilitychange', handleVisibilityChange)
+
+    return () => {
+      window.removeEventListener('pagehide', handlePageHide)
+      document.removeEventListener('visibilitychange', handleVisibilityChange)
+      persistPlaybackState(true)
+    }
+  }, [persistPlaybackState])
 
   useEffect(() => {
     if ((!loopLineId && !loopSectionId) || !isPlaying) {
@@ -266,6 +362,17 @@ export function useListeningPlayer({
   function setPlaybackRate(nextRate: number) {
     setPlaybackRateState(nextRate)
   }
+
+  const setShowTranslation = useCallback((value: SetStateAction<boolean>) => {
+    setShowTranslationState((currentValue) => {
+      const nextValue = typeof value === 'function'
+        ? value(currentValue)
+        : value
+
+      writeTranslationVisible(nextValue)
+      return nextValue
+    })
+  }, [])
 
   const seekBy = useCallback((seconds: number) => {
     const audio = audioRef.current
